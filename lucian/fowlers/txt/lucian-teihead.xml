@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="eng">The Works of Lucian of Samosata</title>
+<sponsor>Tufts University</sponsor>
+<funder>National Endowment for the Humanities</funder>
+<principal xml:id="GRC">Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>In 2023, GRC OCRd, tagged and made corrections opportunistically (much more to do).</resp>
+</respStmt>
+
+</titleStmt>
+<publicationStmt>
+<authority>Tufts University</authority>
+<authority>Perseus Digital Library</authority>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2023</date>
+<publisher>Tufts University</publisher>
+<pubPlace>Medford, MA, USA</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl xml:lang="eng">
+<biblStruct>
+<monogr>
+<editor>
+<persName>
+<name xml:lang="en">H. W. Fowler</name>
+</persName>
+<persName>
+<name xml:lang="en">F. G. Fowler</name>
+</persName>
+</editor>
+<author>Lucian</author>
+<title xml:lang="eng">The works of Lucian of Samosata</title>
+<imprint>
+<publisher>Clarendon Press</publisher>
+<pubPlace>Oxford</pubPlace>
+<date>1905</date>
+</imprint>
+<biblScope unit="volume">1</biblScope>
+</monogr>
+ <ref
+target="https://archive.org/details/worksphilojudaeu01philuoft" >Internet Archive</ref>
+</biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
+     <refsDecl n="CTS">
+        <cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+      </refsDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="en">English</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
