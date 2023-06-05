@@ -9775,13 +9775,19 @@ Stepeicavtes Thy vadv émeckevdtopev Udwp Te ws
 sacrifice on the whale, buried their. friends on
 him, and sailed off rejoicing and apparently singing
 hymns of victory. So much for the events of the
-isle-fight. :
-BOOK II
+isle-fight.
+</p></div>
+</div>
+
+<div type="textpart" subtype="book" n="2">
+<head>BOOK II</head>
+<div type="textpart" subtype="section" n="1">
+<p>
 From that time on, as I could no longer endure
 the life in the whale and was discontented with the
 delay, I sought a way of escape. First we determined to dig through the right side and make off,
 and we made a beginning and tried to cut through.
-- But when we had advanced some five furlongs without getting anywhere, we left off digging and decided to set the forest afire, thinking that in this way
+-But when we had advanced some five furlongs without getting anywhere, we left off digging and decided to set the forest afire, thinking that in this way
 the whale could be killed, and in that case our escape
 would be easy. So we began at the tail end and set it
 afire. For seven days and seven nights he was unaffected by the burning, but on the eighth and ninth
@@ -9833,6 +9839,9 @@ MSS.
 <note type="head">A TRUE STORY, II</head>
 all the water we could and the other provisions.
 Our sailing-master was to be Scintharus.
+
+@
+
 On the next day the whale was dead at last.
 We dragged the boat up, took her through the gaps,
 made her fast to the teeth and lowered her slowly
@@ -9856,10 +9865,11 @@ out, hauled up the boat, which had frozen in, spread
 our canvas and slid, gliding on the ice smoothly and
 easily, just as if we were sailing. On the fifth day
 it was warm again, the ice broke up and everything
-turned to water once more:
+turned to water once more.
+@
 After sailing about three hundred furlongs we
 395
-VOL. I. x
+
 <pb n="306"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 vic@ pipe wal épnun mpoonvex Onpev, ag’ Hs
@@ -9895,7 +9905,8 @@ ran in at a small desert island, where we got water—
 which had failed by this time—and shot two wild
 bulls, and then sailed away. These bulls did not
 have their horns on their head but under their eyes,
-as Momus wanted.! Not long afterwards we entered
+as Momus wanted.<note n="1">Momus suggested this in order that the animal might see
+what he was doing with his horns.</note> Not long afterwards we entered
 a sea of milk, not of water, and in it a white island,
 full of grapevines, came in sight. The island was
 a great solid cheese, as we afterwards learned by
@@ -9909,7 +9920,11 @@ that we stopped in the island the earth was our
 bread and meat and the milk from the grapes our
 drink. Theruler of that region was said to be Tyro,
 daughter of Salmoneus, who after departure from
-home received this guerdon from Poseidon.?
+home received this guerdon from Poseidon.
+<note n="2">As gala is milk and tyros cheese, the goddess and the
+queen of the island are fitly chosen.</note>
+
+@
 After stopping five days on the island we started
 out on the sixth, with a bit of breeze propelling
 us over a rippling sea. On the eighth day, by which
@@ -9918,11 +9933,9 @@ but in briny blue water, we came in sight of many men
 running .over the sea, like us in every way, both in
 shape and in size, except only their feet, which were
 of cork: that is why they were called Corkfeet, if I
-<note n="1">Momus suggested this in order that the animal might see
-what he was doing with his horns.</note>
-<note n="2">As gala is milk and tyros cheese, the goddess and the
-queen of the island are fitly chosen.
-3°7
+
+
+307
 <pb n="308"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Dedrotrodes. COavydoapev ovdv idovtes ov BatrrtLouévous, dAda trrepéxovtras Tay KuudTev Kar
@@ -9964,16 +9977,18 @@ that they were on their way to Cork, their native
 city. For some distance they travelled with us,
 running alongside, and then they turned off and
 went their way, wishing us luck on our voyage.
+
+@
 In a little while many islands came in sight.
 Near us, to port, was Cork, where the men were
 going, a city built on a great round cork. Ata
-distance and more to starboard were five islands, —
+distance and more to starboard were five islands, 
 very large and high, from which much fire was
 blazing up. Dead ahead was one that was. flat
 and low-lying, not less than five hundred furlongs
 off. When at length we were near it, a wonderful
 breeze blew about us, sweet and fragrant, like the
-one that, on the word of the historian Herodotus,!
+one that, on the word of the historian Herodotus,<note>3, 113.</note>
 breathes perfume from Araby the blest. The sweetness that met us was as if it came from roses and
 narcissi and hyacinths and lilies and violets, from
 myrrh and laurel and vines in bloom. Delighted with
@@ -9984,7 +9999,7 @@ unfretted by beating waves; transparent rivers emptying softly into the sea; mea
 songbirds, some of them singing on the shore and
 many in the branches. A rare, pure atmosphere
 enfolded the place, and sweet breezes with their
-; » 3, 113,
+
 309
 <pb n="310"/>
 <note type="head">. THE WORKS OF LUCIAN</head>
@@ -10023,32 +10038,41 @@ desert places. Moreover, a confused sound could be
 heard incessantly, which was not noisy but resembled
 that made at a drinking-party, when some are
 playing, others singing and others beating time to
-the flute or the lyre. Enchanted with all this,
+the flute or the lyre. 
+
+@
+
+Enchanted with all this,
 we put in, anchored our boat and landed, leaving
-Scintharus and two of my comrades on_ board.
+Scintharus and two of my comrades on board.
 Advancing through a flowery mead, we came upon
 the guards and sentinels, who bound us with rosy
 wreaths—the strongest fetter that they have—and
-Jed us inland to their ruler. They told us on the
+led us inland to their ruler. They told us on the
 way that the island was the one that is called the
 “Isle of the Blest, and that the ruler was the Cretan
 Rhadamanthus. On being brought before him, we
 were given fourth place among the people awaiting
-trial. The first case was that of Ajax,son of Telamon,
+trial. 
+
+@
+
+The first case was that of Ajax,son of Telamon,
 to decide whether he should be allowed to associate
 with the heroes or not: he was accused of having
 gone mad and killed himself. At last, when much
 had been said, Rhadamanthus gave judgment that
 for the present he should be given in charge of Hippocrates, the Coan physician, to take the hellebore
-treatment,! and that later on, when he had recovered
+treatment,<note n="1">A remedy for madness; Hor. Sat. 2. 3. 82.</note> and that later on, when he had recovered
 his wits, he should have a place at the table of
-the heroes. The second case was a love-affair—
-Theseus and Menelaus at law over Helen, to
+the heroes. 
+
+@The second case was a love-affair—Theseus and Menelaus at law over Helen, to
 determine which of the two she should live with.
 Rhadamanthus pronounced that she should live with
 Menelaus, because he had undergone so much toil,
 and danger on account of his marriage: then too,
-<note n="1">A remedy for madness; Hor. Sat.. 2. 3. 82.</note>
+
 31
 <pb n="312"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10080,38 +10104,53 @@ povorrdos apcOvotiwo, ef adv Totodcr Tas
 3l2
 <pb n="313"/>
 <note type="head">A TRUE STORY, II</head>
-Theseus had other wives, the. Amazon! and the
-daughters of Minos.2. The third judgment was given
+Theseus had other wives, the. Amazon<note n="1">Hippolyta.</note>
+ and the
+daughters of Minos.<note n="2">Ariadne and Phaedra.</note>
+
+@
+
+The third judgment was given
 in a matter of precedence between Alexander,
 son of Philip, and Hannibal of Carthage, and the
 decision was that Alexander outranked Hannibal,
 so his chair was placed next the elder Cyrus of
-Persia. We were brought up fourth; and he asked
+Persia. 
+<note n="3">Cf. Dialogues of the Dead, 25.</note>
+
+@
+
+We were brought up fourth; and he asked
 us how it was that we trod on holy ground while still
 alive, and we told him the whole story. Then he
 had us removed, pondered for a long time, and
 consulted with his associates about us, Among
 many other associates he had Aristides the Just, of
-‘Athens. When he had come to a conclusion,
+Athens. When he had come to a conclusion,
 sentence was given that for being inquisitive and
 not staying at home we should be tried after death,
 but that for the present we might stop a definite
 time in the island and share the life of the heroes,
 and then we must be off. They set the length of our
 stay at not more than seven months.
+
+@
+
 Thereupon our garlands fell away of themselves,
 and we were set free and taken into the city
 and to the table of the blessed. The city itself is
-all of gold and the wall around it of emerald.* It
+all of gold and the wall around it of emerald.
+<note n="4">Lucian’s city is not necessarily a paredy on the New
+Jerusalem, though the scholiast so understood it.</note> It
 has seven gates, all of single planks of cinnamon.
 The foundations of the city and the ground within
 its walls are ivory. There are temples of all the
 gods, built of beryl, and in them great monolithic
 altars of amethyst, on which they make their great
-<note n="1">Hippolyta. 2 Ariadne and Phaedra.</note>
-<note n="3">Cf. Dialogues of the Dead, 25.</note>
-<note n="4">Lucian’s city is not necessarily a paredy on the New
-Jerusalem, though the scholiast so understood it.
+
+
+
+
 313
 <pb n="314"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10150,7 +10189,11 @@ the finest myrrh, a hundred royal cubits wide and
 five deep, so that one can swim in it comfortably.
 For baths they have large houses of glass, warmed
 by burning cinnamon ; instead of water there is hot
-dew in the tubs. For clothing they use delicate
+dew in the tubs. 
+
+@
+
+For clothing they use delicate
 purple spider-webs. As for themselves, they have
 no bodies, but are intangible and fleshless, with only
 shape and figure. Incorporeal as they are, they
@@ -10167,16 +10210,19 @@ gray morning toward dawn, when the sun has not
 yet risen. Moreover, they are acquainted with only
 one season of the year, for it is always spring there
 and the only wind that blows there is Zephyr.
+
+@
+
 The country abounds in flowers and plants of all
-kinds, -cultivated and otherwise.1 The grape-vines
+kinds, -cultivated and otherwise.
+<note n="1">Lucian makes a villainous pun here, contrasting hemeros (cultivated) with skieros (fond of darkness), as if the former
+word meant-‘fond of daylight.’ (hemera)!</note> The grape-vines
 yield twelve vintages a year, bearing every month;
 the pomegranates, apples and other fruit-trees were
 said to bear thirteen times a year, for in one month,
 their Minoan, they bear twice. Instead of wheat-ears,
 loaves of bread all baked grow on the tops of the
-<note n="1">T.ucian makes a villainous pun here, contrasting hemeros
-* (cultivated) with skieros (fond of darkness), as if the former
-word meant-‘ fond of daylight,’ (hemera) !
+
 315
 <pb n="316"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10218,8 +10264,9 @@ ot pev odv xopoi é« mwaidwy eicly Kal maplérwr
 halms, so that they Jook like mushrooms. In the
 neighbourhood of the city there are three handed
 and sixty-five springs of water, as many of honey,
-five hundred of myrrh—much smaller, however—
-seven rivers of milk and eight of wine.
+five hundred of myrrh—much smaller, however—seven rivers of milk and eight of wine.
+
+@
 Their table is spread outside. the city in the Elysian
 Fields, a very beautiful mead with thick woods of
 all sorts round about it, overshadowing the feasters.
@@ -10238,7 +10285,11 @@ singing. Furthermore, the way they are scented is
 that thick clouds draw up myrrh from the springs
 and the river, stand over the table and under the
 gentle manipulation of the. winds rain down a
-delicate dew. At the board they pass their time
+delicate dew. 
+
+@
+
+At the board they pass their time
 with poetry and song. For the most part they
 sing the epics of Homer, who is there himself and
 shares the revelry, lying at table in the place above
@@ -10282,16 +10333,26 @@ vial
 and accompanied by Eunomus of Locris, Arion of
 Lesbos, Anacreon and Stesichorus. There can be
 no doubt about the latter, for I saw him there—by
-that time Helen had forgiven him! When they
+that time Helen had forgiven him.
+<note n="1">Stesichorus had said harsh words of Helen, and was
+blinded by Castor and Pollux for his presumption. He
+recanted in a famous Palinode, of which some lines are still
+preserved (Plato, Phaedrus, 243), and so recovered his eyesight.</note> When they
 stop singing another chorus appears, composed of
 swans and swallows and nightingales, and as they
 sing the whole wood renders the accompaniment,
-with the winds leading. But the greatest thing
+with the winds leading. 
+@
+
+But the greatest thing
 that they have for ensuring a good time is that
 two springs are by the table, one of laughter and
 the other of enjoyment. They all drink from each
 of these when the revels begin, and thenceforth enjoy
 themselves and laugh all the while.
+
+@
+
 But I desire to mention the famous men whom
 I saw there. There were all the demigods and
 the veterans of Troy except Locrian Ajax, the only
@@ -10307,10 +10368,7 @@ Hyacinthus of Sparta, Narcissus of Thespiae, Hylas
 and other handsome lads. It seemed to me that
 Hyacinthus was his especial favourite, for at any rate
 he refuted himi most. It was said that Rhadamanthus
-<note n="1">Stesichorus liad said harsh words of Helen, and was
-blinded by Castor and Pollux for his presumption. He
-recanted in a famous Palinode, of which some lines are still
-preserved (Plato, Phaedrus, 243), and sorecovered his eyesight.
+
 319
 <pb n="320"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10352,19 +10410,25 @@ banish him from the island if he kept up his nonsense
 and would not quit his irony and be merry. Plato
 alone was not there: it was said that he was living in
 his imaginary city under the constitution and the laws
-that he himself wrote. The followers of Aristippus and
+that he himself wrote. 
+
+@
+
+The followers of Aristippus and
 Epicurus were in the highest favour among the heroes
 because they are pleasant and agreeable and jolly
 good fellows, Aesop the Phrygian was also there— —
 they have him for a jester. Diogenes the Cynic had so
 changed his ways that he not only married Lais the
-’ courtesan, but often got up and danced and indulged
+courtesan, but often got up and danced and indulged
 in tomfoolery when he had had too much. None of
 the Stoics was there—they were said to be still on
 the way up the steep hill of virtue. With regard to
 Chrysippus, we heard tell that he is not permitted
 to set foot on the island until he submits himself to
-the hellebore treatment for the fourth time! They
+the hellebore treatment for the fourth time.
+<note n="1">See the Philosophers for Sale for another jest at Chrysippus’ insanity.</note>
+ They
 said that the Academicians wanted to come but were
 still holding off and debating, for they could not
 arrive at a conclusion even on the question whether
@@ -10376,12 +10440,14 @@ to follow people coming thither, but fell behind
 through their slowness, being constitutionally unable
 to arrive at anything, and so turned back half-way.
 These were the most conspicuous of those present.
+
+@
+
 They render especial honours to Achilles and after
 him to Theseus. About love-making their attitude
-1See the Philosophers for Sale for another jest at
-Chrysippus’ insanity.
+
 321
-VOL. I. Y
+
 <pb n="322"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 obra > ovodou pioryovtas bey avagpavbov tavTov Spevtav kal qyuvacki Kal dppect, kal ovdapas
@@ -10431,10 +10497,11 @@ persisted in his denial. They all have their wives in
 common and nobody is jealous of his neighbour ; in
 this point they out-Plato Plato. Complaisance is the
 universal rule.
+@
 Hardly two or three days had passed before I
 went up to Homer the poet when we were both at
 leisure, and questioned him about everything.
-“ Above all,” said I, “where do you come from?
+“Above all,” said I, “where do you come from?
 This point in particular is being investigated even
 yet at home.” “Iam not unaware,” said he, “that
 some think me a Chian, some a Smyrniote and many
@@ -10498,6 +10565,10 @@ had been brought against him by Thersites because
 of the way he had ridiculed him in the poem, and
 the case was won by Homer, with Odysseus for his
 lawyer.
+
+@
+
+
 At about this time arrived Pythagoras of Samos
 who had undergone seven transformations, had
 lived in seven bodies and had now ended the migrations of his soul. All his right side was of gold.
@@ -10505,8 +10576,11 @@ Judgment was pronounced that he should become a
 member of their community, but when I left
 the point was still at issue whether he ought to be
 called Pythagoras or Euphorbus. Empedocles came
-too, all burned and his body completely cooked,! but
-- he was not received in spite of his many entreaties.
+too, all burned and his body completely cooked,
+<note n="1">From his leap into the crater of Aetna,</note> but
+he was not received in spite of his many entreaties.
+
+@
 As time went on their games came round, the
 Games of the Dead. The referees were Achilles,
 serving for the fifth time, and Theseus for the
@@ -10516,7 +10590,7 @@ In wrestling the winner was Caranus, the descendant
 of Heracles, who defeated Odysseus for the championship. The boxing was a draw between Areius
 the Egyptian, who is buried at Corinth, and Epeius.
 For combined boxing and wrestling they offer no
-<note n="1">From his leap into the crater of Aetna,</note>
+
 325
 <pb n="326"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10558,6 +10632,8 @@ prizes. In the foot-race I do not remember who
 won and in poetry, Homer was really far the best
 man, but Hesiod won. The prize in each case was
 a crown that was plaited of peacock feathers.
+
+@
 Hardly had the games been concluded when
 word came that those who were under punishment
 in the place of the wicked had burst their bonds, had
@@ -10576,14 +10652,18 @@ came at him he did not run away or change countenance. For this they afterwards 
 reward, a beautiful great park in the suburbs,
 where he used to gather his comrades and dispute :
 he named the place the Academy of the Dead.
+
+@
+
 Arresting the losers and putting them in irons,
 they sent them off to be punished still more severely
 than before. An account of this battle was written
 by Homer, and as I was leaving he gave me the
 book to take to the people at home, but later I lost
-it along with everything else. The poem began: *
-This time sing me, O Muse, of the shades of the
-heroes in battle !
+it along with everything else. The poem began: 
+
+<quote><l>This time sing me, O Muse, of the shades of the
+heroes in battle !</l></quote>
 327
 <pb n="328"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10622,12 +10702,14 @@ améxovoay’ ottw 87 éuBiBdoas o ‘PabddpyavOus
 —
 <pb n="329"/>
 <note type="head">A TRUE STORY, II</head>
-But to return—they cooked beans, as is their
+But to return—they cooked beans,<note n="1">An allusion to the Pyanepsia, the Athenian Beanfeast.</note>
+ as is their
 custom when they are successful at war, hdd a feast
 in honour of the victory and made a great holiday.
 Pythagoras was the only one who did not take part
 in it; he sat by himself and went dinnerless
 because he detested beans.
+@
 Six months had passed and it was about the
 middle of the seventh when sedition arose. Cinyras,
 the son of Scintharus, a tall and handsome lad, had
@@ -10647,13 +10729,16 @@ carried out their stratagem. It was at nightfall, and
 I was not on hand, as I chanced to be taking a nap
 under the table. Without the knowledge of the
 rest they carried Helen off and put to sea in haste.
+
+@
+
 About midnight, when Menelaus woke up, and
 found that his wife was not in bed, he made a
 great stir and took his brother and went to King
 Rhadamanthus. But as day began to break the
 lookouts said that they saw the ship far out at sea.
 Then Rhadamanthus put fifty of the heroes aboard a
-<note n="1">Anvallusion to the Pyanepsia, the Athenian Beanfeast.</note>
+
 329
 <pb n="330"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10703,11 +10788,17 @@ and hid her head for shame. As to Cinyras and the
 rest, first Rhadamanthus asked them if they had any
 other accomplices, and they said no; then he. had
 them secured by the offending member and sent
-‘them away to the place of the wicked, after they
-‘had been first scourged with mallow. The heroes
+them away to the place of the wicked, after they
+had been first scourged with mallow. 
+
+@
+
+The heroes
 voted, too, that we be dismissed from the island
 before our time was up, remaining only till the next
-day.
+day.</p>
+
+<p>
 Thereupon I began to cry aloud and weep because
 I had to leave such blessings behind me and resume
 my wanderings. But they cheered me up, saying
@@ -10764,30 +10855,38 @@ at last, after you have had many adventures and
 have travelled through all sorts of countries and lived
 among unfriendly men, in course of time you will
 reach the other continent.”
+
+@
 With these words he plucked a root of mallow
 from the ground and handed it to me, telling me to
 pray to it in my greatest straits. And he advised me
 if ever I reached this country, neither to stir the fire
 with a sword-blade nor to eat lupines nor to make
-love to anyone over eighteen,! saying that if I bore
+love to anyone over eighteen,
+<note n="1">The first is a real Pythagorean precept, or what passed
+for such (Plut. Mor, 128) ; the other two are parodies.</note> saying that if I bore
 these points in mind I might have good hopes of
-getting back to the island. ,
+getting back to the island.
+@
 Well, I made preparations for the voyage, and
 when the time came, joined them at the feast. On
 the next day I went to the poet Homer and begged
 him to compose me a couplet to carve up, and when
 he had done so, I set up a slab of beryl near the
-harbour and had the couplet carved-onit. It was: .
-One Lucian, whom the blessed gods befriend,
-Beheld what’s here, and home again did wend.
-I stayed that day, too, and put to sea on the -
+harbour and had the couplet carved-onit. It was:
+
+<l>One Lucian, whom the blessed gods befriend,</l>
+<l>Beheld what’s here, and home again did wend.</l>
+
+@
+
+I stayed that day, too, and put to sea on the 
 next, escorted by the heroes. At that juncture
 Odysseus came to me without ‘the knowledge of
 Penelope and gave me a letter to carry to Ogygia
 Island, to Calypso. Rhadamanthus sent the pilot
 Nauplius with me, so that if we touched at the
-<note n="1">The first is a real Pythagorean precept, or what passed
-for such (Plut. Mor, 128) ; the other two are parodies.
+
 333
 <pb n="334"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10827,15 +10926,19 @@ ee
 <pb n="335"/>
 <note type="head">A TRUE STORY, II</head>
 islands no one might arrest us, thinking we were
-putting in on another errand. |
-Forging ahead, we had passed out of the fragrant
-‘atmosphere when of a sudden a terrible odour
+putting in on another errand.</p>
+
+<p>Forging ahead, we had passed out of the fragrant
+atmosphere when of a sudden a terrible odour
 greeted us as of asphalt, sulphur, and pitch burning
 together, and a vile, insufferable stench as of roasting
 human flesh: the atmosphere was murky and foggy,
 and a pitchy dew distilled from it. Likewise we
 heard the noise of scourge$ and the wailing of many
-men. The other islands’ we did not touch at,
+men. 
+@
+
+The other islands’ we did not touch at,
 but the one on which we landed was precipitous and
 sheer on all sides ; it was roughened with rocks and
 stony places, and there was neither tree nor water in
@@ -10851,6 +10954,9 @@ large, and impossible to cross: it ran like water and
 undulated like the sea, and it contained many fish,
 some similar to torches, and some, a smaller variety,
 to live coals. They called them candlefish.
+
+@
+
 There was a single narrow way leading in, past all
 the rivers, and the warder set there was Timon ot
 Athens. We got through, however, and with
@@ -10898,10 +11004,16 @@ punishment of all fell to those who told lies while
 in life and those who had written what was not true,
 among whom were Ctesias of Cnidos, Herodotus and
 many more. On seeing them, I had good hopes for
-_ the future, for I have never told a lie that I know
-of. Well, I turned back to the ship quickly, for
+the future, for I have never told a lie that I know
+of. 
+
+@
+
+Well, I turned back to the ship quickly, for
 I could not endure the sight, said good-bye to
-Nauplius, and sailed away.
+Nauplius, and sailed away.</p>
+
+<p>
 After a short time the Isle of Dreams came
 in sight close by, faint and uncertain to the eye. It
 had itself some likeness to a dream, for as we
@@ -10913,14 +11025,19 @@ about dusk, and on entering the city, we saw many
 dreams of all sorts. But first I desire to speak of the
 city itself, since no one else has written about it, and
 Homer, the only one to mention it at all, was not
-quite accurate in what he said.} On all sides of
+quite accurate in what he said.
+<note n="1">Odyss. 19, 560 ff.</note>
+
+@
+
+On all sides of
 it is a wood, in which the trees are tall poppies and
 mandragoras, and they have a great number of bats
 in them; for there is no other winged thing in the
 island. A river flows near which they call Sleepwalker, and there are two springs by the gates,
-<note n="1">Odyss. 19, 560 ff.</note>
+
 337
-VoL, I. Zz
+
 <pb n="338"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Niypetos, TH Sé Tlawuyla. 6 aepiBoros &é ris
@@ -10976,9 +11093,13 @@ and close to it are two temples, that of Falsehood
 and that of Truth. There too is their holy of holies
 and their oracle, which Antiphon, the interpreter ot
 dreams, presided over as prophet, having had this
-office from Sleep. As to the dreams themselves,
+office from Sleep. 
+
+@
+
+As to the dreams themselves,
 they differ from one another both in nature and in
-looks. Some were tall, handsome and _ well-proportioned, while others were small and ugly; and
+looks. Some were tall, handsome and well-proportioned, while others were small and ugly; and
 some were rich, I thought, while others were
 humble and beggarly. There were winged and
 portentous dreams among them, and there were
@@ -10986,8 +11107,8 @@ others dressed up as if for a carnival, being clothed to
 represent kings and gods and different characters of
 the sort. We actually recognised many of them,
 whom we had seen long ago at home. These came
-_ 339
-.
+339
+
 <pb n="340"/>
 <note type="head">* THE WORKS OF LUCIAN</head>
 as dp nal ovvnbes b dardpXovres, ' kal maparaBovres
@@ -11028,17 +11149,23 @@ very splendidly and hospitably. They treated us
 like lords in every way, and even promised to make
 us kings and nabobs, A few of them actually took
 us off home, gave us a sight of our friends and
-families and brought us back the same day. For
-thirty days and thirty nights we stopped with them .-
+families and brought us back the same day. 
+
+@
+
+For
+thirty days and thirty nights we stopped with them
 and had a fine time—sleeping! Then of a ‘sudden a
 great thunder-clap came; we woke up, sprang out of
 bed and put to sea as soon as we had laid in
-supplies.
-On the third day out from there we touched at
+supplies.</p>
+
+<p>On the third day out from there we touched at
 the island of Ogygia and landed. But first 1 opened
-the letter and read what was in it. It was:
-'« Odysseus to Calypso, greeting.
-“Soon after I built the raft and sailed away from
+the letter and read what was in it. It was:</p>
+
+<p>Odysseus to Calypso, greeting.</p>
+<p>“Soon after I built the raft and sailed away from
 you I was shipwrecked, and with the help of Leucothea
 managed to reach the land of the Phaeacians in
 safety. They sent me home, and there I found that
@@ -11050,10 +11177,15 @@ sorry to have given up my life with you and the
 immortality which you offered me. Therefore, if I
 get a chance, I shall run away and come to you.”
 In addition to this, the letter said. that she was to
-entertain us. On going a short way from the
+entertain us. 
+@
+
+On going a short way from the
 sea I found the cave, which was as Homer described
-it,! and found Calypso herself working wool. When
+it,
 <note n="1">Odyss. 5, 55 ff.</note>
+ and found Calypso herself working wool. When
+
 341
 <pb n="342"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -11092,11 +11224,15 @@ nal dijror hoav Kparjcovtes ot ¢ Kapvovairas & are
 she had taken the letter and read it, she wept a long
 time at first, and then she asked us in to enjoy her hospitality, gave us a splendid feast and enquired about
 Odysseus and Penelope—how she looked and
-- whether she was prudent, as Odysseus used to boast
-in old times.| We made her such answers as we
-thought would please her.
+whether she was prudent, as Odysseus used to boast
+in old times.
+<note n="1">Odyss. 5, 201 ff.</note> We made her such answers as we
+thought would please her.</p>
+<p>
 After that, we went back to the ship and slept
-beside it on the shore, and early in the morning
+beside it on the shore.
+@
+Early in the morning
 we put to sea in a rising wind. We were stormtossed for two days, and on the third we fell in with
 the Pumpkin-pirates. They are savages from the
 neighbouring islands who prey on passing sailors.
@@ -11113,9 +11249,12 @@ to one another, as they showed by their actions ; for
 when the Pumpkin-pirates noticed them coming up,
 they neglected us and faced about and fought with
 them. But in the meantime we hoisted our canvas
-and fled, leaving them fighting. It was evident that
+and fled, leaving them fighting. 
+
+@
+It was evident that
 the Nut-sailors would win, as they were in greater
-<note n="1">Odyss. 5, 201 ff.</note>
+
 343
 <pb n="344"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -11156,7 +11295,11 @@ length.
 When we had lost them from sight, we attended
 to the wounded, and thereafter we kept under arms
 most of the time, always looking for attacks. And we
-did not look in vain. In fact, the sun had not yet
+did not look in vain. 
+
+@
+
+In fact, the sun had not yet
 gone down when from a desert island there came out
 against us about twenty men riding on huge dolphins,
 who were pirates like the others. The dolphins
@@ -11166,6 +11309,8 @@ and threw at us from both sides with dry cuttle-fish
 and crabs’ eyes. But when we let fly at them with
 spears and arrows, they could not hold their ground,
 but fled to the island, most of them wounded.
+
+@
 About midnight, while it was calm, we unexpectedly ran aground on an enormous kingfisher’s
 nest; really, it was sixty furlongs in circumference.
 The female was sailing on it, keeping her eggs
@@ -11225,17 +11370,30 @@ exdeyopevov. Kat 8) éddxe tuiv dvabenévors
 <note type="head">A TRUE STORY, II</head>
 of the eggs with axes and took from the shell a
 featherless chick fatter than twenty vultures.
+
+@
+
 When we had sailed a distance of two hundred
 furlongs from the nest, great and wonderful signs
-manifested themselves to us. The gooseneck? sud
-denly grew feathers and started cackling, the sailingmaster, Scintharus, who was already bald, became
+manifested themselves to us. The gooseneck
+<note n="1">In ancient ships the gooseneck was an ornament on the
+stem, or (as here) on the stern, Nowadays it is a device for 
+fastening a spar to a mast.</note> 
+suddenly grew feathers and started cackling, the sailingmaster, Scintharus, who was already bald, became
 the owner of long hair, and what was strangest of all,
 the ship’s mast budded, branched, and bore fruit at
 the summit! The fruit consisted of figs and black
-raisin-grapes, which were not yet ripe.2_ On seeing
+raisin-grapes, which were not yet ripe.
+<note n="2">A parody on the experience of the Pirates who carried
+off Dionysus (Hymn. Hom. 7, 38).</note>
+ On seeing
 this, we were disturbed, as well we might be, and
 offered a prayer to the gods on account of the
-strangeness of the manifestation. We had not
+strangeness of the manifestation. 
+
+@
+
+We had not
 yet gone five hundred’ furlongs when we saw a very
 large, thick forest of pines and cypresses. We
 thought it was land, but in reality it was a
@@ -11250,11 +11408,8 @@ Climbing the tallest tree, I looked to see how things
 were on the other side, and I saw that the forest
 extended for fifty stades or a little more, and that
 another ocean lay beyond. So we resolved to lift the
-<note n="1">In ancient ships the gooseneck was an ornament on the
-stem, or (as here) on the stern, Nowadays it is a device for .
-fastening a spar to a mast.</note>
-<note n="2">A parody on the experience of the Pirates who carried
-off Dionysus (Hymn. Hom. 7, 38).
+
+
 347
 <pb n="348"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -11301,7 +11456,13 @@ her on the branches and spreading our canvas, we
 sailed just as if we were at sea, carried along by the
 force of the wind. At that juncture a line of the
 poet Antimachus came into my head; he says somewhere or other:
-“ And unto them their forest cruise pursuing.”
+
+<quote>
+<l>And unto them their forest cruise pursuing.</l>
+</quote>
+
+@
+
 We managed the wood in spite of everything
 and reached the water. Lowering the ship again
 in the same way we sailed through pure, clear
@@ -11318,6 +11479,9 @@ surfaces of the two seas and flowing from one to the
 other. Rowing up, therefore, we ran into the stream
 and by great effort got across, though we thought
 we should never do it.
+
+@
+
 Then we came to a smooth sea and an island
 of no great size that was easily accessible and was
 inhabited. -It was peopled by savages, the Bullheads, who have horns in the style that the
@@ -11367,7 +11531,7 @@ us, they gave chase, and captured three of my
 comrades, but the rest of us made our escape to
 the sea. Then, however, we all armed ourselves—
 it did not seem right to let our friends go unavenged
-.—and fell on the Bullheads while they were portioning out the flesh of the men they had slain. We
+—and fell on the Bullheads while they were portioning out the flesh of the men they had slain. We
 put them all to flight and gave chase, killing about
 fifty and taking two alive: then we turned back to
 the ship with our prisoners. We found no food,
@@ -11383,6 +11547,9 @@ only three feet, for while they had two behind, the
 forefeet had grown together. In exchange for all
 this we surrendered the captives, and after stopping
 there a single day we put to sea.
+
+@
+
 Already we began to see fish, birds flew by and
 all the other signs that land was near made their
 appearance. In a little while we saw men who were
@@ -11432,13 +11599,17 @@ with reins ; in moving ahead, the dolphins drew the
 corks along. They neither offered us harm nor ran
 away from us, but drove along fearlessly and peacefully, wondering at the shape of our boat and
 examining her from all sides.
+
+@
+
 In the evening we touched at another island of
 no great size. It was inhabited by women—or so
 we thought—who spoke Greek, and they came up
 to us, welcomed and embraced us. They were got
 up just like courtezans and were all beautiful and
 young, with tunics that swept on the ground. The
-island was called Witchery, and the city Watertown.!
+island was called Witchery, and the city Watertown.
+<note n="1">Both names are uncertain in the Greck.</note>
 Each of the women took one of us home with her
 and made him her guest. But I excused myself for
 a moment—I had misgivings—and on looking about
@@ -11450,9 +11621,9 @@ earnestly that I might escape the ills that beset me.
 After a little while, as my hostess was waiting on me,
 I saw that her legs were not a woman’s but those of
 an ass. Then I drew my sword, caught and bound
-<note n="1">Both names are uncertain in the Greck.</note>
+
 353
-VOL. I. : AA
+
 <pb n="354"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 cuddrapBave te adtny Kal Snoas wept Tav Grow
@@ -11502,7 +11673,10 @@ housetop and cried out and called my comrades together. When they had come, I to
 woman who was tied up, but she immediately turned
 to water and disappeared. Nevertheless [ thrust my
 sword into the water as a test, and the water turned
-’ to blood.
+to blood.
+
+@
+
 With all speed we went back to the ship and
 sailed away. When the light of day began to show,
 we saw land and judged it to be the world opposite
@@ -11514,12 +11688,14 @@ interior and see what the inhabitants were like.
 While we were debating this, a violent storm struck
 the boat, dashed it ashore and wrecked it, and
 we ourselves had much trouble in swimming out
-_with our arms and anything else that we could
-catch up.
-Thus’ far I have told you what happened to me
+with our arms and anything else that we could
+catch up.</p>
+
+<p>
+Thus far I have told you what happened to me
 until I reached the other world, first at sea, then
-. 355
-AA Q
+355
+
 <pb n="356"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 tais pico Kal év TO dépt Kal peta tadta ev TE
@@ -11534,15 +11710,15 @@ during my voyage among the islands and in the air, then
 in the whale, and after we left it, among the heroes
 and the dreams, and finally among the Bullheads
 and the Asslegs. What happened in the other world
-I shall tell you in the succeeding books.!
+I shall tell you in the succeeding books.
 <note n="1">The biggest lie of all, as a disgruntled Greek scribe
-remarks in the margin }
+remarks in the margin.</note>
 357
 <pb n="358"/>
 <note type="head">Original from</head>
 <pb n="359"/>
-<note type="head">SLANDER</head>
-ON NOT BEING QUICK TO PUT FAITH IN IT
+<head>SLANDER ON NOT BEING QUICK TO PUT FAITH IN IT</head>
+
 This essay is rhetoric pure and simple, and was probably
 written early in Lucian’s career. It is famous because it
 contains a vivid description of a picture by Apelles, which
@@ -11569,22 +11745,23 @@ pariora 8é és Tas odK adANOEls Kata TOV cUVYOwY
 car dirwv S:aB8ords, bf’ dv Sn Kab olxo avdoTaToe yeyovact Kal modes apdnv atrokwdact,
 360
 <pb n="361"/>
-<note type="head">SLANDER</head>
-ON NOT BEING QUICK TO PUT FAITH IN IT
+<note type="head"></head>
+SLANDER: ON NOT BEING QUICK TO PUT FAITH IN IT
 It is really a terrible thing, is ignorance, a cause
 of many woes to humanity; for it envelops things
 in a fog, so to speak, and obscures the truth and
 overshadows each man’s life. Truly, we all resemble
 people lost in the dark—nay, we are even like blind
--men. Now we stumble inexcusably, now we lift our
-feet when there is no need of it; and we do not see |
+men. Now we stumble inexcusably, now we lift our
+feet when there is no need of it; and we do not see 
 what is near and right before us, but fear what is far
 away and extremely remote as if it blocked our path.
 In short, in everything we do we are always making
 plenty of missteps. For this redson the writers of
 tragedy have found in this universal truth many and
 many a motive for their dramas—take for example,
-the house of Labdacus,! the house of Pelops and their
+the house of Labdacus,
+<note n="1">King of Thebes, father of Laius.</note> the house of Pelops and their
 like. Indeed, most of the troubles that.are put on
 the stage are supplied to the poets, you will find, by
 ignorance, as though it were a sort of tragic divinity.
@@ -11592,8 +11769,8 @@ What I have in mind more than anything else is
 slanderous lying about acquaintances and friends,
 through which families have been rooted out, cities
 have utterly perished, fathers have been driven mad
-<note n="1">King of Thebes, father of Laius,
-: 361
+
+361
 <pb n="362"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 marépes TE Kara mraidev eeudimoay Kal adergot
@@ -11631,11 +11808,15 @@ against their children, brothers against own brothers,
 children against their parents and lovers against
 those they love. Many a friendship, too, has. been
 parted and many an oath broken through belief in
-slander. In order, then, that we may as far as
+slander. 
+@
+
+In order, then, that we may as far as
 possible avoid being involved in it, I wish to show in
 words, as if in a painting, what sort of thing slander
-is, how it begins and what it does.
-I should say, however, that Apelles of Ephesus
+is, how it begins and what it does.</p>
+
+<p>I should say, however, that Apelles of Ephesus
 long ago preempted this subject for a picture ; and
 with good reason, for he himself had been slandered
 to Ptolemy on the ground that he had taken part
@@ -11643,7 +11824,11 @@ with Theodotas in the conspiracy in Tyre, although
 Apelles had never set eyes on Tyre and did not
 know who Theodotas was, beyond having heard that
 he was one of Ptolemy’s governors, in charge of affairs
-in Phoenicia.! Nevertheless, one of his rivals named
+in Phoenicia.
+<note n="1">The story is apocryphal, as Apelles must have been in
+his grave nearly a hundred years when Theodotus (not
+Theodotas) betrayed Ptolemy Philopator (219 3.c.).</note>
+ Nevertheless, one of his rivals named
 Antiphilus, through envy of his favour at court
 and professional jealousy, maligned him by telling
 Ptolemy that he had taken part in the whole enterprise, and that someone had seen him dining with
@@ -11651,12 +11836,13 @@ Theodotas in Phoenicia and whispering into his ear
 all through the meal; and in the end he declared
 that the revolt of Tyre and the capture of Pelusium
 had taken place on the advice of Apelles.
+
+@
+
 Ptolemy, who in general was not particularly sound
 of judgment, but had been brought up in the midst
 of courtly flattery, was so inflamed and upset by this
-<note n="1">The story is apocryphal, as Apelles must have been in
-his grave nearly a hundred years when Theodotus (not
-Theodotas) betrayed Ptolemy Philopator (219 3.c.).
+
 363
 <pb n="364"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -11706,11 +11892,18 @@ man had not taken any part whatever in the affair,
 he would have had his head cut off, and so would
 have shared the consequences of the troubles in Tyre
 without being himself to blame for them in any way.
+
+@
+
 Ptolemy is said to have been so ashamed of the
 affair that he presented Apelles with a hundred
 talents and gave him Antiphilus for his slave.
 Apelles, for his part, mindful of the risk that he had
-run, hit back at slander in a painting. On the right
+run, hit back at slander in a painting. 
+
+@
+
+On the right
 of it sits a man with very large ears, almost like
 those of Midas, extending his hand to Slander while
 she is still at some distance from him. Near him,
@@ -11769,9 +11962,13 @@ dressed in deep mourning, with black clothes all in
 tatters—Repentance, I think, her name was. At all
 events, she was turning back with tears in her eyes
 and casting a stealthy glance, full of shame, at
-Truth, who was approaching.
-That is the way in which Apelles represented in
-the painting his own hairbreadth escape. Come,
+Truth, who was approaching.</p>
+<p>That is the way in which Apelles represented in
+the painting his own hairbreadth escape. 
+
+@
+
+Come,
 suppose we too, if you like, following the lead of the
 Ephesian artist, portray the characteristics of slander,
 after first sketching it in outline: for in that way
@@ -11782,12 +11979,14 @@ the subject of my lecture, and since there are three
 leading characters in slander as in comedy—the
 slanderér, the slandered person, and the hearer of
 the slander,—let us consider what is ukely to happen
-in the case of each of them.1
+in the case of each of them.
+<note n="1">This partition, derived from Herodotus (7, 10), is not at
+all strictly followed by Lucian in developing his theme.</note>
+@
 In the first place, if you like, let us bring on the
 star of the play, I mean the author of the slander.
 That he is not a good man admits of no doubt, I am
-<note n="1">This partition, derived from Herodotus (7, 10), is not at
-all strictly followed by Lucian in developing his theme.
+
 367
 <pb n="368"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -11825,6 +12024,9 @@ of good men to win renown and gain a reputation
 for kind-heartedness by doing good to their friends,
 not by accusing others wrongfully and getting them
 hated.
+
+@
+
 Furthermore, that such a man is unjust, lawless,
 impious and harmful to his associates is easy to see.
 Who will not admit that fairness in everything and
@@ -11847,11 +12049,13 @@ the defence against the complaint would, they
 thought, be altogether impious and irreligious. In
 truth, we may say that the very gods would be angry
 if we should permit the plaintiff to say his say
-unhampered, but should stop our ears to the defendant or silence him,! and then condemn _ him,
-<note n="1">The Greek is here corrupt. The translation merely
-gives the probable sense of the passage,
+unhampered, but should stop our ears to the defendant or silence him,<note n="1">The Greek is here corrupt. The translation merely
+gives the probable sense of the passage.</note> 
+
+and then condemn him,
+
 369
-VOL. I. BR
+
 <pb n="370"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 KexXerpopevor. ore ov Kata TO Sixacov kal 7
@@ -11888,8 +12092,15 @@ slander does not accord with what is just and legal,
 and what the jurors swear to do. But. if anybody
 thinks that the lawgivers, who regommend that verdicts be so just and impartial, are not good authority,
 I shall cite the best of poets in support of my contention. He makes a very admirable pronouncement
-— indeed, lays down a law—on this point, saying :! .
-“Nor give your verdict ere both sides you hear.”
+— indeed, lays down a law—on this point, saying :
+<note n="1">Though this verse was frequently quoted in antiquity,
+its authorship was unknown even then, and it was variously,
+attributed to Phocylides, Hesiod, and Pittheus. See Bergk,
+Poet. Lyr. Graec. ii, p. 93.</note>
+
+<quote>
+<l>Nor give your verdict ere both sides you hear.</l></quote>
+
 He knew, I suppose, like everyone else, that though
 there are many unjust things in the world, nothing
 worse or more unjust can be found than for men to
@@ -11898,6 +12109,9 @@ this is just what the slanderer tries his best to
 accomplish, exposing the slandered person untried
 to the anger of the hearer and precluding defence by
 the secrecy of his accusation.
+
+@
+
 Of course, all such men are also disingenuous and
 cowardly ; they do nothing in the open, but shoot
 from some hiding-place or, other, like soldiers in
@@ -11911,13 +12125,10 @@ I take it, accuses the other in public, brings him to
 book and pits himself against him in argument. No
 soldier who can win in fair fight makes use of
 ambushes and tricks against the enemy.
-<note n="1">Though this verse was frequently quoted in antiquity,
-its authorship was unknown even then, and it was variously,
-attributed to Phocylides, Hesiod, and Pittheus. See Bergk,
-Poet. Lyr. Graec. ii, p. 93.
+
 371
-BB 2
-‘
+
+
 <pb n="372"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 ‘I8o0. 8 dv tus tovs ToovTovs paddiota év te 10
@@ -11962,11 +12173,13 @@ drlyns 88 ayyuvoias, axptBods € Tivos émipedetas
 372
 <pb n="373"/>
 <note type="head">SLANDER</head>
+
+@
 For the most part, such men may be seen enjoying
 high favour in the courts of kings and among the
 friends of governors and princes, where envy is great,
 suspicions are countless, and occasions for flattery and
-‘slander are frequent. For where hope runs ever high,
+slander are frequent. For where hope runs ever high,
 there envy is more bitter, hate more dangerous, and
 rivalry more cunning. All eye one another sharply
 and keep watch like gladiators to detect some part
@@ -11979,17 +12192,22 @@ the course in disgrace, while one who is better
 versed in flattery and cleverer at such unfair
 practices wins. In a word, it is “devil take the
 hindmost !” ; for they quite confirm Homer’s saying:
-“Impartial war adds slayer to the slain.’’!
+<cit>
+<quote>
+<l>Impartial war adds slayer to the slain.</l></quote>
+<bibl>Iliad 18, 309.</bibl></cit>
+
 So, as their conflict is for no small stake, they think
 out all sorts of ways to get at each other, of which
 the quickest, though most perilous, road is slander,
 which has a hopeful beginning in envy or hatred,
 but leads to a sorry, tragic ending, beset with many
-accidents. . .
+accidents.
+@
 Yet this is not an insignificant or a simple thing,
 as one might suppose; it requires much skill, no
 little shrewdness, and some degree of close study.
-<note n="1">Tliad 18, 309.
+
 <pb n="374"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Sedpevov' ov yap dv tocaira éBdarrev 4 SiaBory, e& pt) wiPavoy Tiva Tpotrov éyiveto: ovd av
@@ -12028,6 +12246,10 @@ prevail over truth, that is stronger than all else, if it
 did not assume a high degree of attractiveness and
 plausibility and a thousand things beside to disarm
 its hearers.
+
+@
+
+
 Generally speaking, slander is most often directed
 against a man who is in favour and on this account is
 viewed with envy by those he has put behind him.
@@ -12036,7 +12258,10 @@ a hindrance and a stumbling-block, and each one
 expects to be first himself when he has routed his
 chief and ousted him from favour. Something of
 the same sort happens in the athletic games, in footraces. A good runner fram the moment that the
-barrier falls! thinks only of getting forward, sets
+barrier falls
+<note n="1">Races were started in antiquity by the dropping of a
+rope or bar.</note>
+ thinks only of getting forward, sets
 his mind on the finish and counts on his legs to
 win for him; he therefore does not molest the man
 next to him in any way or trouble himself at ail
@@ -12051,10 +12276,12 @@ and if caught off.his guard in the midst of his foes,
 he is made away with, while-they are cherished and
 are thought friendly because of the harm they
 appeared to be doing to others.
+
+@
+
 As for the verisimilitude of their slander, calum-
-<note n="1">Races were started in antiquity by the dropping of a
-rope or bar.
-- 375
+
+375
 <pb n="376"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 émivoovaw, aN év tovT@ Td Tay adTois erry
@@ -12099,12 +12326,16 @@ by distorting the real attributes of the man they are
 slandering. Thus they insinuate that a doctor is a
 poisoner, that a rich man is a would-be monarch, or
 that a courtier is a traitor.
+
+@
+
+
 Sometimes, however, the hearer himself suggests
 the starting-point for slander, and the knaves attain
 their end by adapting themselves to his disposition.
 If they see that he is jealous, they say: “He signed
 to your wife during dinner and gazed at her and
-' sighed, and Stratonice was not very displeased withhim.” In short, the charges they make to him are .
+sighed, and Stratonice was not very displeased withhim.” In short, the charges they make to him are .
 based on passion and illicit love. If he has a bent
 for poetry and prides himself on it, they say : “No,
 indeed! Philoxenus made fun of your verses, pulled
@@ -12115,7 +12346,11 @@ impious, that he rejects God and denies Providence.
 Thereupon the man, stung in the ear, so to speak,
 by a gadfly, gets thoroughly angry, as is natural, and
 turns his back on his friend without awaiting definite
-proof. In:short, they think out and say the sort of
+proof. 
+
+@
+
+In short, they think out and say the sort of
 thing that they know to be best adapted to provoke
 the hearer to anger, and as they know the place
 where each can be wounded, they shoot their arrows
@@ -12165,9 +12400,14 @@ kal idpata mpoodmrovtes avT@ Kal pavteias éae-
 <note type="head">SLANDER</head>
 prejudiced by the surprising nature of what he has’
 heard, just as if that made it true.
+
+@
+
+
 A very effective form of slander is the one that is
 based on opposition to the hearer’s tastes. For instance, in the court of the Ptolemy who was called
-Dionysus! there was once a man who accused Demetrius, the Platonic philosopher, of drinking nothing
+Dionysus<note n="1">Probably Ptolemy Auletes, father of Cleopatra, who
+styled himself "the new Dionysus.”</note> there was once a man who accused Demetrius, the Platonic philosopher, of drinking nothing
 but water and of being the only person who did not
 wear women’s clothes during the feast of Dionysus.
 If Demetrius, on being sent for early the next morning, had ‘not drunk wine in view of everybody and
@@ -12175,6 +12415,9 @@ had not put on a thin gown and played the cymbals
 and danced, he would have been put to death for not
 liking the king’ s mode of life, and being a critic and
 an opponent of Ptolemy’s luxury.
+
+@
+
 In the court of Alexander it was once the greatest
 of all slanderous charges to say that a man did not
 worship Hephaestion or even make obeisance to him
@@ -12191,8 +12434,7 @@ of Alexander’s, at once began to feed it and fan it
 into flame by telling about dreams of Hephaestion,
 in that way ascribing to him visitations and cures |
 and accrediting him with prophecies; and at last
-<note n="1">Probably Ptolemy Auletes, father of Cleopatra, who
-styled himself ‘‘ the new Dionysus.”
+
 379
 <pb n="380"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12232,13 +12474,18 @@ everriBatoy, TOUT@ mpooBdddovor Kal 1poodyouvat
 <pb n="381"/>
 <note type="head">SLANDER</head>
 they began to sacrifice to him as “‘ Coadjutor” and
-*Saviour.”’1 Alexander liked to hear all this, and
+"Saviour.”<note n="1">In this way they made him out the associate of Apollo.</note>
+ Alexander liked to hear all this, and
 at length believed it, and was very proud of himself for being, as he thought, not only the son of
 a god but also able to make gods. Well, how many
 of Alexander's friends, do you suppose, reaped the
 results of Hephaestion’s divinity during that period,
 through being accused of not honouring the universal god, and consequently being banished and
-deprived of the king’s favour? It was then that
+deprived of the king’s favour?
+
+@
+
+It was then that
 Agathocles of Samos, one of Alexander’s captains
 whom he esteemed highly, came near being shut up
 in a lion’s den because he was charged with having
@@ -12248,9 +12495,13 @@ by all the gods and by Hephaestion to boot that
 while he was hunting the god had appeared to him
 in the flesh and had bidden him tell Alexander to
 spare Agathocles, saying that he had not wept from
-~ want of faith or because he thought Hephaestion
+want of faith or because he thought Hephaestion
 dead, but only because he had been put in mind
 of their old-time friendship.
+
+@
+
+
 As you see, flattery and slander were most likely
 to find an opening when they were framed with
 reference to Alexander's weak point. In a siege
@@ -12262,7 +12513,7 @@ easily get in there and take the city. Just so with
 slanderers: they assail whatever part of the soul
 they perceive to be weak, unsound and easy of
 access, bringing their siege-engines to bear on it
-<note n="1">In this way they made him out the associate of Apollo.</note>
+
 381
 <pb n="382"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12303,7 +12554,9 @@ notices their assault. Then, when they are once
 within the walls, they fire everything and smite and
 slay and banish ; for all these things are likely to
 happen when the soul is captured and put in
-' bondage.
+bondage.
+
+@
 The engines that they use against the hearer
 are deceit, lying, perjury, insistence, impudence, and
 a thousand other unprincipled means; but the most
@@ -12312,7 +12565,11 @@ own sister to slander. Nobody is so high-minded
 and has a soul so well protected by walls of adamant
 that he cannot succumb to the assaults of flattery,
 especially when he is being undermined and his
-foundations sapped by slander. All this is on the
+foundations sapped by slander. 
+
+@
+
+All this is on the
 outside, while on the inside there are many traitors
 who help the enemy, holding out their hands to him,
 opening the gates, and in every way furthering
@@ -12362,6 +12619,7 @@ Piros o évdiaBddrwv Soxov elvar TH évdiaBarouévp Torntar Suwst tote yap ovde 
 24
 <pb n="385"/>
 <note type="head">SLANDER</head>
+@
 Therefore, when the enemy falls on with all these
 forces in league with him, he takes the fort by storm,
 I suppose, and his victory cannot even prove difficult,
@@ -12370,7 +12628,9 @@ his attacks. No, the hearer surrenders of his own
 accord, and the slandered person is not aware of the
 design upon him: slandered men are murdered
 in their sleep, just as when a city is captured in
-the night. .
+the night. 
+
+@
 The saddest thing of all is that the slandered
 man, unaware of all that has taken place, meets his
 friend cheerfully, not being conscious of any misdeed,
@@ -12379,24 +12639,29 @@ is beset on every side, poor fellow, with lurking foes.
 The other, if he is noble, gentlemanly, and outspoken, at once lets his anger burst out and vents
 his wrath, and then at last, on permitting a defence
 to be made, finds out that he was incensed at_ his
-friend for nothing. But if he is ignoble and mean
+friend for nothing. 
+
+@
+
+But if he is ignoble and mean
 he welcomes him and smiles at him out of the
 corner of his mouth, while all the time he hates
 him and secretly grinds his teeth and broods, as the
-poet says! on his anger. Yet nothing, I think, is
+poet says<note n="1">Homer; the word is frequent in the Odyssey (e.g. 9, 316 ; 17, 66).</note> on his anger. Yet nothing, I think, is
 more unjust or more contemptible than to bite
 your lips and nurse your bitterness, to lock your
 hatred up within yourself and nourish it, thinking
 one thing in the depths of your heart and saying
 another, and acting a very eventful tragedy, full of
-lamentation, with a jovial comedy face.
+lamentation, with a jovial comedy face.</p>
+
+<p>
 Men are more liable to act in this way when
 the slanderer has long seemed to be a friend of
 the person slandered, and yet does what he does.
-<note n="1">Homer; the word is frequent in the Odyssey (e.g. 9,</note>
-316 ; 17, 66).
+
 385
-VOL. 1. i cc
+
 <pb n="386"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 .
@@ -12445,8 +12710,7 @@ because of the apparent friendship of long standing,
 without even reflecting that many reasons for hatred .
 often arise between the closest friends, of which
 the rest of the world knows nothing. Now and
-then, too, a man makes haste to accuse his neigh-
-- bour of something that he is himself to blame for,
+then, too, a man makes haste to accuse his neighbour of something that he is himself to blame for,
 trying in this way to escape accusation himself.
 And in general, nobody would venture to slander
 an enemy, for in that case his accusation would not
@@ -12455,6 +12719,9 @@ they attack those men who seem to be their best
 friends, aiming to show their good will toward their
 hearers by sacrificing even their nearest and dearest
 to help them.
+
+@
+
 There are people who, even if they afterwards
 learn that their friends have been unjustly accused
 to them, nevertheless, because they are ashamed of
@@ -12462,13 +12729,20 @@ their own credulity, no longer can endure to receive
 them or look at them, as though they themselves
 had been wronged merely by finding out that the
 others were doing no wrong at all!
+
+@
+
 It follows, then, that life has been filled with
 troubles in abundance through the slanderous stories
 that have been believed so readily and so unquestioningly. Anteia says:
-“ Die, Proetus, or despatch Bellerophon,
-Who offered me his love, by me unsought,” 1
+
+<cit>
+<quote>
+<l>Die, Proetus, or despatch Bellerophon,</l>
+<l>Who offered me his love, by me unsought,</l>
+<bibl>Homer, Iliad 6, 164.</bibl></cit>
 when she herself had made the first move and had
-<note n="1">Homer, Iliad 6, 164,</note>
+
 387
 cc 2
 <pb n="388"/>
@@ -12516,8 +12790,12 @@ rewarded for his continence and his respect for his
 host by being plotted against by a wanton. As for
 Phaedra, she too made a similar charge against her
 stepson and so brought it about that Hippolytus was
-cursed by his father? when he had done nothing
+cursed by his father
+<note n="1">Theseus: the story is told in the Hippolytus of Euripides.</note>
+ when he had done nothing
 impious—good Heavens, nothing !
+@
+
 “Yes,” somebody will say, “but now and then
 the man who brings a personal charge deserves
 credence, because he seems to be just in all other
@@ -12527,21 +12805,29 @@ thing as that.” Well, is there anyone more just than
 Aristides? But even he conspired against Themistocles and had a hand in stirring up the people
 against him, because, they say, he was secretly
 pricked by the same political ambition as Themistocles. Aristides was indeed just, in comparison with
-’ the rest of the world; but he was a man like anyone
+the rest of the world; but he was a man like anyone
 else and had spleen and not only loved but hated on
-occasion. And if the story of Palamedes is true, the
+occasion. 
+
+@
+
+And if the story of Palamedes is true, the
 most sensible of the Greeks and the best of them in
 other ways stands convicted of having, through envy,
 framed a plot and an ambush to trap a kinsman and
 a friend, who had sailed away from home to front
-the same peril as he?; so true is it that to err in this
-direction is inborn in all mankind. Why should I
+the same peril as he<note n="2">Odysseus trapped Palamedes by getting a forged letter
+from Priam hidden in his tent and then pretending to
+discover it.</note>; so true is it that to err in this
+direction is inborn in all mankind. 
+
+@
+
+Why should I
 mention Socrates, who was unjustly slandered to the
 Athenians as an irreligious man and a traitor? or
-<note n="1">Theseus: the story is told in the Hippolytus of Euripides.</note>
-<note n="2">Odysseus tra) ped Palamedes by getting a forged letter
-from Priam hidden in his tent and then pretending to
-discover it.
+
+
 389
 <pb n="390"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12580,6 +12866,9 @@ Themistocles and Miltiades, both of whom, after
 all their victories, came to be suspected of treason
 against Greece? The instances are countless, and
 are already for the most part well known.
+
+@
+
 “Then what should a man do, if he has sense
 and lays claim to probity or truthfulness?.” In my
 opinion he should do what Homer suggested in his
@@ -12590,8 +12879,12 @@ setting Reason as a strict doorkeeper over all that is
 said, to welcome and admit what deserves it, but
 shut out and drive off what is bad. For surely,
 it would be ridiculous to have doorkeepers to guard
-your house, but to leave your ears and your mind |
-wide open. Therefore, when a man comes and tells
+your house, but to leave your ears and your mind 
+wide open. 
+
+@
+
+Therefore, when a man comes and tells
 you a thing of this sort, you must investigate the
 matter on its own merits, without regarding the years
 of the speaker or his standing, or his carefulness in
@@ -12599,16 +12892,18 @@ what he says; for the more plausible a man is, the
 closer your investigation should be. You should not,
 then, put faith in another's judgment, or rather
 (as you would be doing), in the accuser’s want of
-judgment,! but should reserve to yourself the province
+judgment,
+<note n="1">Literally, "in the accuser’s hatred.” To secure something like the word-play in the Greek, the sense had to
+suffer slightly.</note>
+ but should reserve to yourself the province
 of investigating the truth, accrediting the slanderer
 with his envy and conducting an open examination
 into the sentiments of both men; and you should
 only hate or love a man after you have put him to
 the proof. To do so before that time, influenced
 by the first breath of slander—Heavens! how
-<note n="1">Literally, ‘‘in the accuser’s hatred.” To secure something like the word-play in the Greek, the sense had to
-suffer slightly.
-3got
+
+
 <pb n="392"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 perpaxiaces Kal tatrewov Kal wdvTwv ovX HKioTa
@@ -12633,14 +12928,13 @@ be illumined by Truth.
 <pb n="394"/>
 <note type="head">Original from</head>
 <pb n="395"/>
-<note type="head">THE CONSONANTS AT LAW</head>
-SIGMA vs. TAU,
-IN THE COURT OF THE SEVEN VOWELS
+<note type="head"></head>
+THE CONSONANTS AT LAW: SIGMA vs. TAU, IN THE COURT OF THE SEVEN VOWELS
 This mock prosecution, probably not by Lucian, but
 much later than his time, is based upon the fact that in the
 Attic dialect many words originally written with double s
-came eventually to be pronounced and written with double ¢,
-and incidentally mentions words in which / has been substituted forr; g for k and J; z, x, and r for s, and ¢ for d, th,
+came eventually to be pronounced and written with double t,
+and incidentally mentions words in which l has been substituted for r; g for k and l; z, x, and r for s, and t for d, th,
 and z. It cannot be adequately translated, for we have
 nothing of the sort in English.
 <pb n="396"/>
@@ -12669,8 +12963,11 @@ IN THE COURT OF THE SEVEN VOWELS
 on the seventh day of the month Pyanepsion, Sigma
 brought suit against Tau before the seven Vowels for
 assault and robbery, alleging that he had stolen all the
-words that are pronounced mith double tau. |
-Vowets of the jury, as long as the wrongs that I
+words that are pronounced mith double tau.]
+
+@
+
+Vowels of the jury, as long as the wrongs that I
 underwent at the hands of this fellow Tau through
 his misusing my property and establishing himself
 where he had no business were but slight, I did not
@@ -12728,7 +13025,10 @@ greater additions to what he has already done he will
 altogether eject me from my own estate, so that if I
 keep quiet I shall scarcely count at all as a letter,
 and shall be no better than a hiss.
-Itis fitting, then, that you who are now on the
+
+@
+
+It is fitting, then, that you who are now on the
 jury and all the other letters, too, should be on your
 guard against his pernicious activity, for if anyone
 who wants to may work his way out of his own place
@@ -12742,21 +13042,23 @@ and carelessness as to permit anything unjust, and
 even if you do shirk your duty I cannot overlook my
 wrongs. If only the others had been thwarted in
 their audacity long ago, when they first began to be
-law-breakers! In that case, Lambda would not be at
-war with Rho, disputing the possession of pumicestone (xiondts—xionpis) and headaches (xepadradyia—
-xepadapyia), nor would Gamma be quarreiling with
+law-breakers! 
+
+@
+
+In that case, Lambda would not be at
+war with Rho, disputing the possession of pumice-stone (κίσηλις--κίσηρις) and headaches (κεφαλαλγάα--κεφαλαργία), nor would Gamma be quarreiling with
 Kappa and again and again almost coming to blows
-with him at the fuller’s (yvapetov—xvadgeiov) over
-pillows (yvadaAAa—xvagoddra), and he would have
+with him at the fuller’s (γναφεῖον--κναφεῖον) over
+pillows (γνάφαλλα--κνάφαλλα), and he would have
 been prevented from fighting with Lambda, too,
-openly stealing from him with some difficulty (yoduu—
-poyts) and slyly filching without any doubt (uddAvctra—
-pdyiora!); and the rest would also have refrained
+openly stealing from him with some difficulty (μόλις--μόγις) and slyly filching without any doubt (μάλιστα---
+μάγιστα<note n="1">The word μάλιστα may have been pronounced μάγιστα by
+the common people at some time or other. I know of no
+evidence that it was ever so written.</note>); and the rest would also have refrained
 from beginning illegal confusion. Surely it is best
 for each of us to stay in the place which belongs to
-<note n="1">The word pdéaAcora may have been pronounced pdyiora by
-the common people at some time or other. I know of no
-evidence that it was ever so written.
+
 399
 <pb n="400"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12790,8 +13092,17 @@ dakar MSS.
 <pb n="401"/>
 <note type="head">THE CONSONANTS AT LAW</head>
 him: to go wher@one has no right is the act of a
-law-breaker. The man who first framed these laws .
-for us, be he the islander Cadmus? or Nauplius’ son
+law-breaker. 
+
+@
+
+The man who first framed these laws 
+for us, be he the islander Cadmus<note n="1">The story usually ran that Cadmus brought sixteen
+letters from Phoenicia to Greece, and that four were added
+to these by Palamedes and four more by Simonides (not the
+poet, but a physician of Syracuse). Cadmus is here called
+an islander because some versions of his story made him
+come from Tyre, not Sidon.</note> or Nauplius’ son
 Palamedes(and some attribute this provision to Simonides), did not determine which of us should be first
 and which second solely by putting us in the order
 in which our places are now fixed, but they also
@@ -12802,7 +13113,12 @@ they gave the next highest, because they need
 something put with them before they can be heard ;
 and they prescribed that the last place of all should
 belong to nine letters which have no sound at all by
-themselves.2, The Vowels should enforce these laws.
+themselves.
+<note n="2">The Greek "mutes” are nine in number. Sigma, as a
+semivowel, claims higher rank.</note> The Vowels should enforce these laws.
+
+@
+
 But this Tau here (I cannot call him by a worse
 name than his own), who, as Heaven is my witness,
 could not have made himself heard unless two of
@@ -12813,16 +13129,10 @@ all precedent in acts of violence, not only ousting me from my hereditary nouns 
 banishing me likewise from conjunctions and prepositions all at once, so that I cannot stand his
 monstrous greed any longer. Where and how he
 began it, you shall now hear.
-<note n="1">The story usually ran that Cadmus brought sixteen
-letters from Phoenicia to Greece, and that four were added
-to these by Palamedes and four more by Simonides (not the
-poet, but a physician of Syracuse). Cadmus is here called
-an islander because some versions of his story made him
-come from Tyre, not Sidon.</note>
-<note n="2">The Greek ‘‘ mutes” are nine in number. Sigma, as a
-semivowel, claims higher rank.
-. 401
-vot. T. DD
+
+
+401
+
 <pb n="402"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 ’EmreSjpouv troté KuBér@,—ro 6€ éott modixviov 7
@@ -12864,38 +13174,45 @@ in MSS.
 .
 <pb n="403"/>
 <note type="head">_THE CONSONANTS AT LAW.</head>
+
+@
+
 Once I made a visit to Cybelus, which is rather an
 agreeable little village, settled, the story has it, by .
 Athenians. I took with me sturdy Rho, the best of ~
 neighbours, and stopped at the house of a comic poet
 called Lysimachus, evidently a Boeotian by descent,
 though he would have it that he came from the
-heart of Attica! It was at that foreigner’s that
-‘I detected the encroachments of this fellow Tau. As
+heart of Attica.
+<note n="1">Lysimachus is called a Boeotian because to say s for t
+was a characteristic of the Boeotian dialect.</note> It was at that foreigner’s that
+I detected the encroachments of this fellow Tau. As
 long as it was but little that he attempted, venturing
-to mispronounce fou (réocapa—rérrapa) and forty
-(recoapdxovra—rerrapdxovta), and also to lay hands on
-to-day (cnpepov—rnpepov), and the like and say they
+to mispronounce four (τέσσαρα--τέτταρα) and forty
+(τεσσαράκοντα--τετταράκοντα), and also to lay hands on
+to-day (σήμερον---τήμερον), and the like and say they
 were his own, thus depriving me of my kith and kin
 among the letters, I thought it was just his way and
 could put up with what I heard, and was not much
-annoyed over my losses. But when he went on and
-ventured to mispronounce tin (xagoirepov—xattirepov)
-and shoeeleather (xdoovpa—xarrupa), and tar (xicca—
-wirra), and then, losing all sense of shame, to miscall
-queens (Baciticca—faciritta), I am uncommonly
+annoyed over my losses. 
+
+@
+
+But when he went on and
+ventured to mispronounce tin (κασσίτερον--καττίτερον)
+and shoe-leather (κάσσυμα--κάττυμα), and tar (πίσσα--πίττα), and then, losing all sense of shame, to miscall
+queens (βασίλισσα--βασίλιττα), I am uncommonly
 annoyed and hot about all this, for I am afraid that
-in course of time someone may miscall a spade !?
+in course of time someone may miscall a spade !<note n="2">An allusion to the English saying is here substituted for
+a similar allusion to its Greek equivalent, "to call a fig a
+fig” (τὰ σῦκα σῦκα ὀνομάζειν).</note>
 Pardon me, in the name of Heaven, for my righteous
 anger, discouraged as I am and bereft of partisans.
 I am not risking a trifling, every-day stake, for he is
 robbing me of acquaintances and companions among
 the letters. He snatched a blackbird, a talkative
-<note n="1">Lysimachus is called a Boeotian because to say s for ¢
-was a characteristic of the Boeotian dialect.</note>
-<note n="2">An allusion to the English saying is here substituted for
-a similar allusion to its Greek equivalent, ‘to call a fig a
-fig” (74 cixa cixa dvoud (ev), .
+
+
 403
 <pb n="404"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12927,37 +13244,43 @@ Kader Ta adixnOévta ypdupata. axovete, Pwvnevra Sixacrtal, tod pev Aédta Aéyo
 404
 <pb n="405"/>
 <note type="head">THE CONSONANTS AT LAW</head>
-creature, right out of my bosom, almost, and renamed it (xiooa—xirra) ; he took away my pheasant
-(¢décca—ddrra) along with my ducks (vjooat—vyrrat)
-and my dans (xédcovpoi—xorrugor), although Aristarchus forbade him; he robbed me of not a few
-bees (uéAtccoa—peXtrra), and he went to Attica and
-illegally plucked Hymessus (‘Ypynoods—Ypyrrds) out
+creature, right out of my bosom, almost, and renamed it (κίσσα---κίττα) ; he took away my pheasant
+(¢décca—ddrra) along with my ducks (νήσσαι---νήτται)
+and my daws (κόσσυφοι--κόττυφοι), although Aristarchus forbade him; he robbed me of not a few
+bees (μέλισσα--μέλιττα), and he went to Attica and
+illegally plucked Hymessus (Ὑμησσός--Ὑμηττός) out
 of the very heart of her, in full view of yourselves
 and the other letters. But why mention this? He
 has turned me out of all Thessaly, wanting it called
-Thettaly, has swept me from the sea (@d\acoa—
-bidarra) and “has not even spared me the beets
-(ce’rhta—revrhia) in my garden, so that, to quote the
-proverb, he hasn’t even left me a peg (rdcoa\os—
-warraXos).
+Thettaly, has swept me from the sea (θάλασσα--ϑάλαττα) and “has not even spared me the beets
+(σεύτλια--τεύτλια) in my garden, so that, to quote the
+proverb, he hasn’t even left me a peg (πάσσαλος--πάτταλος).</p>
+
+<p>
 That I am a much-enduring letter, you yourselves
 can testify, for I never brought Zeta to book for
-taking my emerald (cpdpaydos—{udpaysos) and robbing me utterly of Smyrna,! nor Xi for overstepping
-every treaty (cwOyjxy—éw6yxy) with Thucydides
-the historian (cvyypapeds—fvyypaged’s) as his ally
-(oSumaxos Ein paxos): And when my neighbour
+taking my emerald (σμάραγδος---ζὡμάραγδος) and robbing me utterly of Smyrna,
+<note n="1">Pronounced, as it is to-day, Zmyrna, but written usually
+with s.</note>
+ nor Xi for overstepping
+every treaty (συνθήκη--ξυνθήκη) with Thucydides
+the historian (συγγραφεύς--ξυγγραφεύς) as his ally
+(ύμμαχος--ξύμμαχος): And when my neighbour
 ho was ill I forgave him not only for transplanting -
-my myrtles (uvpoivy—prppivn) into his own garden,
-but also for cracking my crown (xopoy—xoppy) in a
-fit of insanity. That is my disposition, but this Tau—
+my myrtles (μυρσίνη----μυῤῥίνη) into his own garden,
+but also for cracking my crown (κόρση---κόρρη) in a
+fit of insanity. 
+
+@
+
+That is my disposition, but this Tau—
 just see how bad-natured he is toward the others,
 too! To show that he has not let the rest of the
 letters alone, but has injured Delta and Theta and
 Zeta and almost all the alphabet, please call to the
 stand the injured parties in person. Listen, Vowels
 of the jury, to Delta, who says: “He robbed me of
-<note n="1">Pronounced, as it is to-day, Zmyrna, buc written usually
-with a,
+
 405
 <pb n="406"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -12996,12 +13319,16 @@ Oite pev ody dcov és pwvnv avOpdrrous adil 12
 endelechy, wanting it to be called entelechy agairist
 all the laws’’; to Theta crying and pulling out the
 hair of his head because he has had even his pumpkin
-(xoAoxvvOy—xodAoxivry) taken away from him, and to
-Zeta, who has lost his whistle (cvpilew—orpirrew) and
-trumpet (caArilew—oaAtirrew), so that he can’t even
-make a sound (ypvlew—ypvtrev) any longer. Who
+(κολοκύνθη----κολοκύντη) taken away from him, and to
+Zeta, who has lost his whistle (συρίζειν--συρίττειν) and
+trumpet (σαλπίζειν--σαλπίττειν), so that he can’t even
+make a sound (γρύζειν---γρύττειν) any longer. Who
 could put up with all this, and what punishment
 could be bad enough for this out-and-out rascal Tau ?
+
+@
+
+
 Not only does he injure his own kinsfolk of the
 alphabet, but he has already attacked the human
 race also; for he does not allow them to talk straight
@@ -13013,19 +13340,22 @@ very plague o’ the tongue! But I shall attack him
 another time and advise men of his sins against
 them, in trying to fetter their speech, as it were,
 and to mangle it. A man on seeing something
-pretty (xadsv) * wants to call it so, but Tau interferes
-and makes him say something else (raAdv),! wanting
+pretty (καλόν)  wants to call it so, but Tau interferes
+and makes him say something else (ταλόν),
+<note n="1">One would expect a pun here, but ταλόν is not in the
+dictionaries.</note> wanting
 to have precedence in everything. Again, another
-is talking about a palm-branch (xAjpa), but Tau, the
-very criminal (rAyjpuv), turns the palm-branch into a
-crime (rAjpa). And not only does he injure ordinary
+is talking about a palm-branch (κλῆμα), but Tau, the
+very criminal (τλήμων), turns the palm-branch into a
+crime (τλῆμα). And not only does he injure ordinary
 people, but even the Great King, in whose honour,
 they say, even land and sea give place and depart
 from their own natures—even he is plotted against
-by Tau, who instead of Cyrus makes him out something of a cheese (Kipos—rupds).
+by Tau, who instead of Cyrus makes him out something of a cheese (Κῦρος--τυρός).
+
+@
 That is the way he injures mankind as far as their
-<note n="1">One would expect a pun here, but taddy is not in the
-dictionaries,
+
 407
 <pb n="408"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -13056,10 +13386,10 @@ upon them; and that it is from him that the sorry
 device gets its sorry name (stauros, cross). For all
 this do you not think that Tau deserves to die many
 times over? As for me, I hold that in all justice
-we can only punish Tau by making a T of him.!
+we can only punish Tau by making a T of him.
 <note n="1">Te, by crucifying him, Greek crosses being usually
-T-shaped. MSS. add ‘‘for the cross owes its existence to
-Tau, but its name to man” ; see critical note.
+T-shaped. MSS. add "for the cross owes its existence to
+Tau, but its name to man” ; see critical note.</note>
 409
 <pb n="410"/>
 <note type="head">Original from</head>
