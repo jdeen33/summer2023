@@ -2795,6 +2795,9 @@ Zeus, that once a slave, I am now free! « once poor,
 now rich indeed ” ; once witless and befogged, now
 saner?<note n="1">Apparently a free quotation from some play that is lost.
 (Kock, adesp. 1419.)</note>
+
+@
+
 A. Why, yes! nothing could be more fmportant.
 But even yet I don’t clearly understand what you
 mean.
@@ -2923,7 +2926,11 @@ a great light. In consequence, I actually forgot my
 eye and its ailment—would you believe it ?>—and by
 degrees grew sharper-sighted in my soul ; which, all
 unawares, I had been carrying about in a purblind
-condition till then. I went on and on, and so
+condition till then.
+
+@
+
+ I went on and on, and so
 got into the state with which you just reproached
 me: what he said has made me proud and exalted,
 and in a word, I take no more notice of trifles. I
@@ -2935,19 +2942,24 @@ strong drink they became uproarious at once, and
 were crazed by the unwatered beverage twice as
 much as other people. There you have it! I am
 going about enraptured and drunk with the wine of
-his discourse. ;
+his discourse.
+
+@
+
 A, Why, that isn’t drunkenness, it is sobriety and
 temperance! I should like to hear just what he
 said, if possible. It is far, very far from right, in
 my opinion, to be stingy with it, especially if the
 person who wants to hear is a friend and has the
-same interests. -
-- B. Cheer up, good soul! you spur a willing horse,
-as Homer says,’ and if you hadn’t got ahead of me,
+same interests.
+B. Cheer up, good soul! you spur a willing horse,
+as Homer says,
+<note n="1">Iliad 8, 293.</note>
+ and if you hadn’t got ahead of me,
 I myself should have begged you to listen to my
 tale, for I want to have you bear witness before the
 world that my madness has reason in it. Then, too,
-<note n="1">Iliad 8, 293.
+
 105
 <pb n="106"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -2988,7 +3000,11 @@ I take pleasure in calling his words to mind
 frequently, and have already made it a regular
 exercise : even if nobody happens to be at hand, I
 repeat them to myself two or three times a day just
-the same. I am in the same case with lovers.
+the same. 
+
+@
+
+I am in the same case with lovers.
 In the absence of the objects of their fancy they
 think over their actions and their words, and by
 dallying with these beguile their lovesickness into
@@ -3008,15 +3024,18 @@ anything and always hearing him repeat his former
 words. Sometimes, especially when I put pressure
 on my soul, his face appears to me and the sound of
 his voice abides in my ears. Truly, as the comedian
-says,! “he left a sting implanted in his hearers!”
-<note n="4">Eupolis in the Demes, referring to Pericles (Kock, 94),
-* None better in the world to make a speech !
+says,
+<note n="1">Eupolis in the Demes, referring to Pericles <cit><bibl>Kock, 94</bibl>
+<quote>
+None better in the world to make a speech !
 He’d take the floor and give your orators
 A ten-foot start, as a good runner does,
 And then catch up. Yes, he was fleet, and more—
 Persuasion used to perch upon his lips,
 So great his magic; he alone would leave
-His sting implanted in his auditors,”
+His sting implanted in his auditors.
+</quote></cit></note>
+“he left a sting implanted in his hearers!”
 107
 <pb n="108"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3050,7 +3069,10 @@ usually rendered ‘Back water a bit.”
 108
 <pb n="109"/>
 <note type="head">THE WISDOM OF NIGRINUS</head>
-A, Have done with your long prelude, “you
+
+@
+
+A. Have done with your long prelude, “you
 strange fellow ; begin at the beginning and tell me
 what he said. You irritate me more than a little
 with your beating about the bush.
@@ -3060,7 +3082,7 @@ now—yes, and in comedy too, I'll swear? I mean
 the sort that are hissed and ruin pieces and finally
 get driven off the stage, though their plays are often
 good and have won a prize.
-4. I know plenty of the sort. But what of it ?
+A. I know plenty of the sort. But what of it ?
 B. I am afraid that, as you follow me, you may
 think that I present my lines ridiculously, hurrying
 through some of them regardless of metre, and
@@ -3069,7 +3091,10 @@ incapacity ; and that you may gradually be led to
 condemn the play itself. As far as I am concerned,
 I don’t care at all; but if the play shares my failure
 and comes to grief on my account, it will naturally
-hurt me more than a little. Please bear it in
+hurt me more than a little. 
+@
+
+Please bear it in
 mind, then, all through the performance that the
 poet is not accountable to us for faults of this nature,
 and’ is sitting somewhere far away from the stage,
@@ -3082,7 +3107,7 @@ Therefore, in case I appear. to be saying something
 rather poor, have the excuse to hand that it was
 better, and that the poet no doubt-told it differently.
 As for myself, even if you hiss me off the stage, I
-shan’t be hurt at all '
+shan’t be hurt at all!
 109
 <pb n="110"/>
 <note type="head">THE WORKS OF LUCIAN °</head>
@@ -3121,18 +3146,25 @@ TIO
 eos foe
 <pb n="111"/>
 <note type="head">THE WISDOM OF NIGRINUS</head>
-A. Hermes !! what a fine introduction you have
+
+@
+
+A. Hermes !<note n="1">Invoked as the god of orators.</note> 
+what a fine introduction you have
 made, just like a professor of public speaking!
 You intend, I am sure, to add that your conversation
 was short, that you didn’t come prepared to speak,
 and that it would be better to hear him tell it himself, for really you have only carried in mind what
-little you could. .Weren’t you going to say that?
+little you could. Weren’t you going to say that?
 Well, there is no longer any necessity for it on my
 account ; consider your whole introduction finished
 as far as I am concerned, for I am ready to cheer
 and to clap. But if you keep shilly-shallying, I'll
 bear you a grudge all through the speech and will
 hiss right, sharply.
+
+@
+
 B. Yes, I should have liked to say all that you
 mention, and also that I do not intend to quote
 him without a break and in his own words, in a long
@@ -3150,9 +3182,11 @@ a disgrace to my costume, I want to talk to you with
 my features exposed, so that the hero whose part I
 am taking may not be brought down with me if I
 stumble.
-A, Will the man never stop talking so much
+@
+
+A. Will the man never stop talking so much
 stage and tragedy to me?
-<note n="1">Invoked as the god of orators.
+
 111
 <pb n="112"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3198,6 +3232,8 @@ luxury among them, but if ever anyone comes to
 them in that frame of mind, they gradually correct
 him and lend a hand in his schooling and convert
 him to the simple life.
+@
+
 For example, he mentioned a millionaire who
 came to Athens, a very conspicuous and vulgar
 person with his crowd of attendants and his gay
@@ -3265,6 +3301,9 @@ the number of his rings, the over-niceness of his
 hair, the extravagance of his life. So he was
 disciplined little by little, and went away much
 improved by the public education he had received.
+
+@
+
 To show that they are not ashamed to confess
 poverty, he mentioned to me a remark which he
 said he had heard everybody make with one accord
@@ -3285,7 +3324,11 @@ that a life like theirs is in harmony with philosophy -
 and can keep the character pure ; so that a serious
 man who has been taught to despise wealth and
 elects to live for what is intrinsically good will find
-Athens éxactly suited to him. But a man who
+Athens éxactly suited to him. 
+
+@
+
+But a man who
 loves wealth and is enthralled by gold and measures
 happiness by purple and power, who has not tasted
 liberty or tested free speech or contemplated truth,
@@ -3331,22 +3374,34 @@ pate xphoGat trois xaeota&ov Suvapevos;
 <pb n="117"/>
 <note type="head">THE WISDOM OF NIGRINUS</head>
 women, full of trickery, deceit and falsehood; a
-man who likes to hear twanging, fluting and emasculated singing—* Such folk,” said he, “should live
+man who likes to hear twanging, fluting and emasculated singing—
+@
+"Such folk,” said he, “should live
 in Rome, for every street and every square is full of
-the things they cherish most,! and they can admit
+the things they cherish most,
+<note n="1">A reminiscence of Aratus (Phaenom. 2): ‘ And every
+human-street and every square is full of the presence of
+God.”</note>
+ and they can admit
 pleasure by every gate—by the eyes, by the ears
 and nostrils, by the throat and reins, Its everflowing, turbid stream widens every street; it
 brings in adultery, avarice, perjury and the whole
 family of the vices, and sweeps the flooded soul bare
 of self-respect, virtue, and righteousness; and then the
-ground which they have left a desert, ever parched |
+ground which they have left a desert, ever parched 
 with thirst, puts forth a rank, wild growth of lusts.”
 That was the character of the city, he declared,
-and those all the good things it taught. “For
+and those all the good things it taught. 
+
+@
+
+“For
 my part,” said he, “when I first came back from
 Greece, on getting into the neighbourhood of Rome
 I stopped and asked myself why I had come here,
-repeating the well-known words of Homer?: ‘Why
+repeating the well-known words of Homer:
+<note n="2">Odyss. 11, 93.</note>
+ ‘Why
 left you, luckless man, the light of day’—Greece,
 to wit, and all that happiness and freedom— and
 came to see’ the hurly-burly here—informers,
@@ -3354,9 +3409,9 @@ haughty greetings, dinners, flatterers, murders,
 legacy-hunting, feigned friendships? And what in
 the world do you intend to do, since you can neither
 go away nor do as the Romans do?”
-<note n="1">A reminiscence of Aratus (Phaenom. 2): ‘ And every
-human-street and every square is full of the presence of
-God.” -2 Odyss. 11, 93,
+
+
+
 117
 <pb n="118"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3393,8 +3448,14 @@ paptupoperns THis TUxns maifew Ta TOY avOpoTraDv
 <note type="head">THE WISDOM OF NIGRINUS</head>
 “ After communing with myself in this vein and
 pulling myself out of bowshot as Zeus did Hector
-in Homer,!
-From out the slaughter, blood, and battle-din,
+in Homer,
+
+<cit>
+<quote>
+<l>From out the slaughter, blood, and battle-din,</l>
+</quote> 
+<bibl>Iliad 11, 163.</bibl>
+<cit>
 I decided to be a stay-at-home in future. Choosing
 thereby a sort of life which seems to most people
 womanish and spiritless, I converse with Plato,
@@ -3403,6 +3464,9 @@ were, high up in a theatre full of untold thousands,
 I look down on what takes place, which is of a
 quality sometimes to afford amusement and laughter,
 sometimes to prove a man’s true steadfastness.
+
+@
+
 “ Indeed (if it is right to speak in praise of what is
 bad), don’t suppose that there is any better school for
 virtue or any truer test of the soul than this city and
@@ -3413,7 +3477,11 @@ direction. One must simply imitate Odysseus and
 sail past them; not, however, with his hands bound
 (for that would be cowardly) nor with his ears
 stopped with wax, but with ears open and body
-free, and in a spirit of genuine contempt. Furthermore, one has cause to admire philosophy when he
+free, and in a spirit of genuine contempt. 
+
+@
+
+Furthermore, one has cause to admire philosophy when he
 beholds so much folly, and to despise the gifts of
 fortune when he sees on the stage of life a play of
 many réles, in which one man enters first as servant,
@@ -3422,7 +3490,7 @@ another now as beggar, now as nabob or king;
 another as So-and-so’s friend, another as his enemy ;
 another as an exile. And the strangest part of it all
 is that although Fortune attests that she makes light
-<note n="1">Iliad 11, 163.
+<note n="1">
 119
 <pb n="120"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3461,25 +3529,34 @@ of human affairs and admits that there is no stability
 in them, and in spite of the fact that men see this
 demonstrated every day, they still yearn for wealth
 and power, and go about every one of them full of
-unrealised hopes. — *
+unrealised hopes. 
+@
+
 “ But I have said that there is food for laughter
 and amusement in what goes on; let me now explain
 it. To begin with, are not the rich ridiculous? They
 display their purple gowns and show their rings and
 betray an unbounded lack of taste. Would you
-believe it ?>—they make use of another man’s! voice
+believe it ?>—they make use of another man’s
+<note n="1">The nomenclator : his proper office was merely to present
+the guests to his master, but in reality he often received
+them in his master’s stead.</note>
+ voice
 in greeting people they meet, expecting them to be
 thankful for a glance and nothing more, while some,
 lordlier than the rest, even require obeisance to be
 made to them: not at long range, though, or in the
 Persian style. No, you must go up, bow your head,
-‘humbling your soul and showing its feelings by
+humbling your soul and showing its feelings by
 carrying yourself to match them, and kiss the man’s
 breast or his hand, while those who are denied even
 this privilege envy and admire you! And the man
 stands for hours and lets himself be duped! At any
 rate there is one point in their inhumanity that I
 commend them for—they forbid us their lips!
+
+@
+
 “Far more ridiculous, however, than the rich are
 those who visit them and pay them court. They get
 up at midnight, run all about the city, let servants
@@ -3488,9 +3565,7 @@ to be called dogs, toadies and similar names. By
 way of reward for this galling round of visits they
 get the much-talked-of dinner, a vulgar thing, the
 source of many evils. How much they eat there,
-<note n="1">The nomenclator : his proper office was merely to present
-the guests to his master, but in reality he often received
-them in his master’s stead.
+
 T2I
 <pb n="122"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3537,6 +3612,9 @@ brothels, and most of them go to bed by daylight
 and give the doctors a reason for making their
 rounds. Not all, though ; for some—would you
 believe it ?—haven’t even time to be ill!
+
+@
+
 “For my part I hold that the toadies are far
 worse than the men they toady to, and that they
 alone are to blame for the arrogance of the others.
@@ -3593,6 +3671,9 @@ Tois Seopévors errapKay Kal dons Teptovalas KaTa-
 <note type="head">THE WISDOM OF NIGRINUS</head>
 breastwork of contempt. But as things are, they
 turn their heads with servility.
+
+@
+
 “That common men who unreservedly admit
 their want of culture should do such things might
 fairly be thought reasonable; but that many selfstyled philosophers should act still more ridiculously
@@ -3604,7 +3685,11 @@ His dress only marks him out among the rest and
 makes him more conspicuous. What irritates me
 most is that they do not change their costume:
 certainly they are consistent play-actors in everything else. Take their conduct at dinners—to
-what ethical ideal are we to ascribe it? Do they
+what ethical ideal are we to ascribe it? 
+
+@
+
+Do they
 not stuff themselves more vulgarly, get drunk more
 conspicuously, leave the table last of all, and expect
 to carry away more delicacies than anyone else?
@@ -3617,7 +3702,10 @@ were : indeed, he called the lecture-rooms of these
 men factories and bazaars. For he maintained that
 one who intends to teach contempt for wealth
 should first of all show that he is himself above
-gain. Certainly he used to put these principles into
+gain. 
+@
+
+Certainly he used to put these principles into
 practice consistently, not only giving instruction
 without recompense to all who desired it, but
 helping the needy and holding all manner of super-
@@ -3674,7 +3762,11 @@ He likewise sets no mean example for those who
 care to imitate him in his simple diet, his moderate
 physical exercises, his earnest face, his plain clothes
 and above all, his well-balanced understanding and
-his kindly ways. He always advised his disciples
+his kindly ways. 
+
+@
+
+He always advised his disciples
 not to postpone being good, as most people do, by
 setting themselves a limit in the form of a holiday or
 a festival, with the intention of beginning from that
@@ -3683,11 +3775,15 @@ deemed that an inclination towards the higher life
 brooked no delay. He made no secret of his
 condemnation of the sort of philosophers who think it
 a course in virtue if. they train the young to enduré
-“full many pains and toils,’} the majority
+“full many pains and toils,"
+<note n="1">Evidently a quotation: the source is unknown.</note>
+ the majority
 recommending cold baths, though some whip them,
 and still others, the more refined. of their sort, scrape
-” the surface of their skin with a knife-blade. It was his
-<note n="1">Evidently a quotation: the source is unknown.
+” the surface of their skin with a knife-blade.
+
+@ It was his
+
 127
 <pb n="128"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3732,10 +3828,12 @@ himself to criticism on the score of setting his pupils
 tasks beyond their strength. Indeed, he asserted
 that many die as a result of strains so unreasonable.
 I myself saw one student who, after a taste of the
-_ tribulations in that camp, had made off without a
+tribulations in that camp, had made off without a
 backward glance as soon as he heard true doctrine,
 and had come to Nigrinus: he was clearly the
 better for it.
+
+@
 At length leaving the philosophers, he recurred to
 the rest of mankind, and told about the uproar of
 the city, the crowding, the theatres, the races, the
@@ -3744,21 +3842,24 @@ the conversations in the streets about these matters.
 The craze for horses is really great, you know, and
 men with a name for earnestness have caught it in
 great numbers.
+
+@
 Next he touched upon another human comedy,
 played by the people who occupy themselves with
 life beyond the grave and with last wills, adding
 that sons of Rome speak the truth only once in their
 whole lives (meaning in their wills), in order that
-they may not reap the fruits of their truthfulness !1
+they may not reap the fruits of their truthfulness !
+<note n="1">A famous instance is the case of Petronius, who expressed
+his opinion of Nero in his will and made the emperor his
+executor.</note>
 I could not help interrupting him with laughter
 when he said that they want to have their follies
 buried with them and to leave their stupidity on
 record, inasmuch as some of them leave instructions
-<note n="1">A famous instance is the case of Petronius, who expressed
-his opinion of Nero in his will and made the emperor his
-executor.
+
 129
-VoL. IL. K
+
 <pb n="130"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Kedevovtes cuyxatapréyerOar TeV Tapa Tov
@@ -3802,8 +3903,14 @@ such pleasures.
 that clothing be burned with them which they prized
 in life, others that servants stay by their tombs,
 and here and there another that his gravestone be
-wreathed with flowers. They remain foolish even
-on their deathbeds. He thought he could guess
+wreathed with flowers. 
+
+They remain foolish even
+on their deathbeds. 
+
+@
+
+He thought he could guess
 what they had done in life when they issued such
 injunctions touching the hereafter: “It is they,”
 said he, “ who buy expensive dainties and let wine
@@ -3817,20 +3924,27 @@ especially, that they do not even know how to give
 play to their desires, but transgress in them and
 obliterate the boundary-lines, on all sides surrendering their souls to luxury to be trodden under foot,
 and as they say in tragedy and comedy, “ forcing an
-entrance alongside the door.’’! These he called
-unidiomatic pleasures.
-From the same standpoint he made a comment
-exactly like that of Momus. Just as the latter found
-fault with the god? who made the bull for not
-putting the horns in front of the eyes, so he censured
-those who wear garlands for not knowing where
-they should go. “If it is the scent of their violets _
+entrance alongside the door."
 <note n="1">The phrase does not occur in any of the extant plays.
 As Greek houses were generally of sun-dried brick, it was
 not difficult to dig through the wall, but only an inveterate
 ‘wall-digger’ (housebreaker) would choose that method of
-entry when the door was unlocked.
-<note n="2">Poseidon: see Hermotimus, 20.
+entry when the door was unlocked.</note>
+ These he called
+unidiomatic pleasures.
+
+@
+
+From the same standpoint he made a comment
+exactly like that of Momus. Just as the latter found
+fault with the god
+<note n="2">Poseidon: see Hermotimus, 20.</note>
+ who made the bull for not
+putting the horns in front of the eyes, so he censured
+those who wear garlands for not knowing where
+they should go. “If it is the scent of their violets _
+
+
 131
 <pb n="132"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -3872,6 +3986,9 @@ and roses that they like,” he said, “they certainly
 ought to put their garlands under their noses, as
 close as may be to the intake of the breath, so as to
 inhale the greatest possible amount of pleasure.”
+
+@
+
 Another thing, he ridiculed the men who
 devote such a surprising degree of energy to dinners
 in the effort to secure variety in flavours and new
@@ -3882,13 +3999,16 @@ pointed out that all their trouble was taken for
 the sake of four finger-breadths, the extent of the’
 longest human throat. “Before eating,” said he,
 “they get no good out of what they have bought,
-_and after eating, the sense of fulness is no more
+_\and after eating, the sense of fulness is no more
 agreeable because it derives from expensive food ; it
 follows, then, that it is the pleasure of swallowing
 which has cost them so dear.” And he said that it
 served them right for being uneducated and consequently unfamiliar with the truer pleasures, which
 are all dispensed by philosophy to those who elect
 a life of toil.
+
+@
+
 He had much to say about their behaviour
 in the baths—the number of their attendants, their
 offensive actions, and the fact that some of them are
@@ -3946,17 +4066,22 @@ suffer themselves to be given directions fit only for
 unfortunates and blind men. - “Why,” said- he,
 “this is actually done in public squares at midday,
 even to governors of cities!”
+@
 When he had said this and much more of the ©
 same sort, he ended his talk. Until then I had
 listened to him in awe, fearing that he would cease.
-When he stopped, I felt like the Phaeacians of old,!
+When he stopped, I felt like the Phaeacians of old,<note>Odyss. 11, 333.</note>
 for I stared at him a long time spellbound. Afterwards, in a great fit of confusion and giddiness, I
 dripped with sweat, I stumbled and stuck in the
 endeavour to speak, my voice failed, my tongue
 faltered, and finally I began to cry in embarrassment; for the effect he produced: in me was not
 superficial or casual. My wound was deep and vital,
-and his words, shot with great accuracy, clove, if I -
-may say so, my very soul in twain. For if I too
+and his words, shot with great accuracy, clove, if I 
+may say so, my very soul in twain. 
+
+@
+
+For if I too
 may now adopt the language of a philosopher,
 my conception of the matter is that the soul of a
 well-endowed man resembles a very tender target.
@@ -3965,7 +4090,7 @@ sorts and kinds, shoot at it during life, but not with
 success in every case. Some draw to the head and
 let fly harder than they should: though they hit the
 target, their arrows do not stick in it, but owing to
-Odyss. 11, 333.
+
 135
 <pb n="136"/>
 <note type="head">THE WORKS OF ,LUCIAN</head>
@@ -4010,9 +4135,15 @@ Others, again, do the opposite ; themselves too weak,
 their bows too slack, the arrows do not even carry
 to the target as a rule, but often fall spent at half
 the distance ; and if ever they do carry, they strike
-“ with a mere fret o’ the skin,” ! and do not make a
+“ with a mere fret o’ the skin,”
+<note n="1">Iliad 17, 599.</note>
+ and do not make a
 deep wound, as they were not sped with a strong
-pull. But a good bowman like Nigrinus first of
+pull. 
+
+@
+
+But a good bowman like Nigrinus first of
 all scans the target closely for fear that it may be
 either very soft or too hard for his arrow—for of
 course there are impenetrable targets. When he is
@@ -4026,15 +4157,17 @@ spreads and completely pervades the soul. That is
 why people laugh and cry as they listen, as I did—
 of course the drug was quietly circulating in my soul.
 I could not help quoting him the well-known line:
-“Shoot thus, and bring, mayhap, a ray of hope!” 2
-‘Not everyone who hears the Phrygian flute goes
+“Shoot thus, and bring, mayhap, a ray of hope!” <note> Iliad 8, 282.</note>
+
+Not everyone who hears the Phrygian flute goes
 frantic, but only those who are possessed of ‘Rhea
 and are put in mind of their condition by the music.
 In, like manner, naturally, not all who listen to
 philosophers go away enraptured and wounded, but
 only those who previously had in their nature some
 secret bond of kinship with philosophy.
-<note n="1">Tliad 17, 599. 3 Iliad 8, 282.
+
+
 137
 <pb n="138"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4060,6 +4193,9 @@ Tlotov ad réyets ;
 133
 <pb n="139"/>
 <note type="head">THE WISDOM OF NIGRINUS</head>
+
+@
+
 A, What a noble, marvellous,—yes, divine tale
 you have told, my dear fellow! I did not realise it,
 but you certainly were chock-full of your ambrosia
@@ -4079,12 +4215,13 @@ to think out some course of treatment for us both.
 B. We must do as Telephus did, I suppose.
 A. What’s your meaning now?
 B. Go to the man who inflicted the wound and
-beg him to heal us !1
+beg him to heal us !
+
 <note n="1">Telephus had been grievously wounded by Achilles.
-Acting on the advice of the oracle at Delphi : ‘‘ He who burt
-will heal you” (6 tpécas kal idcera), he applied to Achilles
-for relief, and was at last cured with the rust of his spear.
-. 139
+Acting on the advice of the oracle at Delphi : "He who burt
+will heal you” (ὁ τρώσας καὶ ἰάσεται), he applied to Achilles
+for relief, and was at last cured with the rust of his spear.</note>
+
 <pb n="140"/>
 <note type="head">Google</head>
 <pb n="141"/>
@@ -4136,13 +4273,19 @@ believed to be that hero, and especially to Demonax,
 the philosopher. Both these men I saw myself, and
 saw with wonderment: and under one of them,
 Demonax, I was long a student. I have written
-about ‘Sostratus elsewhere,! and have described his
+about ‘Sostratus elsewhere,
+<note n="1">The treatise is lost.</note>
+ and have described his
 size and excessive strength, his open-air life on
 Parnassus, his bed that was no bed of ease, his
 mountain fare and his deeds (not inconsistent with
-his name?) achieved in the way of slaying robbers,
+his name<note n="2">The nickname Heracles.</note>) achieved in the way of slaying robbers,
 making roads in‘untravelled country and bridging
-places hard to pass. It is now fitting to tell of
+places hard to pass.
+
+@
+
+ It is now fitting to tell of
 Demonax for two reasons—that he may be retained
 in memory by men of culture as far as I can bring it
 about, and that young men of good instincts who
@@ -4150,7 +4293,9 @@ aspire to philosophy may not have to shape themselves by ancient precedents alon
 to set themselves a pattern from our modern world
 and to copy that man, the best of all the philosophers
 whom I know about.
-<note n="1">The treatise is lost. 2 The nickname Heracles.
+
+
+
 143
 <pb n="144"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4187,6 +4332,8 @@ ara Tordads é> TadTd Katapi~as od Tay TE
 te
 <pb n="145"/>
 <note type="head">DEMONAX</head>
+
+@
 He was a Cypriote by birth, and not of common
 stock as regards civic-rank and property. Nevertheless, rising above all this and thinking that he
 deserved the best that life offers, he aspired to
@@ -4202,9 +4349,12 @@ impulse toward the higher life and an inborn love for
 philosophy, so that he despised all that men count
 good, and, committing himself unreservedly to
 liberty and free-speech, was steadfast in leading a
-. Straight, sane, irreproachable life and in setting an
+Straight, sane, irreproachable life and in setting an
 example to all who saw and heard him by his good
 judgment and the honesty of his philosophy.
+
+@
+
 You must not conceive, however, that he rushed
 into these matters with unwashen feet, as the saying
 goes: he was brought up on the poets and knew
@@ -4216,8 +4366,10 @@ his body and hardened it for endurance and in
 general he had made it his aim to require nothing
 from anyone else. Consequently, when he found out
 that he was no longer sufficient unto himself, he volun-
-. tarily took his departure from life, leaving behind
+tarily took his departure from life, leaving behind
 him a great reputation among Greeks of culture.
+
+@
 He did not mark out for himself a single form
 of philosophy but combined many of them, and never
 145
@@ -4253,27 +4405,37 @@ peTa puxpov adtois Twavcetar piv Ta aviavta,
 <note type="head">DEMONAX</head>
 would quite reveal which one he favoured. Probably
 he had most in common with Socrates, although he
-seemed to follow the man of Sinope! in dress and in
+seemed to follow the man of Sinope<note n="1">Diogenes.</note>
+ in dress and in
 easy-going ways. He did not, however, alter the
 details of his life in order to excite the wonder
 and attract the gaze of men he met, but led the
 same life as everyone else, was simple and not in the
 least subject to pride, and played his part in society
-and politics. He did not cultivate the irony of
+and politics. 
+
+@
+He did not cultivate the irony of
 Socrates ; his conversations were full of Attic charm,
 so that his visitors, on going away, did not feel
 contempt for him because he was ill-bred or aversion
 to his criticisms because they were gloomy, but
 were beside themselves for joy and were far better,
 happier and more hopeful of the future than when
-they came. He never was known to make an
+they came. 
+
+@
+
+He never was known to make an
 uproar or excite himself or get angry, even if he had
-to rebuke someone} though he assailed sins, he
+to rebuke someone; though he assailed sins, he
 forgave sinners, thinking that one should pattern
 after doctors, who heal sicknesses but feel no anger
 at the sick. He considered that it is human to err,
 divine or all but divine to set right what has gone
-amiss,
+amiss.
+
+@
 Leading such“a life, he wanted nothing for
 himself, but helped his friends in a reasonable way.
 Some of them, who were seemingly favoured by
@@ -4283,7 +4445,7 @@ bewailing poverty, fretting at exile or finding fault
 with old age or sickness, he laughingly consoled,
 saying that they failed to see that after a little they
 would have surcease of worries and would all soon find
-<note n="1">Diogenes,
+
 147
 <pb n="148"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4318,11 +4480,18 @@ kal MéAntoe ta adta Katnyopobdytes Grep Kaxetvou oi Tote, Ste ovTE Otwv wpOn mM
 <pb n="149"/>
 <note type="head">DEMONAX</head>
 oblivion of their fortunes, good and bad, and lasting
-liberty. He made it his business also to reconcile
+liberty. 
+
+@
+
+He made it his business also to reconcile
 brothers at variance and to miake terms of peace
 between wives and husbands. On occasion, he has
 talked reason to excited mobs, and has usually persuaded them to serve their country in a temperate
 spirit.
+
+@
+
 Such was the character of his philosophy—kind,
 gentle and cheerful. The only thing which distressed him was the illness or death of a friend,
 for he considered friendship the greatest of human
@@ -4334,19 +4503,23 @@ only from those who seemed to him to be involved
 in sin beyond hope of cure. And in all this, his
 every word and deed was smiled on by the Graces
 and by Aphrodite, even; so that, to quote the
-comedian, “ persuasion perched upon his lips.” }
+comedian, “ persuasion perched upon his lips.” 
+<note n="1">Eupolis, quoted in the note on “ Nigrinus” 7.</note>
+
+@
 Hence all Athens, high and low, admired him
 enormously and always viewed him as a superior
 being. Yet in office he ran counter to public opinion
 and won from the masses quite as much hatred as
-his prototype? by his freedom of speech and action.
+his prototype<note n="2">Socrates.</note>
+ by his freedom of speech and action.
 He too had his Anytus and his Meletus who combined
 against him and brought the same charges that their
 predecessors brought against Socrates, asserting that
 he had never been known to sacrifice and was the
 only man in the community uninitiated in the Eleusinian mysteries. In reply to this, with right goud
-<note n="1">Eupolis, quoted in the note on “ Nigrinus” 7.
-<note n="2">Socrates.
+
+
 149
 <pb n="150"/>
 <note type="head">.</head>
@@ -4405,18 +4578,22 @@ pretty caustic introduction, “ Men of Athens, you see
 me ready with my garland: come, sacrifice me like
 your former victim, for on that occasion your offering
 found no favour with the gods!”
+
+@
+
 I should like to cite a few of his well-directed
 and witty remarks, and may as well begin with
-Favorinus! and what he said to him. When
+Favorinus
+<note n="1">An eunuch from Arles, of considerable repute as a
+sophist.</note> and what he said to him. When
 Favorinus was told by someone that Demonax was
 making fun of his lectures and particularly of the
 laxity of their rhythm, saying that it was vulgar and
 effeminate and not by any means appropriate to
 philosophy, he went to Demonax and asked him:
-“ Wlio are you to libel my compositions?” “A
-<note n="1">An eunuch from Arles, of considerable repute as a
-sophist.
-IS!
+“ Who are you to libel my compositions?” “A
+
+
 <pb n="152"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 v > > , ” A LA 2 La
@@ -4458,24 +4635,32 @@ he. The sophist kept at him and asked: “What
 qualifications had you, Demonax, to leave school
 and commence philosophy?” “ Those-you lack,” he
 retorted.
+
+@
+
 Another time the same man went to him and
 asked what philosophical school he favoured most.
 Demonax replied: “ Why, who told you that I was
 a philosopher?” As he left, he broke into a very
 hearty laugh ; and when Favorinus asked him what
--he was laughing at, he replied: “ It seemed to me
+he was laughing at, he replied: “ It seemed to me
 ridiculous that you should think a philosopher can
 be told by his beard when you yourself have none.”
-When the Sidonian sophist! was once showing.
+@
+When the Sidonian sophist
+<note n="1">Otherwise unknown.</note>
+ was once showing.
 his powers at Athens, and was voicing his own
 praise to the effect that he was acquainted with all
 philosophy—but I may as well cite his very words :
 “If Aristotle calls me to the Lyceum, I shall go
 with him; if Plato calls me to the Academy, I shall
 come; if Zeno calls, I shall spend my time in the
-Stoa ; if Pythagoras calls, I shall hold my tongue.” ?
+Stoa ; if Pythagoras calls, I shall hold my tongue.”
+<note n="2">Alluding to the Pythagorean vow of silence.</note>
 Well, Demonax arose in the midst of the audience
-and said: “ Ho” (addressing him by name), “ Pythagoras is calling you !”’
+and said: “ Ho” (addressing him by name), “ Pythagoras is calling you !”
+@
 When a handsome young fellow named Pytho,
 who belonged to one of the aristocratic families
 in Macedonia, was quizzing him, putting a catchquestion to him and asking him to tell the logical
@@ -4483,8 +4668,8 @@ answer, he said: “I know thus much, my boy—
 it’s a poser, and so are you!” Enraged at the
 pun, the other said threateningly: “I'll show you
 in short order that you’ve a man to deal with!”
-<note n="1">Otherwise unknown.
-<note n="3">Alluding to the Pythagorean vow of silence.
+
+
 153
 <pb n="154"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4524,13 +4709,18 @@ Epoticavtos 6é TUvOs, tis avT@ Spos evdaspovias elvat Soxei, povov evdaipova é
 <pb n="155"/>
 <note type="head">DEMONAX</head>
 whereupon Demonax laughingly inquired: “Oh,
-you will send for your man, then ?”’
+you will send for your man, then ?”
+
+@
+
 When an athlete, whom he had ridiculed for letting himself be seen in gay clothes although he was
 an Olympic champion, struck him on the head with
 a stone and drew blood, each of the bystanders was
 as angry as if he himself had been struck, and they
 shouted “Go to the proconsul!” But Demonax
-said “No! not to the proconsul—for the doctor !””
+said “No! not to the proconsul—for the doctor !”
+
+@
 Finding a bit of jewelry one day while he was out
 walking, he posted a notice in the public square
 asking the one who owned it and had lost it to
@@ -4539,18 +4729,26 @@ setting, the stone, and the engravings on it. Well, a
 pretty girl came to him saying that she had lost it;
 but as there was nothing right in her description,
 Demonax said: “ Be off, girl, and don’t lose your
-own jewel : this is none of yours !”’
+own jewel : this is none of yours !”
+
+@
 A Roman senator in Athens introduced his son
 to him, a handsome boy, but girlish and neurasthenic, saying: “ My son here pays his respects to
 you.” “A dear boy,’ said Demonax, “ worthy of
 you and like his mother!”
+
+@
 The Cynic who pursued his philosophical studies
 clad in a bearskin he would not call Honoratus,
-' which was his name, but Ursinus.
+which was his name, but Ursinus.
 When a man asked him what he thought was
 the definition of happiness, he replied that none but
-. a free man is happy; and when the other said that
-free men were numerous, he rejoined: “But I have
+a free man is happy; and when the other said that
+free men were numerous, he rejoined: 
+
+
+@
+“But I have
 155
 <pb n="156"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4594,14 +4792,23 @@ most part we are all slaves of hope and fear.”
 they do not afford justification either for hope or for
 fear, since, whatever you may say, pains and pleasures
 are alike destined to end.”
+
+@
+
 When Peregrinus Proteus rebuked him for laughing a great deal and making sport of mankind
 saying: “ Demonax, you're not at all doggish!” he
-answered, “ Peregrinus, you are not at all human!” }
+answered, “ Peregrinus, you are not at all human!”
+<note n="1">Peregrinus Proteus, of whose death and translation to a
+higher sphere Lucian has written in "The Passing of Peregrinus,” carried his ‘doggishness’ (Cynicism) to extremes.</note>
+
+@
 When a scientist was talking of the Topsy-turvy
 people (Antipodes), he made him get up, took him
 to a well, showed him their own reflection in the
 water and asked: “Is that the sort of topsy-turvy
 people you mean?”
+
+@
 When a fellow claimed to be a sorcerer and to
 have spells so potent that by their agency he could
 prevail on everybody to give him whatever he
@@ -4609,15 +4816,15 @@ wanted, Demonax said: “Nothing strange in that!
 I am in the same business: follow me to the breadwoman’s, if you like, and you shall see me persuade
 her to give me bread with a single spell and a tiny
 charm ”’—implying that a coin is as good as a spell.
-When Herodes,? the superlative, was mourning
+When Herodes,<note n="2">Herodes Atticus. “Bolydeuces was a favourite slave.</note>
+ the superlative, was mourning
 the premature death of Polydeuces and wanted a
 chariot regularly made ready and horses put to it
 just. as if the boy were going for a drive, and dinner
 regularly served for him, Demonax went to him and
 said: “Iam bringing you a message from Polydeuces.”
-<note n="1">Peregrinus Proteus, of whose death and translation to a
-higher sphere Lucian has written in ‘‘ The Passing of Peregrinus,” carried his ‘doggishness’ (Cynicism) to extremes.
-<note n="2">Herodes Atticus. “Bolydeuces was a favourite slave. -
+
+
 157
 <pb n="158"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4664,6 +4871,9 @@ everyone else, was falling in with his humour; so he
 said: Well, what does Polydeuces want, Demonax?”
 “He finds fault with you,” said he, “ for not going
 to join him at once!’
+
+@
+
 He went to a man who was mourning the death
 of a son and had shut himself up in the dark, and
 told him that he was a sorcerer and could raise the
@@ -4674,6 +4884,8 @@ could not name a single one—Demonax said: “ You
 ridiculous fellow, do you think, then, that you alone
 suffer beyond endurance, when you see that nobody
 is unacquainted with mourning?”
+
+@
 He also liked to poke fun at those who use
 obsolete and unusual. words in conversation. For
 instance, to a man who had been asked a certain
@@ -4681,16 +4893,25 @@ question by him and had answered in far-fetched
 book-language, he said: “I asked you now, but you
 answer me as if I had asked in Agamemnon’s
 day.”
+
+@
+
 When one of his friends said: “ Demonax, let’s
 go to the Aesculapium and pray for my son,” he
 replied: “You must think Aesculapius very deaf,
 that he can’t hear our prayers from where we
 are!”
+
+@
+
 On seeing two philosophers very ignorantly debating a given subject, one asking silly questions and
 the other giving answers that were not at all to the
 point, he said: ‘“ Doesn’t it seem to you, friends,
 that one of these fellows is milking a he-goat and
 the other is holding a sieve for him!”
+
+@
+
 When Agathocles the Peripatetic was boasting
 159
 <pb n="160"/>
@@ -4733,36 +4954,52 @@ avatparévtos Tod oxdgous ims ixOiwv Kata-
 that he was first among the logicians—that there
 was no other, he said: “Come now, Agathocles; if
 there is no other, you are not first: if you are first,
-then there are others.” ;
+then there are others.”
+@
 Cethegus the ex-consul, going by way of Greece
 to Asia to be his father’s lieutenant, did and said
 many ridiculous things. One of the friends of
 Demonax, looking on, said that he was a great goodfor-nothing. ‘No, he isn’t, either,” said he—“ nota
 great one!”
-‘When he saw Apollonius the philosopher leaving
+@
+When he saw Apollonius the philosopher leaving
 the city with a multitude of disciples (he was
 called away to be tutor to the emperor), Demonax remarked: “There goes Apollonius and his
-Argonauts !””!
+Argonauts !”<note n="1">Alluding to Apollonius of Rhodes and his poem on the
+Argonauts, and implying that this was another quest of the
+Golden Fleece.<note n="1">
+
+@
 When a man asked him if lie thought that the
 soul was immortal, he said: “ Yes, but no more so
 than everything else.”
+
+@
 Touching Herodes he remarked that Plato was
 right in saying that we have more than one soul,
-for a man with only one could not feast Regilla? and
+for a man with only one could not feast Regilla
+<note n="2">Wife of Herodes.<note n="1">
+ and
 Polydeuces as if they were still alive and say what
-he did in his lectures. ,
-Orice, on hearing the proclamation which precedes the mysteries, he made bold to ask the
+he did in his lectures.
+
+@
+
+Once, on hearing the proclamation which precedes the mysteries, he made bold to ask the
 Athenians publicly why they exclude foreigners,
 particularly as the founder of the rite, Eumolpus,
 was a foreigner and a Thracian to boot!
+
+@
+
 Again, when he was intending to make a voyage
 in winter, one of his friends remarked: “ Aren’t
 you afraid the boat will capsize and the fishes will
-<note n="1">Alluding to Apollonius of Rhodes and his poem on the
-Argonauts, and implying that this was another quest of the
-Golden Fleece, 2 Wife of Herodes.
+
+
+
 161
-VOL. I. . M
+
 <pb n="162"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Bpw0hs; "Ayvopuwv dv elnv, én, dxvav bro
@@ -4806,37 +5043,50 @@ Ths twoppipas péya povodvta, Kipas adtod
 eat you?” “I should be an ingrate,” said he, “if I
 made any bones about letting the fishes eat me,
 when I have eaten so many of them!”
+
+@
+
 An. orator whose delivery was wretched was
 advised by him to practise and exercise; on his
 replying: “I am always reciting to myself,”
 Demonax answered: “Then no wonder you recite
 that way, with a fool for a hearer!”
+
+@
 Again, on seeing a soothsayer make public forecasts
 for money, he said: “1 don’t see on what ground you
 claim the fee: if you think you can change destiny
 in any way, you ask too little, however much you
 ask; but if everything is to turn out as Heaven has
 ordained, what good is your soothsaying ?”
+@
 When a Roman ofticer, well-developed physically, gave him an exhibition of sword-practice on a
 post, and asked: “ What did you think of my
 swordsmanship, Demonax ?”’ he said: “ Fine, if you
 have a wooden adversary !”
+
+@
+
 ‘Moreover, when questions were unanswerable he
 always had an apt retort ready. When a man asked
 him’ banteringly: “1f I should burn a thousand
 pounds of wood, Demonax, how many pounds of
 smoke would it make?” he replied: “ Weigh the
-ashes: all the rest will be smoke.” ;
+ashes: all the rest will be smoke.” 
+
+@
 A man named Polybius, quite uneducated and
 ungrammatical, said: “The emperor has honoured
 ‘me with the Roman citizenslfip.” “Oh, why
 didn’t he make you a Greek instead of a Roman?”
 said he.
+
+@
 On seeing an aristocrat who set great store on
 the breadth of his purple band, Demonax, taking
 hold of the garment and calling his attention to it,
 163
-mM 2
+
 <pb n="164"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Todrto pévtor mpd aod mpoBartov époper Kal Wp
@@ -4878,37 +5128,62 @@ Kuvixdv tpiBwva Mev Kal mypav éxovra, dv &é
 <note type="head">DEMONAX</head>
 said in his ear: “ A sheep wore this before you, and
 he was but a sheep for all that!”
+
+@
+
 When he was taking a bath and hesitated to
 enter the steaming water, a man reproached him
 with cowardice. “Tell me,’ said he, “was my
 country at stake in the matter?”
+@
 When someone asked him: “What do you
 think it is like in Hades?” he replied: “Wait a
 bit, and I'll send you word from there!”
+
+@
+
 A vile poet named Admetus told him that he
 had written an epitaph in a single line and had given
 instructions in his will to have it carved on his tomb- .
 stone. I may as well quote it exactly :
-“ Earth, in thy bosom receive Admetus’s husk ; he’s
-ag
-a god now!
+<quote>Earth, in thy bosom receive Admetus’s husk ; he’s a god now!</quote>
 Demonax said with a laugh: “The epitaph is so fine
 that I wish it were already carved!”
+
+@
+
+
 A man saw on the legs of Demonax a
 discoloration of the sort that is natural to old
-people, and enquired: “ What’s that, Demonax?”’
+people, and enquired: 
+
+@
+
+“ What’s that, Demonax?”’
 With a smile he said: “The ferryman’s toothmark !”
+
+@
+
 He, saw a Spartan beating a lave, and said:
 “Stop treating him as your equal !’
+
+@
+
 When a woman named Danae had a dispute
-with her brother, he said: “Go to law! Though
+with her brother, he said: “Go to law! 
+
+@
+
+Though
 your name be Danae, you are not the daughter "of
-Acrisius (Lawless).”’
+Acrisius (Lawless).”
+<note n="1">Whipping was a feature of the Spartan training.</note>
+@
 Above all, he made war on those who cultivate
 philosophy in the spirit of vainglory and not in the
 spirit of truth. For example, on seeing a Cynic with
 cloak and wallet, but with a bar (hyperon) for a
-<note n="1">Whipping was a feature of the Spartan training.
+
 165
 <pb n="166"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -4946,12 +5221,19 @@ TiWévar Ta Knpia;
 staff, who was making an uproar and saying that: he
 was the follower of Antisthenes, Crates, and
 Diogenes, Demonax said: “Don’t lie! You are.
-really a disciple of Barson (Hyperides!)!”’
+really a disciple of Barson (Hyperides<note n="1">Perhaps an unknown Cynic; but the name may be used
+just for the sake of the pun, without reference to a definite
+person.</note>)!”
+
+@
+
 When he saw many of the athletes fighting
 foul and breaking the rules of the games by biting
 instead of boxing, he said : “ No wonder the athletes
 of the present day are called ‘lions’ by their
 hangers-on !”
+
+@
 His remark to the proconsul was at once
 clever and cutting. This man was one of the sort
 that use pitch to remove hair from their legs and
@@ -4965,17 +5247,17 @@ for making bold to speak his mind in the traditional
 Cynic way. The proconsul said: “ Well, I will let
 him off for you this time, but if he ever dares to do
 such a thing again, what shall be done to him?”
-* Have him depilated !’’ said Demonax.
+"Have him depilated !" said Demonax.
+@
 One to whom the emperor had entrusted the
 command of legions and of the most important
 province asked Demonax what was the best way to
 exercise authority. “Don’t lose your temper!” said
 he: “Do little talking and much listening!”
+@
 When someone asked him: “Do you eat honeycakes?”’ he replied: “ What! do you think the
 bees lay up their honey just for fools?”
-<note n="1">Perhaps an unknown Cynic; but the name may be used
-just for the sake of the pun, without reference to a definite
-person,
+
 167
 <pb n="168"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -5013,37 +5295,53 @@ Avoyévous etxova avateBeixacwy.
 58
 <pb n="169"/>
 <note type="head">DEMONAX</head>
-. On seeing near the Painted Porch a statue with
+@
+
+On seeing near the Painted Porch a statue with
 its hand cut off, he remarked that it was pretty
 late in the day for the Athenians to be honouring
-Cynegirus 1 with a bronze statue.
+Cynegirus
+<note n="1">Brother of Aeschylus, who lost his hand at Marathon,
+and the Painted Porch was so called from a fresco by Polygnotus representing the battle.</note>
+ with a bronze statue.
+
+@
+
 Noting that Rufinus the Cypriote (I mean the
 ‘lame man of the school of Aristotle) was spending
 much time in the walks of the Lyceum, he
 remarked: “Pretty cheeky, I call it—a lame
 Peripatetic (Stroller) !”
+
+@
+
 When Epictetus rebuked him and advised him to
 get married and have children, saying that a philosopher ought to leave nature a substitute when he
 is gone, his answer was very much to the point:
 « Then give me one of your daughters, Epictetus!”
+
+@
 His reply to Herminus the Aristotelian deserves
 mention, Aware that, although he was an out-andout scoundrel and had done a thousand misdeeds,
 he sang the praises of Aristotle and had his Ten
 Sentences (the Categories) on his tongue’s end,
 Demonax said: “ Herminus, you really need ten
 sentences !”
+
+@
 When the Athenians, out of rivalry with the
 Corinthians, were thinking of holding a gladiatorial
 show, he came before th.m and said: “ Don’t pass
 this resolution, men of Athens, without first pulling
 down the altar of Mercy.”
+
+@
 When he went to Olympia’and the Eleans voted
 him a bronze statue, he said: “Don’t do this, men
 of Elis, for fear you may appear to reflect on yotr
 ancestors because they did not set up statues either
 to Socrates or to Diogenes.”
-<note n="1">Brother of Aeschylus, who lost his hand at Marathon,
-and the Painted Porch was so called from a fresco by Polygnotus representing the battle.
+
 169
 <pb n="170"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -5079,20 +5377,29 @@ mpocédepov adt@ marépa- dvoudtovtes. otdoews 64
 <note n="1">xpos Tov... To A.M.H.; pds Tov MSS,
 170
 <pb n="171"/>
+
+@
 <note type="head">DEMONAX</head>
 I once heard him say to... ., the lawyer, that
 in all likelihood the laws were of no use, whether
 framed for the bad or the good ; for the latter had no
 need of laws, and the former were not improved by
 them.
+@
 From Homer the one line he most frequently
 quoted was :
-“ Idler or toiler,’ tis all one to Death.’’!
+
+<cit><quote><l>Idler or toiler,’ tis all one to Death.’</l>
+</quote> <bibl>Iliad 9, 320.</bibl></cit>
+@
 He had a good word even for Thersites, calling
 him a mob-orator of the Cynic type.
-- When he was once asked which of the philosophers he liked, he said: “They are all admirable,
+@
+When he was once asked which of the philosophers he liked, he said: “They are all admirable,
 but for my part I revere Socrates, I wonder at
 Diogenes, and I love Aristippus.”
+@
+
 He lived almost a hundred years, without illness
 or pain, bothering nobody and asking nothing of
 anyone, helping his friends and never making an
@@ -5101,16 +5408,16 @@ conceived such affection for him that when he passed
 by the magistrates rose up in his honour and there
 was silence everywhere. Toward the end, when ‘he
 was very old, he used to eat and sleep uninvited in
-‘any house which he chanced to be passing, and
+any house which he chanced to be passing, and
 the inmates thought that it was almost a divine visitation, and that good fortune had entered their
 doors. As he went by, the bread-women would pull
 him toward them, each wanting him to take some
 bread from her, and she who succeeded in giving it
 thought that she was in luck. The children, too,
 brought him fruit and called him father. Once when
-<note n="2">Iliad 9, 320.
+
 171
-~
+
 <pb n="172"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 bé mote “AOnvnoe syevopevns elo dOev ets THY
@@ -5145,19 +5452,26 @@ ae
 67
 <pb n="173"/>
 <note type="head">DEMONAX</head>
-' there was a party quarrel in Athens, he went intod
+there was a party quarrel in Athens, he went intod
 the assembly and just by showing himself reduced
 them to silence: then, seeing that they had already
 repented, he went away without a word.
+
+@
 When he realised that he was no longer able
 to wait upon himself, he quoted to those who
 were with him the verses of the heralds at the
 games :
-Here endeth a contest awarding the fairest
-Of prizes: time calls, and forbids us delay.
+<quote>
+<l>Here endeth a contest awarding the fairest</l>
+<l>Of prizes: time calls, and forbids us delay.</l>
+</quote>
 Then, refraining from all food, he took leave of life
 in the same cheerful humour that people he met
-always saw him in. A short time before the end
+always saw him in.
+
+@
+ A short time before the end
 he was asked: “What orders have you to give
 about your burial?” and replied: “ Don’t borrow
 trouble! The stench will get me buried!” The
@@ -5165,7 +5479,10 @@ man said: “ Why, isn’t it disgraceful that the body
 of such a man should be exposed for birds and
 dogs to devour?’’ “I see nothing out of the way
 in it,” said he, “if even in death I am going to be
-of service to living things.” But the- Athenians
+of service to living things.” 
+@
+
+But the Athenians
 gave him a magnificent public funeral and mourned
 him Jong. To honour him, they did obeisance to
 the stone bench on which he used to rest when he
@@ -5230,13 +5547,17 @@ to become part and parcel of its beauty? Or after
 looking it over carefully and admiring it, would he
 rather go away and leave it mute and voiceless,
 without according it a word of greeting or a particle
-of intercourse, as if he were dumb or else out of illwill had resolved to hold his tongue? Heracles! such
-~ conduct would not be that of a connoisseur or a
+of intercourse, as if he were dumb or else out of illwill had resolved to hold his tongue? 
+
+@
+
+Heracles! such
+conduct would not be that of a connoisseur or a
 lover of beauty; it would be very vulgar, tasteless,
 even Philistine to despise what is sweetest, to reject
 what is fairest, and not to comprehend that in all
 that appeals to the eye, the same law does not hold
-for ‘ordinary and for educated men. No, for the former
+for ordinary and for educated men. No, for the former
 it is enough to do the usual thing—just to see, to
 look about, to cast their eyes everywhere, to crane
 177
@@ -5280,9 +5601,16 @@ be content, I am sure, to harvest their charm. with
 his eyes alone, and will not endure to be a silent
 spectator of their beauty; he will do all he can to
 linger there and make some return for the spectacle
-in speech. And such a return does not consist
+in speech. 
+
+@
+
+And such a return does not consist
 simply in praising the hall. No doubt it was fitting -
-for Homer's island boy 1 to be astounded at the house
+for Homer's island boy 
+<note n="1">Telemachus (Odyss. 4, 71): he compares the house of
+Menelaus to the palaces of the gods.</note>
+ to be astounded at the house
 of Menelaus and to compare its ivory and gold to the
 beautiful things in heaven because he had never seen
 anything else on earth that was beautiful. But to
@@ -5299,8 +5627,7 @@ appreciative hearer, and applauding the speaker and
 gracefully repeating his phrases. In some such way
 the rocks pipe in answer to the piping of the shepherds when the sound comes back again by repercussion and returns upon itself. The untaught think
 it is a maid who answers all who sing and shout,
-<note n="1">Telemachus (Odyss. 4, 71): he compares the house of
-Menelaus to the palaces of the gods.
+
 79
 <pb n="180"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -5339,6 +5666,9 @@ To Oadpa, téxvn Se 4 KddAXdOS 4 reps 4 TO
 <note type="head">THE HALL</head>
 abiding somewhere in the heart of the cliffs and
 talking from the inside of the crags.
+
+@
+
 To me, at least, it seems that a splendid hall
 excites the speaker's fancy and stirs it to speech, as
 if he were somehow prompted by what he sees.
@@ -5347,7 +5677,8 @@ eyes into the soul, and then fashions into the likeness of itself the words that
 case of Achilles, the sight of his armour enhanced
 his anger at the Trojans, and when he put it on to
 try it, he was inspired and transported with the lust
-of battle! Then are we to believe that the passion
+of battle.<note n="1">Iliad, 19, 16; 384.</note>
+ Then are we to believe that the passion
 for speech is not enhanced by beautiful surroundings? Socrates was satisfied with a fine plane-tree
 and lush grass and a spring of clear water.not far from
 the Ilissus: sitting there, he plied his irony at the
@@ -5356,16 +5687,22 @@ speech of Lysias, son of Cephalus, and invoked
 the Muses, believing that they would come to a
 sequestered spot and take part in the debate on
 love, and thinking no shame, old as he was, to invite
-maids to join him in amorous ditties? May we not
+maids to join him in amorous ditties.
+
+<note n="3">Herod. 7, 27.</note>
+ May we not
 suppose that they would come to a place as beautiful
 as this, even without an invitation ?
+
+@
 In truth, our shelter is not to be compared with
 mere shade or with the beauty of a plane-tree, not
 even if you pass over the one on the Ilissus and
-mention the Great King’s golden plane. That was
+mention the Great King’s golden plane.<note n="2">Plato, Phaedrus, 229 seq.</note> That was
 wonderful only on account of its cost ; there was no
-<note n="1">Tliad, 19, 16; 384. 2 Plato, Phaedrus, 229 seq.
-<note n="3">Herod. 7, 27.
+
+
+
 181
 <pb n="182"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -5403,10 +5740,15 @@ craftsmanship or beauty or charm or symmetry or
 grace wrought into the gold or combined with it.
 The thing was barbarous, nothing but money, a
 source of envy to those who saw it, and of felicitation to those who owned it. There was nothing
-praiseworthy about it. The Arsacids! neither cared
+praiseworthy about it. The Arsacids<note n="1">Anachronism ; the possessors of the tree were the Achaemenid princes.</note>
+ neither cared
 for beauty nor aimed at attractiveness in making
 their display nor minded whether the spectators
-praised or not,as long as they were astounded. The
+praised or not,as long as they were astounded. 
+
+@
+
+The
 barbarians are not beauty-levers; they are moneylovers. On the contrary, the beauty of this hall
 has nothing to do with barbarian eyes, Persian
 flattery, or Sultanic vainglory. Instead of just a
@@ -5421,11 +5763,14 @@ the proportion of length to “breadth and of both to
 height is harmonious; the windows are generous
 and well-suited to every season of the year. Is not
 all this attractive and praiseworthy ?
+
+@
+
 One might also admire the ceiling for its reserved
 modelling, its flawless decoration, and the refined -
 symmetry of its gilding, which is not unnecessarily
-,
-<note n="1">Anachronism ; the possessors of the tree were the Achaemenid princes,
+
+
 183
 <pb n="184"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -5479,7 +5824,10 @@ something very bright. This is the course they
 follow ; but a modest girl uses only what gold is
 sufficient and necessary, and would not be ashamed
 of her beauty, I am sure, if she were to show it
-unadorned. _
+unadorned.
+
+@
+
 The ceiling of this hall—call it the face if you
 will—well-featured itself, is as much embellished by
 the gilding as heaven by the stars at night, with
@@ -5529,10 +5877,19 @@ GpirrAGtat. Kat wpos tod wediov TO - KadXOs.
 sweet radiance, and colours the whole hall with its
 flush ; for when the light, striking the gold, lays
 hold of it and combines with it, they gleam jointly
-and make the flush doubly brilliant,
+and make the flush doubly brilliant.
+
+@
+
 Such is the top, the summit of the hall: it
-needs a Homer to praise it by calling it “highceiled” like the chamber of Helen! or “dazzling” like
-Olympus.? The rest of the decoration, the frescoes
+needs a Homer to praise it by calling it “highceiled” like the chamber of Helen
+<note n="1">Il. 3, 423; Od. 4. 121.</note><note n="1">Il. 3, 423; Od. 4. 121.</note>
+
+ or “dazzling” like
+Olympus.
+
+<note n="2">Il. 1, 253; 13, 243; Od. 20, 103.</note>
+ The rest of the decoration, the frescoes
 on the walls, the beauty of their colours, and the
 vividness, exactitude, and truth of each detail might
 well be compared with the face of spring and with a
@@ -5541,6 +5898,9 @@ wither and change and cast their beauty, while this
 is spring eternal, field unfading, bloom undying.
 Naught but the eye touches it and culls the
 sweetness of what it sees.
+
+@
+
 Who would not be charmed with the sight or
 all these beautiful things? Who would not want to
 outdo himself in speaking among them, aware that
@@ -5552,9 +5912,12 @@ that receives his tread pleasantly, yields a little to
 his foot, and does not shock his hoof. Then he puts
 in play all his power of running, gives himself over
 to speed and nothing else, and vies with the beauty
-of the plain. The peacock, too, at the opening
-<note n="1">TI. 3, 423; Od. 4. 121.
-<note n="2">Il, 1, 253; 13, 243; Od. 20, 103.
+of the plain. 
+
+@
+
+The peacock, too, at the opening
+
 187
 <pb n="188"/>
 <note type="head">THE WORKS OF LUCIAN</head>
