@@ -1,14 +1,5 @@
-<pb n="1"/>
-<note type="head">THE WORKS OF LUCIAN</head>
-PHALARIS
-This piece and its fellow should not be taken as ‘a scrious
-attempt to whitewash Phalaris and to excuse Delphi for
-accepting a tainted gift. They are good specimens of the
-stock of a rhetorician, and something more. To put yourself
-in another man’s shoes and say what he would have said was
-a regular exercise of the schools, but to laugh in your sleeve
-as you said it was not the way of the ordinary rhetorician.
-VoL, 1. B
+
+
 <pb n="2"/>
 <note type="head">AYKIANOY</head>
 PAAAPIS,
@@ -33,9 +24,12 @@ S& dy ép& tov Ocov adtov pwdptupa, bv ov et
 FR. Schwartz, Nilén. :
 2
 <pb n="3"/>
-<note type="head">THE WORKS OF LUCIAN</head>
-PHALARIS
-I
+<div type="translation" n="tlg0062.tlg001">
+<head>PHALARIS<note>This piece and its fellow should not be taken as a serious attempt to whitewash Phalaris and to excuse Delphi for accepting a tainted gift. They are good specimens of the stock of a rhetorician, and something more. To put yourself in another man’s shoes and say what he would have said was a regular exercise of the schools, but to laugh in your sleeve as you said it was not the way of the ordinary rhetorician.</note></head>
+<div type="textpart" subtype="book" n="1">
+<head>I</head>
+<div type="textpart" subtype=" section" n="1">
+<p>
 Men of Delphi, we have been sent by our ruler
 Phalaris to bring your god this bull, and to say to
 you what should be said about Phalaris himself and
@@ -54,8 +48,8 @@ and convince you that there was no reason to think
 me cruel, I shall have cleared myself through you
 before the rest of the Greeks. And I call your god.
 himself to witness what I am about to say. Of
-wo
-bo
+
+
 <pb n="4"/>
 <note type="head">oer. BE, WORKS OF LUCIAN</head>
 a 2 , \ \ ” > a
@@ -262,7 +256,7 @@ given me.
 ‘Well, what did I do then? I summoned the
 men implicated, gave them a hearing, brought in the
 evidence, and clearly convicted them on each count;
-9
+
 <pb n="10"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 déyEas éxaoTa, émel pnd? avrol éte eLapvor
@@ -331,7 +325,7 @@ out of the way just the same, for they fix their
 eyes on the bad tyrants and include the good in
 equal hatred by reason of the common title. Yet
 I hear that among you Greeks there have been many
-II
+
 <pb n="12"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 yevésOas Tupdvvovs copovs vd davrA@ dvopuaTe
@@ -517,7 +511,7 @@ metal-worker but a bad man, Completely missing
 my point of view, this fellow thought to do me a
 favour by inventing a new punishment, imagining
 that I wanted to punish people in any and every
-way. . So he made the bull and came to me with it,
+way. So he made the bull and came to me with it,
 a very beautiful thing to look at and a very close
 copy of nature ; motion and voice were all it needed
 to make it seem actually alive. At the sight of it I
@@ -538,8 +532,7 @@ you are entertained by having flutes played to you.”
 
 When I heard this I was disgusted with the wicked
 ingenuity of the fellow and hated the idea of the
-17
-VOL. I. c
+
 <pb n="18"/>
 <note type="head">-THE WORKS OF LUCIAN</head>
 Kal TH érrivoray éulonoa, Tod KaTacKevdo patos
@@ -667,8 +660,14 @@ pray for Acragas and for Phalaris himself. Do not
 send us away unsuccessful or insult him or deprive
 the god of an offering at once most beautiful and
 most fitting.
+</p></div></div>
 
-@b2
+<div type="textpart" subtype="book" n="2">
+<head>II</head>
+<div type="textpart" subtype=" section" n="1">
+
+
+<p>
 I am neither an official representative of the
 people of Acragas, men of Delphi, nor a personal
 representative of Phalaris himself, and I have no
@@ -855,7 +854,7 @@ vopov Kabtotavat, puvdroxpweiv Ta dva0jpata Kab
 <pb n="27"/>
 <note type="head">PHALARIS II</head>
 rocks is something we need not wait for Homer to
-tell us—anyone can see it for himself.<note n="1">“ Rocky Pytho” is twice mentioned in the Iliad (2, 519;</note>
+tell us—anyone can see it for himself.<note n="1">“ Rocky Pytho” is twice mentioned in the Iliad (2, 519;
 9, 405). But Lucian is thinking particularly of the Homeric
 Hymn to Apollo, toward the close of which (526f.) the
 Cretans whom Apollo has settled at Delphi ask him haw they
@@ -987,7 +986,7 @@ all, you see how many good things fill the temple :
 all men give, and some are more generous to the
 god than their means warrant.
 
-@
+@13
  But if you make
 yourselves examiners and inquisitors upon gifts, I
 doubt we shall be in want of people to examine
@@ -998,11 +997,9 @@ to make an oblation?
 <pb n="32"/>
 <note type="head">Google</head>
 <pb n="33"/>
-<note type="head">HIPPIAS, OR THE BATH</head>
-‘Description ” (ecphrasis) was a favourite rhetorical exercise, though many frowned on it. In the “ Rhetoric”
-attributed to Dionysius of Halicarnassus (X, 17 Usener) it is
-called ‘‘an empty show and a waste of words.” It is the
-general opinion that this piece is not by Lucian.
+
+
+
 VOL. 1. Dd
 <pb n="34"/>
 <note type="head">INMIAS H BAAANEION °</head>
@@ -1029,8 +1026,16 @@ of ye Tots Adyots povots eyyeyupvacpévor copiaTul
 <note n="1">wapadelypara Rothstein: mpdypara MSS.
 . 34 :
 <pb n="35"/>
-<note type="head">HIPPIAS, OR THE BATH</head>
-Amone wise men, I maintain, the most praiseworthy are they who not only have spoken cleverly
+</p>
+</div>
+</div>
+</div>
+<div type="translation" n="tlg0062.tlg002">
+<head>HIPPIAS, OR THE BATH<note>"Description” (ecphrasis) was a favourite rhetorical exercise, though many frowned on it. In the “ Rhetoric” attributed to Dionysius of Halicarnassus (X, 17 Usener) it is called "an empty show and a waste of words.” It is the general opinion that this piece is not by Lucian.</note></head>
+<div type="textpart" subtype=" section" n="1">
+<p>
+
+Among wise men, I maintain, the most praiseworthy are they who not only have spoken cleverly
 on their particular subjects, but have made their
 assertions good by doing things to match them.
 Take doctors, for instance: a man of sense, on falling
@@ -1349,12 +1354,12 @@ who will join me in my words of praise.
 <pb n="47"/>
 <note type="head">DIONYSUS</head>
 AN INTRODUCTION 
-In Lucian’s time it became the custom to introduce a
+<note>In Lucian’s time it became the custom to introduce a
 formal piece of rhetorical fireworks with an informal talk,
 usually more or less personal. See A. Stock, de prolaliarum
 usu rhetorico, Konigsberg, 1911. It is the general belief that
 the ‘Dionysus’ introduced Book ii. of the ‘True Story.’
-
+</note>
 
 <pb n="48"/>
 <note type="head">TIPOAAAIA. AIONTZOS</head>
@@ -1380,8 +1385,12 @@ Botptos éorepavwpévor, pitpa Thy Kounv ava-
 
 
 <pb n="49"/>
-<note type="head">DIONYSUS: AN INTRODUCTION</head>
+</p></div></div>
 
+<div type="translation" n="tlg0062.tlg003">
+<head>DIONYSUS: AN INTRODUCTION<note>In Lucian’s time it became the custom to introduce a formal piece of rhetorical fireworks with an informal talk, usually more or less personal. See A. Stock, de prolaliarum usu rhetorico, Konigsberg, 1911. It is the general belief that the ‘Dionysus’ introduced Book ii. of the ‘True Story.’
+</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
 When Dionysus led his host against the men of 
 Ind (surely there is nothing to prevent my telling
 you a tale of Bacchus !), he was held at first in such
@@ -1445,13 +1454,13 @@ Schwartz, 2 xdvras MSS. : xdvra Schwartz.
 <pb n="51"/>
 <note type="head">DIONYSUS</head>
 a ribbon, and is in a purple gown and gilt slippers.
-He has two lieutenants. One! is a short, thick-set
+He has two lieutenants. One<note n="1">Silenus</note>  is a short, thick-set
 old man with a big belly, a flat nose and large,
 up-standing ears, who is a bit shaky and walks with
 a staff (though for the most part he rides on an ass),
 and is also in a woman’s gown, which is yellow; he
 is a very appropriate aide to such a chief! The
-other? is a misbegotten fellow like a goat in the
+other<note n="2">Pan</note> is a misbegotten fellow like a goat in the
 underpinning, with hairy legs, horns, and a long
 beard; he is choleric and hot-headed, carries a
 shepherd’s pipe in his left hand and brandishes a
@@ -1477,8 +1486,8 @@ ridiculous, every one of them! But word soon came
 that the god was setting the country in a blaze,
 burning up cities and their inhabitants and firing the
 forests, and that he had speedily filled all India with
-<note n="1">Silenus, 2 Pan.
-§t
+
+
 <pb n="52"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Atovvotaxoy TO Tip, watppov aiT@ KaKx Tod
@@ -1712,7 +1721,7 @@ and leaves it unfinished, when he drinks again
 another season he takes up what he was saying the
 year before when the fumes left him!
 
-@
+@8
 
 Permit me this joke at my own expense, in the
 spirit of Momus. I refuse to draw the moral, I
@@ -1753,14 +1762,12 @@ yevav. Kaitos Td trapadokstatov ovdérw épnv
 1
 <pb n="63"/>
 <note type="head">_ HERACLES</head>
-AN INTRODUCTION
-Tue Celts call Heracles Ogmios in their native
-tongue, and they portray the god in a very peculiar
-way. To their notion, he is extremely old, baldheaded, except for a few lingering hairs which are
-quite gray, his skin is wrinkled, and he is burned as
-black as can be, like an old sea-dog. You would
-think him a Charon. or a sub-Tartarean Iapetus<note n="1">Chief of the Titans, who warred on Zeus and after their
-defeat were buried for ever in the bowels of the earth, below
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg004">
+<head>HERACLES: AN INTRODUCTION</head>
+<div type="textpart" subtype=" section" n="1"><p>
+The Celts call Heracles Ogmios in their native tongue, and they portray the god in a very peculiar way. To their notion, he is extremely old, baldheaded, except for a few lingering hairs which are quite gray, his skin is wrinkled, and he is burned as black as can be, like an old sea-dog. You would think him a Charon. or a sub-Tartarean Iapetus<note n="1">Chief of the Titans, who warred on Zeus and after their defeat were buried for ever in the bowels of the earth, below
 Tartarus.</note>—
 anything but Heracles! Yet, in spite of his looks,
 he has the equipment of Heracles: he is dressed in
@@ -1897,10 +1904,14 @@ Kalpov émrirOev dvapyncOivar Tis eixovos: Téws
 <pb n="67"/>
 <note type="head">HERACLES</head>
 full vigour in old age, if your poets are right in
-saying ‘A young man hath a wandering wit’<note n="1">Iliad 3, 108. </note> and
-‘Qld age has wiser words to say than youth.’<note n="2 Eur. Phoen. 530. </note>
-That is why your Nestor’s tongue distils honey,<note n="3">Iliad 1, 249.  </note> and
-why the Trojan counsellors have a voice like flowers<note n="4 Iliad 3, 152. </note>
+saying 
+<cit><quote><l>A young man hath a wandering wit</l>
+</quote>
+<bibl>Eur. Phoen. 530</bibl></cit>.
+
+
+That is why your Nestor’s tongue distils honey,<note n="3">Iliad 1, 249.</note> and
+why the Trojan counsellors have a voice like flowers<note n="4">Iliad 3, 152. </note>
 (the flowers mentioned are lilies, if my memory
 serves). 
 
@@ -1989,16 +2000,16 @@ when I remember that old Heracles, I am moved to
 undertake anything, and am not ashamed to be so
 bold, since I am no older than the picture.
 
-@
+@8
 
  Goodbye,
 then, to strength, speed, beauty and all manner of
 physical excellence! Let your god of love, O Tean
-poet,</note>
+poet,
 <note n="2">Anacreon (frg. 23 Bergk): the poem is lost.</note>
  glance at my grizzled chin and flit by me if he
 will on his gold-gleaming pinions: Hippoclides will
-not mind!</note>
+not mind!
 <note n="3">Hippoclides of Athens, one of many suitors for the hand
 of the daughter of Clisthenes, tyrant of Sicyon, was preferred
 above them all. But at the feast which was to have announced his engagement he danced so well and so unwisely that Clisthenes was disgusted and said ‘Son of
@@ -2036,17 +2047,15 @@ breeze “ that fills the sail, a good companion.”
 <note n="1">Odyss. 11,7; 12, 149.</note> If
 anyone thinks me worthy, I would have him apply
 to me the words of Homer:
-“ How stout a thigh the old man’s rags reveal !”
-</note>
-<note n="2"> Odyss. 18, 74.
+<cit><quote><l>How stout a thigh the old man’s rags reveal !</l>
+</quote>
+<bibl>Odyss. 18, 74</bibl></cit>
 
 <pb n="72"/>
-<note type="head">Original from</head>
-Digitized by (GO gle UNIVERSITY OF CALIFORNIA
+
 <pb n="73"/>
 <note type="head">AMBER, OR THE SWANS</head>
-The introduction to a lecture, evidently familiar to
-Lucian’s public under two names.
+<note>The introduction to a lecture, evidently familiar to Lucian’s public under two names.</note>
 <pb n="74"/>
 <note type="head">TIEPI TOT HAEKTPOT H TON KTKNON</head>
 ’"Hréxrpov mépe cab tas dyrad9) 0 pdOos
@@ -2073,7 +2082,10 @@ cOat éxdippevOévta, .xal tas ddeAdds adTod
 74
 2
 <pb n="75"/>
-<note type="head">AMBER, OR THE SWANS</head>
+</p></div></div>
+<div type="translation" n="tlg0062.tlg005">
+<head>Amber, or the Swan<note>The introduction to a lecture, evidently familiar toLucian’s public under two names.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
 With regard to amber, you doubtless share the
 general belief in the story that poplars on the banks
 of the river Eridanus shed tears of it in grief over ‘
@@ -2227,7 +2239,7 @@ the sweet song you speak of, we never heard it or
 even dreamed of it, so we wonder how these stories
 about us got to your people.”
 
-@
+@6
 
 Many such deceptions can be practised on men
 when they put faith in those who exaggerate everything they tell. Therefore I am now afraid on my
@@ -2244,7 +2256,7 @@ their words distil very gold instead of amber, and
 they are far more melodious than the swans of
 poetry. But as for my talk, you already see how
 simple and matter-of-fact it is, and that there is no -
-music to it. -So look out that you do not set your
+music to it. So look out that you do not set your
 hopes of me too high, and thereby have an experience
 like people who see things under water. They expect
 them to be as large as they looked through the
@@ -2259,14 +2271,14 @@ expectations !
 
 
 <pb n="80"/>
-<note type="head">Google</head>
 <pb n="81"/>
 <note type="head">THE FLY</head>
+<note>
 It need hardly be said that this belongs to the domain of
 belles lettres, not of science. Like the Italian poets of the
 Renaissance, the rhetoricians of the decadence delighted to
 show their cunning by “praising” all manner of things good,
-bad, and indifferent.
+bad, and indifferent.</note>
 <pb n="82"/>
 <note type="head">MYIAS EPKQMION</head>
 ‘H pvia gore pev od 7d)! opixpotdrov tav
@@ -2295,7 +2307,10 @@ Nilén.
 
 
 <pb n="83"/>
-<note type="head">THE FLY</head>
+</p></div></div>
+<div type="translation" n="tlg0062.tlg006">
+<head>THE FLY<note>It need hardly be said that this belongs to the domain of belles lettres, not of science. Like the Italian poets of the Renaissance, the rhetoricians of the decadence delighted to show their cunning by “praising” all manner of things good, bad, and indifferent.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
 The fly is not the smallest of winged creatures, at
 least in comparison with gnats and midges and things
 still tinier. On the contrary, she is as much er
@@ -2432,6 +2447,7 @@ When pails are wet with milk.”
 <cit><quote><l>‘the many hordes of clustering flies</l>
 <l>That dart about the sheepfolds in the spring,</l>
 <l>When pails are wet with milk.</l>
+</quote>
 <bibl>Iliad 2, 469</bibl></cit>
 
 
@@ -2462,7 +2478,7 @@ seeks to praise the foremost of the heroes,
 not compare his bravery to a lion’s or a leopard’s or
 a wild boar’s, but to the fearlessness of the fly and
 the daring and insistency of her attack. He does
-not say that she is reckless, but fearless :</note>
+not say that she is reckless, but fearless :
 <note n="2">The distinction (unknown to Homer) is between thrasos
 and tharsos.</note>
  that even
@@ -2471,13 +2487,15 @@ to bite. So outspoken is he in his praise and fondness for the fly that he menti
 once or twice but often; in consequence, references
 to her enhance the beauty of his poems. Now he
 describes her swarming flight after milk ;<note>
-<cit><quote><l>‘the many hordes of clustering flies</l>
+<cit><quote><l>the many hordes of clustering flies</l>
 <l>That dart about the sheepfolds in the spring,</l>
 <l>When pails are wet with milk.</l>
+</quote>
 <bibl>Iliad 2, 469</bibl></cit>
 
 <cit><quote><l>They swarmed about the body like the flies</l>
 <l>That in the fold buzz round the milky pails.</l>
+</quote>
 <bibl>Iliad 16, 641</bibl></cit></note> now, when
 
 
@@ -2523,7 +2541,7 @@ the fly into the comparison.<note n="1">Iliad 4, 130.</note>
  Moreover, he has adorned
 them with fine epithets in calling them “ clustering”
 and their swarms “ hordes.”
-</note>
+
 <note n="2">Iliad 2, 469.</note>
 
 @
@@ -2632,7 +2650,7 @@ originally the name of a girl.</note>
 Endymion, she begrudges all sleepers their repose,
 especially those of tender years; and even her
 biting and bloodthirstiness is not a sign of savagery,
-but of love and friendship. She gets what satisfac-
+but of love and friendship. She gets what 
 
 
 <pb n="92"/>
@@ -2674,7 +2692,7 @@ drt auporepa, kal ta Onredv Kal Ta dppévor,
 
 <pb n="93"/>
 <note type="head">THE FLY</head>
-fion she can, and culls something of the bloom of
+satisfaction she can, and culls something of the bloom of
 beauty.
 
 @
@@ -2690,15 +2708,15 @@ have not been ashamed to give it to their daughters.
 As for tragedy, it, too, mentions the fly with great
 praise; for example, in these words:
 <cit><quote>
-'Tis strange that while the fly with hardy
-strength
-Encounters man to sate itself with gore,
-Stout men-at-arms should fear the foeman’s
-lance!</quote>
+<l>'Tis strange that while the fly with hardy
+strength</l>
+<l>Encounters man to sate itself with gore,</l>
+<l>Stout men-at-arms should fear the foeman’s
+lance!</l></quote>
 
 <bibl>unknown (Nauck, Tag. Graec. Fragm., adesp.</bibl></cit>
 I could also say a great deal about Muia, the Pytha
-gorean, if her story were not known to everyone.</note>
+gorean, if her story were not known to everyone.
 <note n="3">Very little of her story is known to us. She is said to
 have been daughter of Pythagoras and wife of Milo, the
 athlete of Croton.</note>
@@ -2737,17 +2755,14 @@ goes, I am making an elephant out of a fly.
 
 
 <pb n="96"/>
-<note type="head">Digitized by Goc gle</head>
-Original from
-UNIVERSITY OF CALIFORNIA
-ar
+
+
 <pb n="97"/>
 <note type="head">NIGRINUS</head>
-Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus,
+<note>Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus,
 about whom we have scarcely any information, and others
-have thought him a child of Lucian’s fancy. But it is quite
-oe that he really existed, and led, as Lucian says, a
-life of retirement.
+have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a
+life of retirement.</note>
 
 <pb n="98"/>
 <note type="head">IIPOY NIFPINON EIZTOAH</head>
@@ -2773,7 +2788,11 @@ opolav Adyar, GAN dpvw petaBéBrANoat Kab Gras
 
 
 <pb n="99"/>
-<note type="head">LETTER TO NIGRINUS</head>
+</p></div></div>
+<div type="translation" n="tlg0062.tlg007">
+<head> NIGRINUS<note>Except through Lucian, nothing is known of this philosopher. Some have sought to identify him with one Albinus, about whom we have scarcely any information, and others have thought him a child of Lucian’s fancy. But it is quite possible that he really existed, and led, as Lucian says, a life of retirement.</note></head>
+<div type="textpart" subtype=" section" n="intro">
+<head>LETTER TO NIGRINUS</head>
 <p>Best wishes to Nigrinus from Lucian !</p>
 
 <p>The proverb says “ An ow] to Athens!” meaning
@@ -2787,16 +2806,18 @@ my state of mind which I wish to reveal to you, how
 I feel now, and how deeply I have been moved by
 your discourse. So I may fairly be acquitted even
 of the charge contained in Thucydides’ saying<note n="1">2, 40, 3.</note> that
-ignorance makes mien bold, but discourse</note>
+ignorance makes men bold, but discourse
 <note n="2">To bring out the play on words, "discourse ” is used here
 in the obsolete sense of "consideration, reflection.”</note>
  cautious,
 for clearly this great hardihood of mine is not due to
 ignorance alone, but also to fondness for discourse !
 Good health to you !
-@1
-THE WISDOM OF NIGRINUS
-A. How very lordly and exalted you are since
+</p></div>
+<div type="textpart" subtype=" section" n="1">
+<head>THE WISDOM OF NIGRINUS</head>
+
+<p><label>A</label> How very lordly and exalted you are since
 you came back! Really, you don’t deign to notice
 us any more, you don’t associate with us, and you
 don’t join in our conversations : you have changed
@@ -2838,38 +2859,50 @@ katarapBdvew tov pev év xXepol BiBdjLov éxovta,</note>
 sags
 <pb n="101"/>
 <note type="head">THE WISDOM OF N16 Gninus?</head>
-all of a sudden, and, in short, have a supercilious air. .
-I should be glad*to find out from you how it comes
+all of a sudden, and, in short, have a supercilious air. 
+
+I should be glad to find out from you how it comes
 that you are so peculiar, and what is the cause of all
-this?
-B. Nothing but good fortune, my dear fellow.
-A, What do you mean ?
-B. I have come back to you transformed by the
+this?</p>
+
+<p><label>B</label> Nothing but good fortune, my dear fellow.</p>
+
+<p><label>A</label> What do you mean ?</p>
+
+<p><label>B</label> I have come back to you transformed by the
 wayside into a happy and a blissful man—in the
-language of the stage, “thrice blessed.”
-A. Heracles! in so short a time?
-B. Yes, truly.
-A. But what is the rest of it? What is it that
+language of the stage, “thrice blessed.”</p>
+
+<p><label>A</label> Heracles! in so short a time?</p>
+
+<p><label>B</label> Yes, truly.</p>
+
+<p><label>A</label> But what is the rest of it? What is it that
 you are puffed up about? Let us enjoy something
 more than a mere hint: let us have a chance to get
-at the facts by hearing the whole story.
-B. Don’t you think it wonderful, in the name of
+at the facts by hearing the whole story.</p>
+
+<p><label>B</label> Don’t you think it wonderful, in the name of
 Zeus, that once a slave, I am now free! « once poor,
 now rich indeed ” ; once witless and befogged, now
 saner?<note n="1">Apparently a free quotation from some play that is lost.
 (Kock, adesp. 1419.)</note>
 
 @
+</p>
 
-A. Why, yes! nothing could be more fmportant.
+<p><label>A</label> Why, yes! nothing could be more fmportant.
 But even yet I don’t clearly understand what you
-mean.
-B. Well, I made straight for Rome, wanting to
+mean.</p>
+
+<p><label>B</label> Well, I made straight for Rome, wanting to
 see an oculist; for I was having more and more
-trouble with my eye.
-A. I know all that, and hoped you would find
-an able man.
-B. As I had resolved to pay my respects to
+trouble with my eye.</p>
+
+<p><label>A</label> I know all that, and hoped you would find
+an able man.</p>
+
+<p><label>B</label> As I had resolved to pay my respects to
 Nigrinus the Platonic philosopher, which I had not
 done for a long time, I got up early and went to his
 house, and when I had knocked at the door and the
@@ -2926,8 +2959,8 @@ ambrosial speech over me to put out of date the
 famous Sirens
 <note n="1">Odyss. 12, 39 ; 167.</note>
  (if there ever were any) and the
-nightingales</note>
-<note n="2">Odyss. 19, 518.</note> and the lotus of Homer.</note>
+nightingales
+<note n="2">Odyss. 19, 518.</note> and the lotus of Homer.
 <note n="3">Odyss. 9, 94. The lotus is mentioned because of its
 effect. 1t made Odysseus’ shipmates
 <quote><l>Among the Lotus-eaters fain to stay</l>
@@ -2978,7 +3011,7 @@ omevoovta Kal avTov mapaxanels, Kal el ye py
 05, avros dv edenOnv dxodoai pov Supryoupévou
 pdptupa yap ce mapacricacbas mpos TOUS
 qoAXovs €béX.w, OTL OVK addoyos patvopar ad\Xws
-<note n="1">ad Somep vulg. : &v Sowep MSS.: Somep bv Schwartz.</note>
+<note n="1">ad Somep vulg. : &v Sowep MSS.: Somep bv Schwartz.
 <note n="2">g0ovetv Jacobitz : karappoveiy MSS. Schwartz assumes
 a lacuna after yap.
 
@@ -3011,14 +3044,16 @@ going about enraptured and drunk with the wine of
 his discourse.
 
 @
+</p>
 
-A, Why, that isn’t drunkenness, it is sobriety and
+<p><label>A</label> Why, that isn’t drunkenness, it is sobriety and
 temperance! I should like to hear just what he
 said, if possible. It is far, very far from right, in
 my opinion, to be stingy with it, especially if the
 person who wants to hear is a friend and has the
-same interests.
-B. Cheer up, good soul! you spur a willing horse,
+same interests.</p>
+
+<p><label>B</label> Cheer up, good soul! you spur a willing horse,
 as Homer says,
 <note n="1">Iliad 8, 293.</note>
  and if you hadn’t got ahead of me,
@@ -3133,7 +3168,7 @@ réyewv, exelvo pev Eotw mTpoxelpov, w> apwewvov
 jw, Kal GdrArws? 6 romrHs tows SreEnerr ewe 8
 kav éxovpittys, ov wdvu Tt AvTjcopat.
 <note n="1">uaxpdy S, and two late codices: jpecedy the other MSS.,
-usually rendered ‘Back water a bit.”</note>
+usually rendered ‘Back water a bit.”
 <note n="2">Fv nad BAAws MSS,: 4 6 &yyeaos Schwartz.
 
 
@@ -3141,19 +3176,23 @@ usually rendered ‘Back water a bit.”</note>
 <note type="head">THE WISDOM OF NIGRINUS</head>
 
 @
+</p>
 
-A. Have done with your long prelude, “you
+<p><label>A</label> Have done with your long prelude, “you
 strange fellow ; begin at the beginning and tell me
 what he said. You irritate me more than a little
-with your beating about the bush.
-B. You are right! I must do so. But look here, _
+with your beating about the bush.</p>
+
+<p><label>B</label> You are right! I must do so. But look here, _
 my friend : you’ve seen bad actors in tragedy before
 now—yes, and in comedy too, I'll swear? I mean
 the sort that are hissed and ruin pieces and finally
 get driven off the stage, though their plays are often
-good and have won a prize.
-A. I know plenty of the sort. But what of it ?
-B. I am afraid that, as you follow me, you may
+good and have won a prize.</p>
+
+<p><label>A</label> I know plenty of the sort. But what of it ?</p>
+
+<p><label>B</label> I am afraid that, as you follow me, you may
 think that I present my lines ridiculously, hurrying
 through some of them regardless of metre, and
 sometimes even spoiling the very sense by my
@@ -3219,8 +3258,9 @@ eos foe
 <note type="head">THE WISDOM OF NIGRINUS</head>
 
 @
+</p>
 
-A. Hermes !<note n="1">Invoked as the god of orators.</note> 
+<p><label>A</label> Hermes !<note n="1">Invoked as the god of orators.</note> 
 what a fine introduction you have
 made, just like a professor of public speaking!
 You intend, I am sure, to add that your conversation
@@ -3235,8 +3275,9 @@ bear you a grudge all through the speech and will
 hiss right, sharply.
 
 @
+</p>
 
-B. Yes, I should have liked to say all that you
+<p><label>B</label> Yes, I should have liked to say all that you
 mention, and also that I do not intend to quote
 him without a break and in his own words, in a long
 speech covering everything, for that would be quite
@@ -3254,8 +3295,9 @@ my features exposed, so that the hero whose part I
 am taking may not be brought down with me if I
 stumble.
 @
+</p>
 
-A. Will the man never stop talking so much
+<p><label>A</label> Will the man never stop talking so much
 stage and tragedy to me?
 
 
@@ -3293,8 +3335,9 @@ avtov: Kal Ta ToradTa. Kab Ta adda 8 odTS
 
 
 <pb n="113"/>
-<note type="head">THE WISDOM OF NIGRINUS -</head>
-B. Why, yes! I will stop, certainly, and will now
+<note type="head">THE WISDOM OF NIGRINUS -</head></p>
+
+<p><label>B</label> Why, yes! I will stop, certainly, and will now
 turn to my subject. The talk began with praise of
 Greece and of the men of Athens, because Philosophy
 and Poverty have ever been their fuster-brothers,
@@ -3471,7 +3514,7 @@ and those all the good things it taught.
 my part,” said he, “when I first came back from
 Greece, on getting into the neighbourhood of Rome
 I stopped and asked myself why I had come here,
-repeating the well-known words of Homer:</note>
+repeating the well-known words of Homer:
 <note n="2">Odyss. 11, 93.</note>
  ‘Why
 left you, luckless man, the light of day’—Greece,
@@ -3528,7 +3571,7 @@ in Homer,
 <l>From out the slaughter, blood, and battle-din,</l>
 </quote> 
 <bibl>Iliad 11, 163.</bibl>
-<cit>
+</cit>
 I decided to be a stay-at-home in future. Choosing
 thereby a sort of life which seems to most people
 womanish and spiritless, I converse with Plato,
@@ -3646,7 +3689,7 @@ source of many evils. How much they eat there,
 popav, év @ mooa pev eudaryovtes, mooa be
 Tapa yepny eumrdvres, roca oe @v ovK expay
 drrodadi}cavTes 4 penpopevor > TO TedevTaiov 7]
-duc popodvres ariacw 7 dvaBaddovrtes 76 Settrvoy</note>
+duc popodvres ariacw 7 dvaBaddovrtes 76 Settrvoy
 <note n="4">Rp 9 Mix podoyiav eyxanobvres. mArpeLs be
 abréay cLOUVTEOY | ot orevorrol Kar mpos Tois XapaeTuTelous paxopévov: Kal pe?” iypépav of qetoves
 avtav Kataxdbertes i larpois ma éyovrlv apoppas
@@ -3670,7 +3713,7 @@ pndev Speros eElvat Tepixaddovs oixias TO
 oixobyrt pnoe xXpvood Kal édépavros, et ph Tis
 aura Gavpdtor. exprv ovv tavTn xabaipeiv
 abtav Kal érevavite tiv Suvactelav émutetyt-
-<note n="1"># peuddpevos MSS,: bracketed by Schwartz</note>
+<note n="1"># peuddpevos MSS,: bracketed by Schwartz
 <note n="2">3) Hemsterhuys: 3& MSS,
 
 
@@ -3740,7 +3783,7 @@ didafovra mp@Tov abrov mapéxetv in orepov
 Anuparov. apérer Kal wpatrav Taira SteTéAet, ov 296
 povov TpotKa Tots akvobat owvd.atpiBov, adre Kal
 Tois Seopévors errapKay Kal dons Teptovalas KaTa-
-<note n="1">woddovs Cobet: not in MSS. .</note>
+<note n="1">woddovs Cobet: not in MSS.</note>
 
 
 <pb n="125"/>
@@ -3962,7 +4005,7 @@ TOV Tas Wuyxas Tateiv, Kal TovTO 5) TO év Tals .
 , - sf EA N
 Tpayw@diais Te Kal Kwpmdiats Neyopevov, 7dn Kab
 mapa Ovpav cicBialopevor.  cororxicpov? ovdv
-éxdXet TOOTO THY Ndovav. .
+éxdXet TOOTO THY Ndovav.
 > bY Se n > n , 2 an eX
 Amd && Tihs adtis yvouns Kaxeiva éreyev,
 atexvas tod Meépov tov Adyov piynodpevos: ws
@@ -3970,7 +4013,7 @@ yap éxeivos éuéudeto Tod Tavpou Tov Snpuoupyov
 Ocov od rrpobévta THY 6pOarpav Ta KépaTa, OTH
 67 Kal avdtos 7TLGTO TaV oTEpavoupévear, STL WH
 isace Tob otepdvov tov TéTrov' Ee yap Tot, én,
-<note n="1">robrous elva: MSS.; bracketed by Schwartz.</note>
+<note n="1">robrous elva: MSS.; bracketed by Schwartz.
 <note n="2">Tsidorus defines a ‘solecism’ as ‘ plurimorum inter se
 verborum inconveniens compositio, sicut barbarismus unius
 verbi corruptio.’ The point here is the incongruousness of
@@ -4016,7 +4059,7 @@ unidiomatic pleasures.
 
 From the same standpoint he made a comment
 exactly like that of Momus. Just as the latter found
-fault with the god</note>
+fault with the god
 <note n="2">Poseidon: see Hermotimus, 20.</note>
  who made the bull for not
 putting the horns in front of the eyes, so he censured
@@ -4272,7 +4315,7 @@ TIWa THY Gcparreiay € émvoeiv.
 ~ To rob dpa Tyrégov a avayKn toteiy.
 Tlotov ad réyets ;
 ’Eml tov tpwcavta édOovtas iacbat mapawane,
-<note n="1">érépovs Schmieder: érépous kat abrol MSS.</note>
+<note n="1">érépovs Schmieder: érépous kat abrol MSS.
 <note n="2">naviay A.M.H.: épav MSS.
 
 
@@ -4280,8 +4323,9 @@ Tlotov ad réyets ;
 <note type="head">THE WISDOM OF NIGRINUS</head>
 
 @
+</p>
 
-A, What a noble, marvellous,—yes, divine tale
+<p><label>A</label> What a noble, marvellous,—yes, divine tale
 you have told, my dear fellow! I did not realise it,
 but you certainly were chock-full of your ambrosia
 and your lotus! The coysequence is that as you
@@ -4293,13 +4337,18 @@ only go mad themselves, but if in their fury they
 treat others as the dogs treated them, the others
 take leave of their senses too. Something of the
 affection is transmitted with the bite; the diseage
-multiplies, and there is a great run of-madness.
-B. Then you admit your madness?
-A. Why, certainly ; and more than that, I ask you
-to think out some course of treatment for us both.
-B. We must do as Telephus did, I suppose.
-A. What’s your meaning now?
-B. Go to the man who inflicted the wound and
+multiplies, and there is a great run of-madness.</p>
+
+<p><label>B</label> Then you admit your madness?</p>
+
+<p><label>A</label> Why, certainly ; and more than that, I ask you
+to think out some course of treatment for us both.</p>
+
+<p><label>B</label> We must do as Telephus did, I suppose.</p>
+
+<p><label>A</label> What’s your meaning now?</p>
+
+<p><label>B</label> Go to the man who inflicted the wound and
 beg him to heal us !
 
 <note n="1">Telephus had been grievously wounded by Achilles.
@@ -4311,13 +4360,13 @@ for relief, and was at last cured with the rust of his spear.</note>
 <note type="head">Google</head>
 <pb n="141"/>
 <note type="head">DEMONAX</head>
-All that we know of Demonax derives from this essay,
+<note>All that we know of Demonax derives from this essay,
 except for a few sayings elsewhere attributed to him. The
 authenticity of the essay has been repeatedly questioned, but
 should not be made to depend on the critic’s opinion of
 Demonax’s jokes, for—to paraphrase Lucian—we do not need
 a George Meredith to tell us that the flavour of a joke grows
-weak with age, ,
+weak with age,</note>
 <pb n="142"/>
 <note type="head">AHMONAKTO BIO</head>
 “Epednev dpa wnde 6 Kal nas Bios To 1
@@ -4343,15 +4392,26 @@ Tpos Ta apxaia pova Tov mapaderyparov opas
 avrovs prOpiter, andra KaK TOU HET EpoU Biov
 Kavova mporibecat Kal Endod é éxeivoy dpiotov ov
 olda eyo pirocdpav yevouevov.
-<note n="1">expalvew MSS, : éxpaveiv Cobet.</note>
+<note n="1">expalvew MSS, : éxpaveiv Cobet.
 <note n="2">§¢a K. Schwartz: xal 30a MSS.
 
 
 <pb n="143"/>
-<note type="head">DEMONAX</head>
-Ir was on the cards, it seems, that our modern
-world should not be altogether destitute of note--
-worthy and memorable’ men, but should produce
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg008">
+<head>DEMONAX<note>All that we know of Demonax derives from this essay,
+except for a few sayings elsewhere attributed to him. The
+authenticity of the essay has been repeatedly questioned, but
+should not be made to depend on the critic’s opinion of
+Demonax’s jokes, for—to paraphrase Lucian—we do not need
+a George Meredith to tell us that the flavour of a joke grows
+weak with age,</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+
+It was on the cards, it seems, that our modern
+world should not be altogether destitute of noteworthy and memorable’ men, but should produce
 enormous physical prowess and a highly philosophic
 mind. I speak with reference to the Boeotian
 Sostratus, whom the Greeks called Heracles and
@@ -4418,8 +4478,6 @@ ara Tordads é> TadTd Katapi~as od Tay TE
 144
 te
 <pb n="145"/>
-<note type="head">DEMONAX</head>
-
 @
 He was a Cypriote by birth, and not of common
 stock as regards civic-rank and property. Nevertheless, rising above all this and thinking that he
@@ -4691,7 +4749,7 @@ v > > , ” A LA 2 La
 épn, ode evarrdtnta éywv Ta Ota. éyxetpévov be
 Tov aodictod Kal épwravtos, tiva 5é nat épodia
 éyov, ® Anuavak, é« matdeias eis pidrocodiay
-Hees; “Opyxes, bn. .
+Hees; “Opyxes, bn.
 “Addote Sé mote 6 avtos mpoce\Oav npwra
 tov Anuovaxta, tiva aipeow domdlerar wadrov
 év girocogtiar 6 bé, Tis ydp oot elaev Ste
@@ -4747,7 +4805,7 @@ philosophy—but I may as well cite his very words :
 “If Aristotle calls me to the Lyceum, I shall go
 with him; if Plato calls me to the Academy, I shall
 come; if Zeno calls, I shall spend my time in the
-Stoa ; if Pythagoras calls, I shall hold my tongue.”</note>
+Stoa ; if Pythagoras calls, I shall hold my tongue.”
 <note n="2">Alluding to the Pythagorean vow of silence.</note>
 Well, Demonax arose in the midst of the audience
 and said: “ Ho” (addressing him by name), “ Pythagoras is calling you !”
@@ -4872,7 +4930,7 @@ Tlorvdeden m™po apas amobavovra kal &iov
 oxnpa Setryvuc bar avT® Kal larmous trapictacbar
 ws avaBnoopéve Kal Seimvov mapacxevdtesBar,
 apocenOav, Tlapd Todvservxous, égn, copiveo coi
-<note n="1">dgvareroOjvar Schwartz: davareldew nal MSS.</note>
+<note n="1">dgvareroOjvar Schwartz: davareldew nal MSS.
 <note n="2">rou MSS. : rou Fritzsche.
 156
 
@@ -5064,7 +5122,7 @@ the city with a multitude of disciples (he was
 called away to be tutor to the emperor), Demonax remarked: “There goes Apollonius and his
 Argonauts !”<note n="1">Alluding to Apollonius of Rhodes and his poem on the
 Argonauts, and implying that this was another quest of the
-Golden Fleece.<note n="1">
+Golden Fleece.</note>
 
 @
 When a man asked him if lie thought that the
@@ -5074,8 +5132,8 @@ than everything else.”
 @
 Touching Herodes he remarked that Plato was
 right in saying that we have more than one soul,
-for a man with only one could not feast Regilla</note>
-<note n="2">Wife of Herodes.<note n="1">
+for a man with only one could not feast Regilla
+<note n="2">Wife of Herodes.</note>
  and
 Polydeuces as if they were still alive and say what
 he did in his lectures.
@@ -5123,12 +5181,12 @@ mav KaTrvos oral.
 TloAvBiou Sé twos, Kopd7 arradedtov avOpe-
 ‘qrov_ Kal coroixov, eimovtos, ‘O Bacireds ‘pe
 1H ‘Popaiwv moditela tetipnnev' Eide ce, pn,
-“EdAnva paddov 4 “Pwpaiov remorjnet.</note>
+“EdAnva paddov 4 “Pwpaiov remorjnet.
 <note n="2">\ LA a > / 2 a ,
 Iéav 64 twa Tdv ebrrapipov én TO TATE
 Ths twoppipas péya povodvta, Kipas adtod
 -mpos TO ods Kal THs eaOiTos AaBopevos Kal Seikas,
-<note n="1">werorhnes Bekker : rewolnney MSS. .</note>
+<note n="1">werorhnes Bekker : rewolnney MSS.</note>
 162
 36
 38
@@ -5484,7 +5542,7 @@ mpocédepov adt@ marépa- dvoudtovtes. otdoews 64
 
 @
 <note type="head">DEMONAX</head>
-I once heard him say to... ., the lawyer, that
+I once heard him say to..., the lawyer, that
 in all likelihood the laws were of no use, whether
 framed for the bad or the good ; for the latter had no
 need of laws, and the former were not improved by
@@ -5596,7 +5654,9 @@ that even the stone on which he had been wont to
 sit was sacred. Everybody attended his burial,
 especially the philosophers ; indeed, it was they who
 took him on their shoulders and carried him to the
-tomb. .
+tomb.</p>
+
+<p>
 These are a very few things out of many which I
 might have mentioned, but they will suffice to give
 my readers a notion of the sort of man he was.
@@ -5606,9 +5666,9 @@ my readers a notion of the sort of man he was.
 <note type="head">Original from</head>
 <pb n="175"/>
 <note type="head">THE HALL</head>
-The concluding words of this piece show that, like
+<note>The concluding words of this piece show that, like
 Dionysus, Heracles, and Amber, it was the introduction to a
-lecture or a course of lectures.
+lecture or a course of lectures.</note>
 <pb n="176"/>
 <note type="head">TIEPI TOT OIKOT</head>
 Eira ’Aré£Eavdpos pev éreOiunoey dv Te 1
@@ -5636,8 +5696,20 @@ amoxpn TO Kowov TodTo, ideiy povoy Kal TeptBreas kal td dfOarpe rrepteveyxeiv xa
 
 
 <pb n="177"/>
-<note type="head">THE HALL</head>
-Avexanper longed to bathe in the Cydnus on
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg009">
+<head>THE HALL<note>All that we know of Demonax derives from this essay,
+except for a few sayings elsewhere attributed to him. The
+authenticity of the essay has been repeatedly questioned, but
+should not be made to depend on the critic’s opinion of
+Demonax’s jokes, for—to paraphrase Lucian—we do not need
+a George Meredith to tell us that the flavour of a joke grows
+weak with age,</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+
+Alexander longed to bathe in the Cydnus on
 seeing that the stream was fair and clear, safely
 deep, agreeably swift, delightful to swim in and cool
 in the height of summer; even with foreknowledge
@@ -5767,7 +5839,7 @@ TNATAVOY KANXOS a vrodox7}, ove’ dy Thy én 7
 Ducog KaTadTey Ty Bactréws réyns | THY
 von éxelyns pev yap év TH moavTedela povy
 To Oadpa, téxvn Se 4 KddAXdOS 4 reps 4 TO
-<note n="1">ovdAn Pope vas Nilén : cupwepsAnpouévas MSS.</note>
+<note n="1">ovdAn Pope vas Nilén : cupwepsAnpouévas MSS.
 <note n="2">guvacopévas Schwartz: cuvecouévas MSS,
 ® oldpeda T, S: oidpeda 2.
 
@@ -5798,7 +5870,7 @@ the Muses, believing that they would come to a
 sequestered spot and take part in the debate on
 love, and thinking no shame, old as he was, to invite
 maids to join him in amorous ditties.
-</note>
+
 <note n="3">Herod. 7, 27.</note>
  May we not
 suppose that they would come to a place as beautiful
@@ -5839,11 +5911,10 @@ wal TOV pataywyav TO édevOepov Kal mpos Spay
 "Ere &€ Gaupdcevev av Tis wal Tis dpopis év
 <note n="7">evpophy TO dm épitrov Kay cy eixdo wp TO
 aveTiinttov Kal TO Tod ypuaod és TO evmpeTés
-<note n="1">Brexonevors Seager : Aeyouévors MSS.</note>
-<note n="2">§) A.M.H.: 8 MSS.</note>
+<note n="1">Brexonevors Seager : Aeyouévors MSS.
+<note n="2">§) A.M.H.: 8 MSS.
 <note n="3">xa’ $—wadaol ‘in the direction in which the ancients
-need a face their temples”: a gloss on 7d,..dmoBAemewy,
-A. M.
+need a face their temples”: a gloss on 7d,..dmoBAemewy A. M.
 
 
 <pb n="183"/>
@@ -5893,7 +5964,7 @@ apxéon éemionpotepoy épydcacOat Td KadXos, 7
 rept TH Seip AemTTOs Tus Spyos % mepl TO SaxTVA@
 apevdovn evpopos 7) év Toiv dow ehACBia 7) TOpTTH
 Tis  Tawia TO ahetov Tis Kopys cuvdéovca,
-TooovTOV TH evpophia tpocTWeciaa Scov TH ec OArt</note>
+TooovTOV TH evpophia tpocTWeciaa Scov TH ec OArt
 <note n="4">twoppupa> ai S€ ye éraipat, cal paddota ai
 Gpopporepar avTav, kal tHv eoOhTa SAnV Topdupav xal tiv Sepnv. ypvohv amemoinvta, TO
 ToAvTerct Onpwpevat TO eTaywyov Kal Td évdéov
@@ -5913,7 +5984,7 @@ mupt. et Sé ye Trip hv TO Tay, ov KANOS av, GANA
 hoBepos juiv e6okev. Sor 8 adv ris odd dpyov
 épravda tov xpvodv ovbs povou Tod tépmovtos
 “elWexa TH OITH KOT GUVETTTAppévOY, GANA
-<note n="1">wap Gesner : wep) MSS.</note>
+<note n="1">wap Gesner : wep) MSS.
 <note n="2">odppav xpvog edd.: odppwy oixla xpucg MSS,
 
 
@@ -6003,7 +6074,7 @@ needs a Homer to praise it by calling it “highceiled” like the chamber of He
 
  or “dazzling” like
 Olympus.
-</note>
+
 <note n="2">Il. 1, 253; 13, 243; Od. 20, 103.</note>
  The rest of the decoration, the frescoes
 on the walls, the beauty of their colours, and the
@@ -6194,7 +6265,7 @@ Bavew és 70 edpopporepor, aXe Kal évavtiobia Oat
 Tov Koa pov ° TOV ToD, omdray TOV evTvyXavovT@v
 &xactos Ud TOD Ypvaod Kal Tey MOev Trav mohvTer@v éxiPrayels dvtl tov érawelv 4 pay 4
 Bruna 4 Seuphy 4 mh uy 7} Sdurunrov, Xt tabr
-adeis és THY TAapd@ 7 Tov opdparydov 1) uP Tov  Sppov</note>
+adeis és THY TAapd@ 7 Tov opdparydov 1) uP Tov  Sppov
 <note n="4">TO pedov dmoPhérg, & OoTe axGorto a av elxoTas
 Tapopopérn dia TOV KOT MOV, OK Gyovtav oXoNny
 emaively AUTHY ° tov OeaTor, aha mdpepyov avriis
@@ -6410,7 +6481,7 @@ Ionic, to which he is accustomed.
 Believe whatso he sayeth to this matter, esteeming
 sight over hearing, for in sooth ears be less trusty
 than eyes.’
-<note n="1">Only the last clause is really Herodotean (I, 8, 3).</note></note>
+<note n="1">Only the last clause is really Herodotean (I, 8, 3).</note>
 
 
 <pb n="198"/>
@@ -6438,9 +6509,9 @@ gaiTe Kat Tod avridi/kov mporiunaarre, os kal®
 aurov émdeiEavta kal Simdaciacavta® tpiv Tip
 jSovqv. To yarerrov &é Tob TONpiwaTos opare,
 avev Xpopdrav kal oxnaTov real TOTOU. ovaTtcac0at Toodutas eikovas: ypidt yap Tus 7) ypady
-mae Adyov.</note>
+mae Adyov.
 <note n="2">ypdpopat MSS. : ypdyoua: Guyet.
-ds cal Reitz: as uh xa MSS. edd. since Jacobitz. .
+ds cal Reitz: as uh xa MSS. edd. since Jacobitz.
 ‘8 airoy emideltarvta Kal &wAacidcavta MSS.: abrod emibeltayros xal S:nAacidcarros edd. since Jacobitz, with two Renaissance codices and the first edition.
 198
 
@@ -6476,7 +6547,7 @@ for it and prefer me to my opponent, saying. that I
 have displayed my powers as well as he, and that I
 have made your pleasure double. But the difficulty of
 the task is patent, to represent so many pictures without colour, form or space. Word-painting is but a
-bald thing. . ;
+bald thing. 
 
 
 <pb n="200"/>
@@ -6506,7 +6577,7 @@ dvypntat kal ém’ ebvijs Twos rpiyupvos MpoKertar
 kal Ocparreia naa, exmemdnrypevor TO Epyov of pev
 aomep Bodow, ot bé Tuves émn vywat mepiBneTouct. wepvov bé Tt 6 ypadevs émevonoer, To pep
 aceBes THs emixyecpnocws SetEas povov.xal as 75y
-<note n="1">Punctuation A.M.H.</note>
+<note n="1">Punctuation A.M.H.
 <note n="2">Text Cobet : Aaddvre rd Baclrern nat MSS.
 
 
@@ -6536,7 +6607,7 @@ same source? </note>
 
 “Next to this picture is portrayed another righteous deed, for which the painter derived his model,
 I suppose, from Euripides or Sophocles, inasmuch as
-they have portrayed the subject in the same way.</note>
+they have portrayed the subject in the same way.
 <note n="2">In the Electra of each. But tais description is modelled
 on Sophocles (1424 ff.).</note>
 The two youthful comrades Pylades of Phocis and
@@ -6581,7 +6652,7 @@ wat 6 “HXtos pavels larvae THY mipwrw, Kat
 ce
 ° He aLoros Anpvober é émioxorel TO epyov.
 "Odveceds 7O peta Toiro S7Oev peunvas, are
-<note n="1">Adv Schwartz: ew MSS.</note>
+<note n="1">Adv Schwartz: ew MSS.
 <note n="2">avriBdpov Guyet (cf.  xapdOupos): dvrléupos MSS,
 202
 24
@@ -6617,7 +6688,7 @@ for he knows the cost of looking at the reality.
 
 @
 
-“In the middle of the wall, above the postern<note n="1">Or perhaps, “rear window.”</n
+“In the middle of the wall, above the postern<note n="1">Or perhaps, “rear window.”</note>
 is constructed a shrine of Athena. The goddess is
 ‘of marble, and is not in harness but as a war-goddess.
 would appear when at peace.
@@ -6627,7 +6698,7 @@ would appear when at peace.
 “Then we have another Athena, not of marble
 this time, but in colours as before. Hephaestus is
 pursuing her amorously; she is running away and
-Erichthonius is being engendered of the chase.</note>
+Erichthonius is being engendered of the chase.
 <note n="2">Mother Earth gave birth to him, not Athena.</note>
 
 @
@@ -6679,7 +6750,7 @@ KaTayvere Kab yuononte kal él TOV oyov
 Deyouever, Noyslopevot TOD mpdypatos tiv Svayé-
 pecay: pods yap av obtw Suvnfein od Sixactais
 <note n="1">Gre ovorparevew Guyet, Gesner: 3re ovorparede: MSS,
-(but cvorparedew Z and correction in W).</note>
+(but cvorparedew Z and correction in W).
 <note n="2">4 tvow Schwartz: &yvoia MSS.
 204
 
@@ -6745,9 +6816,9 @@ who he is, to be successful. ”
 
 <pb n="209"/>
 <note type="head">MY NATIVE LAND</head>
-If this piece had not come down to us among the works of
+<note>If this piece had not come down to us among the works of
 rime nobody would ever have thought of attributing it
-to him.
+to him.</note>
 vou f Pp
 <pb n="210"/>
 <note type="head">MATPIAOZ ETKQMION</head>
@@ -6777,8 +6848,18 @@ edEatto pev dv evar Kal ray maTpida Tals evdaipoot mapamdyoiav, édorro & av thv
 
 
 <pb n="211"/>
-<note type="head">MY NATIVE LAND</head>
-“Nothing sweeter than one’s native land”<note n="1">Odyss. 9, 34.</note> is
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg010">
+<head>MY NATIVE LAND<note>If this piece had not come down to us among the works of
+rime nobody would ever have thought of attributing it
+to him.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+<cit><quote><l>“Nothing sweeter than one’s native land”</l>
+</quote>
+<bibl>Odyss. 9, 34</bibl></cit>
+ is
 already a commonplace. If nothing is sweeter, then
 is anything more holy and divine? Truly of all that
 men count holy and divine their native land is cause
@@ -7047,7 +7128,7 @@ VNTLOTNS ie Kap Tap adXots evdatpoveiy Suvntat,
 nal _ddoperny aBavaciay ov Mpooncerat, _™poTepe TOV emi Tis matpidos Tapov, kal 6 THs
 rat pisos ait kamvos apmpotepos opOijceTat
 Tov Tap adXors Trupos.
-Odte bé dpa Tipeov elvat Soxet mapa Tracw</note>
+Odte bé dpa Tipeov elvat Soxet mapa Tracw
 <note n="4">marpis, @orTe kal Tovs TavTaxod vopoGéras iSou
 Tes dp émt Tots p toro adixjpacw & as XaherwTaTqy émiBeBXnKoTas my puyiy Tepeplav. kal
 ovxX ot vopobérat pev obras EXovery, | ot 8& maTevdpevot Tas orpatyyias érépws, GAM ev Tals pdxaus
@@ -7104,9 +7185,9 @@ Vl,
 Pon
 <pb n="221"/>
 <note type="head">OCTOGENARIANS</head>
-This treatise (evidently compiled in haste for a special
+<note>This treatise (evidently compiled in haste for a special
 occasion) cannot fairly be fathered on Lucian. It is valuable,
-however, as a document, and not uninteresting in spots.
+however, as a document, and not uninteresting in spots.</note>
 <pb n="222"/>
 <note type="head">MAKPOBIOI</head>
 "Ovap te tobto, Napmpotate Kvivrirre, Kedev- 1}
@@ -7132,7 +7213,13 @@ Cavtav émipéderay Toinodpevot KaTd Te copa
 
 
 <pb n="223"/>
-<note type="head">OCTOGENARIANS</head>
+</p></div></div>
+<div type="translation" n="tlg0062.tlg011">
+<head>OCTOGENERIANS<note>This treatise (evidently compiled in haste for a special
+occasion) cannot fairly be fathered on Lucian. It is valuable,
+however, as a document, and not uninteresting in spots.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
 At the behest of a dream, illustrious Quintillus,
 I make you a present of the “Octogenarians.” I
 had the dream and told my friends of it long since,
@@ -7204,7 +7291,7 @@ advanced age in full health.
 Nestor, you know,
 the wisest of the Achaeans, outlasted three genera-
 tions, Homer says:
-<note n="1">Il, 1, 250; Odyss. 3, 245.</
+<note n="1">Il, 1, 250; Odyss. 3, 245.</note>
  and he tells us that he was
 splendidly trained. in mind and in body. ‘Likewise
 Teiresias the seer outlasted six generations, tragedy
@@ -7343,7 +7430,7 @@ _Tlavos Kal dddoe Aéyouaty. ’Aréas 5é Levbav
 Bacirets pays pevos mpos Pidurrrov , meph Tov
 “Iotpov jwoTapmov émrecev _Drép Ta évevnxovta ern
 yeyovws. Bapdurus 5é 6 TAAupidv Bactreds ad’
-<note n="1">S1apxécovra H, variant in B: BactAetovra other MSS.</note>
+<note n="1">S1apxécovra H, variant in B: BactAetovra other MSS.
 <note n="2">Text Schwartz, and correction in [: évevfxovra wévre
 (i.e. €) reAeurg MSS.
 228
@@ -7377,7 +7464,7 @@ historian and Anacreon the song-writer,
 hundred and fifty.</note>
  but some
 consider this a fable. Agathocles, tyrant of Sicily,
-died at ninety, as Demochares and Timaeus</note>
+died at ninety, as Demochares and Timaeus
 <note n="2">Timaeus, as quoted in Diodorus (21, 16, 5) said seventy-two.</note> tell us.
 Hiero, tyrant of Syracuse, died of an illness at the
 age of ninety-two, after having been ruler for
@@ -7412,11 +7499,11 @@ avrov evdatpovéotatos Baciéov Alyiarou péev
 érn Sav wapédmxev thy apxnv mpd Svo éroiv Tis
 terevtis IItokcuaim TH vid, PiraderAdm dé
 érrixAnaw, dats biebéEato THY TaTp@av Bacidelay
-aderpav. ...2° Birérarpos 5é mparos pev extHcaTo
+aderpav...2° Birérarpos 5é mparos pev extHcaTo
 thy mept Tlépyapov dpynv cal xatécyev edvodyos
 av, Kkatéotpeye S€ tov Biov dydojxovta étav
 .
-<note n="1">$5 vids A.M.H.: vids MSS.</note>
+<note n="1">$5 vids A.M.H.: vids MSS.
 <note n="2">Supply xpotindels xpecBurépwy, or the like: see note
 opposite.
 230
@@ -7564,7 +7651,7 @@ adpwpatopopov Bacirevaas wevtexaidexa Kal éxaTOV yeyovas éray éredXeUTNGEV VO
 Baciréas pév odv tocovtous ictopnKact waKpoBiouvs of mpd nudv. érel S€ Kal pirocodpos
 kal waves of wept madelav Exovtes, emipéderay
 mas Kal obTo motovpevor EavTav, eis paxpov
-<note n="1">rn Schwartz: not in MSS.</note>
+<note n="1">rn Schwartz: not in MSS.
 <note n="2">sobs éautod bxd Thy wdxnv Guyet: robs bird 7H udxy MSS,
 234
 16
@@ -7656,7 +7743,7 @@ head of the Stoic school, ninety-eight.
 They say
 that when Zeno stumbled in entering the assembly,
 he cried out: “ Why do you call me?” 
-<note n="1">Addressed to Pluto. According to Diogenes Laertius</note>
+<note n="1">Addressed to Pluto. According to Diogenes Laertius
 7, 28 he said ἔρχομι· τί μ' αὔεις (“I come: why din it in my
 ears?”), a quotation from a play called Niobe (Nauck,
 Trag. Gr. Fragm. p. 51).</note>
@@ -7726,8 +7813,7 @@ the people of Tarsus pay him honour each year as a
 hero. Nestor, the Stoic from Tarsus, the tutor
 of Tiberius Caesar, lived ninety-two years, and
 Xenophon, son of Gryllus, more than ninety.
-<note n="1">Not infrequently classed as a philosopher ; cf. Quintilian</note>
-10, 1, 81 ff.</note>
+<note n="1">Not infrequently classed as a philosopher ; cf. Quintilian 10, 1, 81 ff.</note>
 These are the noteworthy philosophers.
 
 @
@@ -7851,7 +7937,7 @@ XN 4 8 , \ 2 5 4 ka ”
 KAL YEWMETPHY, OVO KAL OYOoNKOVTA OUTOS ElnoeV-
 ~ ¢ a
 érn. xal Auvxodpyos Sé 6 vopobétns tav Aaxedatpoviey wévte Kal GySonKovta ern Shoat ioropeiras.
-<note n="1">éxra N, vulg.: réooapa other MSS., Schwartz.</note>
+<note n="1">éxra N, vulg.: réooapa other MSS., Schwartz.
 <note n="2">6 xopinds MSS.: xeopixds Schwartz.
 242
 25
@@ -7922,12 +8008,12 @@ if it be the will of the gods,
 <note type="head">Original from</head>
 <pb n="247"/>
 <note type="head">A TRUE STORY</head>
-It is unfortunate that we cannot enjoy the full bouquet of
+<note>It is unfortunate that we cannot enjoy the full bouquet of
 this good wine because so many of the works which Lucian
 parodies here are lost. The little that remains of his
 originals has been gathered by A. Stengel (De Luciani Veris
 Historiis, Berlin 1911, from whom I cite as much as space
-permits).
+permits).</note>
 <pb n="248"/>
 <note type="head">AAH@OQN AIHTHMATON?</head>
 {Aoroz MPATOs])
@@ -7952,9 +8038,18 @@ Photius (cod. 166, la). ’AAnOots "Ioroplas vulg.
 
 
 <pb n="249"/>
-<note type="head">A TRUE STORY</head>
-@b1
-BOOK I
+</p></div></div>
+<div type="translation" n="tlg0062.tlg012">
+<head>A TRUE STORY<note>It is unfortunate that we cannot enjoy the full bouquet of
+this good wine because so many of the works which Lucian
+parodies here are lost. The little that remains of his
+originals has been gathered by A. Stengel (De Luciani Veris
+Historiis, Berlin 1911, from whom I cite as much as space
+permits).</note></head>
+<div type="textpart" subtype="book" n="1">
+<head>I</head>
+<div type="textpart" subtype=" section" n="1"><p>
+
 Men interested in athletics and in the care of
 their bodies think not only of condition and exercise
 but: also of relaxation in season; in fact, they
@@ -8192,11 +8287,11 @@ this point came Hercules and Dionysus.” There
 were also two footprints in the rock close by, one of
 which was a hundred feet long, the other less—to
 my thinking, the smaller one was left by Dionysus,
-the other by Hercules.</note>
+the other by Hercules.
 <note n="2">Cf. Herod. 4, 82; a footprint of Hercules, two cubits
 long.</note>  We did obeisance and
 went on, but had not gone far when we came upon a
-river of wine, just as like as could be to Chian.</note>
+river of wine, just as like as could be to Chian.
 <note n="3">Cf. Ctesias (Phot. cod. 72, 46 a).</note>
 
  The
@@ -8359,7 +8454,7 @@ imtrots Tots dpvéots Npa@pevor peydroe yap ot
 yorres kal os érimav Tpixéparor. palo § adv Tis
 TO péyeOos altav évredOev' vews yap peyddns
 optidos iatod Exactov Tav TTEPaY paKpOTEpoV
-kat maxuTepov pépovar. TovTos ovv Tots ‘In-</note>
+kat maxuTepov pépovar. TovTos ovv Tots ‘In-
 <note n="4">lol
 Toyviros WpogTéTAKTAL TEepiTrETOMevols THY Yhy,
 ei tis evpeDein Eévos, avdyew ws tov Bacidéa:
@@ -8410,7 +8505,7 @@ a human being, Endymion by name, who had once
 been ravished from our country in his sleep, and on
 coming there had been made king of the land. He
 said that his country was the moon that shines down
-on us.</note>
+on us.
 <note n="2">The story of Antonius Diogenes included a description of
 a trip to the moon (Phot. 1lla). Compare also Tucian’s
 own Icaromenippus.</note>
@@ -8424,7 +8519,7 @@ that we required.
 of the sun, you shall lead the happiest of lives with
 me.” We asked whothe enemy were, and what the
 quarrel was about. “ Phaethon,’ said he, “ the king
-of the inhabitants of the sun—for it is inhabited,</note>
+of the inhabitants of the sun—for it is inhabited,
 <note n="3">Cf. Lactantius 3, 23, 41: “Seneca says that there have
 been Stoics who raised the question of ascribing to the sun
 a population of its own."</note>
@@ -8599,7 +8694,7 @@ dépace &é kavdivous Tots amo TOV domapayov.
 mAnotov 66 avTav oi _KuvoBdravor éorncar,
 ods emepnpav aT oi Tov Zelprov KaToucobyres,
 mevraxtaxidtor, dvdpes? KvvoTrpécwrros em Badd-
-<note n="1">ee’ 6 al er Nilén: éAlyor Pr.</note>
+<note n="1">ee’ 6 al er Nilén: éAlyor Pr.
 <note n="2">GvBpes Nilén: nat obro: &vdpes MSS,
 
 
@@ -8698,13 +8793,13 @@ the better of the left on our side, and the Sky-mosquitoes advanced in pursuit r
 Then, when the infantry came to the rescue, they
 broke and fled, especially as they saw that the forces
 on their left had been defeated. It was a glorious
-victory,.in which many were taken alive and many
+victory, in which many were taken alive and many
 were slain; so much blood flowed on the clouds that
 they were dyed and looked red, as they do in our
 country when the sun is setting, and so much also
 dripped down on the earth that I wonder whether
 something of the sort did not take place in the sky
-long ago, when Homer supposed that Zeus had sent</note>
+long ago, when Homer supposed that Zeus had sent
 a rain of blood on account of the death of Sarpedon.1
 <note n="1">Il. 16, 459.</note>
 @
@@ -8863,7 +8958,7 @@ Attested under hand and seal.</p>
 
 <p>
 (For the Sunites)</p>
-Firebrace</p>
+<p>Firebrace</p>
 
 <p>
 Parcher</p>
@@ -8871,7 +8966,7 @@ Parcher</p>
 <p>
 Burns</p>
 
-<p>
+
 <p> (For the Moonites)</p>
 
 <p>
@@ -8881,12 +8976,10 @@ Burns</p>
  Moony</p>
 
 <p>
- Allbright</p>
+ Allbright
+ 
 
-<p>
 
-273
-VOL. I. T
 <pb n="274"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Tovaitn pev 4 elpyyn eyévero: ebOds 88 7d
@@ -8984,7 +9077,7 @@ yapérais toils éavtdv. éredav 88 ynpdon 0 23
 ” > > / > ? a A‘
 avOpwiros, ovK amoOvycKe, GAN Bowep Katrvos
 , . , a
-Stadrvopevos dnp yivetat. tpopy be macw 4 adh:</note>
+Stadrvopevos dnp yivetat. tpopy be macw 4 adh:
 <note n="2">‘ \ n BJ cA Z > a
 éreidav yap Tip dvaxatowow, Bartpaxous OTTO-_
 ow éml taév avOpdxwv: moddol b€ Tap’ adtois
@@ -9080,7 +9173,7 @@ iSely- ottw Sé éevOduevos cpa Kal modrol Tods
 ogetépous amodécavtes map drAdkwov xXpnoduevor
 opaatv. cial & of Kal Toddovs arroérous exovew,
 <note n="1">évrépwy Be obdtv indpxew Schwartz: Evrepov 3& obde rap
-év MSS. 2 waoa omitted by 2 and Nilén.</note>
+év MSS. 2 waoa omitted by 2 and Nilén.
 <note n="3">piyos F Nilén: feyéop MSS.
 278
 
@@ -9365,7 +9458,7 @@ kal rAdxava éBeBractHKe, Kal egxer mavta
 é£etpyacpévois: mepiwetpov Se tis ys orad.oe
 Siaxdovor Kal tecoapdxovta. Fw bé ideiv Kat
 dpvea Oardttia, Adpovs Kal aAKvovas, eri TeV
-dévdpwv veortevovTa. .
+dévdpwv veortevovTa.
 Tore pev ody éml rord edaxptoper, Sotepov 32
 $8 avacrnoavtes Tovs Eéraipous thy péev vadv
 breotnpitapev, avtol d& Ta Tupeia cuvTpinpayTes
@@ -9441,7 +9534,7 @@ StoxeTevovowy: joOévtes ovv dua nat poBnOévtes
 tov évariwv Saipovev } avOpwror SvaTtuxeis Hyiv
 TapaTAnctot; Kal yap huets avOpwirot ovtTes Kat
 év yh tpadévtes viv Oardrrioe yeyovapev Kat
-ouvynxopeOa TH Tepiéxovtse TovT@ Onpiv, ovs</note>
+ouvynxopeOa TH Tepiéxovtse TovT@ Onpiv, ovs
 <note n="5">mdoyopuev axpiBas eiddotes: TeOvdvar pev yap
 eixdfopev, Chv dé mictevouev. pos TavTa éyw
 elrrov' Kal rpeis tot advOpwmot, venrvdes pév, @
@@ -9747,7 +9840,7 @@ Texpaiper ar Tas Wpas — Tepl ody THY devrépay,
 domep épnv, advorkw, adver Bon te qwoddn Kab
 OopuBos HKoveto Kat Gomep Kehevopara wal
 eipeaiau TapaxGévres ovv dvepT boapev én’ avTo
-TO oréua tov Onpiov Kal aordvtes évdotépw TOV</note>
+TO oréua tov Onpiov Kal aordvtes évdotépw TOV
 <note n="4">néros Wesseling : xjros MSS,
 296
 39
@@ -9821,7 +9914,7 @@ pittow peyddats avtoxddbos Kal avToxopots
 NarKeov Exwnv mNSdddov TevTacTadiaioy TO phKos*
 él Sé tis wp@pas Scov TeTTapdKovTa wWTALC pLEéVvOL
 avTav éudxovto, mdavtTa éoixdtes avOpwtrots TAY
-Ths Kons’ airy Sé wip Hy Kal éxdeto, Bote ovdé</note>
+Ths Kons’ airy Sé wip Hy Kal éxdeto, Bote ovdé
 <note n="4">207 > A \ oe ig co” 2 ld
 xopv0wv édéovto. avti 5& iotiwy 6 dvepos éumilol ef: lel LA by e lA > ,
 TTOV TH UAH, TWOAAT oven ev ExdaTy, ExoXTFOV TE
@@ -9850,14 +9943,15 @@ sitting along each side of the island one behind the
 other, were rowing with huge cypress trees for oars—
 branches, leaves and all!
 <note n="1">Herodotus (2, 156) speaks of a floating island in Egypt.</note>
-<note n="2">Cf. Il. 5,4; ‘ And tireless flames did burn on crest and
-shield.”</note> Aft at the stern, as I
-. suppose you would call it, stood the master on a high
+Aft at the stern, as I
+suppose you would call it, stood the master on a high
 hill, holding a bronze tiller five furlongs in length.
 At the bow, about forty of them under arms were
 fighting ; they were like men in all but their hair,
 which was fire and blazed up, so that they had no
-need of plumes.” In lieu of sails, the wind struck the
+need of plumes.
+<note n="2">Cf. Il. 5,4; ‘ And tireless flames did burn on crest and
+shield.”</note>  In lieu of sails, the wind struck the
 forest, which was dense on each of the islands, filled
 this and carried the island wherever the helmsman
 would. There were boatswains in command, to keep
@@ -10751,7 +10845,7 @@ yuxis Tas qeptodous. Hv Se ypucovs Srov 7d.
 eEtov jyttopov. Kal éxpiOn pev ovprodutevcacbat avtois, évedorateto Sé étt motrepov Iv0ayopav 4 EtpopBov xpi avrov dvopdtev. o pévtot
 *"Eurredoxrys HAOev prev kal adtos, mepiepOos Kal
 To capa Srov @mTnpévos' od pHv mapedéxOn
-Kaltot TOANG ixeTEevov. .
+Kaltot TOANG ixeTEevov.
 IIpoiovros 8& tod ypovov évéotn 6 ayav 6
 wap avtois, Ta @avatovora. yywovobéta Se
 "AxeArreds TO wréurrov Kal Onceds 7d EBSopor.
@@ -11730,7 +11824,7 @@ puKnOuos Todvs od Toppwbev nroveto. Sédfartes
 ody ayédny elvat Body, Kat ddryov mpoxwpodves
 éréatnuev tois avOpwroas. of dé iddvTes Hpas
 édiwxov, xal tTpeis ev TOV éTalpwv KapBavovewr,
-of 5é AoLrol mpos THY OddraTTav KaTepevyopuey. .
+of 5é AoLrol mpos THY OddraTTav KaTepevyopuey.
 elta pévtoe mavtTes omAicdpevor—ov yap eddoxet
 Hplv atipwpytous mepideiv Tos Pirovs—éeprrimropev Tots Bovxeddrots Ta Kpéa TOY dvnpnuévov
 Siatpoupévors’ PoByoartes S€ mavtas SudbKoper,
@@ -11954,15 +12048,8 @@ remarks in the margin!</note>
 
 
 <pb n="358"/>
-<note type="head">Original from</head>
-<pb n="359"/>
-<head>SLANDER ON NOT BEING QUICK TO PUT FAITH IN IT</head>
 
-This essay is rhetoric pure and simple, and was probably
-written early in Lucian’s career. It is famous because it
-contains a vivid description of a picture by Apelles, which
-was again translated into paint by Botticelli in “La
-Calunnia.”
+
 <pb n="360"/>
 <note type="head">TIEPI TOT MH PAIAION® TIZTETEIN</head>
 AIABOAHI
@@ -11985,8 +12072,17 @@ car dirwv S:aB8ords, bf’ dv Sn Kab olxo avdoTaToe yeyovact Kal modes apdnv atr
 
 
 <pb n="361"/>
-<note type="head"></head>
-SLANDER: ON NOT BEING QUICK TO PUT FAITH IN IT
+</p></div></div></div>
+
+<div type="translation" n="tlg0062.tlg013">
+<head>SLANDER: ON NOT BEING QUICK TO PUT FAITH IN IT<note>This essay is rhetoric pure and simple, and was probably
+written early in Lucian’s career. It is famous because it
+contains a vivid description of a picture by Apelles, which
+was again translated into paint by Botticelli in “La
+Calunnia.”</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+
 It is really a terrible thing, is ignorance, a cause
 of many woes to humanity; for it envelops things
 in a fog, so to speak, and obscures the truth and
@@ -12483,7 +12579,7 @@ ovx dv Tote vixhoas Suvdpevos. opotws Sé rovTors
 kav Tais pidias Tov evdatovav TovTaV yiveTat
 <note n="6">yap Tmpoéxav adtixa émiBovrevetat Kal advraxTos ev péow AnPels tav Sucpéevarv dvnpTacOn, ot
 88 dyatavrar kal pirov Soxotdow &€ dv ardous
-Brdarrew oar. .
+Brdarrew oar.
 To re akvoriatov tis SiaBorHs ody as etvyev 13
 <note n="1">+by Halm: r¢ MSS. 2 sv Capps: vod MSS.</note>
 
@@ -13001,6 +13097,7 @@ that have been believed so readily and so unquestioningly. Anteia says:
 <quote>
 <l>Die, Proetus, or despatch Bellerophon,</l>
 <l>Who offered me his love, by me unsought,</l>
+</quote>
 <bibl>Homer, Iliad 6, 164.</bibl></cit>
 when she herself had made the first move and had
 
@@ -13191,16 +13288,16 @@ be illumined by Truth.
 
 <pb n="394"/>
 <note type="head">Original from</head>
-<pb n="395"/>
+
 <note type="head"></head>
 THE CONSONANTS AT LAW: SIGMA vs. TAU, IN THE COURT OF THE SEVEN VOWELS
-This mock prosecution, probably not by Lucian, but
+<note>This mock prosecution, probably not by Lucian, but
 much later than his time, is based upon the fact that in the
 Attic dialect many words originally written with double s
 came eventually to be pronounced and written with double t,
 and incidentally mentions words in which l has been substituted for r; g for k and l; z, x, and r for s, and t for d, th,
 and z. It cannot be adequately translated, for we have
-nothing of the sort in English.
+nothing of the sort in English.</note>
 <pb n="396"/>
 <note type="head">AIKH XYTM®ONON TOT XITMA IIPO</head>
 TO TAT TIO TOIX ENTA ®ONHEZIN?}
@@ -13221,9 +13318,21 @@ MSS. 4 tan’ K. Schwartz: 4aa’ (or word omitted) MSS.</note>
 
 
 <pb n="397"/>
-<note type="head">THE CONSONANTS AT LAW</head>
-SIGMA vs. TAU,
-IN THE COURT OF THE SEVEN VOWELS
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg014">
+<head>THE CONSONANTS AT LAW SIGMA vs. TAU,
+IN THE COURT OF THE SEVEN VOWELS<note>This mock prosecution, probably not by Lucian, but
+much later than his time, is based upon the fact that in the
+Attic dialect many words originally written with double s
+came eventually to be pronounced and written with double t,
+and incidentally mentions words in which l has been substituted for r; g for k and l; z, x, and r for s, and t for d, th,
+and z. It cannot be adequately translated, for we have
+nothing of the sort in English.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+
 [In the year that Aristarchus of Phalerum was archon,
 on the seventh day of the month Pyanepsion, Sigma
 brought suit against Tau before the seven Vowels for
@@ -13314,12 +13423,12 @@ law-breakers!
 @
 
 In that case, Lambda would not be at
-war with Rho, disputing the possession of pumice-stone (κίσηλις--κίσηρις) and headaches (κεφαλαλγάα--κεφαλαργία), nor would Gamma be quarreiling with
+war with Rho, disputing the possession of pumice-stone (κίσηλις—κίσηρις) and headaches (κεφαλαλγάα—κεφαλαργία), nor would Gamma be quarreiling with
 Kappa and again and again almost coming to blows
-with him at the fuller’s (γναφεῖον--κναφεῖον) over
-pillows (γνάφαλλα--κνάφαλλα), and he would have
+with him at the fuller’s (γναφεῖον—κναφεῖον) over
+pillows (γνάφαλλα—κνάφαλλα), and he would have
 been prevented from fighting with Lambda, too,
-openly stealing from him with some difficulty (μόλις--μόγις) and slyly filching without any doubt (μάλιστα---
+openly stealing from him with some difficulty (μόλις—μόγις) and slyly filching without any doubt (μάλιστα—
 μάγιστα<note n="1">The word μάλιστα may have been pronounced μάγιστα by
 the common people at some time or other. I know of no
 evidence that it was ever so written.</note>); and the rest would also have refrained
@@ -13354,7 +13463,7 @@ exdidEav? 88 6 opod ouvdéopor G, dua nad rpobécewr,
 os pqkére pépecv THY éxToTrov reoveftav. Obey
 8é kal dad tive apEdpevor, dpa Aayeays
 <note n="1">évyéa second Aldine ed., Fritzsche: %a MSS.</note>
-<note n="2">dwerdaay . . « exdsatay K. Schwartz: dweddoat. . . exe
+<note n="2">dwerdaay . « exdsatay K. Schwartz: dweddoat. . exe
 dakar MSS.
 
 
@@ -13435,7 +13544,7 @@ yap tepl puxpd Kal ta Tvydvta éotly 6 Kivdvvos,
 xat) and the scholia : not in MSS.</note>
 <note n="2">Word-order (and xa for Hor after ovyyeyernpevar) A.M.H.:
 rertapdxovra Adye, dwoorepodby pe TaY auyyeyernutvwy pot,
-ouvhOeay gunv cuvredpaupévor ypappdrev, rt. . . Ad-yew, al
+ouvhOeay gunv cuvredpaupévor ypappdrev, rt. . Ad-yew, al
 olordy «.7.A. MSS.</note>
 <note n="3">BaolAiooav A.M.H., following K. Schwartz (rv 8.) : not
 in MSS.
@@ -13457,9 +13566,9 @@ heart of Attica.
 was a characteristic of the Boeotian dialect.</note> It was at that foreigner’s that
 I detected the encroachments of this fellow Tau. As
 long as it was but little that he attempted, venturing
-to mispronounce four (τέσσαρα--τέτταρα) and forty
-(τεσσαράκοντα--τετταράκοντα), and also to lay hands on
-to-day (σήμερον---τήμερον), and the like and say they
+to mispronounce four (τέσσαρα—τέτταρα) and forty
+(τεσσαράκοντα—τετταράκοντα), and also to lay hands on
+to-day (σήμερον—τήμερον), and the like and say they
 were his own, thus depriving me of my kith and kin
 among the letters, I thought it was just his way and
 could put up with what I heard, and was not much
@@ -13468,9 +13577,9 @@ annoyed over my losses.
 @
 
 But when he went on and
-ventured to mispronounce tin (κασσίτερον--καττίτερον)
-and shoe-leather (κάσσυμα--κάττυμα), and tar (πίσσα--πίττα), and then, losing all sense of shame, to miscall
-queens (βασίλισσα--βασίλιττα), I am uncommonly
+ventured to mispronounce tin (κασσίτερον—καττίτερον)
+and shoe-leather (κάσσυμα—κάττυμα), and tar (πίσσα—πίττα), and then, losing all sense of shame, to miscall
+queens (βασίλισσα—βασίλιττα), I am uncommonly
 annoyed and hot about all this, for I am afraid that
 in course of time someone may miscall a spade !<note n="2">An allusion to the English saying is here substituted for
 a similar allusion to its Greek equivalent, "to call a fig a
@@ -13515,31 +13624,31 @@ Kader Ta adixnOévta ypdupata. axovete, Pwvnevra Sixacrtal, tod pev Aédta Aéyo
 
 <pb n="405"/>
 <note type="head">THE CONSONANTS AT LAW</head>
-creature, right out of my bosom, almost, and renamed it (κίσσα---κίττα) ; he took away my pheasant
-(¢décca—ddrra) along with my ducks (νήσσαι---νήτται)
-and my daws (κόσσυφοι--κόττυφοι), although Aristarchus forbade him; he robbed me of not a few
-bees (μέλισσα--μέλιττα), and he went to Attica and
-illegally plucked Hymessus (Ὑμησσός--Ὑμηττός) out
+creature, right out of my bosom, almost, and renamed it (κίσσα—κίττα) ; he took away my pheasant
+(¢décca—ddrra) along with my ducks (νήσσαι—νήτται)
+and my daws (κόσσυφοι—κόττυφοι), although Aristarchus forbade him; he robbed me of not a few
+bees (μέλισσα—μέλιττα), and he went to Attica and
+illegally plucked Hymessus (Ὑμησσός—Ὑμηττός) out
 of the very heart of her, in full view of yourselves
 and the other letters. But why mention this? He
 has turned me out of all Thessaly, wanting it called
-Thettaly, has swept me from the sea (θάλασσα--ϑάλαττα) and “has not even spared me the beets
-(σεύτλια--τεύτλια) in my garden, so that, to quote the
-proverb, he hasn’t even left me a peg (πάσσαλος--πάτταλος).</p>
+Thettaly, has swept me from the sea (θάλασσα—ϑάλαττα) and “has not even spared me the beets
+(σεύτλια—τεύτλια) in my garden, so that, to quote the
+proverb, he hasn’t even left me a peg (πάσσαλος—πάτταλος).</p>
 
 <p>
 That I am a much-enduring letter, you yourselves
 can testify, for I never brought Zeta to book for
-taking my emerald (σμάραγδος---ζὡμάραγδος) and robbing me utterly of Smyrna,
+taking my emerald (σμάραγδος—ζὡμάραγδος) and robbing me utterly of Smyrna,
 <note n="1">Pronounced, as it is to-day, Zmyrna, but written usually
 with s.</note>
  nor Xi for overstepping
-every treaty (συνθήκη--ξυνθήκη) with Thucydides
-the historian (συγγραφεύς--ξυγγραφεύς) as his ally
-(ύμμαχος--ξύμμαχος): And when my neighbour
+every treaty (συνθήκη—ξυνθήκη) with Thucydides
+the historian (συγγραφεύς—ξυγγραφεύς) as his ally
+(ύμμαχος—ξύμμαχος): And when my neighbour
 ho was ill I forgave him not only for transplanting -
-my myrtles (μυρσίνη----μυῤῥίνη) into his own garden,
-but also for cracking my crown (κόρση---κόρρη) in a
+my myrtles (μυρσίνη—-μυῤῥίνη) into his own garden,
+but also for cracking my crown (κόρση—κόρρη) in a
 fit of insanity. 
 
 @
@@ -13592,10 +13701,10 @@ Oite pev ody dcov és pwvnv avOpdrrous adil 12
 endelechy, wanting it to be called entelechy agairist
 all the laws”; to Theta crying and pulling out the
 hair of his head because he has had even his pumpkin
-(κολοκύνθη----κολοκύντη) taken away from him, and to
-Zeta, who has lost his whistle (συρίζειν--συρίττειν) and
-trumpet (σαλπίζειν--σαλπίττειν), so that he can’t even
-make a sound (γρύζειν---γρύττειν) any longer. Who
+(κολοκύνθη—-κολοκύντη) taken away from him, and to
+Zeta, who has lost his whistle (συρίζειν—συρίττειν) and
+trumpet (σαλπίζειν—σαλπίττειν), so that he can’t even
+make a sound (γρύζειν—γρύττειν) any longer. Who
 could put up with all this, and what punishment
 could be bad enough for this out-and-out rascal Tau ?
 
@@ -13624,7 +13733,7 @@ crime (τλῆμα). And not only does he injure ordinary
 people, but even the Great King, in whose honour,
 they say, even land and sea give place and depart
 from their own natures—even he is plotted against
-by Tau, who instead of Cyrus makes him out something of a cheese (Κῦρος--τυρός).
+by Tau, who instead of Cyrus makes him out something of a cheese (Κῦρος—τυρός).
 
 @
 That is the way he injures mankind as far as their
@@ -13671,12 +13780,12 @@ Tau, but its name to man” ; see critical note.</note>
 <note type="head">Original from</head>
 <pb n="411"/>
 <note type="head">THE CAROUSAL, OR THE LAPITHS</head>
-The sub-title comes from the parallel that Lucian draws
+<note>The sub-title comes from the parallel that Lucian draws
 (in section 45) between this affair and the wedding breakfast
 of Peirithous, which ended in a hand-to-hand encounter
 between the Centaurs and the Lapiths. The piece is thought
 to Be modelled on the Symposium of Menippus, the Cynic
-satirist.
+satirist.</note>
 <pb n="412"/>
 <note type="head">ZTMIIOZION H AATIIOAI</head>
 SIAQN
@@ -13691,7 +13800,7 @@ Kat wddev, & Pirwr, jmiatato Xapivos tadta;
 ov yap ovvedeitrver wel” jor.
 SIANN
 Avovixou &pn tod iatpod axodaar. Arovixos 88
-Kal avtos, olpat, Tov cuvdecitvev Fv. .
+Kal avtos, olpat, Tov cuvdecitvev Fv.
 ATKINOZ
 Kad paras ov py ef apxiis ye oud’ avtos
 dimact mapeyévero, Gra oe pecovons oxedov
@@ -13706,21 +13815,34 @@ Exacta, Tapa a jpais heew éxédevoe. nad Tov
 
 
 <pb n="413"/>
-<note type="head">THE CAROUSAL, OR THE LAPITHS</head>
-PHILO
-Tuey say you had all kinds of sport yesterday,
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg015">
+<head>THE CAROUSAL, OR THE LAPITHS<note>The sub-title comes from the parallel that Lucian draws
+(in section 45) between this affair and the wedding breakfast
+of Peirithous, which ended in a hand-to-hand encounter
+between the Centaurs and the Lapiths. The piece is thought
+to Be modelled on the Symposium of Menippus, the Cynic
+satirist.</note></head>
+<div type="textpart" subtype=" section" n="1"><p>
+
+They say you had all kinds of sport yesterday,
 Lycinus, at the house of Aristaenetus, at dinner, and
 that several speeches on philosophy were made, out
 of which quite a quarrel arose. Unless Charinus was
 lying, the affair even ended in wounds and the party
-was finally broken up by the shedding of blood.
-LYCINUS
+was finally broken up by the shedding of blood.</p>
+
+<p><label>LYCINUS</label>
 Now how did Charinus know that, Philo? He did
-not dine with us,
-PHILO 
+not dine with us.</p>
+
+<p><label>PHILO</label> 
 He said that Dionicus, the doctor, told “him.
-Dionicus, I suppose, was one of the guests.
-LYCINUS
+Dionicus, I suppose, was one of the guests.</p>
+
+<p><label>LYCINUS</label>
 Yes, to be sure ; but even he was not there for all
 of it, from the very beginning: it was late and the
 battle was about half over when he came on the
@@ -13730,7 +13852,7 @@ did not witness what led up to the quarrel that
 ended in bloodshed.
 
 @
-PHILO
+<label>PHILO</label>
 True, Lycinus; and for that very reason Charinus
 told us, if we wanted to hear the truth of it and all
 the details, to come to you, saying that Dionicus
@@ -13787,7 +13909,7 @@ themselves at dinner, led on by strong drink to do
 and say what they should not.
 
 @
-LYCINUS
+<label>LYCINUS</label>
 It was rather a silly affair, Philo, and yet you want
 me to publish it abroad and tell what happened when
 heads were turned with wine, when it all should be
@@ -13804,10 +13926,11 @@ Quaest. Sympos.). See also Index to Corpus Paroemiogr. Gr.</note>
  And Dionicus did not do
 right, either, to blab it all to Charinus and besprinkle philosophers with the copious dregs of their
 stale cups. As for me—get out with you! I shan’t
-tell you anything of the kind !
-PHILO
+tell you anything of the kind !</p>
+
+<p><label>PHILO</label>
 That is all put on, Lycinus. But you needn’t have
-acted that way with me, for I know very well that</note>
+acted that way with me, for I know very well that
 
 
 
@@ -13840,7 +13963,7 @@ Ovc, adrd tHv Ouyarépa éFedisou abtos Ti
 Knrcavbida to Evxpirou tod Savevatixod, TO pidocopovrtt. : .
 $IAQN.
 Tlayxdd@ vy Ala petpaxie, dtar@ ye pay ert
-kal ov wavy Kal’ pay yapov. .
+kal ov wavy Kal’ pay yapov.
 . AYKINOZ ;
 "AAN ovdK elyev Grrov emurndecotepov, olpar
 TodTov ody Kooper Te elvar Soxodvta Kal mpos
@@ -13859,11 +13982,13 @@ me and entreat me. And now I am going to take
 my turn at putting on. (Turns to‘another friend.) If
 you like, let’s go and find out about it from someone
 else. (To Lyctnus.) You may keep your story to
-yourself!
-LYCINUS
+yourself!</p>
+
+<p><label>LYCINUS</label>
 Don’t get angry! I will tell you, since you
-are so anxious, but don’t you tell a lot of people.
-PHILO
+are so anxious, but don’t you tell a lot of people.</p>
+
+<p><label>PHILO</label>
 If I have not forgotten all I know of you, Lycinus,
 you will do that better than I can, and you will
 lose no time in telling everybody, so that I shan’t be
@@ -13873,14 +13998,17 @@ needed.
 
 But first tell me one thing—was it to
 celebrate the wedding of his son Zeno that
-Aristaenetus entertained you ?
-LYCINUS
+Aristaenetus entertained you ?</p>
+
+<p><label>LYCINUS</label>
 No, he was marrying his daughter Cleanthis to
 the son of Eucritus the banker, the lad who is
-studying philosophy.
-PHILO
-A very good-looking lad, to be sure; still immature, though, and hardly old enough to be married.
-LYCINUS ,
+studying philosophy.</p>
+
+<p><label>PHILO</label>
+A very good-looking lad, to be sure; still immature, though, and hardly old enough to be married.</p>
+
+<p><label>LYCINUS</label>
 But he could not find anyone who suited him
 better, I suppose. As this boy seemed to be
 mannerly and had taken an interest in philosophy,
@@ -13920,15 +14048,16 @@ mpaypa iv “lwv 6 Oavpacros cuptapar.
 <note type="head">THE CAROUSAL, OR THE LAPITHS</head>
 and also as he was the only son of Eucritus, who is
 rich, he preferred him to all the rest as a husband
-for his daughter.
-PHILO .
+for his daughter.</p>
+
+<p><label>PHILO</label> 
 You give a very good reason in saying that Eucritus
 is rich. But come, Lycinus, who were the people
 at dinner ?
 
 @
 
-LYCINUS
+<label>LYCINUS</label>
 Why should I tell you all of them? The philoso- .
 phers and literary men, whom, I suppose, you
 are most eager to hear about, were Zenothemis, the
@@ -14070,7 +14199,7 @@ avTéuatov HKovta.” Trois pev ov ToAXois avai-
 
 @
 
-PHILO
+<label>PHILO</label>
 Heavens, Lycinus, it’s a learned academy, this dinner
 party that you are telling of! Philosophers almost
 to a man. Good for Aristaenetus, I say, because
@@ -14079,8 +14208,9 @@ he thought fit to entertain the most learned men in
 preference to the rest of the world, and culled the
 bloom, as it were, of every school, not including some
 and leaving out others, but asking all without
-discrimination.
-LYCINUS
+discrimination.</p>
+
+<p><label>LYCINUS</label>
 Why, my dear fellow, he is not one of the common
 run of rich men; he is interested in culture and
 spends the better part of his time with these people.
@@ -14537,12 +14667,14 @@ Hetoemocles the Stoic and carrying a paper which
 he said his master had told him to read in public, so
 that everybody would hear, and then to go back
 again. On getting the consent of Aristaenetus, he
-went up to the lamp and began to read.
-PHILO
+went up to the lamp and began to read.</p>
+
+<p><label>PHILO</label>
 I suppose, Lycinus, that it was an address in
 praise of the bride, or else a wedding-song? They
-often write such pieces.
-LYCINUS
+often write such pieces.</p>
+
+<p><label>LYCINUS</label>
 Of course we ourselves expected something of the
 sort, but it was far from that: its contents were :</p>
 <p>"Hetoemocles the philosopher to Aristaenetus.</p>
@@ -14635,7 +14767,7 @@ Kataghevyew THY atrohoyiay Uatepov, émidabéc Oat
 A€yov ev tocovT@ OopiBo Kal mpdypati, dis ce
 THEpOV Tpoanyopevoa Kal Ewer eri TH oixia Kal
 év T@ dvaxeio Ovovta Vatepov. Tadta éyw Tois
-Tapodotv arodedoynpat. .
+Tapodotv arodedoynpat.
 Ei 8@ Seimvou vera dpyiferOai cot Sond, Td 25
 ‘A > Ff 2 L4 y \ \ ‘\
 kata tov Oivéa évvonoovy oer yap Kal rip
@@ -14683,6 +14815,7 @@ at fault.<note n="1">Iliad 9, 537.</note>
 Euripides says :
 <cit><quote><l>This land is Calydon, lying over seas</l>
 <l>From Pelops’ isle ; a land of fertile plains.</l>
+</quote>
 <bibl>From the lost Meleager of Euripides.</bibl></cit>
 
 <note n="2"> .</note>
@@ -14690,6 +14823,7 @@ And Sophocles:
 
 <cit><quote><l>A boar, a monstrous thing, on Oeneus’ fields</l>
 <l>Turned loose Latona’s lass, who kills afar.</l>
+</quote>
 <bibl>From the lost Meleager of Sophocles.</bibl></cit>
 
 @
@@ -15197,10 +15331,10 @@ dia KreavOls dvaca’ érpéper’ evduxéws,
 
 <pb n="453"/>
 <note type="head">THE CAROUSAL, OR THE LAPITHS</head>
-PHILO
+<label>PHILO</label>
 I shall remember, of course.
 @
-LYCINUS
+<label>LYCINUS</label>
 Well, Ion said: “Then I will begin first, if you
 like”; and after a little pause: “Perhaps with men of
 such distinction here we ought to talk of ‘ideas’ and
@@ -15370,6 +15504,7 @@ on the table in front of Aristaenetus and threw it at
 Hermon,
 
 <cit><quote><l>And him it missed and went another way; </l>
+</quote>
 <bibl>Cf. Iliad 11, 233</bibl></cit>
 
 but it cracked the crown of the bridegroom,
@@ -15411,7 +15546,7 @@ Téros 58 6 ’AdxiSdpas dvatpépas 7d Avyviov 46
 Haxp® xareradtepov eyeyévnto> Kal yap od padias
 evTopnoay ghwrds aAXrov, GAAA TOAAA empayOn
 a Seva év TO oxdty. Kal érel raphy tis AUXVOY
-<note n="1">yoow A.M.H. : ody MSS. .</note>
+<note n="1">yoow A.M.H. : ody MSS.</note>
 <note n="2">Lacuna Gertz: : of 8% BAAor olxéra: Fritzsche: of 8 &rpwrot
 Bekker. 3 elxes ty, ef eldes Gertz: eldes &v MSS.
 
@@ -15563,3 +15698,6 @@ safe for a man of peace to dine with men so
 learned.
 
 
+</p>
+</div></div>
+</body></text></TEI>
