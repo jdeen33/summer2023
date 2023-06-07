@@ -1,22 +1,4 @@
-<pb n="1"/>
-<note type="head">THE WORKS OF LUCIAN</head>
-THE DOWNWARD JOURNEY, OR
-THE TYRANT
-<note><p>A scene in the realm of Hades, showing that cobblers fare
-better there than kings. The lower world is depicted also in
-the Menippus and in the Dialogues of the Dead. All these
-pleces were deeply influenced by Cynic satire and in particular by the Necyia of Menippus. Helm maintains that the
-Downward Journey is based on a couple of scenes in the
-Necyia which Lucian left unused in writing his Menippus
-and subsequently worked up into a separate dialogue, prefixing an introduction of his own; but there is hardly
-enough evidence to make this theory plausible, lect alone
-incontestable.</p>
-The part played by the Fates is unusual. Instead of
-Spinning destinies up aloft as in the Charon, two of them are
-given a share in the convoying of souls to the underworld,Atropos turning them over to Hermes and C lotho presiding
-over their reception at the ferry. Clotho’s function thus in
-great measure duplicates that assigned to Aeacus.</p></note>
-VoL, 1. a B
+
 <pb n="2"/>
 <note type="head">KATAHAOTS H TYPANNO®</head>
 <label>XAPON</label>
@@ -37,7 +19,22 @@ ide TeToKes| dvact peyrat ™ pos Has émthérmoTat, ral HT OL mrarater pera TOV
 Tov Aijjpov Tov avTod, %) TAXA Tou Kab Kroreve
 6 yevvudas TapeOwv: pia yap adtod Kal adbtr
 <pb n="3"/>
-<head>THE DOWNWARD JOURNEY, OR THE TYRANT</head>
+<div type="translation" n="tlg0062.tlg016">
+<head>THE DOWNWARD JOURNEY, OR THE TYRANT<note><p>A scene in the realm of Hades, showing that cobblers fare
+better there than kings. The lower world is depicted also in
+the Menippus and in the Dialogues of the Dead. All these
+pleces were deeply influenced by Cynic satire and in particular by the Necyia of Menippus. Helm maintains that the
+Downward Journey is based on a couple of scenes in the
+Necyia which Lucian left unused in writing his Menippus
+and subsequently worked up into a separate dialogue, prefixing an introduction of his own; but there is hardly
+enough evidence to make this theory plausible, lect alone
+incontestable.</p>
+<p>The part played by the Fates is unusual. Instead of
+Spinning destinies up aloft as in the Charon, two of them are
+given a share in the convoying of souls to the underworld,Atropos turning them over to Hermes and C lotho presiding
+over their reception at the ferry. Clotho’s function thus in
+great measure duplicates that assigned to Aeacus.</p></note></head>
+<div type="textpart" subtype="secton" n="1"><p>
 
 <label>CHARON</label>
 Well, Clotho, we have had this boat all ship-shape
@@ -1870,14 +1867,8 @@ Tantalus, to remember what he did in life.
 57
 <pb n="58"/>
 <note type="head">Original from</head>
-<pb n="59"/>
-<note type="head">ZEUS CATECHIZED</head>
-_ Cyniscus interviews Zeus on predestination and free will,
-_ and on the raison @étre of the gods. The dialogue is
-written from the Cynic standpoint against the Stoics, and is
-“one of those showing Menippean influence. It stands in
-somewhat the same relation to the Icaromenippus as the
-Downward Journey to the Menippus.
+
+
 <pb n="60"/>
 <note type="head">ZETS EAETXOMENOS</head>
 KTNIZKOZ
@@ -1904,7 +1895,15 @@ elvat ordca dv abtar émwjcwow yewopeve
 éxdoT@;
 60
 <pb n="61"/>
-<note type="head">ZEUS CATECHIZED</head>
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg017">
+<head>ZEUS CATECHIZED<note>Cyniscus interviews Zeus on predestination and free will,
+and on the raison d'être of the gods. The dialogue is
+written from the Cynic standpoint against the Stoics, and is one of those showing Menippean influence. It stands in somewhat the same relation to the Icaromenippus as the Downward Journey to the Menippus.</note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
 <label>CYNISCUS</label>
 But, Zeus, I for my part won’t annoy you that
 way by asking for wealth or gold or dominion,
@@ -2811,17 +2810,8 @@ perhaps, I was not fated to hear !
 37
 <pb n="88"/>
 <note type="head">Original from</head>
-<pb n="89"/>
-<note type="head">ZEUS RANTS</head>
-This dialogue is an elaboration of the theme treated in
-Zeus Catechized. We meet in it the curious interlarding
-of prose with verse which characterized the writings of
-Menippus and his imitators. We also find a good deal of
-the repetition which is rather too frequent in Lucian to
-please modern readers ; but it is hardly fair to censure him,
-for one piece may have been read in Athens and another in
-Antioch, and he may never have had an opportunity to
-tevise his collected works.
+
+
 <pb n="90"/>
 <note type="head">ZLYTS TPAPOIAOX.</head>
 <label>EPMHS</label>
@@ -2852,7 +2842,21 @@ brepraidexa D. hs ovx bv &pait’ (&port’) &xOos  Oewy puais +y,
 NHA, edd. D has this line also, after the other.
 go
 <pb n="91"/>
-<note type="head">ZEUS RANTS</head>
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg018">
+<head>ZEUS RANTS<note>This dialogue is an elaboration of the theme treated in
+Zeus Catechized. We meet in it the curious interlarding
+of prose with verse which characterized the writings of
+Menippus and his imitators. We also find a good deal of
+the repetition which is rather too frequent in Lucian to
+please modern readers ; but it is hardly fair to censure him,
+for one piece may have been read in Athens and another in
+Antioch, and he may never have had an opportunity to
+tevise his collected works.</note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
 <label>HERMES</label>
 What ails you, Zeus, in lone soliloquy
 To pace about all pale and scholar-like ?
@@ -4519,7 +4523,7 @@ way ? Oh yes, it is your brother, Hermes, the
 one of the public square, beside the Painted Porch.!
 At any rate he is all covered with pitch from being
 cast every day by the sculptors. My lad, what brings
-1 <«¢ Ags you go toward the portico that is called Poikile
+1 "As you go toward the portico that is called Poikile
 because of its paintings, there is a bronze Hermes, called
 Agoraios (of the square), and a gate close by” (Pausan. 1,
 15,1). Playing upon ‘Termes Agoraios,” Zeus dubs him
@@ -4870,15 +4874,15 @@ the best poet ?
 Yes, certainly,
 <label>TIMOCLES</label>
 Well, it was he that convinced me with his portrayal of the providence of the gods.
-. DAMIS
+<label>DAMIS</label>
 But, my admirable friend, everybody will agree
 with you that Homer is a good poet, to be sure, but
 not that he or any other poet whatsoever isa truthful
 witness. They do not pay any heed to truth, | take
 it, but only to charming their hearers, and to this
 end they enchant them with metres and entrance
-1 In my opinion &AAws contrasts with dpolws Kal xar& tabtd,
-not with bxé rivos mpoundeias. The idea is more fully and
+1 In my opinion ἄλλως contrasts with ὁμοίως καὶ κατὰ ταὐτά,
+not with ὑπό τινος προμηθείας. The idea is more fully and
 clearly presented in Lucretius 1, 1024-1028,
 149
 <pb n="150"/>
@@ -5410,18 +5414,18 @@ head half a dozen times a day with the rope’s end.
 Consequently, my interesting friend, your comparison
 of the ship would seem to have capsized for the want
 of a good captain.
-MOMUS
+<label>MOMUS</label>
 Things are going finely for Damis now, and he is
 driving under full sail to victory.
-ZEUS
+<label>ZEUS</label>
 Your figure is apt, Momus. Yet Timocles can’t
 think of anything valid, but launches at him these
 commonplace, every-day arguments one after another,
 all of them easy to capsize.
-TIMOCLES
+<label>TIMOCLES</label>
 Well then, as my comparison of the ship did not
 seem to you very valid, attend now to my sheetanchor, as they call it, which you can’t by any possibility cut away.
-ZEUS
+<label>ZEUS</label>
 What in the world is he going to say?
 165
 <pb n="166"/>
@@ -5460,35 +5464,35 @@ yap topev obtives pév TATPOS El, TAS SE 1 TN P
 166
 <pb n="167"/>
 <note type="head">ZEUS RANTS</head>
-TIMOCLES
+<label>TIMOCLES</label>
 See whether I frame this syllogism logically, and
 whether you can capsize it in any way. If there are
 altars, there are also gods; but there are altars,
 ergo there are also gods. What have you to say to
 that?
-DAMIS
+<label>DAMIS</label>
 After I have laughed to my heart’s content I'll
 tell you.
-TIMOCLES
+<label>TIMOCLES</label>
 Well, it looks as if you would never stop laughing ;
 tell me, though, how you thought what I said was
 funny.
-DAMIS
+<label>DAMIS</label>
 Because you do not see that your anchor is
 attached to a slender string—and it’s your sheetanchor at that! Having hitched the existence of
 gods to the existence of altars, you think you have
 made yourself a safe mooring. So, as you say you
 have no better sheet-anchor than this, let's be
 going.
-TIMOCLES
+<label>TIMOCLES</label>
 You admit your defeat, then, by going away first ?
-DAMIS
+<label>DAMIS</label>
 Yes, Timocles, for like men threatened with
 violence from some quarter or other, you have taken
 refuge at the altars. Therefore I vow by the sheetanchor, I want to make an agreement with you now,
 right at the altars, not to dispute any more on this
 topic.
-TIMOCLES
+<label>TIMOCLES</label>
 Are you mocking me, you ghoul, you miscreant,
 you abomination, you gallows-bird, you scum of the
 earth? Don’t we know who your father was, and
@@ -5536,13 +5540,13 @@ corrupt the young, you height of all that’s lewd and
 shameless? Don’t run away! Take a thrashing
 from me before you go! Ill brain you right now
 with this brickbat, dirty miscreant that you are!
-ZEUS
+<label>ZEUS</label>
 One is going away laughing, gods, and the other
 is following him up with abuse, because he can’t
 stand the mockery of Damis ; it looks as if he would
 hithim on the head with the brickbat. But what
 ofus? What are we to do now?
-HERMES
+<label>HERMES</label>
 It seems to me that the comic poet hit it right
 when he said :
 “No harm’s been done you if you none admit.
@@ -5551,7 +5555,7 @@ convinced of all this? The people who think
 diferently are in large majority, not only the rank
 and file of the Greeks, but the barbarians to a man.
 mY
-ZEUS
+<label>ZEUS</label>
 Yes, Hermes, but what Darius said about Zopyrus
 is very much in point too. I myself had rather have
 this man Damis alone on my side than possess a
@@ -5561,15 +5565,10 @@ thousand Babylons.*
 169
 <pb n="170"/>
 <note type="head">Original from</head>
-<pb n="171"/>
-<note type="head">THE DREAM, OR THE COCK</head>
-ACynic sermon in praise of poverty, cast in the form of a
-dialogue between Micyllus the cobbler, who figures also in
-The Downward Journey, and his cock, who is Pythagoras
-reincarnated,
-Co gle
+
+
 <pb n="172"/>
-<note type="head">ONEIPO® H AAEKTPTON</head>
+<head>ONEIPO® H AAEKTPTON</head>
 MIKYAAOZ
 "AAG oé, KdKioTE aGdeKTpuer, 6 Leds avtos 1
 emutpiipere ‘POovepov ota Kal oEvgavoy dvta,\és
@@ -5595,8 +5594,18 @@ yoov Tply dvateiiat Hrov pilav xpntida é&epya-
 1 et AM. : 4 (or 4) 3 fv (and épyden) B.
 172
 <pb n="173"/>
-<note type="head">THE DREAM, OR THE COCK</head>
-MICYLLUS
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg019">
+<head>THE DREAM, OR THE COCK<note>A Cynic sermon in praise of poverty, cast in the form of a
+dialogue between Micyllus the cobbler, who figures also in
+The Downward Journey, and his cock, who is Pythagoras
+reincarnated,
+</note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
+<label>MICYLLUS</label>
 Way, you scurvy cock, may Zeus himself annihilate
 you for being so envious and shrill-voiced! I was
 rolling in wealth and having a most delightful dream
@@ -5663,14 +5672,14 @@ bread. But if you had rather sleep, [ll keep quiet
 for you and will be much more mute than a fish.
 Take care, however, that you don’t dream you are
 rich and then starve when you wake up.
-MICYLLUS
+<label>MICYLLUS</label>
 Zeus, god of miracles, and Heracles, averter of
 harm! what the devil does this mean? The cock
 talked like a human being!
 cock
 Then do you think it a miracle if I talk the same
 language as you men?
-MICYLLUS
+<label>MICYLLUS</label>
 Why isn’t it a miracle? Gods, avert the evil
 omen from us!
 cock
@@ -5736,8 +5745,8 @@ you promise me to keep your own counsel, I shall
 not hesitate to.tell you the real reason for my having
 the same tongue as you, and how it happens that |
 can talk like this.
-MICYLLUS
-! Why, this is not a dream, is it?’ A cock talking
+<label>MICYLLUS</label>
+Why, this is not a dream, is it?’ A cock talking
 to me this way? Tell me, in the name of Hermes,
 my good friend, what other reason you have for your
 ability to speak. As to my keeping still and not
@@ -5749,7 +5758,7 @@ Listen, then, to an account which will be quite
 incredible to you, I am very sure, Micyllus. I who
 now appear to you in the guise of a cock was a man
 not long ago.
-MICYLLUS
+<label>MICYLLUS</label>
 I heard something to that effect about you cocks a
 good while ago. They say that a young fellow
 named Alectryon (Cock) became friends with Ares
@@ -5762,8 +5771,8 @@ lown on them and tell Hephaestus, he always used
 9 leave the young fellow outside at the door to
 am him when Helius rose. Then, they say,
 wJectryon fell asleep one time and unintentionally
-177
-VOL. II. N
+
+
 <pb n="178"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Aadovta emiativar tH “Adpoditn Kal TO “Apes |
@@ -5792,10 +5801,8 @@ HOtatov éuol yoov dwpov éxtpamelov atodpaiver,
 1 Text B: Oloda apa roy MuOaydpay; +.
 178
 <pb n="179"/>
-<note type="head">‘</head>
-|
-Merete eee er Ie 2
-THE DREAM, OR THE COCK
+
+
 betrayed his post, and Helius unexpectedly stole
 upon Aphrodite with Ares, who was sleeping peacefully because he relied on Alectryon to tell him if
 anyone came near. So Hephacstus found out from
@@ -5814,13 +5821,13 @@ cock
 That is what they say, Micyllus, I grant you; but
 my own experience has been quite different, and it
 is only just lately that I changed into a cock.
-MICYLLUS
+<label>MICYLLUS</label>
 How? That is what I want to know above all
 else.
 cock
 Have you ever heard of a man named Pythagoras,
 the son of Mnesarchus, of Samos?
-MICYLLUS
+<label>MICYLLUS</label>
 You mean the sophist, the quack, who made laws
 against tasting meat and eating beans, banishing
 from the table the food that I for my part like best
@@ -5871,11 +5878,11 @@ Exwv Hrov +.
 <pb n="181"/>
 <note type="head">THE DREAM, OR THE COCK</head>
 fed)? They say he was a conjurer and a miraclemonger, cock.
-COCK
-{ am that very Pythagoras, Micyllus, so stop
+<label>COCK</label>
+I am that very Pythagoras, Micyllus, so stop
 abusing me, my good friend, especially as you do not
 know what sort of man I really was.
-MICYLLUS
+<label>MICYLLUS</label>
 Now this is far more miraculous than the other
 thing! A philosopher cock! Tell me, though, son
 of Mnesarchus, how you became a cock instead of a
@@ -5885,7 +5892,7 @@ I think Ihave observed two things in you that are
 quite foreign to Pythagoras.
 cock
 What are they?
-MICYLLUS
+<label>MICYLLUS</label>
 One thing is that you are very noisy and loudvoiced, whereas he recommended silence for five
 whole years, I believe. The other is actually quite
 illegal ; I came home yesterday, as you know, with
@@ -5941,7 +5948,7 @@ because they are fit food for a bird and are not forbidden to us. But listen if 
 you how from Pythagoras I became what I am, and
 what existences I formerly led, and what I profited
 by each change.
-MICYLLUS
+<label>MICYLLUS</label>
 Do tell me, for I should be more than delighted
 to hear it. Indeed, if anyone were to let me choose
 whether I preferred to hear you tell a story like that
@@ -5951,11 +5958,11 @@ choice; for in my estimation what you say is close
 akin to the most delightful of visions, and I hold
 you both in equal esteem, you and my priceless
 dream.
-COCK
+<label>COCK</label>
 What, are you still brooding on that vision, whatever it was that came to you, and are you still
 cherishing idle delusions, hunting down in your
 memory a vain and (as they say in poetry) disembodied happiness ?
-MICYLLUS
+<label>MICYLLUS</label>
 Why, I shall never forget that vision, cock, you
 may be sure. The dream left so much honied sweetness in my eyes when it went away that I can
 hardly open my lids, for it drags them down in sleep
@@ -5996,7 +6003,7 @@ thy tpwra Tod évumviou (or Tov Epwra phys Tod evuTviov) MSS.
 184
 <pb n="185"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-cock
+<label>cock</label>
 Heracles! By what you say, Master Dream is an
 adept indeed. Rumour says that he has wings and
 can fly to the limit set by sleep, but now he “ jumps
@@ -6004,21 +6011,21 @@ over the pit’! and lingers in eyes that are open,
 presenting himself in a form so honey-sweet and
 palpable. At all events I should be glad to hear
 what he is like, since you hold him so very dear.
-MICYLLUS
+<label>MICYLLUS</label>
 Iam ready to tell; in fact, it will be delightful
 to think and talk about it. But when are you going
 to tell me about your transmigrations, Pythagoras?
-, cock
+<label>cock</label>
 When you stop dreaming, Micyllus, and rub the
 honey out of your eyes. At present, you speak
 first, so that I may find out whether it was through
 the gates of ivory or the gates of horn that the
-_ dream winged its way to you.
-MICYLLUS
+dream winged its way to you.
+<label>MICYLLUS</label>
 Not through either of them, Pythagoras.
-cock
+<label>cock</label>
 Well, Homer mentions only those two.?
-MICYLLUS
+<label>MICYLLUS</label>
 Let that silly poet go hang! He knows nothing
 about dreams. Perhaps the beggarly dreams go
 out through those gates, dreams like those he used
@@ -6073,11 +6080,11 @@ Novaodpevon tKewv exédeve THY Opav éwt TO Sel 7rvoOD.
 came through gates of gold, and it was gold itself
 and all dressed in gold and brought heaps of gold
 with it.
-cock
+<label>cock</label>
 Stop babbling of gold, most noble Midas. Really
 your dream was just like Midas’ prayer, and you
 appear to me to have slept yourself into whole goldmines.
-MICYLLUS
+<label>MICYLLUS</label>
 I saw a lot of gold, Pythagoras, a lot; you can’t
 think how beautiful it was, and with what brilliancy
 it shone. What is it that Pindar says in praising it ?
@@ -6085,12 +6092,12 @@ Remind me, if you know. It is where he says water
 is best and then extols gold (and well he may), right
 in the beginning of the most beautiful of all his
 odes.
-cock
+<label>cock</label>
 Is this what you are after?
 “* Water is best, but gold
 Like blazing fire at night
 Stands out amid proud riches.” !
-MICYLLUS
+<label>MICYLLUS</label>
 That is it, by Heaven! Pindar praises gold as
 though he had seen my dream. But listen, so that
 you may know what it was like, wisest of cocks. I
@@ -6105,18 +6112,18 @@ him to dress for dinner.
 187
 <pb n="188"/>
 <note type="head">THE WORKS OF LUCIAN</head>
-AEKTPYON
+<label>AEKTPYON</label>
 Oisa mavu robrol m mewoas map’ SAY THY He |
 pav, adype por Babeias Hon éomrépas KES vroBe-
 Boeyudvos|rods mévTe kudpous éxetvous Kopilav, ov
 mdvu dainres TO Settvov addexTpvdve GOANTH Tote
 yevonéve cal’Odvpmia ov« apavas dyoucapéve.
-MIKYAAOZ
+<label>MIKYAAOZ</label>
 "Exel 6¢ Seervncas émavijOov, éxdbevdov evOds
 Tous Kudpous gor TapaBarov, cird pot KaTa TOV
 “Opnpov ‘dpBpociny dia vinta” Oeids Tis ws
 adnOBs SvEetpos émLoTas ...
-AAEKTPTON
+<label>AAEKTPTON</label>
 Ta mapa 70. Ev«pdrer | TMPOTEpov, @ Mixunrre,
 Sunynoat, Kal To Setmvov olov éyéveto kal Ta ev TO
 ouproai mavra: Korvel yap ovdéev adbis ge dermveiv| o do mep dverpov Twa Tob Seimrvou éxeivou
@@ -6138,25 +6145,25 @@ HED” joy, od dvt éxeivou Ke Novadmevos, Hy p21)
 188
 <pb n="189"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-COCK
+<label>COCK</label>
 I know that very well; I went hungry all day
 until finally, late in the evening, you came back
 rather tight, bringing me those five beans, not a
 very bounteous repast for a cock who was once an
 athlete and made a fair showing at the Olympic
 games.
-MICYLLUS
+<label>MICYLLUS</label>
 When I came home after dinner, I went to sleep
 as soon as I had thrown you the beans, and then
 “through the ambrosial night,” as Homer puts it,! a
 truly divine dream came to me and. . .
-cock
+<label>cock</label>
 First tell me what happened at Eucrates’, Micyllus,
 how the dinner was and all about the drinkingparty afterwards. For there is nothing to hinder
 you from dining all over again by making up adream
 so to speak, about that dinner and chewing the cud
 of your food in fancy.
-MICYLLUS
+<label>MICYLLUS</label>
 I thought I should bore you by telling all that, but
 since you want it, here goes. I never before dined
 with a rich man in all my life, Pythagoras, but by
@@ -6298,8 +6305,8 @@ wolf and the old woman ; she threatened to throw a baby to
 the wolf if it did not stop crying, and the wolf waited all
 day for the baby, only to go home disappointed. (Aesop,
 275 Halm.)
-193
-VOL. Il. 0
+
+
 <pb n="194"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Xpucd kal Sudxovot @paiot Kal poovcovpyol Kat
@@ -6347,7 +6354,7 @@ had horns.! By philosophizing with me incessantly
 after that fashion when I had no mind for it, he
 spoiled and diminished my pleasure, not allowing me
 to hear the performers who were playing and singing. Well, there you have your dinner, cock.
-cock
+<label>cock</label>
 It was not of the pleasantest, Micyllus, as your
 lot was cast with that silly old man.
 MICYLLUuS
@@ -6414,12 +6421,12 @@ scattered to the winds. Now do you think I was
 unreasonable in getting angry at you, when I should
 have been glad to see the dream last for three
 nights ?
-cock
+<label>cock</label>
 Are you such a lover of gold and of riches,
 Micyllus, and is owning quantities of gold the only
 thing in the world that you admire and consider
 blissful ?
-MICYLLUS
+<label>MICYLLUS</label>
 I am not the only ‘one to do so, Pythagoras: you
 yourself, when you were Euphorbus, sallied forth to
 fight the Achaeans with your curls tricked out in
@@ -6486,21 +6493,21 @@ and esteem, and not infrequently it makes inconspicuous and contemptible people 
 my neighbour, of the same trade, Simon, who dined
 with me not long ago when I boiled the soup for
 Cronus-day and put in two slices of sausage?
-cock
+<label>cock</label>
 Yes, I know him; the snub-nosed, short fellow
 who filched the earthen bowl and went away with it
 under his arm after dinner, the only bowl we had—
 I myself saw him, Micyllus.
-MICYLLUS
+<label>MICYLLUS</label>
 So it was he that stole it and then swore by so
 many gods that he did not? But why didn’t you
 cry out and tell on him then, cock, when you saw us
 being plundered ?
-COCK
+<label>COCK</label>
 I crowed, and that was all that I could do at the
 time. But what about Simon? You seemed to be
 going to say something about him.
-MICYLLUS
+<label>MICYLLUS</label>
 He had a cousin who was enormously rich, named
 Drimylus. This fellow while he was alive never gave
 199
@@ -6562,7 +6569,7 @@ heard the poets say: “O gold, thou choicest
 treasure,” 3 and
 “Tis gold that over mortal men doth rule.” 4
 But why did you interrupt me by laughing, cock ?
-cock
+<label>cock</label>
 Because in your ignorance, Micyllus, you have
 gone just as far astray as most people in regard to
 the rich. Take my word for it, they live a much
@@ -6612,29 +6619,29 @@ more wretched life than we. I who talk to you have
 been both poor and rich repeatedly, and have tested
 every kind of life : after a little you shall hear about
 it all.
-MICYLLUS
+<label>MICYLLUS</label>
 Yes, by Heaven, it is high time now for you to
 talk and tell me how you got transformed and what
 you know of each existence.
-cock
+<label>cock</label>
 Listen ; but first let me tell you thus much, that I
 have never seen anyone leading a happier life than
 you.
-MICYLLUS
+<label>MICYLLUS</label>
 Than I, cock? I wish you no better luck yourself! You force me to curse you, you know. But
 begin with Euphorbus and tell me how you were
 transformed to Pythagoras, and then the rest of it
 till you get to the cock : for it is likely that you have
 seen many sights and had many adventures in your
 multifarious existences.
-cock
+<label>cock</label>
 How my soul originally left Apollo, flew down to
 earth and entered into a human body and what sin
 it was condemned to expiate in that way would
 make a long story; besides, it is impious either for
 me to tell or for you to hear such things. But when
 I became Euphorbus. . .
-MICYLLUS
+<label>MICYLLUS</label>
 But I,—who was I formerly, wondrous creature ?
 First tell me whether I too was ever transformed
 like you.
@@ -6679,19 +6686,19 @@ pévev éxetvov'Kdunros ev Baxrpots Hv; eye Se
 204
 <pb n="205"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-MICYLLUS
+<label>MICYLLUS</label>
 Then what was I ? ‘Tell me if you can, for 1 want
 to know.
-COCK
+<label>COCK</label>
 You were an Indian ant, one of the gold-digging
 kind.!
-MICYLLUS
+<label>MICYLLUS</label>
 Confound the luck ! to think that I did not dare
 to lay in even a small supply of gold-dust before
 coming from that life to this! But what shall I be
 next, tell me? You probably know. If it is anything good, [ll climb up this minute and hang
 myself from the peg that you are standing on.
-cock
+<label>cock</label>
 You can’t by any possibility find that out. But
 when I became Euphorbus—for Iam going back to
 that subject—I fought at Troy and was killed by
@@ -6699,14 +6706,14 @@ Menelaus, and some time afterwards I entered into
 Pythagoras. In the meanwhile I stood about and
 waited without a house till Mnesarchus should build
 me one.
-MICYLLUS
+<label>MICYLLUS</label>
 Without food and drink, my friend ?
-cock
+<label>cock</label>
 Yes, certainly ; for they turned out to be unnecessary, except for the body.
-: MICYLLUS
+<label>MICYLLUS</label>
 Well, then, tell me the story of Troy first. Was it
 all as Homer says ?
-COCK
+<label>COCK</label>
 Why, where did he get his information, Micyllus?
 When all that was going on, he was a camel in
 1 Herod. 3, 102.
@@ -6758,22 +6765,22 @@ of Heracles, who took Troy the first time it was
 taken, in the time of our fathers,—our then fathers,
 Imean. Panthous told me all this, and said that
 when he was quite small he had seen Heracles.
-MICYLLUS
+<label>MICYLLUS</label>
 But how about Achilles? Was he as Homer
 describes him, supreme in everything, or is this only
 a fable too ?
-cock
+<label>cock</label>
 { did not come into contact with him at all,
 Micyllus, and I can’t tell you as accurately about
 the Greek side. How could I, being one of the
 enemy? His comrade Patroclus, however, I killed
 without difficulty, running him through with my
 spear.}
-MICYLLUS
+<label>MICYLLUS</label>
 And then Menelaus killed you with much greater
 ease! But enough of this, and now tell me the
 story of Pythagoras.
-cock
+<label>cock</label>
 In brief, Micyllus, I was a sophist, for I must tell
 the truth, I suppose. However, I was not uneducated or unacquainted with the noblest sciences. I
 The cock is drawing the long-bow; Euphorbus only
@@ -6819,26 +6826,26 @@ aitiavy, ws eixdlovtes GddOS GAXWS ETraVTES
 even went to: Egypt to study with the prophets,
 penetrated into their sanctuaries and learned the
 books of Horus and Isis by heart, and then I sailed
-away. to Italy and worked upon the Greeks in that
+away to Italy and worked upon the Greeks in that
 quarter of the world to such an extent that they
 thought me a god.
-MICYLLUS ;
+<label>MICYLLUS</label> 
 So I have heard, and I have also heard that you
 were thought to have come to life again after dying,
 and that you once showed them that your thigh was of
 gold. But, look here, tell me how it occurred to you
 to make a law against eating either meat or beans?
-cock
+<label>cock</label>
 Do not press that question, Micyllus.
-MICYLLUS
-Why, cock ? :
+<label>MICYLLUS</label>
+Why, cock ? 
 Cock
 Because I am ashamed to tell you the truth of it.
-MICYLLUS
+<label>MICYLLUS</label>
 But you oughtn’t to hesitate to tell a housemate
 and a friend—for I cannot call myself your master
 any longer.
-cock
+<label>cock</label>
 It was nothing sensible or wise, but I perceived
 that if I made laws that were ordinary and just
 like those of the run of legislators I should not
@@ -6846,8 +6853,8 @@ induce men to wonder at me, whereas the more I departed from precedent, the more
 cut, I thought, in their eyes. Therefore I preferred
 to introduce innovations, keeping the reason for
 them secret so that one man might guess one thing
-209
-VOL. I. P
+
+
 <pb n="210"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 > th if 3 \ a > / lat
@@ -6890,15 +6897,15 @@ noba OTe ce 6 Wepexrs darucev;
 and one another, and all be perplexed, as they are in
 the case of oracles that are obscure. Look here, you
 are laughing at me, now.
-MICYLLUS
+<label>MICYLLUS</label>
 Not so much at you as at the people of Croton
 and Metapontum and Tarentum and all the rest who
 followed you dumbly and worshipped the footprints
 that you left in walking. But after you put off the
 part of Pythagoras what other did you assume ?
-COCK
+<label>COCK</label>
 Aspasia, the courtesan from Miletus.
-MICYLLUS
+<label>MICYLLUS</label>
 Whew, what a yarn! So Pythagoras became a
 woman on top of everything else, and there was
 once atime when you laid eggs, most distinguished
@@ -6906,16 +6913,16 @@ of cocks; when you lived with Pericles in the
 capacity of Aspasia and had children by him and
 carded wool and spun yarn and made the most of
 your sex in courtesan style?
-COCK
+<label>COCK</label>
 Yes, I did all that, and I am not the only one:
 both Tiresias and Caeneus the son of Elatus preecded
 me, so that all your jokes at my expense will be at
 their expense too.}
-MICYLLUS
+<label>MICYLLUS</label>
 How about it? Which life did you find the
 pleasanter, when you were a man or when Pericles
 dallied with you ?
-! Tiresias struck a pair of mating serpents with his staf’,
+Tiresias struck a pair of mating serpents with his staf’,
 and turned into a woman ; seven years later he once more
 saw them and struck them, becoming a man again (Ovid,
 Melam. 3, 316 ff.). Poseidon turned Caenis intoa man at her
@@ -6923,7 +6930,7 @@ own request after he had wronged her (Jfetum. 12, 189 fF.).
 211
 <pb n="212"/>
 <note type="head">THE WORKS OF LUCIAN</head>
-AAEKTPYON
+<label>AAEKTPYON</label>
 € a @ a > , OX lal ,
 Opas ofov todo Hpwtyncas, obdé TH Teupeoia
 cuveveyKodaay THY aTrOKpLoL;
@@ -6953,10 +6960,10 @@ HaOnv yap TH TowovTe Bio. Kal mapa TorXois
 212
 <pb n="213"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-cock
+<label>cock</label>
 Just see what a question you have asked there!
 Even Tiresias paid dearly for answering it !}
-MICYLLUS
+<label>MICYLLUS</label>
 Whether you tell me or not, Euripides has settled
 the business well enough, for he says that he would
 sooner stand in line of battle thrice over than bear a
@@ -6965,18 +6972,18 @@ a cock
 I'll remind you of that before long, Micyllus, when
 you are in child-bed; for you too will be a woman
 again and again in your long cycle of existences.
-MICYLLUS
+<label>MICYLLUS</label>
 Hang you, cock, do you think everybody hails from
 Miletus or Samos? They say that while you were
 Pythagoras and young and handsome you often
 played Aspasia to the tyrant. But what man or
 woman did you become after Aspasia ?
-COCK —
+<label>COCK</label> 
 The Cynic Crates.
-MICYLLUS
+<label>MICYLLUS</label>
 Twin brethren! what ups and downs! First a
 courtesan, then a philosopher !
-cock
+<label>cock</label>
 Then a king, then a poor man, and soon a satrap ;
 then a horse, a jackdaw, a frog, and a thousand things
 besides ; it would take too long to enumerate them
@@ -7029,25 +7036,25 @@ rich through ignorance of the troubles that are
 theirs. Indeed, if you knew the cares they have,
 you would laugh at yourself for thinking at_ first
 that wealth was a source of extraordinary happiness.
-MICYLLUS
+<label>MICYLLUS</label>
 Well then, Pythagoras—but tell me what you
 like best to be called, so that I may not muddle up
 our conversation by calling you different names.
-cock
+<label>cock</label>
 It will make no difference whether you call me
 Euphorbus or Pythagoras, Aspasia or Crates; I am
 all of them. But you had better call me what you
 now see me to be, a cock, so as not to slight a bird
 that, although held in low esteem, has in itself so
 many souls.
-MICYLLUS
+<label>MICYLLUS</label>
 Well then, cock, as you have tried almost every
 existence and know everything, please tell me
 clearly about the life of the rich and the life of the
 poor, each by itself, so that I may learn if you are
 telling the truth when you declare that I am happier
 than the rich.
-cock
+<label>cock</label>
 Well now, look at it this way, Micyllus. As for you,
 you are little concerned about war if you hear that
 the enemy is approaching, and you do not worry for
@@ -7176,9 +7183,9 @@ ambitions soar high in the air but have kept them
 close to earth so that the wax is occasionally wet
 with spray, the most part reach their journey’s end
 in safety.
-MICYLLUS
+<label>MICYLLUS</label>
 You mean temperate and sensible people.
-cock
+<label>cock</label>
 But as for the others, Micyllus, you can see how
 sadly they come to grief when a Croesus with his
 219
@@ -7218,20 +7225,20 @@ kal Qedv tiva opav wovto Kal ddd én’ AAROLS
 wings clipped makes sport for the Persians by
 mounting the pyre, or a Dionysius, expelled from
 his tyrant’s throne, turns up in Corinth as a schoolmaster, teaching children their a, b—ab, after holding sway so widely.
-MICYLLUS
+<label>MICYLLUS</label>
 Tell me, cock, when you were king—for you say
 you were once on a time—how did you find that
 life? You were completely happy, I suppose, as
 you had what is surely the acme of all blessings.
-cock
+<label>cock</label>
 Don’t even remind me of it, Micyllus, so utterly
 wretched was I then; for although in all things
 external I seemed to be completely happy, as you
 say, I had a thousand vexations within.
-MICYLLUS
+<label>MICYLLUS</label>
 What were they? What you say is strange and
 not quite credible.
-cock
+<label>cock</label>
 I ruled over a great country, Micyllus, one that
 roduced everything and was among the most noteworthy for the number of its people and the beauty
 of its cities, one that was traversed by navigable
@@ -7262,7 +7269,7 @@ opipas Kal mittay Kab mhov Kat ToLaurny
 Twa TONY" apoppiav tmotxoupotcay: éo Déyeuw
 pvov TrHO0s 4 H puyarav éwrodtTevdpevoyv avTots
 éviote. TotovToyv Tt Kat Bacirela éotiv.
-MIKTAAOS
+<label>MIKTAAOS</label>
 Ovdsére épnoda TOV _mdov Kab Tovs youpous
 cal Hox ous jolruves elev THs apxiis, ovdé TH
 dpoppiav éxelyny THY TONY ires éoriy: @s 76
@@ -7295,7 +7302,7 @@ beams and wedges and pitch and clay and a quantity
 of such ugly stuff housing within, not to mention
 numbers of mice and rats that keep their court in
 them sometimes. That is what monarchy is like.
-MICYLLUS
+<label>MICYLLUS</label>
 You haven’t yet told me what the clay and the
 props and bars are in monarchy, nor what that
 “ quantity of ugly stuff” is. [ll grant you, to drive
@@ -7303,7 +7310,7 @@ out as the ruler of so many people amid admiration
 and homage is wonderfully like your comparison of
 the colossus, for it savours of divinity. But tell me
 about the inside of the colossus now.
-COCK
+<label>COCK</label>
 What shall I tell you first, Micyllus? The terrors,
 the frights, the suspicions, the hatred of your
 223
@@ -7357,10 +7364,13 @@ of the press of business, negotiations, lawsuits,
 campaigns, orders, countersigns, and calculations ?
 These things prevent a ruler from enjoying any
 pleasure even in his sleep; he alone must think
-about everything and have a_ thousand worries.
+about everything and have a thousand worries.
 Even in the case of Agamemnon, son of Atreus,
-«<Sweet sleep came to him not as he weighed in his
-mind many projects,”
+
+<cit><quote><l>Sweet sleep came to him not as he weighed in his
+mind many projects,</l></quote>
+<bibl>Iliad 10, 3-4</bibl></cit>
+
 though all the Achaeans were snoring !1_ The king
 of Lydia? is worried because his son is mute, the
 king of Persia? because Clearchus is enlisting troops
@@ -7378,12 +7388,15 @@ friends and always be expecting some harm to come
 from them. For example, I was poisoned by my son,
 he himself by his favourite, and the latter no doubt
 met some other death of a similar sort.
-MICYLLUS
+<label>MICYLLUS</label>
 Tut, tut! What you say is dreadful, cock. For
-1 Jliad 10, 3f. 2 Croesus, 3 Artaxerxes,
-4 Dionysius the Younger. 5 Alexander.
-225
-VOL. II.
+ 
+<note n="2">Croesus.</note>
+<note n="3">Artaxerxes.</note>
+<note n="4">Dionysius the Younger. </note>
+<note n="5">Alexander.</note>
+
+
 <pb n="226"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 yoov TON |, daparéa rE pov oKutoTopely érucenvgota ) ive aro xpuats guddns Keeoveloy 3)
@@ -7444,7 +7457,7 @@ comparisons, friend cock? Well, as for absolute
 power, it proves to be something of that sort. But
 when you became a horse or a dog or a fish or a frog,
 how did you find that existence?
-cock
+<label>cock</label>
 That is a long story you are starting, and we have
 not time for it just now. But to give the upshot of
 it, there is no existence that did not seem to me more
@@ -7487,8 +7500,8 @@ OUY OpwpmEvos avTOS.
 <note type="head">THE DREAM, OR THE COCK</head>
 or a jackdaw sophist or a mosquito chef or a libertine
 cock or any of the other modes of life that you men
-follow. °
-MICYLLUS
+follow. 
+<label>MICYLLUS</label>
 No doubt that is true, cock. But as to myself, I
 am not ashamed to tell you how I feel. [ am not
 yet able to unlearn the desire of becoming rich that
@@ -7496,22 +7509,22 @@ yet able to unlearn the desire of becoming rich that
 stands before my eyes displaying its gold; and
 above all I am choking with envy of that confounded
 Simon, who is revelling in so many blessings.
-COCK
+<label>COCK</label>
 I will cure you, Micyllus. As it is still night, get
 up and follow me; I will take you to visit Simon
 and to the house of the other rich men, so that you
 may see what their establishments are like.
-MICYLLUS
+<label>MICYLLUS</label>
 How can you do it when their doors are locked?
 You aren't going to make me be a burglar ?
-COCK
+<label>COCK</label>
 Not by any means. But Hermes, to whom IT am
 consecrated, gave me this privilege, that if my
 longest tail feather, the one that is so pliant that it
 curls—
-MICYLLUS
+<label>MICYLLUS</label>
 You have two like that.
-cock
+<label>cock</label>
 It is the one on the right, and if I permit any man
 to pull it out and keep it, that man, as long as I
 choose, can open every door and see everything
@@ -7549,36 +7562,36 @@ TO META TOUTO;
 230
 <pb n="231"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-MICYLLUS
+<label>MICYLLUS</label>
 I didn’t realize, cock, that you yourself were a
 conjurer. Well, if you only let me have it, you shall
 see all Simon’s possessions brought over here in a
 jiffy: Pl slip in and bring them over, and he will
 once more eat his leather as he stretches it.!
-COCK
+<label>COCK</label>
 That is impossible, for Hermes ordered me, if the
 man who had the feather did anything of that sort,
 to uplift my voice and expose him.
-MICYLLUS
+<label>MICYLLUS</label>
 It is hard to believe what you say, that Hermes,
 himself a thief, begrudges others the same privilege.
 But let’s be off just the same ; I'll keep my hands off
 the gold if I can.
-cock
+<label>cock</label>
 First pluck the feather out, Micyllus . . . What's
 this? You have pulled them both out !
-MICYLLUS
+<label>MICYLLUS</label>
 It is safer to do so, cock, and it will spoil your
 beauty less, preventing you from being crippled on
 one side of your tail.
-cock
+<label>cock</label>
 All right. Shall we visit Simon first, or one of
 the other rich men?
-MICYLLUS
+<label>MICYLLUS</label>
 No: Simon, who wants to have a name of four
 syllables instead of two, now that he is rich. Here
 we are at the door already. What shall I do next?
-? The ancient shoemaker held one side of the leather in his
+The ancient shoemaker held one side of the leather in his
 teeth in stretching it. Cf. Martial 9, 73:
 Dentibus antiquas solitus producere pelles
 et mordere luto putre vetusque solum—.
@@ -7623,22 +7636,22 @@ yettwv Mixvardos.
 232
 <pb n="233"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-cock
+<label>cock</label>
 Put the feather to the lock.
-MICYLLUS
+<label>MICYLLUS</label>
 Look at that now! Heracles! The door has
 opened just as it would toa key!
-COCK
+<label>COCK</label>
 Lead on. Do you see him sitting up and figuring ?
-MICYLLUS
+<label>MICYLLUS</label>
 Yes, by Heaven, beside a dim and thirsty lamp ;
 he is pale for some reason, cock, and all run down
 and thin; from worrying, I suppose, for there was
 no talk of his being ill in any other way.
-cock
+<label>cock</label>
 Listen to what he is saying and you will find out
 how he got this way.
-SIMON
+<label>SIMON</label>
 Well, then, that seventy talents is quite safely
 buried under the bed and no one else knows of it;
 but as for the sixteen, I think Sosylus the groom saw
@@ -7697,13 +7710,13 @@ mapa Vvidwva, et Soxei, Tov Saveraotnv twpev. ov
 234
 <pb n="235"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-MICYLLUS
+<label>MICYLLUS</label>
 Yes, by Heaven, I’m just like you and go away
 with the dishes under my arm!
-COCK
+<label>COCK</label>
 Hush, Micyllus, for fear he may find out that we
 are here.
-SIMON
+<label>SIMON</label>
 At any rate it is best to stay awake myself and
 keep watch. I'll get up from time to time and go
 all about the whole house. Who is that? I see
@@ -7713,18 +7726,18 @@ fear I made a mistake yesterday. There, now, somebody made a noise: he’s after
 beleaguered and plotted against by all the world.
 Where is my sword? If I find anyone ... Let us
 bury the gold again.
-cock
+<label>cock</label>
 Well, Micyllus, that is the way Simon lives. Let’s
 o and visit someone else while there is still a little
 of the night left.
-MICYLLUS
+<label>MICYLLUS</label>
 Unfortunate man, what a life he leads! I wish
 my enemies wealth on those terms! Well, I want
 to hit him over the head before I go.
-SIMON
+<label>SIMON</label>
 Who hit me? I’m being robbed, unlucky that I
 am !
-MICYLLUS
+<label>MICYLLUS</label>
 Groan and lie awake and grow like your gold
 in colour, cleaving fast to it! Let’s go and see
 Gnipho the money-lender, if you don’t mind. He
@@ -7767,12 +7780,12 @@ es
 <note type="head">THE DREAM, OR THE COCK</head>
 too lives not far off. This door has opened to us
 also.
-cock
+<label>cock</label>
 Do you see him awake with his worries like the
 other, computing his interests and wearing his fingers
 tothe bone? And yet he will soon have to leave all
 this behind and become a beetle or a gnat or a dogfly.
-MICYLLUS
+<label>MICYLLUS</label>
 I see an unfortunate, senseless man who even now
 lives little better than a beetle or a gnat. And how
 completely run down he is from his computations !
@@ -7780,17 +7793,17 @@ Let’s go and see another.
 Cock
 Your friend Eucrates, if you like. See, this door
 has opened too, so let’s go in.
-MICYLLUS
+<label>MICYLLUS</label>
 All this belonged to me a little while ago.
-COCK
+<label>COCK</label>
 Why, are you still dreaming of your wealth? Do
 you see Eucrates and his servant, old man as he
 is. . .?
-MICYLLUS
+<label>MICYLLUS</label>
 Yes, by Heaven, I see lust and sensuality and
 lewdness ill befitting a human being ; and in another
 quarter I see his wife and the cook . . .
-cock
+<label>cock</label>
 How about it? Would you be willing to inherit
 all this too, Micyllus, and have all that belongs to
 Eucrates ?
@@ -7807,26 +7820,25 @@ abté,| dri@pev joixade Tap pds: Ta dovra
 elaatOis dvret, © Mixurre.
 <pb n="239"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-MICYLLUS
+<label>MICYLLUS</label>
 Not on your life, cock! [I starve first! ‘To the
 deuce with your gold and your dinners ; two obols is a
 fortune to me in comparison with being an easy mark
 for the servants.
-CcOocK
+<label>COCK</label>
 Well, the day is just breaking, so let’s go
-rome now ; you shall see the rest of it some other
-ime.’
+home now ; you shall see the rest of it some other
+time.
 239
 <pb n="240"/>
 <note type="head">Original from</head>
-<pb n="241"/>
-<note type="head">PROMETHEUS</head>
-sub-title, The Caucasus, possibly added to distinguish it
-from A Literary Prometheus,
-VOL. Il. R
+
+
+
+
 <pb n="242"/>
 <note type="head">IIPOMHOETS</head>
-EPMHS
+<label>EPMHS</label>
 ‘O pev Kavcacos, ® “Hoatote, ovt0s, @ Tov |
 aOXuov tovtovt ‘Tetava mpoonr@a bas Serjoer’
 Tepla KOT OPEV 5é 81 Kpnyuvov Twa emeTOELor,
@@ -7851,15 +7863,29 @@ ouv, eo TIpoun ded, ON dvdBawe Kal mupexXe
 CEauToV KATATAYNGOMEVOY TpLS TO dpos.
 242
 <pb n="243"/>
-<note type="head">PROMETHEUS</head>
-HERMES
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg020">
+
+<note type="head">PROMETHEUS
+The mock-plea Prometheus, clearly suggested by the
+opening of the Prometheus Bound of Aeschylus, is midway
+between the Menippean satires and the pure genre of the
+Dialogues of the Gods, in one of which (5, formerly 1) the Titan figures again. In some of the manuscripts it bears a
+sub-title, The Caucasus, possibly added to distinguish it
+from A Literary Prometheus.
+</note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
+<label>HERMES</label>
 Wet, Hephaestus, here is the Caucasus, where
 this poor Titan will have to be nailed up. Now then
 let us look about for a suitable rock, if there is a place
 anywhere that has no snow on it, so that the irons
 may be riveted in more firmly and he may be in full
 sight of everybody as he hangs there.
-HEPHAESTUS
+<label>HEPHAESTUS</label>
 Yes, let’s look about, Hermes : we mustn't crucify
 him low and close to the ground for fear that men,
 his own handiwork, may come to his aid, nor yet on
@@ -7867,7 +7893,7 @@ the summit, either, for he would be out of sight
 from below. Suppose we crucify him half way up,
 somewhere hereabouts over the ravine, with his
 hands outstretched from this rock to that one ?
-HERMES
+<label>HERMES</label>
 Right you are; the cliffs are sheer and inaccessible
 on every side, and overhang slightly, and the rock
 has only this narrow foothold, so that one can barely
@@ -7908,10 +7934,10 @@ avtl cov (Tov ) avacxodomiobiva MSS.
 244
 <pb n="245"/>
 <note type="head">PROMETHEUS</head>
-PROMETHEUS
+<label>PROMETHEUS</label>
 Come, Hephaestus and Hermes, at any rate you
 might pity me in my undeserved misfortune.
-HERMES .
+<label>HERMES</label> 
 You mean, be crucified in your stead the instant
 we disobey the order! Don’t you suppose the
 Caucasus has room enough to hold two more pegged
@@ -7922,11 +7948,11 @@ too. Let that be well secured also. That’s good.
 The eagle will soon fly down to eat away your liver,
 so that you may have full return for your beautiful
 and clever handiwork in clay.
-PROMETHEUS
+<label>PROMETHEUS</label>
 O Cronus and Iapetus and you, O mother (Earth)!
 What a fate I suffer, luckless that I am, when I
 have done no harm.
-HERMES
+<label>HERMES</label>
 No harm, Prometheus? In the first place you
 undertook to serve out our meat and did it so unfairly and trickily that you abstracted all the best
 of it for yourself and cheated Zeus by wrapping
@@ -7974,7 +8000,7 @@ Ma A’, addra KaTHyopov avti Stxactod toOt
 Ut
 <pb n="247"/>
 <note type="head">PROMETHEUS</head>
-PROMETHEUS
+<label>PROMETHEUS</label>
 Hermes, you seem to be “blaming a man who is
 blameless,” to speak with the poet,! for you reproach
 me with things for which I should have sentenced
@@ -7986,19 +8012,19 @@ suppose you plead in his behalf that he was just in
 his decision that I be crucified near the Caspian gates
 here in the Caucasus, a most piteous spectacle for all
 the Scythians. ,
-HERMES
+<label>HERMES</label>
 Your appeal, Prometheus, will be tardy and of no
 avail, but say your say just the same; for in any case
 we must remain here until the eagle flies down to
 attend to your liver. This interval of leisure may as
 well be employed in listening to a sophistic speech,
 as you are a very clever scoundrel at speech-making.
-PROMETHEUS
+<label>PROMETHEUS</label>
 Speak first, then, Hermes, and see that you accuse
 me as eloquently as you can and that you don’t
 neglect any of your father’s claims. Hephaestus, I
 make you judge.
-HEPHAESTUS
+<label>HEPHAESTUS</label>
 No, by Heaven; you will find me an accuser
 1 [liad 13, 775.
 2 After Socrates has been found guilty, his accusers proposed that he be condemned to death. He made a counterproposition that he be allowed to dine at the Prytaneum for
@@ -8044,24 +8070,24 @@ crroreivew Kab metpac bas os évt Madore epdavifew tv adijPeav: eb Sé his Torad
 <note type="head">PROMETHEUS</head>
 instead of a judge, I promise you, for you abstracted
 my fire and left my forge cold.
-PROMETHEUS
+<label>PROMETHEUS</label>
 Well, then, divide the accusation ; you can accuse
 me of the theft now, and then Hermes will
 criticize the serving of the meat and the making of
 men. You both belong to trades-unions and are
 likely to be good at speaking.
-HEPHAESTUS
+<label>HEPHAESTUS</label>
 Hermes shall speak for me too, for I am no hand
 at court specches but stick by my forge for the most
 part, while he is an orator and has taken uncommon
 interest in such matters.
-PROMETHEUS
+<label>PROMETHEUS</label>
 I should never have thought that Hermes would
 care to speak about the theft or to reproach me
 with anything like that, when I follow his own trade !
 However, if you agree to this, son of Maea, it is high
 time you were getting on with your accusation.
-HERMES
+<label>HERMES</label>
 Just as if long speeches and adequate preparation
 were necessary, Prometheus, and it were not enough
 simply to summarize your wrong-doings and say that
@@ -8111,7 +8137,7 @@ way and made the innovations in regard to men and
 stole fire, my accusation is sufficient and I don’t
 care to say any more; to do so would be a mere
 waste of words.
-PROMETHEUS
+<label>PROMETHEUS</label>
 Perhaps what you have said is also a waste of
 words ; we shall see a little later! But as you say
 your accusation is sufficient, I shall try as best I can
@@ -8335,8 +8361,7 @@ sacrifices, temples and festivals,
 And all the marts of men.” 2
 1 Hesiod, Works and Days 61.
 2 Aratus, Phaenomena 2-3.
-257
-VOL. I, s
+
 <pb n="258"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 ‘kal yap ef pev euavTd pore Kha TodTO émhacdunv, éwreovéxtovy av tows, vuvt Sé els 7d
@@ -8533,7 +8558,7 @@ I have said my say. Now then, Hermes and
 Hephaestus, if you think I have said anything wrong
 take me to task and confute me, and I will plead in
 reply.
-HERMES
+<label>HERMES</label>
 It is not an easy matter, Prometheus, to rival such
 an accomplished sophist. You are lucky, however,
 1 Od, 8, 325. 2 nad 1, 317.
@@ -8581,24 +8606,24 @@ accuse him in seeming to defend yourself. But I
 am surprised that as you are a prophet you did not
 - know in advance that you would be punished for all
 this.
-PROMETHEUS
+<label>PROMETHEUS</label>
 I did know it, Hermes, and I also know that
 I shall be set free again; before long someone will
 come from Thebes, a brother of yours,! to shoot
 down the eagle which you say will fly to me.
-HERMES
+<label>HERMES</label>
 I hope so, Prometheus, and I hope to see you at
 large, feasting with us all—but not serving our meat !
-PROMETHEUS
+<label>PROMETHEUS</label>
 Never fear, I shall feast with you, and Zeus will
 set me free in return for a considerable favour.
-HERMES
+<label>HERMES</label>
 What favour? Don’t hesitate to tell us.
-PROMETHEUS
+<label>PROMETHEUS</label>
 You know Thetis, Hermes ?—but I must not tell.
 It is best to keep the secret, so that I may be
 rewarded and set free instead of being sentenced.?
-HERMES
+<label>HERMES</label>
 Why, keep it, Titan, if it is best that way. Let’s
 be going, Hephaestus, for here is the eagle close by.
 (To Prometheus.) Well, hold out stubbornly. I
@@ -8612,44 +8637,22 @@ dissected by the bird.
 <note type="head">Original from</head>
 <pb n="267"/>
 <note type="head">ICAROMENIPPUS, OR THE</head>
-SKY-MAN
-Tenia tells_a friend _how he has frustrated. the philo-
-Sophers by flyin up to Heaven and finding out that every-
-Thing there was just as the poets had said.” The satire is
-“Gitected not only at the placita of the philosophers but at
-the conception of the average man, voiced in poetry and
-pragmatically sanctioned, so to speak, by the Stoics; and
-it_also_ai articular thrust, atthe mysteries of the
-Mithras-cult. From the standpoint of the writer and the
-reader, What enippus brings back is nothing but mvon-
-Shing, and that 1s perhaps why he is compared with Icarus
-and not Dacdahis in the title Zcaromenippus. :
-ere is reason to think that Lucian found something of
-this sort among the wri
-tings of Menippus and used it freely.
-The readings from the margin of T noted on pages 300,
-304, 308, 316 and 318 are not, I think, interpolations, but
-genuine 8 readings which are not preserved elsewhere
-because B, the best MS. of that group, does not contain this
-piece. Marginalia by the same early hand in other pieces
-belong to the 8 tradition, and the y tradition is notably rife
-With omissions of just this sort. They are not noted by
-ommerbrodt, and as far as I know have never before
-appeared in print.
+
+
 <pb n="268"/>
 <note type="head">IKAPOMENITIIIOS H TITEPNE®EAO®</head>
-MENIMINOZ
+<label>MENIMINOZ</label>
 Odvxoty Tpraxidtot pep qoay ato yas oTadtot
 péex pt pos THY oedijuny, 6 mpOros jay o7a0 wos:
 rouvTevOer dé emt Tov HALoY dvw Tapacdyyat Tov
 TevTaxootol’ TO b€ aro TOUTOV és aUTOY HON TOV
 ovpavov Kal thy axpoTodw THY Tod Atds avodos
 Kal Tadta yévour’ av! ebSave deT@ pds hyépas.
-ETAIPOS
+<label>ETAIPOS</label>
 Te tabra Tpos Xapitov, & Mévurrre, da tpovopeis Kal HOUT TOS dvaperpeis; madras yap éma-
 Kpodpat gov mapaxohovday aAtous Kal cehivas,
 éte 5€ Ta hoptixa TadTa oTaOpovs Twas Kal Tapaodayyas UTokevilovtos.
-MENINITIO“
+MENINITIO
 ‘My Oavpdons, @ éraipe, éé peTéopa Kab Siadpea
 Sond ot rarely TO kepadavov yap 8) mpos
 éuavtov avaroyilouar Ths évayxos amroonuias.
@@ -8661,30 +8664,47 @@ Od pa Ala, adrW ev adbtots Tots doTpots érrotovpny TH aTroonpiav.
 1 yévoir’ bv Dindorf : yévorro MSS.
 268
 <pb n="269"/>
-<note type="head">ICAROMENIPPUS, OR THE</head>
-SKY-MAN
-MENIPPUS
+
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg021">
+
+<note type="head">ICAROMENIPPUS, OR THE SKY-MAN<note><p>Menippus tells a friend how he has frustrated the philosophers by flying up to Heaven and finding out that everything there was just as the poets had said. The satire is directed not only at the placita of the philosophers but at the conception of the average man, voiced in poetry and pragmatically sanctioned, so to speak, by the Stoics; and
+it also aims a particular thrust, at the mysteries of the
+Mithras-cult. From the standpoint of the writer and the
+reader, What Menippus brings back is nothing but moonshine, and that is perhaps why he is compared with Icarus and not Daedalus in the title Icaromenippus.</p>
+
+<p>There is reason to think that Lucian found something of this sort among the writings of Menippus and used it freely.</p>
+<p>The readings from the margin of Γ noted on pages 300, 304, 308, 316 and 318 are not, I think, interpolations, but genuine β readings which are not preserved elsewhere
+because B, the best MS. of that group, does not contain this
+piece. Marginalia by the same early hand in other pieces
+belong to the β tradition, and the γ tradition is notably rife
+With omissions of just this sort. They are not noted by Sommerbrodt, and as far as I know have never before
+appeared in print.</p></note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
+<label>MENIPPUS</label>
 Ir was three thousand furlongs, then, from the
 earth to the moon, my first stage; and from there up
 to the sun perhaps five hundred leagues; and from
 the sun to Heaven itself and the citadel of Zeus
 would be also a day’s ascent for an eagle travelling
 light.
-FRIEND
+<label>FRIEND</label>
 In the name of the Liberal Arts, Menippus, why
 are you playing astronomer and surveyor on the
 quiet like that? For a long time I have been
 following you about and listening to your outlandish
 talk about suns and moons and even those outworn
 topics, stages and leagues.
-MENIPPUS
+<label>MENIPPUS</label>
 Don’t be surprised, my friend, if my talk seems to
 you to be.up in the air and flighty; I am just
 figuring up the total length of my recent journey.
-FRIEND
+<label>FRIEND</label>
 So you did like the Phoenicians, old chap, and
 guessed your way by the stars ¢
-MENIPPUS
+<label>MENIPPUS</label>
 No indeed, I made my journey right among the
 stars,
 269
@@ -8727,23 +8747,23 @@ TOU deTOD oixEla yap Hv mot TA TTEpa.
 270
 <pb n="271"/>
 <note type="head">ICAROMENIPPUS, OR THE SKY-MAN</head>
-FRIEND
+<label>FRIEND</label>
 Great Heracles! That's a long dream you are
 talking of, if you actually lost yourself and slept for
 leagues and leagues !
-' MENIPPUS
+<label>MENIPPUS</label>
 Dream, man! Do you think I’m telling you a
 dream? [am just back from a visit to Zeus.
-FRIEND
+<label>FRIEND</label>
 What’s that you say? Menippus here from
 Heaven, dropt from the clouds ?
-MENIPPUS
+<label>MENIPPUS</label>
 Here I an, I tell you, just come back to-day from
 the very presence of your great Zeus himself, and I
 have seen and heard wonderful things. If you don’t
 believe me, I am overjoyed precisely because my
 good luck is beyond belief,
-FRIEND
+<label>FRIEND</label>
 Why, my divine Menippus, my Olympian Menippus,
 how can a mortal groundling like myself disbelieve
 a sky-man—in fact, to use the words of Homer, a
@@ -8752,8 +8772,8 @@ were carried aloft, and where you got so long a
 ladder ; for as far as looks go you are too little like
 the lad of Phrygia for us to suppose that, like hii,
 you were snatched up by the eagle to become a cupbearer.?
-MENIPPUS
-* You have clearly been making fun of me this long
+<label>MENIPPUS</label>
+You have clearly been making fun of me this long
 time, and it is no wonder you think that my strange
 story is like a fairy-tale. However, I had no need
 of your ladder; for my ascent, nor yet to become the
@@ -8797,41 +8817,41 @@ TOU THS Sunyroews' é éx TOV OTav aTnpTnLEevov,.
 272
 <pb n="273"/>
 <note type="head">[CAROMENIPPUS, OR ‘THE SKY-MAN</head>
-FRIEND
+<label>FRIEND</label>
 You have improved on Daedalus, by what you say,
 if over and above all else, you have turned from a
 ‘man to a hawk or a crow without our knowing it.
-MENIPPUS
+<label>MENIPPUS</label>
 Your guess is well-aimed, my friend, and hits the
 bull’s-eye ; for I myself constructed wings, patterned
 after Daedalus’ clever invention.
-FRIEND
+<label>FRIEND</label>
 Of all the foolhardy men in the world! Then
 you weren’t afraid you would fall into the water
 somewhere and give us a Menippean Sea named
 after yourself, to match the Icarian ?
-MENIPPUS
+<label>MENIPPUS</label>
 Not at all; Icarus had his feathers fitted on with
 wax, and so just as soon as that melted in the
 sun he shed his plumage, of course, and fell down ;
 but my wings were innocent of wax.
-FRIEND
+<label>FRIEND</label>
 What do you mean? For by now, sofhehow or
 other, you are gradually inclining me to believe in
 the truth of your story.
-MENIPPUS
+<label>MENIPPUS</label>
 This is what I mean; taking a good large eagle
 and also a strong vulture and cutting off their wings,
 joints and all—but I'll tell you the whole scheme
 from first to last, if you have time.
-FRIEND
+<label>FRIEND</label>
 By all means; here I am in suspense, thanks to
 what you have said, and already waiting with open
 mouth for the end of your tale. In the name of
 Friendship, don’t leave me hanging by the ears
 somewhere in the midst of the story.
-273
-VOL. I. T
+
+
 <pb n="274"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 MENIMIMOS
@@ -8865,7 +8885,7 @@ Exacta éxuabeiv dunv yap éxelvous ye Tacav!
 274
 <pb n="275"/>
 <note type="head">ICAROMENIPPUS, OR THE SKY-MAN</head>
-MENIPPUS
+<label>MENIPPUS</label>
 Listen then, for a friend left in the lurch with his
 mouth open would be anything but a pretty spectacle,
 especially if he were hanging by the ears, as you say
@@ -8917,10 +8937,10 @@ Touaira, oonpépat jou KaTaxéovres. d dé madvrov
 darépe AéyovTes cxdXovbov adda pax opeva, mavra
 Kat umevavTia, bps metBec bai ré pe n&lour cal
 Tpos TOV aUTOD Novo ExacTos UIrayelv eTrELpOVTO.
-ETAIPOS
+<label>ETAIPOS</label>
 "Atomov Déyets, el copol dues ot avdpes éoraoiabov TpOs. avrous mept TOV AOyeav Kal ov TA
 alta Tept Tov avtav édoEalov.
-MENIMITIOZ
+<label>MENIMITIOZ</label>
 Kat pay, @ éraipe, yedaon axovcas THY TE
 crafoverav avTov Kal THY ey Tots AGyoLs Teparoupyiav, of ve m para bey émt vis BeBnxdres Kal
 paydev TOV Xapat EpXopevov jpeov ore éXOvTES,
@@ -8948,11 +8968,11 @@ that although no one of them agreed with anyone
 else in anything he said, but all their statements
 were contradictory and inconsistent, they nevertheless expected to persuade me and each tried to win
 me over to his own doctrine.
-FRIEND
+<label>FRIEND</label>
 Extraordinary that learned men quarrelled with
 each other about their doctrines and did not hold
 the same views about the same things !
-MENIPPUS
+<label>MENIPPUS</label>
 Indeed, my friend, it will make you laugh to hear
 about the way they bragged and worked wonders
 in their talk! Why, in the first place, they-stood
@@ -9088,10 +9108,10 @@ creator of the universe, but did not tell where he
 came from or where he stood when he created it all;
 and yet it is impossible to conceive of time and
 space before the genesis of the universe.
-FRIEND
+<label>FRIEND</label>
 They are very presumptuous charlatans by what
 you say, Menippus.
-MENIPPUS
+<label>MENIPPUS</label>
 But my dear man, what if I should tell you all they
 said about “ideas” and incorporeal entities, or their
 theories about the finite and the infinite? On the
@@ -9279,7 +9299,7 @@ Zeus,! now observing the land of the horse-loving
 Thracians, now the land of the Mysians, and
 presently, if I liked, Greece, Persia and India; and
 from all this I got my fill of kaleidoscopic pleasure.
-FRIEND
+<label>FRIEND</label>
 Then do tell me about it, Menippus, so that I
 may not miss a single detail of the trip, but may even
 know whatever you may have found out incidentally.
@@ -9287,7 +9307,7 @@ I assure you, Iam looking forward to hearing a good
 deal about the shape of the earth and about
 everything upon it as it looked to you, viewing it all
 from above.
-MENIPPUS
+<label>MENIPPUS</label>
 You are right in your assumption, my friend, so
 mount up to the moon in fancy as best you can and
 share my trip and my view of the whole scheme of
@@ -9347,7 +9367,7 @@ as clear as could be, the traders, the soldiers, the
 farmers, the litigants, the women, the animals and,
 in a word, all the life that the good green earth
 supports.!
-FRIEND
+<label>FRIEND</label>
 What you say is completely beyond belief and
 self-contradictory, for you told me just now that you
 had to look for the earth because it was diminished
@@ -9358,7 +9378,7 @@ How is it, then, that you have suddenly turned into a
 Lynceus and can make out everything on earth—
 the men, the animals and very nearly the nests of
 the mosquitoes ?
-MENIPPUS
+<label>MENIPPUS</label>
 Thanks for reminding me; somehow or other 1
 neglected to say what | certainly should have said.
 When I recognised the earth by sight, but was
@@ -9375,8 +9395,7 @@ Menippus;
 ‘No god am I: why liken me to them? ’2
 1 A reminiscence of Homer; cf. Il. 2, 548 ; Od. 4, 229; 9,
 357- 2 Od. 16, 187.
-289
-VOL. I.
+
 <pb n="290"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 e \ er > By a > \ N ’
@@ -9418,8 +9437,8 @@ mMpos Tas axtivas Bréry.” “Pact tadta,” jv &
 290
 <pb n="291"/>
 <note type="head">ICAROMENIPPUS, OR ‘THE SKY-MAN</head>
-[ am the natural philosopher Empedocles, at your
-service. You see, when [T threw myself head-first
+I am the natural philosopher Empedocles, at your
+service. You see, when I threw myself head-first
 into the crater, the smoke snatched me out of
 Aetna and brought me up here, and now I dwell in
 the moon, although I walk the air a great deal, and
@@ -9573,11 +9592,11 @@ Cynic Herophilus asleep in the brothel. Why mention
 the rest of them—the burglars, the bribe-takers, the
 money-lenders, the beggars? In brief, it was a motley
 and manifold spectacle.
-FRIEND
+<label>FRIEND</label>
 Really, you might as well tell about that too,
 Menippus, for it scems to have given you unusual
 pleasure.
-MENIPPUS
+<label>MENIPPUS</label>
 To tell it all from first to last, my friend, would be
 1 These events, in so far as they are historical, are not
 synchronous. For some of them (Antigonus, Attalus, and
@@ -9645,12 +9664,12 @@ emulation and carrying his own tune and striving to
 outdo his neighbour in loudness of voice, what, in the
 name of Heaven, do you suppose the song would be
 like P
-FRIEND
+<label>FRIEND</label>
 Utterly ridiculous, Menippus, and all confused.
-MENIPPUS
+<label>MENIPPUS</label>
 Well, my friend, such is the part that all carth’s
 singers play, and such is the discord that makes
-1 [liad 18, 478 ff.
+1 Iliad 18, 478 ff.
 297
 <pb n="298"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -9718,7 +9737,7 @@ if T saw any man pluming himself on gold because
 he had eight rings and four cups, I laughed heartily
 at him too, for the whole of Pangacum, mines and
 all, was the size of a grain of millet.
-FRIEND
+<label>FRIEND</label>
 You lucky Menippus, what a surprising spectacle !
 1 Compare the close of the Charon.
 299
@@ -9761,7 +9780,7 @@ amt
 <note type="head">ICAROMENIPPUS, OR THE SKY-MAN</head>
 But the cities and the men—for Heaven’s sake, how
 did they look from on high ?
-MENIPPUS
+<label>MENIPPUS</label>
 I suppose you have often seen a swarm of ants,
 in which some are huddling together about the
 mouth of the hole and transacting affairs of state in
@@ -10529,30 +10548,7 @@ the Porch.
 <note type="head">Original from</head>
 <pb n="325"/>
 <note type="head">TIMON, OR THE MISANTHROPE.</head>
-It_is very doubtful whether the fifth century Timon of
-Athens would have récognized himself in this presentment.
-The coniié poets Of his own day tell us only that he was'a
-misanthrope. From Lucian we hear that he became so
-through the ingratitude of his friends, who took his money
-and then turned their backs upon him, and further that the
-discovery of a buried treasure enabled him to requite them
-with poetic justice. Of these two essential features of
-Lucian’s portrait, the first is older than Lucian, for Plutarch
-and Strabo say that Mark Antony, when his friends deserted
-him, compared himself with Timon. The second occurs first
-in Lucian, and may be his invention. We know, however,
-that Antiphanes, a writer of the Middle Comedy, produced a
-play called Timon. As the discovery of the treasure and the
-punishment of the toadies would make a fitting conclusion
-for a comedy, and as it is rather hard to imagine what other
-conclusion the comedy of Antiphanes can have had, we
-should perhaps credit the whole conception to the imagination of Antiphanes, influenced, possibly, by the history of
-“Master Upright” in the 27/utws of Aristophanes. It does
-not follow, however, that Lucian had read the Timon, for its
-plot may have been outlined in the life of Timon which
-Neanthes of Cyzicus compiled about 200 3.c.
-The indebtedness of Shakespeare to Lucian requires no
-comment.
+
 <pb n="326"/>
 <note type="head">TIMON H MISANOPOTIOZ</head>
 TIMON
@@ -10578,8 +10574,37 @@ Bpovtay étodpa, od tavu te amiPavos wv, TpOs
 326
 1
 <pb n="327"/>
-<note type="head">TIMON, OR THE MISANTHROPE</head>
-TIMON
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg022">
+
+<note type="head">TIMON, OR THE MISANTHROPE<note><p>It is very doubtful whether the fifth century Timon of
+Athens would have récognized himself in this presentment.
+The comic poets Of his own day tell us only that he was'a
+misanthrope. From Lucian we hear that he became so
+through the ingratitude of his friends, who took his money
+and then turned their backs upon him, and further that the
+discovery of a buried treasure enabled him to requite them
+with poetic justice. Of these two essential features of
+Lucian’s portrait, the first is older than Lucian, for Plutarch
+and Strabo say that Mark Antony, when his friends deserted
+him, compared himself with Timon. The second occurs first
+in Lucian, and may be his invention. We know, however,
+that Antiphanes, a writer of the Middle Comedy, produced a
+play called Timon. As the discovery of the treasure and the
+punishment of the toadies would make a fitting conclusion
+for a comedy, and as it is rather hard to imagine what other
+conclusion the comedy of Antiphanes can have had, we
+should perhaps credit the whole conception to the imagination of Antiphanes, influenced, possibly, by the history of
+“Master Upright” in the Plutus of Aristophanes. It does
+not follow, however, that Lucian had read the Timon, for its
+plot may have been outlined in the life of Timon which
+Neanthes of Cyzicus compiled about 200 B.C.<p>
+The indebtedness of Shakespeare to Lucian requires no
+comment.</p></note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+
+<label>TIMON</label>
 Ho, Zeus, you Protector of Friends and Guests and
 Comrades, Keeper of the Hearth, Lord of the
 Lightning, Guardian of Oaths, Cloud-Compeller,
@@ -10809,7 +10834,7 @@ a great blaze, evincing anger worthy of a stalwart
 and youthful Zeus—unless indeed the tale is true
 that the Cretans tell about you and your tomb in
 their island.
-. ZEUS
+<label>ZEUS</label>
 Who is that, Hermes, who is shouting from Attica,
 near Hymettus, in the foot-hills, all dirty and
 squalid and dressed in skins? He is digging, I
@@ -10817,7 +10842,7 @@ think, with his back bent. A mouthy fellow and an
 impudent one. Very likely he is a philosopher,
 otherwise he would not talk so impiously against
 us.
-HERMES
+<label>HERMES</label>
 What, father! Don’t you know Timon of Collytus, the son of Echecratides? He is the man who
 often treated us to perfect sacrifices; the one who
 had just come into a fortune, who gave us the complete hecatombs and used to entertain us brilliantly
@@ -10863,13 +10888,13 @@ Tolncouev Tois KaTapatos Kodak éxeivors | ére-
 334
 <pb n="335"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-ZEUS
+<label>ZEUS</label>
 Ah, what a reverse! He the fine gentleman, the
 rich man, who had all the friends about him? What
 has happened to him to make hin like this, poor
 man, a dirty fellow digging ditches and working for
 wages, it seems, with such a heavy pick to swing?
-HERMES
+<label>HERMES</label>
 Well, you might say that he was ruined by
 kind-heartedness and philanthropy and compassion
 on all those who were in want; but in reality it was
@@ -10891,7 +10916,7 @@ and tills the soil for hire, brooding” crazily over his
 wrongs because the men whom he enriched pass him
 by very disdainfully without even knowing whether
 his name is Timon or not.
-ZEUS
+<label>ZEUS</label>
 Come now, we must not overlook the man or neglect him, for he had reason to be angry in view of his
 wretched plight. Why, we should be like those vile
 335
@@ -10958,10 +10983,8 @@ they shall be punished as soon as I get my thunderbolt put in order; for the two
 are broken and blunted since yesterday, when I let
 drive a little too vigorously at the sophist Anaxagoras,
 who was teaching his disciples that we gods do not
-. count at all. I missed him, for Pericles held his
-337
-N
-VOL. Il.
+count at all. I missed him, for Pericles held his
+
 <pb n="338"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 éoxe rap avToo Tap Xelpa Tepuxdijs—o bé Kepavves
@@ -10999,7 +11022,7 @@ hand over him,! and the bolt, glancing off into the
 Anaceum, set the temple afire and itself came near
 being broken to bits on the rock. But in the meantime it will be punishment enough for them if they
 see Timon enormously rich.
-HERMES {fo ",
+<label>HERMES</label>
 What an advantageous thing it is to shout loudly
 and to be annoying and impudent! It is useful not
 only to pleaders in court but to petitioners to Heaven.
@@ -11008,12 +11031,12 @@ will become rich in an instant because he prayed
 vociferously and outspokenly and drew the attention
 of Zeus; but if he had bent his back and dug in
 silence he would still be digging neglected.
-RICHES
+<label>RICHES</label>
 But I really can’t go to him, Zeus.
-ZEUS
+<label>ZEUS</label>
 Why not, my good Riches, when I have bidden
 you to do so?
-RICHES
+<label>RICHES</label>
 Why, by Zeus, because he treated me contumeliously, bundled me out, made ducks and drakes of
 me, although I was his father’s friend, and all
 but thrust me out of the house with a pitchfork,
@@ -11068,7 +11091,7 @@ me; let them get a coat of skin and a pick from her
 and be content, poor wretches, with a wage of four
 obols, they who heedlessly fling away ten-talent
 gifts.
-ZEUS
+<label>ZEUS</label>
 Timon will never again treat you in any such way,
 for unless the small of his back is completely insensible, his pick has certainly taught him that he
 should have preferred you to Poverty. It seems to me,
@@ -11150,7 +11173,7 @@ to sit up over his interests beside a dim, narrownecked lamp with a thirsty wick
 not unjust in you, after having found fault with that
 sort of thing in the past, to charge Timon with the
 opposite now ?
-RICHES
+<label>RICHES</label>
 Really, if you look into the truth, you will think
 that I do both with good reason, for Timon’s
 extreme laxity may fairly be deemed inconsiderate
@@ -11230,7 +11253,7 @@ to Demeter? That is the sort of thing I myself am
 angry about; for some of them kick me about
 shamefully and tear my flesh and pour me out like
 water, while others keep me in shackles like a runaway slave with a brand on his forehead.
-ZEUS
+<label>ZEUS</label>
 Then why are you angry at them? Both sorts
 pay a fine penalty ; for these last, like Tantalus, go
 hungry and thirsty and dry-lipped, merely gaping at
@@ -11278,7 +11301,7 @@ their gold, while the others, like Phineus, have their
 food snatched out of their mouths by the Harpies.
 But be off with you now to Timon, whom you will
 find far more discreet.
-RICHES
+<label>RICHES</label>
 What, will he ever stop acting as if he were in a
 leaky boat and baling me out in haste before I have
 entirely flowed in, wanting to get ahead of the
@@ -11288,7 +11311,7 @@ the jar of the Danaids and pour it in without result, because the vessel is not 
 in will run out almost before it flows in, so much
 wider is the vent of the jar and so unhindered is
 the escape.!
-ZEUS
+<label>ZEUS</label>
 Well, if he doesn’t intend to stop that vent and it
 turns out to have been opened once for all, you will
 speedily run out and he will have no trouble in finding his coat of skin and his pick again in the lees of
@@ -11297,7 +11320,7 @@ when you come back, Hermes, be sure to bring me
 the Cyclopes from Actna, so that they may point my
 thunderbolt and put it in order, for we shall soon
 need it sharp.
-HERMES
+<label>HERMES</label>
 Let us be going, Riches. What’s this? You're
 limping? I didn’t know that you were lame as well
 as blind, my good sir.
@@ -11344,7 +11367,7 @@ ayopa Tepipevovor Kexnvores @otep THY YEALSova
 348
 <pb n="349"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-RICHES
+<label>RICHES</label>
 It is not always this way, Hermes. When I go to
 visit anyone on a mission from Zeus, for some reason
 or other I am sluggish and lame in both legs, so that
@@ -11356,7 +11379,7 @@ than a dream. Indeed, no sooner is the signal given
 for the start than I am proclaimed the winner,
 after covering the course so fast that sometimes the
 onlookers do not even catch sight of me.
-HERMES
+<label>HERMES</label>
 What you say is not so. I myself could name you
 plenty of men who yesterday had not a copper to
 buy a rope with, but to-day are suddenly rich and
@@ -11365,7 +11388,7 @@ when they never before owned so much as a donkey.
 In spite of that, they: go about dressed in purple,
 with rings on their fingers, themselves unable to
 believe, I fancy, that their wealth is not a dream.
-RICHES
+<label>RICHES</label>
 That is a different matter, Hermes; I do not go
 on my own feet then, and it is not Zeus but Pluto
 who sends me; for he, too, is a bestower of riches
@@ -11487,31 +11510,31 @@ Thy b8dv h Tobs akious Siayiyvdonerv,
 <note type="head">TIMON, OR THE MISANTHROPE</head>
 accumulated little by little through many perjuries,
 robberies and villainies.
-HERMES
+<label>HERMES</label>
 Yes, that is just about the way of it. But when
 you go on your own feet, how do you find the way,
 since you are so blind, and how do you tell who the
 people are whom Zeus sends you to because he thinks
 they deserve to be rich?
-RICHES
+<label>RICHES</label>
 Do you suppose I find the way or tell who they
 are? Good Heavens, not a bit of it! Otherwise I
 would not have left Aristides in the lurch"to--go to
 Hipponicus and Callias and a great many others who
 do not deserve a copper.1
-HERMES
+<label>HERMES</label>
 But what do you do when he sends you down ?
-RICHES
+<label>RICHES</label>
 I wander up and down, roaming about until I come
 upon someone unawares, and that man, whoever he
 may be who happens on me, takes me home and
 keeps me, paying homage to you, Hermes, for his
 unexpected stroke of good-luck.?
-HERMES
+<label>HERMES</label>
 Then you have cheated Zeus, who thinks that you
 observe his decrees and enrich those who in his
 opinion deserve riches ?
-RICHES
+<label>RICHES</label>
 Yes, and very properly, my friend, for although he
 1 Hipponicus was the father of Callias, and the son of
 another Callias, the founder of the family fortunes. There
@@ -11519,12 +11542,8 @@ were several sinister stories current about the source of his
 wealth, but Lucian is probably thinking of the version given
 by: Plutarch in the life of Aristides.
 2 All windfalls were attributed to Hermes.
-353
-VOL. II. AA
-Ali
-(
-4
-ie
+
+
 <pb n="354"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 > \ : ” ’ ra ta ee
@@ -11573,13 +11592,13 @@ it easily, so dim and tiny is its light. So, as the
 good men are few and wicked men in great numbers
 fill the cities, it is easier for me to fall in with then
 in my wanderings and to get into their nets.
-HERMES
+<label>HERMES</label>
 Then how is it that when you leave them you
 escape easily, since you do not know the way ?
-RICHES
+<label>RICHES</label>
 For some reason I become sharp of eye and swift
 of foot then, but only for the time of ny escape.
-HERMES
+<label>HERMES</label>
 Now just answer me this one more question. How
 is it that although you are blind (pardon my frankness), and not only that but pale and heavy-footed, you
 have lovers in such number that all men regard you
@@ -11593,12 +11612,12 @@ you were cutting them when as a matter of fact you
 could not see them at all. But you yourself will
 admit, I am sure, if you know yourself, that they
 are crazy to lose their heads over such a beloved.
-RICHES
+<label>RICHES</label>
 Do you suppose they see me as I ain, lame and
 blind and with all my other bad points ?
 1 Theognis 175.
-355
-AA 2
+
+
 <pb n="356"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 EPMHS
@@ -11633,10 +11652,10 @@ THY Oipaviciodéyntat me, cupTapercépyetar per”
 356
 <pb n="357"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-HERMES
+<label>HERMES</label>
 But how can they help it, Riches, unless they
 themselves are all blind ?
-RICHES
+<label>RICHES</label>
 They are not blind, good friend, but Ignorance
 and Deceit, who now hold sway everywhere, darken
 their vision. Moreover, to avoid being wholly ugly,
@@ -11648,7 +11667,7 @@ of life if they do not win me. If anyone’ should
 strip me and show me to them, without a doubt
 they would reproach themselves for being shortsighted to that extent and for falling in love with
 things hateful and ugly.
-HERMES
+<label>HERMES</label>
 Why is it, then, that even after they are in the
 very midst of riches and have put the mask on their
 own face, they are still deluded, and would sooner
@@ -11656,12 +11675,12 @@ lose their head than the mask if anyone should try
 to take it away? Surely it is not likely that they
 do not know that your beauty is put on when they
 see all that is under it.
-RICHES
+<label>RICHES</label>
 There are many things that help me in this too,
 Hermes.
-HERMES
+<label>HERMES</label>
 What are they ?
-RICHES
+<label>RICHES</label>
 When a man, on first encountering me, opens his
 doors and takes me in, Pride, Folly, Arrogance,
 Effeminacy, Insolence, Deceit, and myriads more,
@@ -11712,7 +11731,7 @@ me, the progenitor of all these ills that have come in,
 because I am attended by them, and he would
 endure anything in the world rather than put up
 with losing me.
-HERMES
+<label>HERMES</label>
 But how smooth and slippery you are, Riches,
 how hard to hold and how quick to get away! You
 offer people no secure grip at all, but make your
@@ -11724,21 +11743,21 @@ come near her she lays hold of them at once and
 cannot be disengaged easily. But in the midst of
 our gossip we have forgotten something rather
 important.
-RICHES
+<label>RICHES</label>
 What is it?
-HERMES
+<label>HERMES</label>
 We have not brought along Treasure, whom we
-needed most. ,
-RICHES
+needed most.
+<label>RICHES</label>
 Be easy on that score; 1 always leave him on
 earth when I go up to you, bidding him to stay at home
 with the door locked and not to open to anyone
 unless he hears me calling.
-HERMES
+<label>HERMES</label>
 Well, then, let’s alight in Attica now. Take hold
 of my cloak and follow me till I reach the outlying
 farm.
-359
+
 <pb n="360"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 TIAOTTO
@@ -11774,30 +11793,30 @@ dpa evaatadpornTos opiv 1 Tlevia S0x@ Kal evadixntos, 60 5 pdvov Kha elyov ‘ad
 32
 <pb n="361"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-RICHES
+<label>RICHES</label>
 It is very good of you to lead me, Hermes, for if
 you should leave me behind I would soon run against
 Hyperbolus or Cleon as I strayed about. But what
 is that noise as of iron on stone?
-HERMES
+<label>HERMES</label>
 Our friend Timon is digging ina hilly and stony
 piece of ground close by. Oho, Poverty is with him,
 and so is Toil; likewise Endurance, Wisdom, Manliness, and the whole host of their fellows that serve
 under Captain Starvation, a far better sort than your
 henchmen.
-RICHES
+<label>RICHES</label>
 Then why not beat a retreat as quickly as possible,
 Hermes? We can’t accomplish anything worth
 mentioning with a man that is hedged in by such an
 army.
-HERMES
+<label>HERMES</label>
 Zeus thought differently, so let’s not be cowardly.
-POVERTY
+<label>POVERTY</label>
 Where are you going with that person whom you
 have by the hand, Hermes?
-HERMES
+<label>HERMES</label>
 Zeus sent us to Timon here.
-POVERTY
+<label>POVERTY</label>
 Is he sending Riches to Timon now, when I have
 made a noble and a valuable man of him, after taking
 him over in a wretched plight that was due to Luxury
@@ -11847,9 +11866,9 @@ again and giving him into the hands of Insolence
 and Pride, may make him soft, unmanly and base as
 before, and then return him to me reduced to a
 clout?
-HERMES
+<label>HERMES</label>
 It was the will of Zeus, Poverty.
-POVERTY
+<label>POVERTY</label>
 Iam going; follow me, Toil and Wisdom and the
 rest of you. ‘This man will soon find out whom he is
 deserting in me—a good helpmate and a teacher of
@@ -11858,16 +11877,16 @@ well in body and sound in mind, leading the life of
 a real man, relying on himself and holding all this
 abundance and excess to be nothing to him, as indeed
 it is.
-HERMES
+<label>HERMES</label>
 They are going ; let us approach him.
-TIMON
+<label>TIMON</label>
 Who are you, plague take you, and what do you
 want that you come here to bother a man at work
 and earning his wage? You will go away sorry
 that you came, vile wretches that you are, every one
 of you; for I'll very soon throw these clods and
 stones at you and break every bone in your bodies.
-HERMES
+<label>HERMES</label>
 No, no, Timon! don’t throw at us, for we are not
 men. Iam Hermes and this is Riches. We were
 sent by Zeus in answer to your prayers. So desist
@@ -11876,7 +11895,7 @@ luck to you!
 303
 <pb n="364"/>
 <note type="head">THE WORKS OF LUCIAN</head>
-TIMON
+<label>TIMON</label>
 Kai & Dpeis oipoterbe 780) Kaitot Oeot dvtes, as
 pare: mavTas yap pa Kab avO porous Kal Geos
 pod, Toutovl Sé Tov Tuprov, 6 batts av 7, Kal értpivew poe Sona TH SuxédrAy.
@@ -11907,28 +11926,28 @@ TIMQN
 364
 <pb n="365"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-‘TIMON
+<label>TIMON</label>
 You shall catch it too, even if you are gods, as you
 say, for I hate all alike, both gods and men, and as
 for this blind fellow, whoever he may be, I shall
 certainly break his head with my pick.
-RICHES
+<label>RICHES</label>
 Let’s go, Hermes, in the name of Zeus, in order
 that I may not come to some harm before going ; for
 the man is uncommonly crazy, it seems to me.
-HERMES
+<label>HERMES</label>
 Let’s have no roughness, Timon. Lay aside this
 excessive rudeness and asperity, stretch out your
 hands and take your good fortune. Be rich once
 more and a leading man in Athens, and cut the
 acquaintance of those ingrates of old, keeping your
 wealth to yourself.
-TIMON
+<label>TIMON</label>
 I don’t want anything of you; don’t bother me. My
 pick is riches enough for me, and in all other respects
 I am as happy as can be if only nobody comes near
 me.
-HERMES
+<label>HERMES</label>
 Such an uncivil answer, friend ?
 “Will you I carry to Zeus those words so repellent
 and stubborn ?”” 4
@@ -11936,7 +11955,7 @@ True enough, it is reasonable for you to hate men
 after they have treated you so horribly, but not in
 the least to hate the gods, who take such good care
 of you.
-TIMON
+<label>TIMON</label>
 I am very much obliged to you, Hermes, and to
 1 Iliad, 15, 202.
 365
@@ -11979,9 +11998,9 @@ aToBryta cote TA SHpa TA Tapa TOD Aros.
 <note type="head">TIMON, OR THE MISANTHROPE</head>
 Zeus for the care, but 1 must decline to take your
 friend Riches.
-HERMES
+<label>HERMES</label>
 Why, pray?
-TIMON
+<label>TIMON</label>
 Because in bygone days he caused me_ infinite
 harm by giving me over to toadies, setting plotters
 upon me, stirring up hatred against me, corrupting
@@ -12004,7 +12023,7 @@ suflicient sustenance from my pick. So wend your
 way back again, Hermes, taking Riches up to Zeus.
 For my part, I should be content if 1 could bring
 sorrow to the whole world, young and old alike.
-HERMES
+<label>HERMES</label>
 Don’t say that, my friend; they do not all deserve
 sorrow. Come, stop this childish display of illtemper and take Riches. Gifts that come from Zeus
 are not to be flung away.
@@ -12041,14 +12060,14 @@ Sore Oappav cuvdiatpiBe adte kal od pev
 2 apds Cobet: net in MSS, 33° hy Bekker: tes
 <pb n="369"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-RICHES
+<label>RICHES</label>
 Do you want ine to rcason with you, Timon, or
 shall you be offended at me if I say anything ?
-TIMON
+<label>TIMON</label>
 Speak, but not at length nor with a preface, like a
 rascally orator. I will endure a few words from you
 for the sake of Hermes.
-RICIIES
+<label>RICHES</label>
 Perhaps 1 ought really to speak at length in
 reply to so many charges made by you. However, judge whether I have wronged you as you
 say. It is I who brought you everything that is
@@ -12062,19 +12081,18 @@ basely put me at the mercy of scoundrels who praised
 you and bewitched you and intrigued against me in
 every way. Again, in closing, you said that 1
 played you false; but on the contrary I could myself
-. bring that charge against you, for you drove me off
+bring that charge against you, for you drove me off
 in every way and thrust me head-foremost out of
 your house. That is why Poverty, whom you hold
 so dear, has dressed you in this coat of skin instead
 of a soft mantle of wool, So Hermes will testify
 how ardently [ besought Zeus not to make me come
 to you again after you had treated me with such
-hostility. .
-HERMES
+hostility.
+<label>HERMES</label>
 But now you see how mild he has become, Riches ;
 so do not hesitate to remain with him. Timon, go
-369
-VOL. II. BB
+
 <pb n="370"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 oxaTte ws Exes: od Sé Tov Oncaupov bTdyaye TH}
@@ -12111,7 +12129,7 @@ népaaxe ceauvtoy MSS.
 on digging without more ado, and you, Riches, bring
 Treasure underneath his hoe, for ‘Treasure will obey
 your call.
-TIMON
+<label>TIMON</label>
 I must comply, Hermes, and be rich again, for
 what can a man do when the gods constrain him ?
 But look at all the trouble you are plunging me
@@ -12119,29 +12137,27 @@ into, curse the luck! Until now I was leading the
 happiest of lives, but in a moment, though I have
 done no wrong, I am to receive so much gold and to
 take on so many cares.
-HERMES
+<label>HERMES</label>
 Endure it, Timon, for my sake, even if it is difficult
 and unbearable, in order that those toadies may burst
 with envy. And now I am going to fly up to Heaven
 by way of Aetna.
-RICHES
+<label>RICHES</label>
 He has gone, it seems; for I infer it from the
 fluttering of his wings. Wait here, and 1 will go
 away and send Treasure to you. But, no, strike in.
 Ho, Treasure of Gold! Submit to Timon and let
 yourself be dug up. Dig, Timon, and bring down
 deep strokes. I will leave you to yourselves.
-TIMON
+<label>TIMON</label>
 Come, pick, be strong for me now and don’t flag in
 the task of calling Treasure out of the depths to the
 light of day. O Zeus, god of miracles! O gracious
 Corybants! O Hermes, god of gain! Where did all
 this gold come from? « Is this a dream? I am afraid
 I may wake up and find nothing but ashes. No,
-371
-we
-les)
-bo
+
+
 <pb n="372"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 lj 7 N 2 7 e t bY x ‘
@@ -12332,23 +12348,23 @@ toady, the man who gave me a rope the other day
 when I asked for a loan, though often he has spewed
 up whole jars of wine at my house. I am glad he
 came: he shall be the first to smart.
-.
-GNATHONIDES
+
+<label>GNATHONIDES</label>
 Didn’t I say that the gods would not neglect an
 upright man like Timon? Good day to you, Timon,
 first in good looks, first in good manners and first in
 good fellowship.
-TIMON
+<label>TIMON</label>
 The same to you, Gnathonides, first of all vultures
 in voracity and first of all mankind in rascality.
-GNATHONIDES
+<label>GNATHONIDES</label>
 You are always fond of your joke. But where
 are we to dine? I have brought you a new song
 from one of the plays! that have just been put on.
-TIMON
+<label>TIMON</label>
 I assure you, it will be a very mournful dirge that
 you will sing, with this pick of mine to prompt you.
-' Literally : “ From one of the dithyrambs.” The allusion
+1 Literally : “ From one of the dithyrambs.” The allusion
 is anachronistic, for in Timon’s day the dithyramb was not
 dramatic in character. Cf. Bywater, Aristotle on the Art of
 Poetry, p. 99.
@@ -12389,23 +12405,23 @@ mara cuvyides Kai cvvednBor cal Snuoras Guws
 378
 <pb n="379"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-GNATHONIDES
+<label>GNATHONIDES</label>
 What’s this? A blow, Timon? I appeal to the
 witnesses. O Heracles! Oh! Oh! I summon you
 before the Areopagus for assault and battery.
-TIMON
+<label>TIMON</label>
 If you will only linger one moment more, the
 summons will be for murder.
-GNATHONIDES
+<label>GNATHONIDES</label>
 No, no! Do heal my wound, at least, by putting
 alittle gold on it. That is a wonderful specific for
 staunching blood.
-TIMON
+<label>TIMON</label>
 What, are you still bent on staying ?
-GNATHONIDES
+<label>GNATHONIDES</label>
 Iam going; but you shall be sorry that you left
 off being a gentleman and became such a boor.
-TIMON
+<label>TIMON</label>
 Who is this coming up, with the bald pate?
 Philiades, the most nauseous toady of them all.
 He received from me a whole farm and a dower of
@@ -12416,7 +12432,7 @@ his word of honour that I was a better singer than a
 swan. Yet when he saw me ill the other day and I
 went up to him and begged for alms, the generous
 fellow bestowed a thrashing on me.
-PHILIADES
+<label>PHILIADES</label>
 Oh, what effrontery! So you all recognize Timon
 now? So Gnathonides is his friend and booncompanion now? Then he has had just what he
 deserved for being so thankless. But we, who are
@@ -12465,13 +12481,13 @@ tremendously rich. So I have come to give you this
 advice. But as you are so wise, perhaps you will
 have no need of suggestions from me, for you could
 even tell Nestor what to do in an emergency.
-TIMON
+<label>TIMON</label>
 No doubt, Philiades. But come here, so that I
 may give you a friendly greeting with my pick !
-PHILIADES
+<label>PHILIADES</label>
 Help! The ingrate has broken my head because I
 gave him good advice.
-TIMON
+<label>TIMON</label>
 Lo and behold! here comes a third, the orator
 Demeas, holding a resolution in his hand and saying
 that he is a relative of mine. That fellow paid the
@@ -12522,7 +12538,7 @@ THYoY ov pixpa @pérynoe THY TOMY: él TOUTOLS
 3 Axapvais Mehler: "Axapyéas MSS.
 <pb n="383"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-DEMEAS
+<label>DEMEAS</label>
 Good day, Timon, great benefactor of your kin,
 bulwark of Athens, shield of Greece! ‘The assembly
 and both the councils are in session and awaiting
@@ -12535,18 +12551,18 @@ interests of the city, and has won the boxing match,
 the wrestling match, and the foot-race at Olympia in
 a single day, as well as the horse-races, both with
 the regular chariot and with the span of colts””— -
-TIMON
+<label>TIMON</label>
 But I never was even a delegate ! to the games at
 Olympia !
-DEMEAS
+<label>DEMEAS</label>
 What of that? You will be, later. It is best to
 put in plenty of that sort of thing.
-— “and fought bravely for the city,at Acharnae vee
-and cut to pieces two divisions of Spartans ”’—
-TIMON Sieewacec
+— "and fought bravely for the city at Acharnae vee
+and cut to pieces two divisions of Spartans"—
+<label>TIMON </label>
 What do you mean by that? I wasn’t even posted
 on the muster-roll because I had no arms.
-DEMEAS
+<label>DEMEAS</label>
 You are modest in talking about yourself, but we
 should be ungrateful if we failed to remember.
 — “and furthermore has been of great service to
@@ -12607,17 +12623,17 @@ orator and anything else that he wants to be.”
 There you have the resolution. I wish I had
 brought my son to see you; I have called him Timon
 after you.
-TIMON
+<label>TIMON</label>
 How can that be, Demeas, when you aren't even
 married, as far as I know?
-DEMEAS
+<label>DEMEAS</label>
 No, but I am going to marry next year, Zeus
 willing, and havea child ; and [ now name it Timon,
 for it will be a boy.
-TIMON
+<label>TIMON</label>
 Perhaps you don’t care to marry now, sirrah, on
 getting such a clout from me.
-DEMEAS
+<label>DEMEAS</label>
 Oh! Oh! What does this mean? Timon, you
 are trying to make yourself tyrant and you are
 beating free men when you yourself have not a clear
@@ -12625,8 +12641,8 @@ title to your freedom. You shall soon pay for this,
 and for burning the Acropolis too.
 1 Literally, ‘‘rays,” the attribute of Helius. The colossal
 statue of Nero had these rays.
-385
-VOL. Il. cc
+
+
 <pb n="386"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 TIMON
@@ -12664,23 +12680,23 @@ yatpovTwv xatyyopav kal 70 ddtyapnes erraivav,
 or
 <pb n="387"/>
 <note type="head">TIMON, OR THE MISANTIIROPE</head>
-TIMON
+<label>TIMON</label>
 But the Acropolis has not been burned, you
 scoundrel, so it is plain that you are a blackmailer.
-DEMEAS
+<label>DEMEAS</label>
 Well, you got your money by breaking into the
 treasury.
-TIMON
+<label>TIMON</label>
 That has not been broken into, so you can’t make
 good with that charge either. -
-DEMEAS
+<label>DEMEAS</label>
 The breaking in will be done later, but you have
 all the contents now.
-. -TIMON
+<label>TIMON</label>
 Well then, take that !
-DEMEAS
+<label>DEMEAS</label>
 Oh, my back !
-TIMON
+<label>TIMON</label>
 Don’t shriek or I will give you a third. It would
 be too ridiculous if I had cut up two divisions of
 Spartans unarmed and then couldn’t thrash a single
@@ -12717,7 +12733,7 @@ eXOV. Kah dmotpauaibov yerolws-| eita EHETOS emi
 ToUTOLS" Kat TO TedevTaion, dpdpevot Tues eKpépovow avtov éx Tod cuprociou THs. avrnt pisos
 dpporépais érresAnupévov. why adna wal unpov
 ovdert Tay Tpatelov Tapaxwpra eve av speu-
-THATOS évera 7 Opacirntos 7) n prrapyupias: arra
+<label>THATOS </label>évera 7 Opacirntos 7) n prrapyupias: arra
 Kal Koddxov éorl Te mpara Kat emeopKed 7 poxetporara, Kal 4 yonteta mponyeirat wad Hy avatoxuvtia Tapowaptel, Kal bros mavoopdyv Te
 xpipa Kal tavtayddev axpiBes kal Toikidws
 évtenrés. oipwetas roryapody ovK eis paxpay
@@ -12794,7 +12810,7 @@ TOV ETaipwv Tots Seouévous—ixavov eb TaUTHYL THY
 =|
 <pb n="391"/>
 <note type="head">TIMON, OR THE MISANTHROPE</head>
-THRASYCLES
+<label>THRASYCLES</label>
 I have not come with the same intent as all this
 crowd, Timon. Dazzled by your riches, they have
 gathered at a run in the expectation of silver and
@@ -12861,14 +12877,14 @@ you let me have the fill of this wallet, which holds
 not quite two bushels Aeginetan =A man in
 philosophy should be easily satisfied and temperate,
 and should limit his aspirations to his wallet.
-TIMON
+<label>TIMON</label>
 Well said, Thrasycles! But instead of filling the
 wallet, please allow me to fill your head with lumps,
 measured out with my pick.
-THRASYCLES
+<label>THRASYCLES</label>
 Democracy and the Laws! The scoundrel is
 beating me, in a free city !
-TIMON
+<label>TIMON</label>
 What are you angry about, my dear fellow? Surely
 I haven’t given you short measure ? Come, Pll throw
 in four pecks over the amount !
@@ -12879,13 +12895,13 @@ climb this rock, give my long-wearied pick a little
 rest and handle the situation without it, collecting all
 the stones I can and raining them down on those
 fellows from a distance ?
-BLEPSIAS
+<label>BLEPSIAS</label>
 Don’t throw at us, Timon; we are going away.
-3 goings y
-TIMON
+
+<label>TIMON</label>
 But not without bloodshed and wounds, I promise
 you!
-1 Aeginctan weights were heavier than the Attic, but
+1 Aeginetan weights were heavier than the Attic, but
 Aeginetan measures were no larger than any others, One is
 tempted to write “two bushels Avoirdupois.”
 393
@@ -12924,12 +12940,20 @@ TeTAY@Y TOD Odds ATO TOD BeaTreciou AyXoi, ws
 1 <kal dpyidos> ?
 396
 <pb n="397"/>
-<note type="head">CHARON, OR THE INSPECTORS</head>
-HERMES
-Wuar are you laughing at, Charon, and why have
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg023">
+<head>CHARON, OR THE INSPECTORS
+<note>
+A presentation of the life of man as it appears to Charon the ferryman, who knows how it all ends. The world which Charon visits and comments on is that of the sixth century B.C., not that of Lucian’s day, for to Lucian as to most of his contemporaries the life that he found in books was more interesting and more real than that in which he lived and moved. What his satire loses in pungency on this account, it gains in universality of appeal.
+</note>
+</head>
+<div type="textpart" subtype="secton" n="1"><p>
+<label>HERMES</label>
+Wht are you laughing at, Charon, and why have
 you left your ferry and come up here to our part of
 the world? You are not at all in the habit of concerning yourself with affairs up above.
-CHARON
+<label>CHARON</label>
 I wanted to see what it is like in life, Hermes,
 what men do in it, and what they lose that makes
 them all grieve when they come down to us; for
@@ -12939,7 +12963,7 @@ obtained shore leave from Hades for a single day and
 came up to the sunlight, and I fancy that I have
 been lucky to meet you, for you will surely go about
 with me and guide me, and will show me everything, knowing all about it as you do.
-HERMES
+<label>HERMES</label>
 I haven't time, ferryman; I am on my way to
 carry out a little commission among men for Zeus in
 Heaven.' He is quick-tempered, and I fear that if
@@ -12987,7 +13011,7 @@ Sejoet xabamep amodpavta t7d Tov Atos, oé &€
 <note type="head">CHARON, OR THE INSPECTORS</head>
 parapet of Heaven, so that I too may limp and make
 them laugh as I fill their cups.
-CHARON
+<label>CHARON</label>
 Then will you let me wander aimlessly above
 ground, you who are a comrade and a shipmate and a
 fellow guide of souls? Come now, son of Maea, you
@@ -13005,7 +13029,7 @@ be no better off than the blind, for they stumble and
 reel about in the darkness, while I, to the contrary,
 am dazed in the light. Be good to me, Cyllenian,
 and I shall remember your kindness forever.
-HERMES
+<label>HERMES</label>
 This business will stand me in a thrashing ; at any
 rate I see even now that my pay for playing guide
 will certainly include plenty of fisticufls. But 1
@@ -13056,18 +13080,18 @@ dead for a long time ; besides, Aeacus the toll-taker
 would be angry if he did not make even an obol. We
 must manage it so that you can see the principal
 things that are going on.
-CHARON
+<label>CHARON</label>
 You must determine what is best, Hermes; I
 know nothing at all about things above ground, being
 a stranger.
-HERMES
+<label>HERMES</label>
 In a word, Charon, we want a high place of some
 sort, from which you can look down upon everything.
 If it were possible for you to go up into Heaven, we
 should be in no difficulty, for you could see everything plainly from on high. But as it is not permissible for one who consorts always with shades to set
 foot in the palace of Zeus, we must look about for a
 high mountain.
-CHARON
+<label>CHARON</label>
 You know, Hermes, what I am in the habit of
 telling you and the others when we are on the water.
 When we are close-hauled and the wind in a sudden
@@ -13079,10 +13103,9 @@ know what is best. Just so in this case; you must
 do whatever you think is right, for you are skipper
 now, and I will sit in silence, as a passenger should,
 and obey your orders in everything.
-HERMES
+<label>HERMES</label>
 Quite right; I will see what is to be done, and
-401
-VOL, It. DD
+
 <pb n="402"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 kat é&eupijow Thy ixarny oKOTY. ap’ obv o Kav-
@@ -13123,9 +13146,9 @@ will Caucasus do, or Parnassus, or Olympus yonder,
 which is higher than either? But no, as I looked at
 Olympus an idea came to me that is not half bad;
 but you must bear a hand and help me out.
-CHARON
+<label>CHARON</label>
 Give your orders ; I will help as much as I can,
-HERMES
+<label>HERMES</label>
 The poet Homer says that the sons of Alocus, who,
 like ourselves, were two in number, took a faney
 once upon a time while they were still mere children
@@ -13138,14 +13161,14 @@ two are not making this plan to harm the gods, so
 why shouldn’t we build in the same way, rolling the
 mountains one atop of another, in order to secure a
 better view from a higher place?
-CHARON
+<label>CHARON</label>
 Shall we be able to lift Pelion or Ossa and heave
 it up, Hermes, when there are only two of us ?
-HERMES
+<label>HERMES</label>
 Why not, Charon? Surely you don’t consider us
 weaker than that pair of infants? Moreover, we are
 gods.
-CHARON
+<label>CHARON</label>
 No, but the thing seems to me to involve an
 incredible deal of work,
 1 Od. 11, 305 fh
@@ -13153,7 +13176,7 @@ incredible deal of work,
 pp 2
 <pb n="404"/>
 <note type="head">THE WORKS OF LUCIAN</head>
-EPMHS
+<label>EPMHS</label>
 Kixoras: idi@rns yap ei, @ Xapov, . Kat TKLOTOL
 TounTLKos® 0 be wyevvddas” ‘Opnpos & amo Svotv ori-
 Xow abtixa pip apBarov € émoinae Tov ovpavdr,
@@ -13185,7 +13208,7 @@ n Kpritn ob Tdvy capes. peTaxivynTéa Huiv, ©
 404
 <pb n="405"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-HERMES
+<label>HERMES</label>
 Of course, for you are only a prosaic body, Charon,
 and not a bit of a poet. Good Homer, however, has
 made it possible for us to scale Heaven in a jiffy
@@ -13196,10 +13219,10 @@ who carries Heaven itself without any help, upholding us all. And no doubt you h
 my brother Heracles, how he himself once took the
 place of Atlas and relieved him of his load for a
 time by taking the burden on his own shoulders.
-CHARON
+<label>CHARON</label>
 Yes, I have heard that; but whether it is true or
 not, Hermes, you and the poets only know!
-HERMES
+<label>HERMES</label>
 True as can be, Charon. Why should wise men
 lie? So let us uproot Ossa first, according to
 the directions of the poem and the master-builder,
@@ -13256,21 +13279,21 @@ lloners exeivai eto ods pwreods eivar vomilers.
 <note type="head">CHARON, OR TILE INSPECTORS</head>
 Oeta too, ferryman, and then Parnassus to top them
 all.
-CHARON
+<label>CHARON</label>
 Let’s do so. But take care that we don’t make
 the structure too slender by heightening it beyond
 all reason, and so tumble down with it and pay
 bitterly for our experiment in Homeric building by
 breaking our heads.
-HERMES
+<label>HERMES</label>
 Never fear; everything will be secure. Move
 Oeta over. Roll Parnassus this way. There now, I
 am going up again. — It is all right, I see everything:
 now come up yourself.
-CHARON
+<label>CHARON</label>
 Put out your hand, Hermes. This is an uncommonly big piece of stage-machinery that you are
 mounting me on.
-HERMES
+<label>HERMES</label>
 Must be done, if you are bound to see everything,
 Charon. One can’t see sights without taking
 chances. Come, take hold of my right hand and
@@ -13278,11 +13301,11 @@ look out you don’t step where it is slippery. | Good,
 you are up too, As Parnassus has two peaks, let us
 each take a suminit for himself and sit on it. Now,
 then, look round about you and inspect everything.
-CHARON
+<label>CHARON</label>
 I see a quantity of land with a great lagoon encircling it, mountains, rivers bigger than Cocytus and
 Pyriphlegethon, tiny little men, and things which
 look like their hiding-places.
-HERMES
+<label>HERMES</label>
 Those things which you take to be hiding-places
 are cities.
 407
@@ -13322,23 +13345,23 @@ tis ¢, Herwerden: not in best MSS.
 408
 <pb n="409"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-CHARON
+<label>CHARON</label>
 Do you know, Hermes, we haven’t accomplished
 anything, but have moved Mount Parnassus, Castaly
 and all, Mount Oeta and the rest of them for
 nothing.
-HERMES
+<label>HERMES</label>
 Why?
-CHARON
+<label>CHARON</label>
 I can’t see anything plainly from on high. What
 I wanted was not just to look at cities and mountains
 as in a picture, but to observe men themselves, what
 they are doing and what they are saying. For
 instance, when we first met and you saw me laughing
 and asked what I was laughing at, I had heard something which amused me vastly.
-HERMES
+<label>HERMES</label>
 What was it?
-CHARON
+<label>CHARON</label>
 A man who had been invited to dinner, I take it,
 by one of his friends for the next day replied
 “Certainly I shall come,” and even as he spoke a tile
@@ -13346,8 +13369,8 @@ from the roof which someone had dislodged fell
 on him and killed him. I had to laugh at him
 because he did not keep his promise—I_ think
 I shall go down a little, so as to see and_ hear
-better. ‘
-HERMES
+better. 
+<label>HERMES</label>
 Hold still ; I will remedy that for you too and will.
 make you sharp-sighted in a minute by getting
 a charm out of Homer for this purpose as well as the
@@ -13390,25 +13413,25 @@ Tas Todds abt ZKvrAr\n Kal XapvBde Kai
 410
 <pb n="411"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-CHARON
+<label>CHARON</label>
 Only say them!
-HERMES
+<label>HERMES</label>
 «Lo, from your eyes I have lifted a veil that before
 was upon them.
 So that your sight may be sure to distinguish a god
 from a mortal.” !
 How about it? Do you see now ?
-CHARON
+<label>CHARON</label>
 Marvellously! Lynceus was a blind man beside
 me; so now give me the necessary instruction and
 answer. my questions. But would you like me to
 ask them in the language of Homer, so that you
 may know that I myself am not unfamiliar with his
 poetry?
-HERMES
+<label>HERMES</label>
 How can you know any of it when you are always
 on shipboard and at the oar?
-CHARON
+<label>CHARON</label>
 See here, that is a libel on my calling! When I
 set’ him over the ferry after his death, I leard him
 recite a quantity of verses and still remember some
@@ -13468,12 +13491,12 @@ go. Tell me:
 so handsome,
 Towering over the throng by a head and a broad
 pair of shoulders ?” ?
-HERMES
+<label>HERMES</label>
 That is Milo, the athlete from Croton. The
 Greeks are clapping their hands at him because he
 has lifted the bull and is carrying him through the
 centre of the stadium.
-CHARON
+<label>CHARON</label>
 How much more fitting it would be, Hermes, if
 they should applaud me ; for in a little while I shall
 seize Milo himself and heave him aboard the boat,
@@ -13485,10 +13508,10 @@ crowns of victory and this applause; but now he
 thinks highly of himself because of the admiration he
 is winning for carrying the bull. What! Are we to
 think that he expects to die some day ?
-HERMES :
+<label>HERMES </label>:
 Why should he think of death now, when he is so
 young and strong?
-CHARON
+<label>CHARON</label>
 Never mind him; he will give us food for laughter
 1 Lucian appears to have borrowed this from a picture by
 Galato in which the indebtedness of the other poets to
@@ -13533,30 +13556,30 @@ Té dpa 6 Xorwv Epel;
 before long when he makes his voyage and is no
 longer able to lift a mosquito, let alone a bull! ‘Tell
 me,
-« Who is the other man yonder, the haughty one?” }
+"Who is the other man yonder, the haughty one?” }
 Not a Greek, it seems, from his dress at least.
-HERMES
+<label>HERMES</label>
 That is Cyrus, Charon, the son of Cambyses, who
 has already transferred to the Persians the empire
 that once belonged to the Medes. Moreover, he
 recently conquered the Assyrians and brought Babylon to terms, and now he appears to be meditating a
 campaign against Lydia, with the idea of overthrowing Croesus and ruling the world.
-CHARON
+<label>CHARON</label>
 And Croesus, where is he ?
-HERMES
+<label>HERMES</label>
 Look over there towards the great acropolis with
 the triple wall. That is Sardis, and now you see
 Croesus himself sitting on a golden throne, talking
 with Solon of Athens. Would you like to listen to
 what they are saying ??
-CHARON
+<label>CHARON</label>
 By all means.
-CROESUS
+<label>CROESUS</label>
 My friend from Athens, as you have seen my
 riches, my treasuries, all the bullion that I have and
 the rest of my splendor, tell me whom do you
 consider the most fortunate man in the world ?
-CHARON
+<label>CHARON</label>
 What will Solon say to that?
 1 Iliad 3, 226 served as a model for this line also.
 2 The conversation that follows is based on Herodotus 1,
@@ -13594,30 +13617,30 @@ pépovor;
 416
 <pb n="417"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-HERMES
+<label>HERMES</label>
 Never fear ; nothing ignoble, Charon.
-SOLON
+<label>SOLON</label>
 Fortunate men are few, Croesus, but I consider
 that of all the men I know, the most fortunate are
 Cleobis and Biton, the sons of the priestess at Argos,
 who died together the other day when they had
 harnessed themselves and drawn their mother to the
 temple on the wagon.!
-CROESUS .
+<label>CROESUS </label>.
 Very well, let them have the first rank in good
 fortune. But who would be the second? :
-SOLON
+<label>SOLON</label>
 Tellus of Athens, who lived happily and died for
 his country.
-CROESUS
+<label>CROESUS</label>
 But what about me, knave? Don’t you think I
 am fortunate ?
-SOLON
+<label>SOLON</label>
 I do not know, Croesus, and shall not until you
 come to the close of your life. Death is a sure test
 in such matters, that and a fortunate life right up to
 the end.
-CHARON
+<label>CHARON</label>
 Thank you kindly, Solon, for not forgetting us,?
 but demanding the decision of such matters to be
 made right at the ferry. But who are those men
@@ -13628,8 +13651,7 @@ carrying on their shoulders ? 3
 3 Compare Herodotus i. 50 ff. The conversation between
 Solon and Croesus on the subject of the ingots is Lucian’s
 own contribution.
-417
-VOL, If. EE
+
 <pb n="418"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 EPMHE
@@ -13681,32 +13703,32 @@ put in an allusion to the quest of the Golden Fleece.
 418
 <pb n="419"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-HERMES
+<label>HERMES</label>
 He is making an offering of golden ingots to Apollo
 at Delphi to pay for the prophecies which will bring
 him to grief a little later on. The man is monstrously daft on divination.
-CHARON
+<label>CHARON</label>
 Is that gold, the bright substance that shines, the
 pale yellow substance with a cast of red? This is
 the first time that I have seen it, though I am always
 hearing of it.
-HERMES
+<label>HERMES</label>
 That is it, Charon, the name that they sing of and
 fight for.
-CHARON
+<label>CHARON</label>
 Really I don’t see what good there is about it,
 except perhaps for one thing, that its bearers find it
 heavy.
-HERMES
+<label>HERMES</label>
 You do not know how many wars there have been
 on account of it, how many plots, perjuries, murders,
 imprisonments, trading ventures, and enslavements.
-CHARON
+<label>CHARON</label>
 On account of this substance, not much different
 from bronze? I know bronze, for, as you are aware,
 I collect an obol from everyone who makes the
 downward journey.
-HERMES
+<label>HERMES</label>
 Yes, but bronze is plentiful, so that they do not
 prize it very highly, while this is dug up by the
 miners at a great depth in small quantities. It
@@ -13751,37 +13773,37 @@ amopavety Dindorf: amopatvers MSS
 420
 <pb n="421"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-CHARON
+<label>CHARON</label>
 Men are terribly stupid, by what you say, since
 they have such a passion for a yellow, heavy
 substance.
-HERMES
+<label>HERMES</label>
 Well, at any rate Solon yonder does not seem to
 love it, Charon, as you see, for he is laughing at
 Croesus and his barbarian boastfulness, and to my
 mind he wants to ask him a question. Let us listen,
 then.
-SOLON
+<label>SOLON</label>
 Tell me, Croesus, do you really think that Apollo
 has any need of these ingots?
-CROEsUS
+<label>CROE</label>sUS
 Good Heavens, yes! He has nothing to match
 them among the votive offerings at Delphi.
-SOLON
+<label>SOLON</label>
 Then you expect to make the god happy if he adds
 ingots of gold to the rest of his possessions ?
-CROESUS
+<label>CROESUS</label>
 Why not?
-SOLON
+<label>SOLON</label>
 They are very poor in Heaven from what you say,
 since they have to send and get gold from Lydia
 if they want it.
-CROESUS
+<label>CROESUS</label>
 Why, where else can there be as much gold as
 there is in our country ?
-SOLON
+<label>SOLON</label>
 Tell me, is iron produced in Lydia ?
-CROESUS
+<label>CROESUS</label>
 Not to any great extent.
 421
 <pb n="422"/>
@@ -13829,35 +13851,35 @@ KanelDv;
 422
 <pb n="423"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-SOLON
+<label>SOLON</label>
 Then you are poor in the better metal.
-CROESUS
+<label>CROESUS</label>
 In what way is iron better than gold ?
-SOLON
+<label>SOLON</label>
 If you will answer my questions without getting
 angry, you will find out.
-CROESUS
+<label>CROESUS</label>
 Ask them, Solon.
-SOLON
+<label>SOLON</label>
 Who is the better man, the one who saves a life or
 the one who is saved by him ?
-CROESUS
+<label>CROESUS</label>
 The one who saves a life of course.
-SOLON
+<label>SOLON</label>
 Then if Cyrus attacks the Lydians, as rumour has
 it that he will, shall you get swords of gold made
 for your army, or will iron be necessary in that case?
-CROESUS
+<label>CROESUS</label>
 Iron, certainly.
-SOLON
+<label>SOLON</label>
 Yes, and if you should not provide iron, your gold
 would go off to Persia in captivity.
-CROESUS
+<label>CROESUS</label>
 Don’t speak of such a thing, man!
-SOLON
+<label>SOLON</label>
 I pray it may not turn out that way; but you
 clearly admit that iron is better than gold.
-CROESUS
+<label>CROESUS</label>
 Then would you have me offer ingots of iron to
 the god and call the gold back again ?
 423
@@ -13896,16 +13918,16 @@ veaviaKov; KapBions éxeivos aru ovTOS Baotevoes peTa TOV TaTépa Kal pupia ohar
 424
 <pb n="425"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-SOLON
+<label>SOLON</label>
 He will have no need of iron either, not he!
 Whether you offer bronze or gold, your offering will
 be a boon and a blessing to ethers than he—to the
 Phocians or the Boeotians or the Delphians themselves, or else to some tyrant or freebooter; but the
 god takes little interest in your gold-work.
-CROESUS
+<label>CROESUS</label>
 You are always at war with my wealth and
 begrudge me it.
-HERMES
+<label>HERMES</label>
 The Lydian cannot abide the outspokenness and
 the truthfulness of his words, Charon; it seems
 strange to him when a poor man does not cringe but
@@ -13917,9 +13939,9 @@ been recorded there that Croesus was to be “captured
 by Cyrus, and that Cyrus was to be slain by yonder
 woman of the Massagetae. Do you see her, the
 Scythian woman riding the white horse?
-CHARON
+<label>CHARON</label>
 Indeed I do.
-HERMES
+<label>HERMES</label>
 That is Tomyris ; and after she has cut off Cyrus’
 head she will plunge it into a wine-skin full of
 blood. And do you see his son, the young man?
@@ -13930,7 +13952,7 @@ and when he has had no end of ill-luck in Libya and
 <note type="head">THE WORKS OF LUCIAN</head>
 te AtBin Kat AlOomta 7d TedevTALOY pavels pero.
 Oavetrat aroxteivas Tov Arw.
-XAPON
+<label>XAPON</label>
 “OQ, rorrod yédrwTos. arAAG viv Tis dv adtods
 mpocBrtrypeev obras Urepppovobtvtas TOV dhrav;
 } tis dv motetocey @5 per’ drLyoV odTOS pév
@@ -13940,13 +13962,13 @@ thy Twopbupay epeotpioa eymreroprrnpévos, 6 Td
 vddnpua, & Tov SaxtUALov 6 Mdyerpos avadi8wcr
 tov ixOvv avaTenov,
 vnow év audipttn; Bacrreds 8é tus edyerar elva.
-EPMHS
+<label>EPMHS</label>
 Ed ye wapwdeis, @ Xapwv. adr Tlodvepdrny
 opgs | Tov Zapicov TUpavvov| Tavevdaipova aryoupevov elvas atap Kal ovTos abtos bro Tob mapeotatos oikétou Matavdpiou mpodobels "Opoitn 76
 catpamy. dvackoroTriaOicetat GOd«os) extrecwy
 ths eddatmovias ev dxape? Tod ypovov: Kal tadta
 yap THs KAwOobs érnxovca.
-XAPON
+<label>XAPON</label>
 "Avyapat KrwOods yevuixts: Kaie® adtovs, @
 Bertiotn, Kal Tas Kepadds atroreuve Kal cvackoromite, os elddotv avOpwrot dvtes: ev tocovt@ dé érraipécOwv ws dv ad’ innrotépou
 Gdyewortepov KaTaTrecovpevor, yw S& yeNdoopat
@@ -13961,7 +13983,7 @@ yEvVikGs Kae. ;
 <note type="head">CHARON, OR THE INSPECTORS</head>
 Ethiopia he will at last go mad and die in consequence
 of slaying Apis.
-CHARON
+<label>CHARON</label>
 How very funny! But now who would dare to
 look at them, so disdainful are they of the rest of
 the world? And who could believe that after a
@@ -13972,7 +13994,7 @@ one with the crown, to whom the cook, who has just
 cut open the fish, is giving the ring,
 “ All in a sea-girt island; a king he would have us
 believe him” 1?
-HERMES
+<label>HERMES</label>
 You are good at parody, Charon. ‘The man whom
 you see is Polycrates, the tyrant of Samos, who
 considers himself wholly fortunate; yet the servant
@@ -13980,7 +14002,7 @@ who stands at his elbow, Maeandrius, will betray him
 into the hands of the satrap Oroetes, and he will
 be crucified, poor man, after losing his good fortune
 inamoment’s time. This, too, I heard trom Clotho.
-CHARON
+<label>CHARON</label>
 Well done, Clotho, noble lady that you are!
 Burn them, gracious lady, cut off their heads and
 crucify them, so that they may know they are
@@ -14031,14 +14053,14 @@ Baivovta ép’ Exactov amo TOV ATPAKTOV;
 That is the way their lives will end. But do you
 see the masses, Charon, the men voyaging, fighting,
 litigating, farming, lending money, and begging ?
-. CHARON
+<label>CHARON</label>
 I see that their activities are varied and their life
 full of turmoil ; yes, and their cities resemble hives,
 in which everyone has a sting of his own and stings
 his neighbour, while some few, like wasps, harry
 and plunder the meaner sort. But what is that
 crowd of shapes that flies about them unseen ?
-HERMES
+<label>HERMES</label>
 Hope, Fear, Ignorance, Pleasure, Covetousness,
 Anger, Hatred and their like. Of these, Ignorance
 mingles with them down below and shares their
@@ -14090,11 +14112,11 @@ ev TpatTwoL, Tap Oé characte, TONY TO OTTOTOL
 43°
 <pb n="431"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-CHARON
+<label>CHARON</label>
 I see that each man has a very slender thread, and
 it is entangled in most cases, this one with that and
 that with another.
-HERMES
+<label>HERMES</label>
 With good reason, ferryman; it is fated for that
 man to be killed by this man and this man by
 another, and for this man to be heir to that one,
@@ -14109,9 +14131,9 @@ a great noise; but this other, who is lifted but
 little above the ground, will come down, if at all, so
 noiselessly that even his neighbours will hardly hear
 his fall.
-CHARON
+<label>CHARON</label>
 All this is very funny, Hermes.
-HERMES
+<label>HERMES</label>
 Indeed, you cannot find words to tell how ridiculous it is, Charon, especially their inordinate ambition and the way in which they disappear from
 the scene in the midst of their hopes, carried off
 by our good friend Death. His messengers and
@@ -14184,8 +14206,7 @@ numerous they are; likewise those who heap up
 1 Most of the dead are unhappy, as Hermes and Charon
 well know. See the Downward Journey, and even Homer’s
 Achilles (Odyssey 11, 488).
-433
-VOL, IL FOF
+
 <pb n="434"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 cal > a / ¢ 4? 2 a ~
@@ -14226,7 +14247,7 @@ ia
 money and then, before enjoying it, receive a
 summons from the messengers and servants that I
 mentioned.
-CHARON
+<label>CHARON</label>
 I see all this, and am wondering what pleasure
 they find in life and what it is that they are distressed to lose. For example, if one considers their
 kings, who are counted most happy, quite apart from
@@ -14296,10 +14317,10 @@ Stappayis; Omep yap wap buiv  AjOn dvvatat,
 436
 <pb n="437"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-HERMES
+<label>HERMES</label>
 Charon, your simile is every bit as good as Homer's,
 who compares the race of man to leaves.!
-CHARON
+<label>CHARON</label>
 And although they are like that, Hermes, you see
 what they do and how ambitious they are, vying
 with each other for offices, honours, and possessions,
@@ -14319,7 +14340,7 @@ their owners.” If I should call to them out of a
 commanding place and say all this and more, do you
 not think that they would be greatly assisted in life
 and made saner by far ?
-HERMES
+<label>HERMES</label>
 My dear fellow, you do not know how Ignorance
 and Error have served them. Even a drill could not
 penetrate their ears now, because these dames have
@@ -14328,7 +14349,7 @@ Odysseus, who did this to his comrades for fear that
 they might hear the Sirens. How could they hear,
 then, even if you should crack your lungs with
 bawling? What lies in the power of Lethe down
-1 Tliad 6, 146.
+1 Iliad 6, 146.
 437
 <pb n="438"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -14368,9 +14389,9 @@ are a few of them who have not admitted the wax
 into their ears, who are devoted to truth, who look
 keenly into things and know them for what they
 are.
-CHARON
+<label>CHARON</label>
 Then let us call to them at least.
-HERMES
+<label>HERMES</label>
 It would be superfluous to tell them what they
 know. You see how they stand aloof from the
 masses and laugh at what goes on ; they are not in
@@ -14378,18 +14399,18 @@ the least satisfied with it all, but are clearly planning
 to make their escape from life to your own regions.
 Indeed, they have reason, for they are disliked
 because they expose the follies of man. ¢
-CHARON
+<label>CHARON</label>
 Well done, staunch souls! But they are very few,
 Hermes.
-HERMES
+<label>HERMES</label>
 Even these are enough. But let us go down now.
-CHARON
+<label>CHARON</label>
 There is one thing more that I wanted to know
 about, Hermes, and when you point it out to me you
 will have done your full duty as guide; it is to see
 the places where they stow the bodies, where they
 bury them, I mean.
-HERMES
+<label>HERMES</label>
 They call such places vaults, tombs and graves.
 Do you see those heaps of earth and slabs of stone
 and pyramids in front of the cities? All those
@@ -14440,7 +14461,7 @@ Ocpaitn 8 icos @ériSos mais HU KOMOLO.
 440
 <pb n="441"/>
 <note type="head">CHARON, OR THE INSPECTORS</head>
-CHARON
+<label>CHARON</label>
 Why is it, then, that those people are putting
 garlands on the stones and anointing them with
 perfume ? There are others also who have built
@@ -14448,14 +14469,14 @@ pyres in front of the mounds and have dug trenches,
 and now they are burning up those fine dinners and
 pouring wine and mead, as far as one may judge,
 into the ditches.
-HERMES
+<label>HERMES</label>
 I don’t know what good these things are to men
 in Hades, ferryman; they are convinced, however,
 that the souls, allowed to come up from below, get
 their dinner as best they may by flitting about the
 smoke and steam and drink the mead out of the
 trench.
-CHARON
+<label>CHARON</label>
 What, they eat and drink, when their skulls are
 dry as tinder? But it is silly for me to tell that to
 you, who bring them down below every day; you
@@ -14512,13 +14533,13 @@ Aye, they are all of them nothing but skeleton
 relics of dead men,
 Bare, dry bones that are scattered about in the
 asphodel meadow.” }
-HERMES
+<label>HERMES</label>
 Heracles! What a lot of Homer you are baling
 out! Now you have put me in mind of him, I want
 to show you the tomb of Achilles. Do you see it,
 there by the seaside ?_ Sigeum in Troy is over there,
 and opposite to it Ajax lies buried on Rhoeteum.
-CHARON
+<label>CHARON</label>
 The tombs are not large, Hermes. But now show
 me the prominent cities that we hear of down below,
 Nineveh, the city of Sardanapalus, Babylon, Mycenae,
@@ -14526,7 +14547,7 @@ Cleonae, and Troy itself; I remember that I set a
 great many from that place across the ferry, so that
 for ten whole years I couldn’t dock my boat or dry
 her out.
-HERMES
+<label>HERMES</label>
 As for Nineveh, ferryman, it is already gone and
 there is nota trace of it left now; you couldn't even
 say where it was. But there you have Babylon, the
@@ -14575,27 +14596,27 @@ atadrAaTT@peda, eyo pev Ka & éeatadnv, ad EE
 <note type="head">CHARON, OR THE INSPECTORS</head>
 In fact, even the grave of Inachus no longer survives
 in Argos.
-CHARON
+<label>CHARON</label>
 That for your praises, Homer, and your adjectives
 — “hallowed,” “wide-wayed”” Troy and “ wellbuilt” Cleonae! But while we are talking, who are
 those people at war yonder, and why are they killing
 each other?
-HERMES
+<label>HERMES</label>
 You are looking at the Argives and Spartans,
 Charon, and over there is the dying general Othryadas, the one who is writing on the trophy in his
 own blood.}
-CHARON
+<label>CHARON</label>
 What is their war about, Hermes ?
-HERMES
+<label>HERMES</label>
 About the very plain in which they are fighting.
-CHARON
+<label>CHARON</label>
 What folly!) They do not know that even if any
 one of them should acquire the whole Peloponnese,
 he could hardly get Aeacus to give him a foot of
 space. And as for this plain, it will be tilled by one
 race after another, and many a time they will turn
 the trophy up out of the depths with the plough.
-HERMES
+<label>HERMES</label>
 True. But now let’s get down and replace the
 mountains, and then go our ways, I on my crrand
 1 Three hundred Spartans fought an equal number of
@@ -14609,7 +14630,7 @@ to Zeus in his own blood. Herod. 1,82; Plut. Moral. 306 B.
 <note type="head">THE WORKS OF LUCIAN</head>
 él To mopOuetov: Ew 5é coe Kat avTos pet
 ONryov vexpoaTONaV.
-XAPON
+<label>XAPON</label>
 Ed ye éroinoas, & @ “Epuyy evepyérns eis del
 avayeyparyn, ava wnv yap te Sta oé THS atro}yplas.—ola éote Ta TOY KaKOdaLmoveY a0 porwr
 mpdypata—Pactreis, wrtvOot ypvoai, émiTvp-
@@ -14620,7 +14641,7 @@ Bra, payat: Xdpwvos 5é oddels Aoyos.
 <note type="head">CHARON, OR THE INSPECTORS</head>
 and you to your ferry. I will follow vou soon with a
 convoy of dead.
-CHARON
+<label>CHARON</label>
 I am much obliged to you, Hermes; you shall be
 written down for ever as a benefactor. ‘Thanks to
 you, I have had some profit from my journey. How
@@ -14632,38 +14653,8 @@ never a thought of Charon!
 <note type="head">Original from</head>
 <pb n="449"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-This is not a sale of philosophers, nor yet, in any ordinary
-sense, a sale of lives; it is a sale of various types of the
-philosophic life, which are to serve their buyers as models
-for the shaping of their own careers. For a convenient
-rendering, perhaps ‘‘ philosophies” will do as well as any
-other single word.
-Although Lucian makes it perfectly plain that he is not
-selling specific philosophers, some, if not all, the manuscripts
-and all the editors ascribe the words of the different types to
-definite individuals, whereby they not only introduce confusion into the dialogue (working special havoc in the case of
-the Academic or Platonist type), but they completely stultify
-the plea which Lucian puts forward in his own defence in the
-Fisherman, urging that he had not criticized the leading
-lights of philosophy, but only the common herd of pretended
-philosophers. This plea is rather specious, it must be
-admitted, for Lucian vivifies his types again and again with
-biographical traits ; but we should leave him a leg to stand
-on, and not make him sell Pythagoras, Chrysippus and the
-rest in their own persons. Therefore I have substituted the
-names of schools for the names of individual philosophers
-throughout, but only in the English version: for in the
-Greek I have not ventured to do this without commanding
-“Tuller-evidence from the manuscripts.
-Diogenes was once taken by pirates and sold into slavery,
-they say, and Menippus is known to have written a Sule of
-Diogenes. It may be that Lucian read it and took a hint
-from it: he could not have taken more.
-The order in which the different types are brought on is
-very effective, as Helm points out, and well deserves attention
-as one reads. Interesting too are the prices which they
-bring.
-VOL. Il, GG
+
+
 <pb n="450"/>
 <note type="head">BION TIPASIZ</head>
 ZEYS
@@ -14690,27 +14681,36 @@ MSS.
 +». abrobs, ZET3. twddpev ody vulg.
 450
 <pb n="451"/>
-<note type="head">PHILOSOPHIES FOR SALE</head>
-ZEUS
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg024">
+
+<head>PHILOSOPHIES FOR SALE<note><p>This is not a sale of philosophers, nor yet, in any ordinary sense, a sale of lives; it is a sale of various types of the philosophic life, which are to serve their buyers as models for the shaping of their own careers. For a convenient rendering, perhaps "philosophies” will do as well as any
+other single word.</p>
+<p>Although Lucian makes it perfectly plain that he is not selling specific philosophers, some, if not all, the manuscripts and all the editors ascribe the words of the different types to definite individuals, whereby they not only introduce confusion into the dialogue (working special havoc in the case of the Academic or Platonist type), but they completely stultify the plea which Lucian puts forward in his own defence in the Fisherman, urging that he had not criticized the leading lights of philosophy, but only the common herd of pretended philosophers. This plea is rather specious, it must be admitted, for Lucian vivifies his types again and again with biographical traits ; but we should leave him a leg to stand on, and not make him sell Pythagoras, Chrysippus and the rest in their own persons. Therefore I have substituted the names of schools for the names of individual philosophers throughout, but only in the English version: for in the Greek I have not ventured to do this without commanding fuller evidence from the manuscripts.</p>
+<p>Diogenes was once taken by pirates and sold into slavery, they say, and Menippus is known to have written a Sale of Diogenes. It may be that Lucian read it and took a hint from it: he could not have taken more.</p>
+<p>The order in which the different types are brought on is very effective, as Helm points out, and well deserves attention as one reads. Interesting too are the prices which they bring.</p></note></head>
+<div type="textpart" subtype="secton" n="1"><p>
+<label>ZEUS</label>
 (To an arTennant.) You arrange the benches and
 make the place ready for the men that are coming.
 (To another avrenpant.) You bring on the philosophies and put them in line ; but first groom them up,
 so that they will look well and will attract as many
 as possible. (Zo nErmeEs.) You, Hermes, be crier
 and call them together.
-HERMES
+<label>HERMES</label>
 Under the blessing of Heaven, let the buyers
 now appear at the sales-room. We shall put up for
 sale philosophies of every type and all manner of
 creeds; and if anyone is unable to pay cash, he is to
 name a surety and pay next year.
-ZEUS
+<label>ZEUS</label>
 Many are gathering, so we must avoid wasting
 time and delaying them. Let us begin the sale,
 then.
-HERMES
+<label>HERMES</label>
 Which do you want us to bring on first ?
-ZEUS
+<label>ZEUS</label>
 This fellow with the long hair, the Ionian, for he
 seems to be someone of distinction.
 <pb n="452"/>
@@ -14745,34 +14745,34 @@ TITOATOPAZ
 452
 <pb n="453"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 You Pythagorean, come forward and let yourself
 be looked over by the company.
-ZEUS
+<label>ZEUS</label>
 Hawk him now.
-HERMES
+<label>HERMES</label>
 The noblest of philosophies for sale, the most
 distinguished ; who'll buy ? Who wants to be more
 than man? Who wants to apprehend the music of
 the spheres and to be born again ?
-BUYER
+<label>BUYER</label>
 For looks, he is not bad, but what does he know
 best ?
-HERMES
+<label>HERMES</label>
 Arithmetic, astronomy, charlatanry, geometry,
 music and quackery; you see in him a first-class
 soothsayer.
-BUYER
+<label>BUYER</label>
 May I question him?
-HERMES
+<label>HERMES</label>
 Yes, and good luck to you!
-BUYER
+<label>BUYER</label>
 Where are you from?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 From Samos.!
-BUYER
+<label>BUYER</label>
 Where were you educated ?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 In Egypt, with the sages there.
 1 The birthplace of Pythagoras. Hence the “‘ Pythagorean
 philosophy” talks Ionic Greek.
@@ -14809,32 +14809,32 @@ Kir’ él tovréovow api péeuv.
 454
 <pb n="455"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 Come now, if I buy you, what will you teach me?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 I shall teach thee nothing, but make thee remember.!
-BUYER
+<label>BUYER</label>
 How will you make me remember ?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 First by making thy soul pure and purging off the
 filth upon it.
-BUYER
+<label>BUYER</label>
 Well, imagine that my purification is complete,
 what will be your method of making me remember?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 In the first place, long silence and speechlessness,
 and for five entire years no word of talk.
-BUYER
+<label>BUYER</label>
 My good man, you had better teach the son of
 Croesus!?2 I want to be talkative, not a graven
 image. However, what comes after the silence and
 the five years?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Thou shalt be practised in music and geometry.
-BUYER
+<label>BUYER</label>
 That is delightful ; I am to become a fiddler before
 being wise!
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 ‘Then, in addition to this, in counting.
 1 Before centering upon its round of transmigrations, the
 soul was all-wise ; learning is merely remembering. Socrates
@@ -14876,32 +14876,32 @@ TI pos 8€ totcdecr totcw eipnpévorce Kal cewvtov 5
 456
 <pb n="457"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 I know how to count now.
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 How dost thou count ?
-BUYER
+<label>BUYER</label>
 One, two, three, four—
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Lo! what thou thinkest four is ten, and a perfect
 triangle, and our oath.+
-BUYER
+<label>BUYER</label>
 Well, by your greatest oath, by Four, I never
 heard diviner doctrines or more esoteric.
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Thereafter, my friend, thou shalt learn of earth
 and air and water and fire, what their flux is, and
 what form they have and how they move.
-BUYER
+<label>BUYER</label>
 Why, has fire form, or air, or water ?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Yea, very notably, for without shape and form
 there can be no motion. And in addition thou
 shalt learn that God is number and mind and
-harmony. :
-BUYER
+harmony. 
+<label>BUYER</label>
 What you say is wonderful.
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 And beside all that I have said, thou shalt learn
 1 Four is ten, because it contains three, two and one, and 1
 23410. , The perfect triangle is
@@ -14941,23 +14941,23 @@ Kudpourt TAS apxas aipéeaOas.
 <note type="head">PHILOSOPHIES FOR SALE</head>
 that thou, who thinkest thyself a single individual,
 art one person in semblance and another in reality.
-BUYER
+<label>BUYER</label>
 What’s that? I am another and not this man
 who now talks to you!
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Now thou art he, but erstwhile thou didst manifest thyself in another body and under another name,
 and in time thou shalt again migrate into another
 person.
-BUYER
+<label>BUYER</label>
 You mean that I shall be immortal, changing into
 many forms? But enough of this. How do you
 stand in the matter of diet ?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 I eat nothing at all that hath life, but all else save
 beans.
-BUYER
+<label>BUYER</label>
 Why so? Do you dislike beans?
-PYTHAGOREAN
+<label>PYTHAGOREAN</label>
 Nay, but they are holy, and wonderful is their
 nature. First, they are nought but seed of man, and
 if thou open a bean while it is still green, thou wilt
@@ -15004,33 +15004,33 @@ Odtos 6 THY mipav cEnptynpévos, 6 €Ewplas, EOE
 460
 <pb n="461"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 You have explained everything duly and sacerdotally. Come, strip, for I want to see you unclothed.
 Heracles! His thigh is of gold! He seems to be a
 god and not a mortal, so I shall certainly buy him.
 (Yo Hermes.) What price do you sell him for ?
-HERMES
+<label>HERMES</label>
 Ten minas.
-BUYER
+<label>BUYER</label>
 I'll take him at that figure.
-ZEUS
+<label>ZEUS</label>
 Write down the buyer’s name and where he comes
 from.
-HERMES
+<label>HERMES</label>
 He appears to be an Italian, Zeus, one of those
 who live in the neighbourhood of Croton and
 Tarentum and the Greek settlements in that
 quarter of the world. But there is more than one
 buyer; about three hundred have bought him in
 shares.!
-ZEUS
+<label>ZEUS</label>
 Let them take him away ; let us bring on another.
-HERMES
+<label>HERMES</label>
 Do you want the dirty one over yonder, from the
 Black Sea ?2
-ZEUS
+<label>ZEUS</label>
 By all means.
-HERMES
+<label>HERMES</label>
 You there with the wallet slung about you, you
 1 A reference to the brotherhood founded by Pythagoras in
 Magna Grecia, which wielded great political power until it
@@ -15083,31 +15083,31 @@ ovyx opas ws Sifptas To EvAov Kai cuvéotraxe Tas
 with the sleeveless shirt, come and walk about the
 room. I offer for sale a manly philosophy, a noble
 philosophy, a free philosophy ; who'll buy ?
-BUYER
+<label>BUYER</label>
 Crier, what’s that you say? Are you selling
 someone who is free ?
-HERMES
+<label>HERMES</label>
 That I am.
-BUYER
+<label>BUYER</label>
 Then aren’t you afraid he may have the law on
 you for kidnapping or even summon you to the
 Areopagus ?
-HERMES
+<label>HERMES</label>
 He doesn’t mind being sold, for he thinks that
 he is free anyhow.
-BUYER ;
+<label>BUYER </label>
 What use could a man make of him, filthy as he is,
 and in such a wretched condition? However, he
 might be made a shoveller or a drawer of water.
-HERMES
+<label>HERMES</label>
 Not only that, but if you make him doorkeeper,
 you will find him far more trusty than a dog. In
 tact, he is even called a dog.t
-BUYER
+<label>BUYER</label>
 Where is he from, and what creed does he profess ?
-HERMES
+<label>HERMES</label>
 Ask the man himself; it is better to do so.
-BUYER
+<label>BUYER</label>
 I am afraid of his sullen, hang-dog look; he may
 bark at me if I go near him, or even bite me, by
 Zeus! Don’t you see how he has his cudgel poised
@@ -15151,35 +15151,35 @@ Tpopryrns eivar BovrAomat.
 <note type="head">PHILOSOPHIES FOR SALE</head>
 and his brows bent, and scowls in a threatening,
 angry way?
-HERMES
+<label>HERMES</label>
 Don’t be afraid ; he is gentle.
-BUYER
+<label>BUYER</label>
 First of all, my friend, where are you from?
-CYNIC
+<label>CYNIC</label>
 Everywhere.
-BUYER
+<label>BUYER</label>
 What do you mean ?
-CYNIC
+<label>CYNIC</label>
 You see in me a citizen of the world.
-BUYER
+<label>BUYER</label>
 Whom do you take for your pattern ?
-CYNIC
+<label>CYNIC</label>
 Heracles.
-BUYER
+<label>BUYER</label>
 Then why don’t you wear a lion’s skin? For as
 to the cudgel, you are like him in that.
-CYNIC
+<label>CYNIC</label>
 This short cloak is my lion-skin; and I am a
 soldier like him, fighting against pleasures, no conscript but a volunteer, purposing to make life clean.
-BUYER
+<label>BUYER</label>
 A fine purpose! But what do you know best, and
 what is your business?
-CYNIC
+<label>CYNIC</label>
 I am a liberator of men and a physician to their
 ills; in short I desire to be an interpreter of truth
 and free speech.
-465
-VOL. II. HH
+
+
 <pb n="466"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 ATOPASTHS
@@ -15209,10 +15209,10 @@ To motov;
 466
 <pb n="467"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUVER
+<label>BUVER</label>
 Very good, interpreter! But if IT buy you, what
 course of training will you give me ?
-CYNIC
+<label>CYNIC</label>
 First, after taking you in charge, stripping you of
 your luxury and shackling you to want, I will puta
 short cloak on you. Next I will compel you to
@@ -15230,18 +15230,17 @@ written on both sides. Leading this life you
 will say that you are happier than the Great King ;
 and if anyone flogs you or twists you on the rack,
 you will think that there is nothing painful in it.
-BUYER
+<label>BUYER</label>
 What do you mean by not feeling pain when I am
 flogged? I am not enclosed in the carapace of a
 turtle or a crab !
-CYNIC
+<label>CYNIC</label>
 You will put in practice the saying of Euripides,
 slightly revised.
-: BUYER
+<label>BUYER</label>
 What saying?
 1 As did Diogenes ; for his ‘‘ tub” was really a jar.
-467
-HH 2
+
 <pb n="468"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 AIOTENHS
@@ -15284,7 +15283,7 @@ Kal Ajpwv, AA’ éritopos a’tn cor mpos SdEav
 468
 <pb n="469"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-CYNIC
+<label>CYNIC</label>
 Your mind will suffer, but your tongue will not.!
 The traits that you should possess in particular are
 these : you should be impudent and bold, and should
@@ -15303,10 +15302,10 @@ choose the most ridiculous ways of satisfying your
 lust ; and at the last, if you like, eat a raw devilfish
 or squid, and die. That is the bliss we vouchsafe
 you.
-BUYER
+<label>BUYER</label>
 Get out with you! The life you talk of is
 abominable and inhuman.
-CYNIC
+<label>CYNIC</label>
 But at all events it is easy, man, and no trouble
 for all to follow ; for you will not need education and
 doctrine and drivel, but this road is a short cut to
@@ -15354,28 +15353,28 @@ yrOttav, ws opds, dvortcOdvev.
 or a fish-man or a carpenter or a money-changer—
 there will be nothing to hinder you from being
 wondered at, if only you have impudence and _ boldness and learn how to abuse people properly.
-BUYER
+<label>BUYER</label>
 I do not want you for any such purpose, but you
 might do at a pinch for a boatman or a gardener, and
 only then if my friend here is willing to sell you for
 two obols at the outside.
-HERMES
+<label>HERMES</label>
 He’s yours: take him. We shall be glad to get
 rid of him because he is annoying and loud-mouthed
 and insults and abuses everybody without exception.
-ZEUS
+<label>ZEUS</label>
 Call another; the Cyrenaic in the purple cloak,
 with the wreath on his head.1
-HERMES
+<label>HERMES</label>
 Come now, attend, everyone! Here we have
 high-priced wares, wanting a rich buyer. Here you
 are with the sweetest philosophy, the thrice-happy
 philosophy! Who hankers for high living? Who'll
 buy the height of luxury?
-BUYER
+<label>BUYER</label>
 Come here and tell me what you know ; I will buy
 you if you are of any use.
-HERMES
+<label>HERMES</label>
 Don’t bother him, please, sir, and don’t question
 him, for he is drunk, and so can’t answer you
 because his tongue falters, as you observe.
@@ -15418,13 +15417,13 @@ krdovta Tov é& “Edécou: dua yap ata TempaoAat Bovropuat.
 3
 <pb n="473"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 Who that is in his senses would buy so corrupt and
 lawless a slave? How he reeks of myrrh, and how
 he staggers and reels in his gait! But you yourself,
 Hermes, might tell me what traits he has and what
 his object in life is.
-HERMES
+<label>HERMES</label>
 In general, he is accommodating to live with, satisfactory to drink with, and handy to accompany
 an amorous and profligate master when he riots
 about town with a flute-girl, Moreover, he is a
@@ -15435,14 +15434,14 @@ the tyrants, with whom he enjoyed high favour.
 The sum and substance of his creed is to despise
 everything, make use of everything and cull pleasure
 from every source.
-BUYER
+<label>BUYER</label>
 You had better look about for someone else, among
 these rich and wealthy people ; for I can’t afford to
 buy a jolly life.
-HERMES
+<label>HERMES</label>
 It looks as if this fellow would be left on our
 hands, Zeus.
-ZEUS
+<label>ZEUS</label>
 Remove him ; bring on another—stay ! those two,
 the one from Abdera who laughs and the one from
 Ephesus who cries, for I want to sell them together.1
@@ -15492,32 +15491,32 @@ vaTép~ Xpov@ ecopera mautav avinpd, Aéyw Se
 ry
 <pb n="475"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 Come down among us, you two. I sell the two
 best philosophies; we offer the two that are sagest
 of all.
-BUYER
+<label>BUYER</label>
 Zeus ! What a contrast! One of thei never stops
 laughing, and the other is apparently mourning a
 death, as he weeps incessantly. What is the matter,
 man? Why are you laughing?
-DEMOCRITEAN
+<label>DEMOCRITEAN</label>
 Dost thou need to ask? Because to me it seemeth
 that all your affairs are laughable, and yourselves as
 well.
-BUYER
+<label>BUYER</label>
 What, are you laughing at us all, and do you think
 nothing of our affairs?
-DEMOCRITEAN
+<label>DEMOCRITEAN</label>
 Even so; for there is nothing serious in them, but
 everything is a hollow mockery, drift of atoms,
 infinitude.
-BUYER
+<label>BUYER</label>
 No indeed, but you yourself are a hollow mockery
 in very truth and an infinite ass. Oh, what effrontery! Will you never stop laughing? (Zo the other.)
 But you, why do youcry? For I think it is much
 more becoming to talk with you.
-HERACLITEAN
+<label>HERACLITEAN</label>
 Because I consider, O stranger, that the affairs of
 man are woeful and tearful, and there is naught in
 them that is not foredoomed; therefore I pity and
@@ -15567,26 +15566,26 @@ are in a manner stirred up into porridge, and joy
 and joylessness, wisdom and unwisdom, great and
 small are all but the same, circling about, up and
 down, and interchanging in the game of Eternity.
-BUYER
+<label>BUYER</label>
 And what is Eternity ?
-HERACLITEAN
+<label>HERACLITEAN</label>
 A child playing a game, moving counters, in discord, in concord.
-BUYER
+<label>BUYER</label>
 What are men?
-HERACLITEAN
+<label>HERACLITEAN</label>
 Mortal gods.
-BUYER
+<label>BUYER</label>
 And the Gods ?
-HERACLITEAN
+<label>HERACLITEAN</label>
 Immortal men.
-BUYER
+<label>BUYER</label>
 Are you telling riddles, man, or making conundrums? You are just like Apollo, for you say
 nothing plainly.
-HERACLITEAN
+<label>HERACLITEAN</label>
 Because you matter naught to me.
-BUYER
+<label>BUYER</label>
 Then nobody in his sense will buy you.
-HERACLITEAN
+<label>HERACLITEAN</label>
 I bid ye go weep, one and all, buy you or buy you
 not.
 1 Heraclitus was nicknamed 6 S«ore:vds, “the Obscure.”
@@ -15623,31 +15622,31 @@ uxiy 88 syodpae kadijv. apéree cay b7d TadTov
 478
 <pb n="479"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 This fellow’s trouble is not far removed from
 insanity. However, [ for my part will not buy
 either of them.
-HERMES
+<label>HERMES</label>
 They are left unsold also.
-ZEUS
+<label>ZEUS</label>
 Put up another.
-HERMES
+<label>HERMES</label>
 Do you want the Athenian over there, who has so
 much to say?!
-ZEUS
+<label>ZEUS</label>
 By all means.
-HERMES
+<label>HERMES</label>
 Come here, sir. We are putting up a righteous
 and intelligent philosophy. Who'll buy the height
 of sanctity ?
-BUYER
+<label>BUYER</label>
 Tell me what you know best ?
-ACADEMIC
+<label>ACADEMIC</label>
 I am a lover, and wise in matters of love.
-BUYER
+<label>BUYER</label>
 How am I to buy you, then? What I wanted was
 a tutor for my son, who is handsome.
-ACADEMIC
+<label>ACADEMIC</label>
 But who would be more suitable than I to associate
 with a handsome lad? It is not the body I love, it
 is the soul that I hold beautiful. As a matter of
@@ -15692,44 +15691,40 @@ SQKPATHS
 KOVE 01) TO MEYLOTOV, 0 TEDL TOV YUVALK@Y LOL
 480
 <pb n="481"/>
-<note type="head">is</head>
-pe
-1
-iy
-PHILOSOPHIES FOR SALE
+
 fact, even if they lie beneath the same cloak with
 me, they will tell you that I have done them no
 wrong.}
-BUYER
+<label>BUYER</label>
 I can’t believe what you say, that you, though a
 lover, take no interest in anything beyond the soul,
 even when you have the opportunity, lying beneath
 the same cloak.
-ACADEMIC
+<label>ACADEMIC</label>
 But I swear to you by the dog and the plane-tree
 that this is so.
-BUYER
+<label>BUYER</label>
 Heracles! What curious gods!
-ACADEMIC
+<label>ACADEMIC</label>
 What is that you say? Don’t you think the dog
 is a god? Don’t you know about Anubis in Egypt,
 how great he is, and about Sirius in the sky and
 Cerberus in the world below ?
-_ BUYER
+<label>BUYER</label>
 Quite right ; I was entirely mistaken. But what
 is your manner of life?
-ACADEMIC
+<label>ACADEMIC</label>
 I dwell in a city that I created for myself, using
 an imported constitution and enacting statutes of
 my own.?
-BUYER
+<label>BUYER</label>
 I should like to hear one of your enactments.
-ACADEMIC
+<label>ACADEMIC</label>
 Let me tell you the most important one, the view
 1 See Plato’s Symposium, particularly 216 p-219 p,
 ? The allusion is to Plato’s Republic.
-481
-VOL. I, rant
+
+
 <pb n="482"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 Soxet: undeniav adtav pndevos civat povov, Tarti
@@ -15766,31 +15761,31 @@ Ody ope tad0 drrep A€yers TA Tapadelypara.
 that I hold about wives ; it is that none of thei shall
 belong solely to any one man, but that everyone who so
 desires may share the rights of the husband.
-BUYER
+<label>BUYER</label>
 You mean by this that you have abolished the
 laws against adultery ?
-ACADEMIC
+<label>ACADEMIC</label>
 Yes, and in a word, all this pettiness about such
 matters.
-BUYER
+<label>BUYER</label>
 What is your attitude as to pretty boys?
-ACADEMIC
+<label>ACADEMIC</label>
 Their kisses shall be a guerdon for the bravest
 after they have done some splendid, reckless deed.
-BUYER
+<label>BUYER</label>
 My word, what generosity! And what is the gist
 of your wisdom ?
-ACADEMIC
+<label>ACADEMIC</label>
 My “ideas”; I mean the patterns of existing
 things: for of everything that you behold, the
 earth, with all that is upon it, the sky, the sea,
 invisible images exist outside the universe.
-BUYER
+<label>BUYER</label>
 Where do they exist ?
-ACADEMIC
+<label>ACADEMIC</label>
 Nowhere ; for if they were anywhere, they would
 not be.!
-BUYER
+<label>BUYER</label>
 I do not see these patterns that you speak of.
 1 As space cannot be predicated of anything outside the
 univerge, it cannot be predicated of the Platonic Ideas. To
@@ -15833,24 +15828,24 @@ Avo pvai.
 484
 <pb n="485"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-ACADEMIC
+<label>ACADEMIC</label>
 Of course not, for the eye of your soul is blind ;
 but I see images of everything,—an invisible “you,”
 another “me,” and in a word, two of everything.
-BUYER
+<label>BUYER</label>
 Then I must buy you for your wisdom and your
 sharp sight. (Zo Hermes.) Come, let’s see what price
 you will make me for him?
-HERMES
+<label>HERMES</label>
 Give me two talents.
-BUYER
+<label>BUYER</label>
 He is sold to me at the price you mention, But
 I will pay the money later on.
-HERMES
+<label>HERMES</label>
 What is your name?
-BUYER
+<label>BUYER</label>
 Dion of Syracuse.! :
-HERMES
+<label>HERMES</label>
 He is yours; take him, with good luck to you.
 Epicurean, I want you now. Who will buy him?
 He is a pupil of the laugher yonder and of the
@@ -15858,9 +15853,9 @@ drunkard, both of whom we put up ashort time ago.?
 In one way, however, he knows more than they,
 because he is more impious. Besides, he is agreeable
 and fond of good eating.
-BUYER
+<label>BUYER</label>
 What is his price?
-HERMES
+<label>HERMES</label>
 Two minas.
 1 Chosen for mention, because he was Plato’s pupil.
 2 The Epicureans took over the atomic theory from
@@ -15898,32 +15893,32 @@ oxutodétns 3) téxtwv Kal Ta ToLadTa; .
 480
 <pb n="487"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-BUYER
+<label>BUYER</label>
 Here you are. But, say! I want to know what
 food he likes.
-HERMES
+<label>HERMES</label>
 He eats sweets and honey-cakes, and, above all,
 figs.
-BUYER
+<label>BUYER</label>
 No trouble about that; we shall buy him cakes of
 pressed figs from Caria.
-ZEUS
+<label>ZEUS</label>
 Call another, the one over there with the cropped
 head, the dismal fellow from the Porch.
-HERMES
+<label>HERMES</label>
 Quite right; at all events it looks as if the men
 who frequent the public square were waiting for him
 in great numbers.! I sell virtue itself, the most
 perfect of philosophies. Who wants to be the only
 one to know everything ?
-BUYER
+<label>BUYER</label>
 What do you mean by that?
-HERMES
+<label>HERMES</label>
 That he is the only wise man, the only handsome
 man, the only just man, brave man, king, orator,
 rich man, lawgiver, and everything else that
 there is.?
-BUYER
+<label>BUYER</label>
 Then he is the only cook,—yes and the only
 tanner or carpenter, and so forth ?
 1 Lucian means that the Stoic philosophy was in high
@@ -15966,30 +15961,30 @@ as they helped or hindered in the acquirement of virtue.
 488
 <pb n="489"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 So it appears.
-BUYER
+<label>BUYER</label>
 Come here, my good fellow, and tell your buyer
 what you are like, and first of all whether you are
 not displeased with being sold and living in slavery?
-STOIC
+<label>STOIC</label>
 Not at all, for these things are not in our control,
 and all that is not in our control is immaterial.
-BUYER
+<label>BUYER</label>
 I don’t understand what you mean by this.
-‘STOIC
+<label>STOIC</label>
 What, you do not understand that of such things
 some are “approved,” and some, to the contrary,
 “ disapproved ”’ ?1
-BUYER
+<label>BUYER</label>
 Even now I do not understand.
-STOIC
+<label>STOIC</label>
 Of course not, for you are not familiar with our
 vocabulary and have not the faculty of forming concepts; but a scholar who has mastered the science of
 logic knows not only this, but what predicaments
 and bye-predicaments are, and how they differ from
 each other.?
-BUYER
+<label>BUYER</label>
 In the name of wisdom, don’t begrudge telling me
 2 The hair-splitting Stoics distinguished four forms of
 predication according to the case of the (logical) subject and
@@ -16041,29 +16036,29 @@ Digitized by GOC gle UNIVERSITY OF CALIFORNIA
 at least what predicaments and bye-predicaments are ;
 for Iam somehow impressed by the rhythm of the
 terms.
-STOIC
+<label>STOIC</label>
 Indeed, I do not begrudge it at all. If a man who
 is lame dashes his lame foot against a stone and
 receives an unlooked-for injury, he was already in a
 predicament, of course, with his lameness, and with
 his injury he gets into a bye-predicament too.
-BUYER
+<label>BUYER</label>
 Oh, what subtlety! And what else do you claim to
 know best ?
-STOIC
+<label>STOIC</label>
 The word-snares with which I entangle those who
 converse with me and stop their mouths and make
 them hold their peace, putting a very muzzle on
 them. This power is called the syllogism of wide
 renown.!
-BUYER
+<label>BUYER</label>
 Heracles! An invincible and mighty thing, by
 what you say.
-STOIC
+<label>STOIC</label>
 See for yourself. Have you a child?
-BUYER
+<label>BUYER</label>
 What of it ?
-STOIC
+<label>STOIC</label>
 If a crocodile should seize it on finding it straying
 beside the river, and then should promise to give it
 back to you if you told him truly what he intended
@@ -16113,24 +16108,24 @@ not be executed. The crocodile should ask, ‘* Am I going to
 <note type="head">PHILOSOPHIES FOR SALK</head>
 to do about giving it back, what would you say he
 had made up his mind to do?!
-BUYER
+<label>BUYER</label>
 Your question is hard to answer, for I don’t know
 which alternative I should follow in my reply, in
 order to get back the child. Come, in Heaven’s
 name answer it yourself and save the child for me,
 for fear the beast may get ahead of us and devour it !
-STOIC
+<label>STOIC</label>
 Courage! I'll teach you other things that are more
 wonderful.
-BUYER
+<label>BUYER</label>
 What are they ?
-STOIC
+<label>STOIC</label>
 The Reaper, the Master,? and above all, the Electra
 and the Veiled Figure.
-BUYER
+<label>BUYER</label>
 What do you mean by the Veiled Figure and the
 Electra ?
-STOIC
+<label>STOIC</label>
 The Electra is the famous Electra, the daughter of
 Agamemnon, who at once knew and did not know
 the same thing; for when Orestes stood beside her
@@ -16187,18 +16182,18 @@ her brother, but did not know that this was Orestes.!
 As to the Veiled Figure, you shall hear a very
 wonderful argument. Tell me, do you know your
 own father ?
-BUYER
+<label>BUYER</label>
 Yes.
-STOIC
+<label>STOIC</label>
 But if I put a veiled figure before you and asked
 you if you know him, what will you say?
-BUYER
+<label>BUYER</label>
 That I don’t, of course.
-STOIC ;
+<label>STOIC </label>;
 But the veiled figure turns out to be your own
 father ; so if you don’t know him, you evidently don’t
 know your own father.
-BUYER
+<label>BUYER</label>
 Not so: I should unveil him and find out the
 truth! But to go on—what is the purpose of your
 wisdom, and what shall you do when you reach the
@@ -16256,13 +16251,13 @@ collecting learned comments and stufting myself with
 solecisms and uncouth words; and to cap all, a man
 may not become wise until he has taken the hellebore
 treatment three times running.}
-BUYER
+<label>BUYER</label>
 These projects of yours are noble and dreadfully
 courageous. But tobe a Gnipho and a usurer—for I
 see that this is one of your traits too—what shall we
 say of this? That it is the mark of a man who has
 already taken his hellebore-treatment and is consumuinate in virtue ?
-STOIC
+<label>STOIC</label>
 Yes; at any rate money-lending is especially
 appropriate to a wise man, for as drawing inferences
 is a specialty of his, and as money-lending and
@@ -16275,7 +16270,7 @@ interest, the offspring,? as it were, of the first? And
 you surely perceive what logic says: “If he gets
 the first interest, he will get the second; but he
 will get the first, ergo he will get the second.”
-BUYER
+<label>BUYER</label>
 Then we are to say the same of the fees that you
 get for your wisdom from young men, and obviously
 none but the scholar will get paid for his virtue ?
@@ -16283,8 +16278,8 @@ none but the scholar will get paid for his virtue ?
 insanity, and rumour said that Chrysippus had taken the
 treatment three times (cf. True Story, 2, 18).
 2 A play upon réxos, which is literally ‘‘ offspring.”
-497
-VOL. I. KK
+
+
 <pb n="498"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 XPYSITIMIOS
@@ -16323,40 +16318,39 @@ expiv ¥(?), Seager, Fritzsche: %pns MSS.
 498
 <pb n="499"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-STOIC
+<label>STOIC</label>
 Your understanding of the matter is correct. You
 see, I donot take pay on my own account, but for the
 sake of the giver himself: for since there are two
 classes of men, the disbursive and the receptive, I
 train myself to be receptive and my pupil to be
 disbursive.
-BUYER
+<label>BUYER</label>
 On the contrary, the young man ought to be
 receptive and you, who alone are rich, disbursive !
-STOIC
+<label>STOIC</label>
 You are joking, man. Look out that I don’t shoot
 you with my indemonstrable syllogism.?
-BUYER
+<label>BUYER</label>
 What have I to fear from that shaft ?
-: STOIC
+<label>STOIC</label>
 Perplexity and aphasia and a sprained intellect.
 But the great thing is that if I wish I can turn you
 into a stone forthwith.
-BUYER
+<label>BUYER</label>
 How will you turn me into a stone? You are not
 a Perseus, I think, my dear fellow.
-STOIC
+<label>STOIC</label>
 In this way. Isa stone a substance?
-BUYER
+<label>BUYER</label>
 Yes.
-* STOIC
+<label>STOIC</label>
 And how about this—is not an animal a substance ?
-BUYER
+<label>BUYER</label>
 Yes.
 1 Indemonstrable in the sense that its propositions do not
 require demonstration, or indeed admit of it.
-499
-K K 2
+
 <pb n="500"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 XPYSIMINOS
@@ -16398,35 +16392,35 @@ copat ye oé. Técov bmép avTov KaTaBare;
 500
 <pb n="501"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-STOIC
+<label>STOIC</label>
 And you are an animal ?
-BUYER
+<label>BUYER</label>
 So it appears, anyhow.
-STOIC
+<label>STOIC</label>
 Then you are a substance, and therefore a stone !
-BUYER
+<label>BUYER</label>
 Don’t fsay that! Distribute my middle, for
 Heaven’s sake, and make me a man again.
-STOIC
+<label>STOIC</label>
 That is not difficult. Be a man once more !—Tell
 me, is every substance an animal?
-BUYER
+<label>BUYER</label>
 No.
-STOIC
+<label>STOIC</label>
 Well, is a stone an animal?
-BUYER
+<label>BUYER</label>
 No.
-STOIC
+<label>STOIC</label>
 You are a substance?
-BUYER
+<label>BUYER</label>
 Yes.
-STOIC
+<label>STOIC</label>
 But even if you are a substance, you are an animal.
-BUYER
+<label>BUYER</label>
 Yes.
-STOIC
+<label>STOIC</label>
 Then you are not a stone, being an animal.
-BUYER
+<label>BUYER</label>
 Thank you kindly ; my legs were already as cold
 and solid as Niobe’s. Iwill buy you. (Zo uunmes.)
 How much have I to pay for him?
@@ -16463,38 +16457,38 @@ Te 8é ywooner pddorta;
 502
 <pb n="503"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 Twelve minas.
-BUYER
+<label>BUYER</label>
 Here you are.
-HERMES
+<label>HERMES</label>
 Are you the sole purchaser ?
-BUYER
+<label>BUYER</label>
 No, indeed; there are all these men whom you
 see.
-HERMES
+<label>HERMES</label>
 Yes, there are many of them, heavy-shouldered
 fellows, fit associates for the Reaper.
-ZEUS
+<label>ZEUS</label>
 Don’t delay ; call another, the Peripatetic.
-HERMES
+<label>HERMES</label>
 (To renivatetic.) I say, you who are handsome,
 you who are rich! (Yo the buyers.) Come now,
 buy the height of intelligence, the one who knows
 absolutely everything !
-BUYER
+<label>BUYER</label>
 What is he like!
-HERMES
+<label>HERMES</label>
 Moderate, gentlemanly, adaptable in his way of
 living, and, what is more, he is double.
-BUYER
+<label>BUYER</label>
 What do you mean?
-HERMES
+<label>HERMES</label>
 Viewed from the outside, he seems to be one man,
 and from the inside, another ; so if you buy him, be
 sure to call the one self “exoteric” and the
 other “ esoteric.”
-BUYER
+<label>BUYER</label>
 What does he know best ?
 5°3
 <pb n="504"/>
@@ -16539,36 +16533,36 @@ Tis Aoeros Huty;
 504
 <pb n="505"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 That goods are threefold, in the soul, in the body,
 and in things external.}
-BUYER
+<label>BUYER</label>
 He has common sense. How much is he?
-HERMES
+<label>HERMES</label>
 Twenty minas.
-BUYER
+<label>BUYER</label>
 Your price is high.
-HERMES
+<label>HERMES</label>
 Not so, bless you, for he himself appears to have a
 bit of money, so you can’t be too quick about buying
 him. Besides, he will tell you at once how long a
 gnat lives, how far down into the sea the sunlight
 reaches, and what the soul of an oyster is like.
-BUYER
+<label>BUYER</label>
 Heracles, what insight !
-HERMES
+<label>HERMES</label>
 What if I should tell you of other information
 demanding far keener vision, about sperm and
 conception and the shaping of the embryo in the
 womb, and how man is a creature that laughs, while
 asses do not laugh, and neither do they build houses
 nor sail boats.
-BUYER
+<label>BUYER</label>
 This is high and helpful information that you tell
 of, so I shall buy him for the twenty minas,
-HERMES
+<label>HERMES</label>
 Very well.
-ZEUS
+<label>ZEUS</label>
 Whom have we left ?
 1 Aristotle, Hth. Nicom. A, 8, 1098 b.
 5°95
@@ -16611,31 +16605,31 @@ Aelwerat. EPM. 6 Sxemrixds MSS.
 506
 <pb n="507"/>
 <note type="head">PHILOSOPHIES FOR SALE</head>
-HERMES
+<label>HERMES</label>
 This Sceptic is still on our hands. Reddy,! come
 here and be put up without delay. The crowd
 is already drifting away, and there will be but few
 at his sale. However,—who'll buy this one?
-BUYER
+<label>BUYER</label>
 I will. But first tell me, what do you know?
-SCEPTIC
+<label>SCEPTIC</label>
 Nothing.
-BUYER
+<label>BUYER</label>
 What do you mean by that?
-SCEPTIC
+<label>SCEPTIC</label>
 That in my opinion nothing at all exists.
-BUYER
+<label>BUYER</label>
 Then do not we exist ?
-SCEPTIC
+<label>SCEPTIC</label>
 I don’t even know that.
-BUYER
+<label>BUYER</label>
 Not even that you yourself exist ?
-SCEPTIC
+<label>SCEPTIC</label>
 I am far more uncertain about that.
-BUYER
+<label>BUYER</label>
 Oh, what a state of doubt? But what are these
 scales of yours for ?
-SCEPTIC
+<label>SCEPTIC</label>
 I weigh arguments in them and make them
 balance one another, and when I see they are
 1 Pyrrhias (Reddy) is a slave name, brought in for the
@@ -16647,7 +16641,7 @@ school, Pyrrho.
 \? aL f ‘ , > fal BN >
 car icoBapeis Sw, Tore 8% TOTE ayVow TOV ah-
 Oéatepov.
-ATOPASTHE
+<label>ATOPASTHE</label>
 nr / n
 Tov ddrr(ov 88 rh dv parrots eupEenes;
 TIYPPON
@@ -16687,31 +16681,31 @@ AduBave. Ti pis, & obTOS; éovnpatl oe;
 <note type="head">PHILOSOPHIES FOR SALE</head>
 precisely alike and equal in weight, then, ah! then
 I do not know which is the truer.
-BUYER
+<label>BUYER</label>
 What else can you do fairly well ?
-SCEPTIC
+<label>SCEPTIC</label>
 Everything except catch a runaway slave.
-BUYER
+<label>BUYER</label>
 Why can’t you do that?
-SCEPTIC
+<label>SCEPTIC</label>
 Because, my dear sir, I am unable to apprehend
-anything.} _
-a BUYER
+anything.} 
+<label>BUYER</label>
 Of course, for you look to be slow and lazy. But
 what is the upshot of your wisdom ?
-SCEPTIC
+<label>SCEPTIC</label>
 Ignorance, and failure of hearing and vision.
-BUYER
+<label>BUYER</label>
 Then you mean being both deaf and blind?
-SCEPTIC
+<label>SCEPTIC</label>
 Yes, and devoid of judgement and feeling, and, in a
 word, no better than a worm.
-BUYER
+<label>BUYER</label>
 I must buy you for that reason. (Zo uenmes.)
 How much may I call him worth?
-HERMES
+<label>HERMES</label>
 An Attie mina.
-BUYER
+<label>BUYER</label>
 Here you are. (Yo scertic.) What have you to
 say, fellow? Have I bought you?
 1 The same joke is cracked by Lucian in the True Story, 2,
@@ -16754,32 +16748,32 @@ dryopatous Bious wéAXopev.
 510
 <pb n="511"/>
 <note type="head">PHILOSOPHIES FOR SALT</head>
-SCEPTIC
+<label>SCEPTIC</label>
 Doubtful.
-BUYER
+<label>BUYER</label>
 No, indeed, I have bought you and paid the price
 in cash.
-SCEPTIC
+<label>SCEPTIC</label>
 I am suspending judgement on that point and
 thinking it over.
-_ BUYER
+<label>BUYER</label>
 Come now, fellow, walk along behind me as my
 servant should.
-SCEPTIC
+<label>SCEPTIC</label>
 Who knows if what you say is true?
-BUYER
+<label>BUYER</label>
 The crier, the mina, and the men present.
-SCEPTIC
+<label>SCEPTIC</label>
 Is there anyone here present ?
-BUYER
+<label>BUYER</label>
 Come, I'll chuck you into the mill and convince
 you that I am your master, with sorry logic!
-SCEPTIC
+<label>SCEPTIC</label>
 Suspend judgement on that point.
-BUYER
+<label>BUYER</label>
 No, by Heaven! I have already affirmed my
 judgement.
-HERMES
+<label>HERMES</label>
 (To scertic.) Stop hanging back and go with
 your buyer. (Zo the company.) We invite you all
 here to-morrow, for we intend to put up for sale the
