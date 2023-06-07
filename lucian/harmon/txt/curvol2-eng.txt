@@ -6003,7 +6003,7 @@ thy tpwra Tod évumviou (or Tov Epwra phys Tod evuTviov) MSS.
 184
 <pb n="185"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-<label>cock</label>
+<label>COCK</label>
 Heracles! By what you say, Master Dream is an
 adept indeed. Rumour says that he has wings and
 can fly to the limit set by sleep, but now he “ jumps
@@ -6015,7 +6015,7 @@ what he is like, since you hold him so very dear.
 Iam ready to tell; in fact, it will be delightful
 to think and talk about it. But when are you going
 to tell me about your transmigrations, Pythagoras?
-<label>cock</label>
+<label>COCK</label>
 When you stop dreaming, Micyllus, and rub the
 honey out of your eyes. At present, you speak
 first, so that I may find out whether it was through
@@ -6023,7 +6023,7 @@ the gates of ivory or the gates of horn that the
 dream winged its way to you.
 <label>MICYLLUS</label>
 Not through either of them, Pythagoras.
-<label>cock</label>
+<label>COCK</label>
 Well, Homer mentions only those two.?
 <label>MICYLLUS</label>
 Let that silly poet go hang! He knows nothing
@@ -6080,7 +6080,7 @@ Novaodpevon tKewv exédeve THY Opav éwt TO Sel 7rvoOD.
 came through gates of gold, and it was gold itself
 and all dressed in gold and brought heaps of gold
 with it.
-<label>cock</label>
+<label>COCK</label>
 Stop babbling of gold, most noble Midas. Really
 your dream was just like Midas’ prayer, and you
 appear to me to have slept yourself into whole goldmines.
@@ -6092,7 +6092,7 @@ Remind me, if you know. It is where he says water
 is best and then extols gold (and well he may), right
 in the beginning of the most beautiful of all his
 odes.
-<label>cock</label>
+<label>COCK</label>
 Is this what you are after?
 “* Water is best, but gold
 Like blazing fire at night
@@ -6157,7 +6157,7 @@ When I came home after dinner, I went to sleep
 as soon as I had thrown you the beans, and then
 “through the ambrosial night,” as Homer puts it,! a
 truly divine dream came to me and. . .
-<label>cock</label>
+<label>COCK</label>
 First tell me what happened at Eucrates’, Micyllus,
 how the dinner was and all about the drinkingparty afterwards. For there is nothing to hinder
 you from dining all over again by making up adream
@@ -6354,7 +6354,7 @@ had horns.! By philosophizing with me incessantly
 after that fashion when I had no mind for it, he
 spoiled and diminished my pleasure, not allowing me
 to hear the performers who were playing and singing. Well, there you have your dinner, cock.
-<label>cock</label>
+<label>COCK</label>
 It was not of the pleasantest, Micyllus, as your
 lot was cast with that silly old man.
 MICYLLUuS
@@ -6421,7 +6421,7 @@ scattered to the winds. Now do you think I was
 unreasonable in getting angry at you, when I should
 have been glad to see the dream last for three
 nights ?
-<label>cock</label>
+<label>COCK</label>
 Are you such a lover of gold and of riches,
 Micyllus, and is owning quantities of gold the only
 thing in the world that you admire and consider
@@ -6493,7 +6493,7 @@ and esteem, and not infrequently it makes inconspicuous and contemptible people 
 my neighbour, of the same trade, Simon, who dined
 with me not long ago when I boiled the soup for
 Cronus-day and put in two slices of sausage?
-<label>cock</label>
+<label>COCK</label>
 Yes, I know him; the snub-nosed, short fellow
 who filched the earthen bowl and went away with it
 under his arm after dinner, the only bowl we had—
@@ -6569,7 +6569,7 @@ heard the poets say: “O gold, thou choicest
 treasure,” 3 and
 “Tis gold that over mortal men doth rule.” 4
 But why did you interrupt me by laughing, cock ?
-<label>cock</label>
+<label>COCK</label>
 Because in your ignorance, Micyllus, you have
 gone just as far astray as most people in regard to
 the rich. Take my word for it, they live a much
@@ -6623,7 +6623,7 @@ it all.
 Yes, by Heaven, it is high time now for you to
 talk and tell me how you got transformed and what
 you know of each existence.
-<label>cock</label>
+<label>COCK</label>
 Listen ; but first let me tell you thus much, that I
 have never seen anyone leading a happier life than
 you.
@@ -6634,7 +6634,7 @@ transformed to Pythagoras, and then the rest of it
 till you get to the cock : for it is likely that you have
 seen many sights and had many adventures in your
 multifarious existences.
-<label>cock</label>
+<label>COCK</label>
 How my soul originally left Apollo, flew down to
 earth and entered into a human body and what sin
 it was condemned to expiate in that way would
@@ -6698,7 +6698,7 @@ to lay in even a small supply of gold-dust before
 coming from that life to this! But what shall I be
 next, tell me? You probably know. If it is anything good, [ll climb up this minute and hang
 myself from the peg that you are standing on.
-<label>cock</label>
+<label>COCK</label>
 You can’t by any possibility find that out. But
 when I became Euphorbus—for Iam going back to
 that subject—I fought at Troy and was killed by
@@ -6708,7 +6708,7 @@ waited without a house till Mnesarchus should build
 me one.
 <label>MICYLLUS</label>
 Without food and drink, my friend ?
-<label>cock</label>
+<label>COCK</label>
 Yes, certainly ; for they turned out to be unnecessary, except for the body.
 <label>MICYLLUS</label>
 Well, then, tell me the story of Troy first. Was it
@@ -6769,7 +6769,7 @@ when he was quite small he had seen Heracles.
 But how about Achilles? Was he as Homer
 describes him, supreme in everything, or is this only
 a fable too ?
-<label>cock</label>
+<label>COCK</label>
 { did not come into contact with him at all,
 Micyllus, and I can’t tell you as accurately about
 the Greek side. How could I, being one of the
@@ -6780,7 +6780,7 @@ spear.}
 And then Menelaus killed you with much greater
 ease! But enough of this, and now tell me the
 story of Pythagoras.
-<label>cock</label>
+<label>COCK</label>
 In brief, Micyllus, I was a sophist, for I must tell
 the truth, I suppose. However, I was not uneducated or unacquainted with the noblest sciences. I
 The cock is drawing the long-bow; Euphorbus only
@@ -6835,7 +6835,7 @@ were thought to have come to life again after dying,
 and that you once showed them that your thigh was of
 gold. But, look here, tell me how it occurred to you
 to make a law against eating either meat or beans?
-<label>cock</label>
+<label>COCK</label>
 Do not press that question, Micyllus.
 <label>MICYLLUS</label>
 Why, cock ? 
@@ -6845,7 +6845,7 @@ Because I am ashamed to tell you the truth of it.
 But you oughtn’t to hesitate to tell a housemate
 and a friend—for I cannot call myself your master
 any longer.
-<label>cock</label>
+<label>COCK</label>
 It was nothing sensible or wise, but I perceived
 that if I made laws that were ordinary and just
 like those of the run of legislators I should not
@@ -6960,7 +6960,7 @@ HaOnv yap TH TowovTe Bio. Kal mapa TorXois
 212
 <pb n="213"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-<label>cock</label>
+<label>COCK</label>
 Just see what a question you have asked there!
 Even Tiresias paid dearly for answering it !}
 <label>MICYLLUS</label>
@@ -6983,7 +6983,7 @@ The Cynic Crates.
 <label>MICYLLUS</label>
 Twin brethren! what ups and downs! First a
 courtesan, then a philosopher !
-<label>cock</label>
+<label>COCK</label>
 Then a king, then a poor man, and soon a satrap ;
 then a horse, a jackdaw, a frog, and a thousand things
 besides ; it would take too long to enumerate them
@@ -7040,7 +7040,7 @@ that wealth was a source of extraordinary happiness.
 Well then, Pythagoras—but tell me what you
 like best to be called, so that I may not muddle up
 our conversation by calling you different names.
-<label>cock</label>
+<label>COCK</label>
 It will make no difference whether you call me
 Euphorbus or Pythagoras, Aspasia or Crates; I am
 all of them. But you had better call me what you
@@ -7054,7 +7054,7 @@ clearly about the life of the rich and the life of the
 poor, each by itself, so that I may learn if you are
 telling the truth when you declare that I am happier
 than the rich.
-<label>cock</label>
+<label>COCK</label>
 Well now, look at it this way, Micyllus. As for you,
 you are little concerned about war if you hear that
 the enemy is approaching, and you do not worry for
@@ -7185,7 +7185,7 @@ with spray, the most part reach their journey’s end
 in safety.
 <label>MICYLLUS</label>
 You mean temperate and sensible people.
-<label>cock</label>
+<label>COCK</label>
 But as for the others, Micyllus, you can see how
 sadly they come to grief when a Croesus with his
 219
@@ -7230,7 +7230,7 @@ Tell me, cock, when you were king—for you say
 you were once on a time—how did you find that
 life? You were completely happy, I suppose, as
 you had what is surely the acme of all blessings.
-<label>cock</label>
+<label>COCK</label>
 Don’t even remind me of it, Micyllus, so utterly
 wretched was I then; for although in all things
 external I seemed to be completely happy, as you
@@ -7238,7 +7238,7 @@ say, I had a thousand vexations within.
 <label>MICYLLUS</label>
 What were they? What you say is strange and
 not quite credible.
-<label>cock</label>
+<label>COCK</label>
 I ruled over a great country, Micyllus, one that
 roduced everything and was among the most noteworthy for the number of its people and the beauty
 of its cities, one that was traversed by navigable
@@ -7457,7 +7457,7 @@ comparisons, friend cock? Well, as for absolute
 power, it proves to be something of that sort. But
 when you became a horse or a dog or a fish or a frog,
 how did you find that existence?
-<label>cock</label>
+<label>COCK</label>
 That is a long story you are starting, and we have
 not time for it just now. But to give the upshot of
 it, there is no existence that did not seem to me more
@@ -7524,7 +7524,7 @@ longest tail feather, the one that is so pliant that it
 curls—
 <label>MICYLLUS</label>
 You have two like that.
-<label>cock</label>
+<label>COCK</label>
 It is the one on the right, and if I permit any man
 to pull it out and keep it, that man, as long as I
 choose, can open every door and see everything
@@ -7577,14 +7577,14 @@ It is hard to believe what you say, that Hermes,
 himself a thief, begrudges others the same privilege.
 But let’s be off just the same ; I'll keep my hands off
 the gold if I can.
-<label>cock</label>
+<label>COCK</label>
 First pluck the feather out, Micyllus . . . What's
 this? You have pulled them both out !
 <label>MICYLLUS</label>
 It is safer to do so, cock, and it will spoil your
 beauty less, preventing you from being crippled on
 one side of your tail.
-<label>cock</label>
+<label>COCK</label>
 All right. Shall we visit Simon first, or one of
 the other rich men?
 <label>MICYLLUS</label>
@@ -7636,7 +7636,7 @@ yettwv Mixvardos.
 232
 <pb n="233"/>
 <note type="head">THE DREAM, OR THE COCK</head>
-<label>cock</label>
+<label>COCK</label>
 Put the feather to the lock.
 <label>MICYLLUS</label>
 Look at that now! Heracles! The door has
@@ -7648,7 +7648,7 @@ Yes, by Heaven, beside a dim and thirsty lamp ;
 he is pale for some reason, cock, and all run down
 and thin; from worrying, I suppose, for there was
 no talk of his being ill in any other way.
-<label>cock</label>
+<label>COCK</label>
 Listen to what he is saying and you will find out
 how he got this way.
 <label>SIMON</label>
@@ -7726,7 +7726,7 @@ fear I made a mistake yesterday. There, now, somebody made a noise: he’s after
 beleaguered and plotted against by all the world.
 Where is my sword? If I find anyone ... Let us
 bury the gold again.
-<label>cock</label>
+<label>COCK</label>
 Well, Micyllus, that is the way Simon lives. Let’s
 o and visit someone else while there is still a little
 of the night left.
@@ -7780,7 +7780,7 @@ es
 <note type="head">THE DREAM, OR THE COCK</head>
 too lives not far off. This door has opened to us
 also.
-<label>cock</label>
+<label>COCK</label>
 Do you see him awake with his worries like the
 other, computing his interests and wearing his fingers
 tothe bone? And yet he will soon have to leave all
@@ -7803,7 +7803,7 @@ is. . .?
 Yes, by Heaven, I see lust and sensuality and
 lewdness ill befitting a human being ; and in another
 quarter I see his wife and the cook . . .
-<label>cock</label>
+<label>COCK</label>
 How about it? Would you be willing to inherit
 all this too, Micyllus, and have all that belongs to
 Eucrates ?
@@ -7868,8 +7868,8 @@ CEauToV KATATAYNGOMEVOY TpLS TO dpos.
 
 <div type="translation" n="tlg0062.tlg020">
 
-<note type="head">PROMETHEUS
-The mock-plea Prometheus, clearly suggested by the
+<head>PROMETHEUS
+<note>The mock-plea Prometheus, clearly suggested by the
 opening of the Prometheus Bound of Aeschylus, is midway
 between the Menippean satires and the pure genre of the
 Dialogues of the Gods, in one of which (5, formerly 1) the Titan figures again. In some of the manuscripts it bears a
@@ -8669,7 +8669,7 @@ Od pa Ala, adrW ev adbtots Tots doTpots érrotovpny TH aTroonpiav.
 
 <div type="translation" n="tlg0062.tlg021">
 
-<note type="head">ICAROMENIPPUS, OR THE SKY-MAN<note><p>Menippus tells a friend how he has frustrated the philosophers by flying up to Heaven and finding out that everything there was just as the poets had said. The satire is directed not only at the placita of the philosophers but at the conception of the average man, voiced in poetry and pragmatically sanctioned, so to speak, by the Stoics; and
+<head>ICAROMENIPPUS, OR THE SKY-MAN<note><p>Menippus tells a friend how he has frustrated the philosophers by flying up to Heaven and finding out that everything there was just as the poets had said. The satire is directed not only at the placita of the philosophers but at the conception of the average man, voiced in poetry and pragmatically sanctioned, so to speak, by the Stoics; and
 it also aims a particular thrust, at the mysteries of the
 Mithras-cult. From the standpoint of the writer and the
 reader, What Menippus brings back is nothing but moonshine, and that is perhaps why he is compared with Icarus and not Daedalus in the title Icaromenippus.</p>
@@ -10301,19 +10301,22 @@ us something from Hesiod’s Theogony and the first
 song in the Hymns of Pindar.22 When we had had
 enough we composed ourselves for the night without
 any ceremony, being pretty well soused.
-«< All the others, the gods and the warriors chariotowning,
-Slept until morning, pus I was unbound by the
-fetters of slumber,” 8
+
+<cit><quote><l>All the others, the gods and the warriors chariot-owning,</l>
+<l>Slept until morning, pus I was unbound by the
+fetters of slumber,</l></quote>
+<bibl>Iliad 2, 1-2.</bibl></cit>
+
+
 for I was thinking about many things, above all how
 Apollo had not grown a beard in all this while, and
 how it gets to be night in Heaven with Helius
 always there and sharing the feast.
 Well, as I say, I slept but little that night, and in
 the early morning Zeus got up and ordered procla-:
-1 [liad 5, 341.
-2 Like the Vheogony, this scems to have been a sort of
-Oly mpian Peerage ; cf. fragment 29 (Schroeder p. 394).
-3 Iliad 2, 1£.
+1 Iliad 5, 341.
+2 Like the Vheogony, this scems to have been a sort of Olympian Peerage ; cf. fragment 29 (Schroeder p. 394).
+
 315
 <pb n="316"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -10578,7 +10581,7 @@ Bpovtay étodpa, od tavu te amiPavos wv, TpOs
 
 <div type="translation" n="tlg0062.tlg022">
 
-<note type="head">TIMON, OR THE MISANTHROPE<note><p>It is very doubtful whether the fifth century Timon of
+<head>TIMON, OR THE MISANTHROPE<note><p>It is very doubtful whether the fifth century Timon of
 Athens would have récognized himself in this presentment.
 The comic poets Of his own day tell us only that he was'a
 misanthrope. From Lucian we hear that he became so
@@ -10599,8 +10602,8 @@ should perhaps credit the whole conception to the imagination of Antiphanes, inf
 “Master Upright” in the Plutus of Aristophanes. It does
 not follow, however, that Lucian had read the Timon, for its
 plot may have been outlined in the life of Timon which
-Neanthes of Cyzicus compiled about 200 B.C.<p>
-The indebtedness of Shakespeare to Lucian requires no
+Neanthes of Cyzicus compiled about 200 B.C.</p>
+<p>The indebtedness of Shakespeare to Lucian requires no
 comment.</p></note></head>
 <div type="textpart" subtype="secton" n="1"><p>
 
@@ -16774,8 +16777,10 @@ Suspend judgement on that point.
 No, by Heaven! I have already affirmed my
 judgement.
 <label>HERMES</label>
-(To scertic.) Stop hanging back and go with
-your buyer. (Zo the company.) We invite you all
+(To sceptic.) Stop hanging back and go with
+your buyer. (to the company.) We invite you all
 here to-morrow, for we intend to put up for sale the
 careers of laymen, workingmen, and tradesmen.
-511
+</p>
+</div></div>
+</body></text></TEI>
