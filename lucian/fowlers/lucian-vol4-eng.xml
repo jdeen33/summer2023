@@ -3043,16 +3043,16 @@ Philosophy.</p>
 
 
 <div type="textpart" subtype="section" n="24">
-<p>Her. Yes, come along, and we will polish off a few to-day.—
+<p><label>Hera</label> Yes, come along, and we will polish off a few to-day.—
 Which way, Philosophy? You know where they are to be found. Somewhere in Greece, of course?</p>
 
 <p><label>Philosophy</label> Oh no; the few that there are in Greece are genuine philosophers. Attic poverty is not at all to the liking of the impostors; we must look for them in places where gold and silver mines abound.</p>
 
-<p>Her. Straight to Thrace, then?</p>
+<p><label>Hera</label> Straight to Thrace, then?</p>
 
 <p><label>Hera</label> Yes, Thrace, and I will show you the way. I know every inch of Thrace; I have been there so often. Look here, this is our route.</p>
 
-<p>Her. Yes?
+<p><label>Hera</label> Yes?
 
 </p></div>
 
@@ -3060,7 +3060,7 @@ Which way, Philosophy? You know where they are to be found. Somewhere in Greece,
 <div type="textpart" subtype="section" n="25">
 <p><label>Hera</label> You see those two magnificent mountains (the big one is Haemus, and the other Rhodope), and the fertile plain that spreads between them, running to the very foot of either? Those three grand, rugged crests that stand out so proudly yonder form as it were a triple citadel to the city that lies beneath; you can see it now, look.</p>
 
-<p>Her. Superb! A queen among cities; her splendours reach us even here. And what is the great river that flows so close beneath the walls?
+<p><label>Hera</label> Superb! A queen among cities; her splendours reach us even here. And what is the great river that flows so close beneath the walls?
 
 
 
@@ -3075,11 +3075,11 @@ Which way, Philosophy? You know where they are to be found. Somewhere in Greece,
 
 
 <div type="textpart" subtype="section" n="26">
-<p>Her. Very good; and what comes next? How do we hunt our vermin down?</p>
+<p><label>Hera</label> Very good; and what comes next? How do we hunt our vermin down?</p>
 
 <p><label>Hera</label> Ah, that is where you come in, Mr. Crier: oblige us by crying them without loss of time.</p>
 
-<p>Her, There is only one objection to that: I do not know what they are called. What names am I to say, Philosophy?
+<p><label>Hera</label> There is only one objection to that: I do not know what they are called. What names am I to say, Philosophy?
 and how shall I describe them?</p>
 
 <p><label>Philosophy</label> I am not sure of their names, as I have never come into contact with them. To judge from their grasping propensities, however, you can hardly go wrong with Cteso, Ctesippus,
@@ -3087,7 +3087,7 @@ Ctesicles, Euctemon, Polyctetus <note>Ctesis is Greek for ‘gain.’</note>.
 
 </p></div>
 
-<div type="textpart" subtype="section" n="27"><p>Her. To be sure. But who are these men? They seem to be looking for something too. Why, they are coming up to speak to us.</p>
+<div type="textpart" subtype="section" n="27"><p><label>Hera</label> To be sure. But who are these men? They seem to be looking for something too. Why, they are coming up to speak to us.</p>
 
 <p>Innkeeper and Masters. Excuse us, madam, and gentlemen, but have you come across a company of three rascals conducting a woman—a very masculine-looking female, with hair cut short in the Spartan fashion?</p>
 
@@ -3095,7 +3095,7 @@ Ctesicles, Euctemon, Polyctetus <note>Ctesis is Greek for ‘gain.’</note>.
 
 <p>Masters. Indeed, madam? But these are three runaway slaves. The woman was kidnapped by them, and we want to get her back.</p>
 
-<p>Her. Our business with them I will tell you afterwards,
+<p><label>Hera</label> Our business with them I will tell you afterwards,
 For the present, let us make a joint proclamation.</p>
 
 <p>Disappeared. A Paphlagonian slave, formerly of Sinope. Any person giving information as to his whereabouts will be rewarded; the amount of the reward to be fixed by the informant. Description. Name: begins with C-T-E. Complexion: sallow. Hair: close-cropped, with long beard.
@@ -3115,11 +3115,11 @@ Dress; a coarse cloak with wallet. Temper: bad. Education: none. Voice: harsh. M
 
 
 <div type="textpart" subtype="section" n="28">
-<p>First Master. Why, what is all this about? His name used to be Cantharus when he was with me. He had long hair, and no beard, and was apprenticed to my trade; I am a fuller, and he was in my shop, dressing cloth.</p>
+<p><label>First Master</label> Why, what is all this about? His name used to be Cantharus when he was with me. He had long hair, and no beard, and was apprenticed to my trade; I am a fuller, and he was in my shop, dressing cloth.</p>
 
 <p><label>Philosophy</label> Yes, it is the same; but he has dressed to some purpose this time, and has become a philosopher.</p>
 
-<p>First Master. Cantharus a philosopher! I like that. And where do I come in?</p>
+<p><label>First Master</label> Cantharus a philosopher! I like that. And where do I come in?</p>
 
 <p>Second and Third Masters. Oh well, we shall get them all now. This lady knows all about them, it seems.
 
@@ -3131,25 +3131,25 @@ Dress; a coarse cloak with wallet. Temper: bad. Education: none. Voice: harsh. M
 
 <p><label>Hera</label> It is Orpheus. I was on the Argo with him. He was the best of boatswains; it was quite a pleasure to row to his singing. Welcome, my musical friend: you have not forgotten Heracles, I hope?</p>
 
-<p>Or. And welcome to all of you, Philosophy, Heracles,
+<p><label>Orpheus</label> And welcome to all of you, Philosophy, Heracles,
 Hermes. I should like my reward, please: I can lay my finger on your man.</p>
 
-<p>Her, Then show us the way. It is useless, of course, to offer gold to the gifted son of Calliope?</p>
+<p><label>Hera</label> Then show us the way. It is useless, of course, to offer gold to the gifted son of Calliope?</p>
 
-<p>Or. Oh, quite.—I will show you the house, but not the man. His tongue might avenge him; scurrility is his strong point.</p>
+<p><label>Orpheus</label> Oh, quite.—I will show you the house, but not the man. His tongue might avenge him; scurrility is his strong point.</p>
 
-<p>Her. Lead on.</p>
+<p><label>Hera</label> Lead on.</p>
 
-<p>Or. It is this house close by. And now I shall leave you;
+<p><label>Orpheus</label> It is this house close by. And now I shall leave you;
 T have no wish to set eyes on him.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="30">
-<p>Her. Hush! Was that a woman’s voice, reciting Homer?</p>
+<p><label>Hera</label> Hush! Was that a woman’s voice, reciting Homer?</p>
 
-<p>Pht. It was. Let us listen.</p>
+<p><label>Philosophy</label> It was. Let us listen.</p>
 
 <p>Innkeeper’s Wife. More than the gates of Hell I hate that man Who, loving gold, cloaketh his love with lies.
 
@@ -3160,33 +3160,33 @@ T have no wish to set eyes on him.
 
 </p>
 
-<p>Her. At that rate, madam, you will have to quarrel with Cantharus:
+<p><label>Hera</label> At that rate, madam, you will have to quarrel with Cantharus:
 
 <l>He with his kindly host hath dealt amiss.</l>
 
 Innkeeper. That’s me. I took him in, and he ran away with my wife.</p>
 
-<p>Innk. Wife.  <l>Wine-witted knave, deer-hearted and dog-eyed,</l>
+<p><label>Innkeeper's Wife</label>  <l>Wine-witted knave, deer-hearted and dog-eyed,</l>
 <l>Thersites, babbler loose, that nought availest</l>
 <l>In council, nought in arms; most valiant daw,</l>
 <l>That with thine aimless chatter chidest kings,—</l>
 
 First Master. My rascal to a T.</p>
 
-<p>Innk, Wife. <l>The dog in thee—for thou art dog and goat</l>
+<p><label>Innkeeper's Wife</label> <l>The dog in thee—for thou art dog and goat</l>
 <l>And lion—doth a blasting fury breathe.</l>
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="31">
-<p>Innkeeper. Wife, wife! the dogs have been too many for you; ay, and for your virtue, so men say.</p>
+<p><label>Innkeeper</label> Wife, wife! the dogs have been too many for you; ay, and for your virtue, so men say.</p>
 
-<p>Her. Hope for the best; some little Cerberus or Geryon shall call you father, and Heracles have employment again.—Ah, no need to knock: here they come.</p>
+<p><label>Hera</label> Hope for the best; some little Cerberus or Geryon shall call you father, and Heracles have employment again.—Ah, no need to knock: here they come.</p>
 
-<p>First Master. Ha, Cantharus, have I got you? What, nothing to say for yourself? Let us see what you have in that wallet; beans, no doubt, or a crust of bread.</p>
+<p><label>First Master</label> Ha, Cantharus, have I got you? What, nothing to say for yourself? Let us see what you have in that wallet; beans, no doubt, or a crust of bread.</p>
 
-<p>Her. Bread, indeed! Gold, a purseful of it!</p>
+<p><label>Hera</label> Bread, indeed! Gold, a purseful of it!</p>
 
 <p><label>Hera</label> That need not surprise you. In Greece, you see, he was a Cynic, but here he is all for golden Chrysippus. Next you will see him dangling, Cleanthes-like<note>See Cleanthes in Notes.</note>’, by his beard, and serve the dirty fellow right.
 
@@ -3194,11 +3194,11 @@ First Master. My rascal to a T.</p>
 
 
 <div type="textpart" subtype="section" n="32">
-<p>Second Master. Ha, you rascal there, am I mistaken, or are you my lost Lecythio? Lecythioitis, Whata figure! Lecythio a philosopher! I'll believe anything after this.</p>
+<p><label>Second Master</label> Ha, you rascal there, am I mistaken, or are you my lost Lecythio? Lecythioitis, Whata figure! Lecythio a philosopher! I'll believe anything after this.</p>
 
-<p>Her. Does none of you know anything about this other?</p>
+<p><label>Hera</label> Does none of you know anything about this other?</p>
 
-<p>Third Master. Oh yes, he is_mine; but he may go hang for me.
+<p><label>Third Master</label> Oh yes, he is_mine; but he may go hang for me.
 
 
 
@@ -3209,19 +3209,19 @@ First Master. My rascal to a T.</p>
 
 </p>
 
-<p>Her, And why is that?</p>
+<p><label>Hera</label> And why is that?</p>
 
-<p>Third Master. Ah, he’s a sadly leaky vessel, is Rosolio, as we used to call him.</p>
+<p><label>Third Master</label> Ah, he’s a sadly leaky vessel, is Rosolio, as we used to call him.</p>
 
-<p>Her, Gracious Heracles! did you hear that? Rosolio with wallet and stick!—Friend, here is your wife again.</p>
+<p><label>Hera</label> Gracious Heracles! did you hear that? Rosolio with wallet and stick!—Friend, here is your wife again.</p>
 
-<p>Innkeeper. Thank you for nothing. Ill have no woman brought to bed of an old book in my house.</p>
+<p><label>Innkeeper</label> Thank you for nothing. Ill have no woman brought to bed of an old book in my house.</p>
 
-<p>Her. How am I to understand that?</p>
+<p><label>Hera</label> How am I to understand that?</p>
 
-<p>Innkeeper. Why, the Three-headed Dog is a book, master?</p>
+<p><label>Innkeeper</label> Why, the Three-headed Dog is a book, master?</p>
 
-<p>Her. Ay, and so was the Man with the Three Hats, for that Matter.
+<p><label>Hera</label> Ay, and so was the Man with the Three Hats, for that Matter.
 
 </p></div>
 
@@ -3229,11 +3229,11 @@ First Master. My rascal to a T.</p>
 <div type="textpart" subtype="section" n="33">
 <p>Masters. We leave the rest to you, sir.</p>
 
-<p>Her, This is my judgement. Let the woman return beneath her husband’s roof, or many-headed monsters will come of it. These two truant sparks { hand over to their owners: let them follow their trades as heretofore; Lecythio wash clothes, and Rosolio patch them;—not, however, before his back has felt the mallow-stalk, And for Cantharus, first let the men of pitch take him, and plaster him without mercy; and be their pitch the vilest procurable. Then let him be led forth to stand upon the snowy slopes of Haemus, naked and fettered.</p>
+<p><label>Hera</label> This is my judgement. Let the woman return beneath her husband’s roof, or many-headed monsters will come of it. These two truant sparks I hand over to their owners: let them follow their trades as heretofore; Lecythio wash clothes, and Rosolio patch them;—not, however, before his back has felt the mallow-stalk, And for Cantharus, first let the men of pitch take him, and plaster him without mercy; and be their pitch the vilest procurable. Then let him be led forth to stand upon the snowy slopes of Haemus, naked and fettered.</p>
 
 <p>Can. Mercy! have mercy onme! Ah me! I am undone!</p>
 
-<p>First Master. So tragic?. Come, follow me to the plasterers; and off with that lion’s-skin, lest you be taken for other than an ass. F.
+<p><label>First Master</label> So tragic?. Come, follow me to the plasterers; and off with that lion’s-skin, lest you be taken for other than an ass. F.
 
 
 
@@ -3249,23 +3249,23 @@ First Master. My rascal to a T.</p>
 <head>SATURNALIA</head>
 <head><label>Cronus</label>. His Priest</head>
 <div type="textpart" subtype="section" n="1">
-<p>Pr. Cronus, you are in authority just now, I understand; to you our sacrifices and ceremonies are directed; now, what can I make surest of getting if I ask it of you at this holy season?</p>
+<p><label>Priest</label> Cronus, you are in authority just now, I understand; to you our sacrifices and ceremonies are directed; now, what can I make surest of getting if I ask it of you at this holy season?</p>
 
-<p>Cro. You had better make up your own mind what to pray for, unless you expect your ruler to be a clairvoyant and know what you would like to ask. Then, I will do my best not to disappoint you.</p>
+<p><label>Cronus</label> You had better make up your own mind what to pray for, unless you expect your ruler to be a clairvoyant and know what you would like to ask. Then, I will do my best not to disappoint you.</p>
 
-<p>Pr, Oh, I have done that long ago. No originality about it; the usual thing, please,—wealth, plenty of gold, landed proprietorship, a train of slaves, gay soft raiment, silver, ivory, in fact everything that is worth anything. Best of Cronuses, give me some of these; your priest should profit by your rule, and not be the one man who has to go without all his life.
+<p><label>Priest</label> Oh, I have done that long ago. No originality about it; the usual thing, please,—wealth, plenty of gold, landed proprietorship, a train of slaves, gay soft raiment, silver, ivory, in fact everything that is worth anything. Best of Cronuses, give me some of these; your priest should profit by your rule, and not be the one man who has to go without all his life.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="2">
-<p>Cro. Of course! ultra vires; these are not mine to give. So do not sulk at being refused; ask Zeus for them; he will be in authority again soon enough. Mine is a limited monarchy, you see. To begin with, it only lasts a week; that over, I am a private person, just a man in the street. Secondly, during my week the serious is barred; no business allowed. Drinking and being drunk, noise and games and dice, appointing of kings and feasting of slaves, singing naked, clapping of tremulous hands, an occasional ducking of corked faces in icy water,—such are the functions over which I preside. But the great things, wealth and gold and such, Zeus distributes as he will.
+<p><label>Cronus</label> Of course! ultra vires; these are not mine to give. So do not sulk at being refused; ask Zeus for them; he will be in authority again soon enough. Mine is a limited monarchy, you see. To begin with, it only lasts a week; that over, I am a private person, just a man in the street. Secondly, during my week the serious is barred; no business allowed. Drinking and being drunk, noise and games and dice, appointing of kings and feasting of slaves, singing naked, clapping of tremulous hands, an occasional ducking of corked faces in icy water,—such are the functions over which I preside. But the great things, wealth and gold and such, Zeus distributes as he will.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="3">
-<p>Pr. He is not very free with them, though, Cronus. I am tired of asking for them, as I do at the top of my voice. He never listens; he shakes his aegis, gets the thunderbolt ready for action, puts on a stern look, and scares you out of worrying
+<p><label>Priest</label> He is not very free with them, though, Cronus. I am tired of asking for them, as I do at the top of my voice. He never listens; he shakes his aegis, gets the thunderbolt ready for action, puts on a stern look, and scares you out of worrying
 
 
 
@@ -3280,7 +3280,7 @@ him. He does consent now and then, and make a man rich; but his selection is mos
 
 
 <div type="textpart" subtype="section" n="4">
-<p>Cro. Oh, they are not to be sneezed at; it does not come to so very little, if you make allowance for my general limitations,
+<p><label>Cronus</label> Oh, they are not to be sneezed at; it does not come to so very little, if you make allowance for my general limitations,
 Perhaps you think it a trifle always to win at dice, and be able to count on the sice when the ace is the best the others can throw? Anyhow, there are plenty who get as much as they can eat just because the die likes them and does what it can for them. Others you may see naked, swimming for their lives; and what was the reef that wrecked them, pray? that little die. Or again, to enjoy your wine, to sing the best song at table, at the slaves’ feast to see the other waiters<note>See Saturnalia in Notes.</note> ducked for incompetence, while you are acclaimed victor and carry off the sausage prize,—is all that nothing? Or you find yourself absolute monarch by favour of the knucklebone, can have no ridiculous commands! laid on you, and can lay them on the rest: one must shout out a libel on himself, another dance naked, or pick up the flute-girl and carry her thrice round the house; how is that for a sample of my open-handedness? If you complain that the sovereignty is not real nor lasting, that is unreasonable of you; you see that I, the giver of it, have a short-lived tenure myself. Well, anything that is in my power
 —draughts, monarchy, song, and the rest I have mentioned—
 you can ask, and welcome; I will not scare you with aegis and thunderbolt.
@@ -3289,7 +3289,7 @@ you can ask, and welcome; I will not scare you with aegis and thunderbolt.
 
 
 <div type="textpart" subtype="section" n="5">
-<p>Pr. Most kind Titan, such gifts I require not of you. Give me the answer that was my first desire, and then count yourself to have repaid my sacrifice sufficiently; you shall have my receipt in full.
+<p><label>Priest</label> Most kind Titan, such gifts I require not of you. Give me the answer that was my first desire, and then count yourself to have repaid my sacrifice sufficiently; you shall have my receipt in full.
 
 
 
@@ -3300,27 +3300,27 @@ you can ask, and welcome; I will not scare you with aegis and thunderbolt.
 
 </p>
 
-<p>Cro. Put your question. An answer you shall have, if my knowledge is equal to it.</p>
+<p><label>Cronus</label> Put your question. An answer you shall have, if my knowledge is equal to it.</p>
 
-<p>Pr. First, then, is the common story true? used you to eat the children Rhea bore you? and did she steal away Zeus, and give you a stone to swallow for a baby? did he when he grew to manhood make victorious war upon you and drive you from your kingdom, bind and cast you into Tartarus, you and all the powers that ranged themselves with you?</p>
+<p><label>Priest</label> First, then, is the common story true? used you to eat the children Rhea bore you? and did she steal away Zeus, and give you a stone to swallow for a baby? did he when he grew to manhood make victorious war upon you and drive you from your kingdom, bind and cast you into Tartarus, you and all the powers that ranged themselves with you?</p>
 
-<p>Cro. Fellow, were it any but this festive season, when ’tis lawful to be drunken, and slaves have licence to revile their lords, the reward for thy question, for this thy rudeness to a grey-haired aged God, had been the knowledge that wrath is yet permitted me.</p>
+<p><label>Cronus</label> Fellow, were it any but this festive season, when ’tis lawful to be drunken, and slaves have licence to revile their lords, the reward for thy question, for this thy rudeness to a grey-haired aged God, had been the knowledge that wrath is yet permitted me.</p>
 
-<p>Pr. It is not my story, you know, Cronus; it is Homer’s and Hesiod’s; I might say, only I don’t quite like to, that it is the belief of the generality.
+<p><label>Priest</label> It is not my story, you know, Cronus; it is Homer’s and Hesiod’s; I might say, only I don’t quite like to, that it is the belief of the generality.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="6">
-<p>Cro, That conceited shepherd<note>Hesiod.</note>? you do not suppose he knew anything worth knowing about me? Why, think. Is a man conceivable—let alone a God—who would devour his own children?—wittingly, I mean; of course he might be a Thyestes and have a wicked brother; that is different. However, even granting that, I ask you whether he could help knowing he had a stone in his mouth instead of a baby; I envy him his teeth, that is all, The fact is, there was no war, and Zeus did not depose me; I voluntarily abdicated and retired from the cares of office. That I am not in fetters or in Tartarus you can see for yourself, or you must be as blind as Homer.
+<p><label>Cronus</label> That conceited shepherd<note>Hesiod.</note>? you do not suppose he knew anything worth knowing about me? Why, think. Is a man conceivable—let alone a God—who would devour his own children?—wittingly, I mean; of course he might be a Thyestes and have a wicked brother; that is different. However, even granting that, I ask you whether he could help knowing he had a stone in his mouth instead of a baby; I envy him his teeth, that is all, The fact is, there was no war, and Zeus did not depose me; I voluntarily abdicated and retired from the cares of office. That I am not in fetters or in Tartarus you can see for yourself, or you must be as blind as Homer.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="7">
-<p>Pr. But what possessed you to abdicate?</p>
+<p><label>Priest</label> But what possessed you to abdicate?</p>
 
-<p>Cro, Well, the long and short of it is, as I grew old and gouty
+<p><label>Cronus</label> Well, the long and short of it is, as I grew old and gouty
 —that last, by the way, accounts for the fetters of the story—I found the men of these latter days getting out of hand; I had to be for ever running up and down swinging the thunderbolt
 
 
@@ -3341,15 +3341,15 @@ one. When I was king, slavery was not.
 
 
 <div type="textpart" subtype="section" n="8">
-<p>Pr. Dear me, now! and I accounted for your kindness to slaves and prisoners from the story again; I thought that, as you were a slave yourself, you were paying slaves a compliment in memory of your own fetters.</p>
+<p><label>Priest</label> Dear me, now! and I accounted for your kindness to slaves and prisoners from the story again; I thought that, as you were a slave yourself, you were paying slaves a compliment in memory of your own fetters.</p>
 
-<p>Cro. Cease your ribald jests.</p>
+<p><label>Cronus</label> Cease your ribald jests.</p>
 
-<p>Pr. Quite so; I will. But here is another question, please. Used mortals to play draughts in your time?</p>
+<p><label>Priest</label> Quite so; I will. But here is another question, please. Used mortals to play draughts in your time?</p>
 
-<p>Cro. Surely; but not for hundreds or thousands of pounds like you; nuts were their highest stake; a man might lose without a sigh or a tear, when losing could not mean starvation.</p>
+<p><label>Cronus</label> Surely; but not for hundreds or thousands of pounds like you; nuts were their highest stake; a man might lose without a sigh or a tear, when losing could not mean starvation.</p>
 
-<p>Pr. Wise men! though, as they were solid gold themselves, they were out of temptation. It occurred to me when you
+<p><label>Priest</label> Wise men! though, as they were solid gold themselves, they were out of temptation. It occurred to me when you
 
 
 
@@ -3366,11 +3366,11 @@ mentioned that—suppose any one were to import one of your solid gold men into 
 <div type="textpart" subtype="section" n="9">
 <p>But tell me this, now: as you are such a delicate old deity, why pick out the most disagreeable time, when all is wrapt in snow, and the north wind blows, everything is hard frozen, trees dry and bare and leafless, meadows have lost their flowery beauty, and men are hunched up cowering over the fire like so many octogenarians,—why this season of all others for your festival? It is no time for the old or the luxurious.</p>
 
-<p>Cro. Fellow, your questions are many, and no good substitute for the flowing bowl. You have filched a good portion of my carnival with your impertinent philosophizings. Let them go, and we will make merry and clap our hands and take our holiday licence, play draughts for nuts in the good old.
+<p><label>Cronus</label> Fellow, your questions are many, and no good substitute for the flowing bowl. You have filched a good portion of my carnival with your impertinent philosophizings. Let them go, and we will make merry and clap our hands and take our holiday licence, play draughts for nuts in the good old.
 way, elect our kings and do them fealty, Iam minded to verify.
 the saw, that old age is second childhood.</p>
 
-<p>Pr. Now dry be his cup when he thirsts, to whom such words come amiss! Cronus, a bowl with you! ’tis enough that you have made answer to my former questions. By the way, I
+<p><label>Priest</label> Now dry be his cup when he thirsts, to whom such words come amiss! Cronus, a bowl with you! ’tis enough that you have made answer to my former questions. By the way, I
 think of reducing our little interview to writing, my questions and your so affable answers, for submission to those friends.
 whose discretion may be trusted. H.
 
@@ -4915,7 +4915,7 @@ And methought he would have added, by the men that fell at Marathon.
 <div type="textpart" subtype="section" n="1">
 <p><label>Zeus</label> Now, gentlemen, enough of that muttering and whispering in corners. You complain that our banquets are thrown open to a number of undesirable persons. Very well: the Assembly has been convened for the purpose of dealing with this very point, and every one is at liberty to declare his sentiments openly, and bring what allegations he will—Hermes, make formal proclamation to that effect.</p>
 
-<p>Her, All duly qualified divinities are hereby invited to address the Assembly on the subject of foreigners and immigrants.</p>
+<p><label>Hera</label> All duly qualified divinities are hereby invited to address the Assembly on the subject of foreigners and immigrants.</p>
 
 <p>Mo. Have I your permission to speak, sir?
 
