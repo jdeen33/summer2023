@@ -45,7 +45,7 @@
 </imprint>
 <biblScope unit="volume">2</biblScope>
 </monogr>
- <ref
+<ref
 target="https://archive.org/details/worksphilojudaeu01philuoft" >Internet Archive</ref>
 </biblStruct>
 </listBibl>
@@ -53,9 +53,9 @@ target="https://archive.org/details/worksphilojudaeu01philuoft" >Internet Archiv
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-     <refsDecl n="CTS">
-        <cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-      </refsDecl>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -165,7 +165,7 @@ and reduce him to utter exhaustion. These I shall describe in due course, when I
 
 
 <div type="textpart" subtype="section" n="7">
-<p>And now for the true reason, which you will never hear from their lips. Voluptuousness and a whole pack of desires are what induce them to force their way into great houses. The dazzling spectacle of abundant gold and silver, the joys of high feeding and luxurious living, the immediate prospect of wallowing in riches, with no man to say them nay,—these are the temptations that lure them on, and make slaves of free men; not lack of the necessaries of life, as they pretend, but lust of its super-
+<p>And now for the true reason, which you will never hear from their lips. Voluptuousness and a whole pack of desires are what induce them to force their way into great houses. The dazzling spectacle of abundant gold and silver, the joys of high feeding and luxurious living, the immediate prospect of wallowing in riches, with no man to say them nay,—these are the temptations that lure them on, and make slaves of free men; not lack of the necessaries of life, as they pretend, but lust of its 
 
 
 
@@ -174,7 +174,7 @@ and reduce him to utter exhaustion. These I shall describe in due course, when I
 
 
 
-fluities, greed of its costly refinements. And their employers, like finished coquettes, exercise their rigours upon these hapless slaves of love, and keep them for ever dangling in amorous attendance; but for fruition, no! never so much as a kiss may they snatch. To grant that would be to give the lover his release, a conclusion against which they are jealously on their guard, But upon hopes he is abundantly fed. Despair might else cure his ardent passion, and the lover be lover no more. So there are smiles for him, and promises; always something shall be done, some favour shall be granted, a handsome provision shall be made for him,—some day. Meanwhile, old age steals upon the pair; the superannuated lover ceases from desire, and his mistress has nothing left to give. Life has gone by, and all they have to show for it is hope.
+superfluities, greed of its costly refinements. And their employers, like finished coquettes, exercise their rigours upon these hapless slaves of love, and keep them for ever dangling in amorous attendance; but for fruition, no! never so much as a kiss may they snatch. To grant that would be to give the lover his release, a conclusion against which they are jealously on their guard, But upon hopes he is abundantly fed. Despair might else cure his ardent passion, and the lover be lover no more. So there are smiles for him, and promises; always something shall be done, some favour shall be granted, a handsome provision shall be made for him,—some day. Meanwhile, old age steals upon the pair; the superannuated lover ceases from desire, and his mistress has nothing left to give. Life has gone by, and all they have to show for it is hope.
 
 </p></div>
 
@@ -294,7 +294,7 @@ if such happiness as this was to be the reward of their toils and sufferings. Pr
 
 
 <div type="textpart" subtype="section" n="17">
-<p>Apart from this, your host’s pledge has secured you the enmity of many of his old friends, with some of whom it was already a grievance, that an acquaintance of a few hours’ standing should sit above men who have been drinking the cup of slavery for years. Tongues are busy with you at once. Listen to some of them. ‘So! We are .o give place to new-comers! It wanted but this. The gates of Rome are open to none but these Greeks. Now what is their claim to be set over our heads? I suppose they think they are conferring a favour on us with their wordy stuff?’ ‘How he did drink, to be sure!’ says another. ‘And did you see how he shovelled his food down, hand over hand? Mannerless starveling! He has never so much as dreamt of white bread before. *Twas the same with.
+<p>Apart from this, your host’s pledge has secured you the enmity of many of his old friends, with some of whom it was already a grievance, that an acquaintance of a few hours’ standing should sit above men who have been drinking the cup of slavery for years. Tongues are busy with you at once. Listen to some of them. ‘So! We are .o give place to new-comers! It wanted but this. The gates of Rome are open to none but these Greeks. Now what is their claim to be set over our heads? I suppose they think they are conferring a favour on us with their wordy stuff?’ ‘How he did drink, to be sure!’ says another. ‘And did you see how he shovelled his food down, hand over hand? Mannerless starveling! He has never so much as dreamt of white bread before. 'Twas the same with.
 the capon and pheasant; much if he left us the bones to pick!’
 ‘My dear sirs’ (cries number three), ‘I give him five days at
 
@@ -333,7 +333,7 @@ know your moderate, independent spirit. I quite realize that you come to us from
 
 <div type="textpart" subtype="section" n="20">
 <p>Your hopes are blasted at the words, and your proud spirit is tamed. The dream of the millionaire and landed proprietor fades away, as you gradually catch his parsimonious drift. Yet you smirk appreciation of the promise. You are to
-‘consider everything as your own’; there, surely, is something solid? *Tis a draught (did you but know it)
+‘consider everything as your own’; there, surely, is something solid? 'Tis a draught (did you but know it)
 
 <l>That wets the lips, but leaves the palate dry.</l>
 
@@ -356,7 +356,7 @@ who would be glad to pay money down, merely for the honour and glory of the acqu
 
 
 <div type="textpart" subtype="section" n="22">
-<p>Gradually you get some faint glimmerings of the truth. It begins to dawn upon you at last, that those golden hopes were neither more nor less than gilded bubbles: the vexations, on the other hand, are realities; solid, abiding, uncompromising realities. ‘And what are these vexations?” you will perhaps exclaim; ‘I see nothing so vexatious about the matter; I know not what are the hard-
+<p>Gradually you get some faint glimmerings of the truth. It begins to dawn upon you at last, that those golden hopes were neither more nor less than gilded bubbles: the vexations, on the other hand, are realities; solid, abiding, uncompromising realities. ‘And what are these vexations?” you will perhaps exclaim; ‘I see nothing so vexatious about the matter; I know not what are the 
 
 
 
@@ -365,7 +365,7 @@ who would be glad to pay money down, merely for the honour and glory of the acqu
 
 
 
-ships-and the drudgery alluded to.’ Then listen. And do not confine yourself to the article of drudgery, but keep a sharp look-out for ignominy, for degradation, for everything, in short, that is unworthy of a free man.
+hardships-and the drudgery alluded to.’ Then listen. And do not confine yourself to the article of drudgery, but keep a sharp look-out for ignominy, for degradation, for everything, in short, that is unworthy of a free man.
 
 </p></div>
 
@@ -494,7 +494,7 @@ of all, though many a time your right place would be in bed. But that would neve
 
 
 <div type="textpart" subtype="section" n="33">
-<p>I shall make no scruple of relating to you an experience of Thesmopolis the Stoic, which I had from his own mouth; a most amusing incident, and just the sort of thing one might expect to find happening again. He was in the service of a certain wealthy and luxurious lady of quality, whom on one occasion he had to accompany on a journey from Rome. The fun began at once. The philosopher received as his travelling companion a beardless exquisite of the pitch-plastering persuasion, by whom, you may be certain, my lady set great store; his name, she informed the philosopher, was ‘Robinetta.’ Is not this a promising start?—the grave and reverend Thesmopolis, with his hoary beard (you know what a long, venerable affair it is), side by side with this rouged and painted ogler, whose drooping neck and plucked throat suggested the yulture rather than the robin! *”Twas all that Thesmopolis could do to persuade him not to wear his hair-net; and as it was he had a sad journey of it, with the fellow singing _
+<p>I shall make no scruple of relating to you an experience of Thesmopolis the Stoic, which I had from his own mouth; a most amusing incident, and just the sort of thing one might expect to find happening again. He was in the service of a certain wealthy and luxurious lady of quality, whom on one occasion he had to accompany on a journey from Rome. The fun began at once. The philosopher received as his travelling companion a beardless exquisite of the pitch-plastering persuasion, by whom, you may be certain, my lady set great store; his name, she informed the philosopher, was ‘Robinetta.’ Is not this a promising start?—the grave and reverend Thesmopolis, with his hoary beard (you know what a long, venerable affair it is), side by side with this rouged and painted ogler, whose drooping neck and plucked throat suggested the yulture rather than the robin! 'Twas all that Thesmopolis could do to persuade him not to wear his hair-net; and as it was he had a sad journey of it, with the fellow singing _
 and whistling all the time—I daresay he would have danced there and then, if Thesmopolis had not prevented him.</p></div>
 
 
@@ -523,7 +523,7 @@ wished. ‘I only ask you, because I know you are to be trusted; you are so good
 
 
 
-must be careful to call them, undeterred by the eighteen inches or so of nose that some of them carry on their faces. Do your praises halt? *Tis envy, ’tis treason! Away with you, Philoxenus that you are, to Syracusan quarries!—Let them be orators, let them be philosophers, if they will: what matter for a solecism here and there? Find Attic elegance, find honey of Hymettus in every word; and pronounce it law henceforth, to speak as they speak.
+must be careful to call them, undeterred by the eighteen inches or so of nose that some of them carry on their faces. Do your praises halt? 'Tis envy, ’tis treason! Away with you, Philoxenus that you are, to Syracusan quarries!—Let them be orators, let them be philosophers, if they will: what matter for a solecism here and there? Find Attic elegance, find honey of Hymettus in every word; and pronounce it law henceforth, to speak as they speak.
 
 </p></div>
 
@@ -1537,7 +1537,7 @@ Your mistake was at the beginning: before leaving, you should have gone up to so
 
 
 <div type="textpart" subtype="section" n="30">
-<p>Puta case, now: just as I am, as uncertain as ever which of the whole number has the truth, I choose your school; I rely on you, who are my friend, but who still know only the Stoic doctrine, and have not travelled any way but that. Now some God brings Plato, Pythagoras, Aristotle, and the rest to life again; they gather round and cross-examine me, or actually sue me in court for constructive defamation; Good Lycinus, they say, what possessed or who induced you to exalt Chrysippus and Zeno at our expense? we are far older established; they are mere creatures of yesterday; yet you never gave us a hearing, nor inquired into our statements at all. Well, what am I to plead? will it avail me to say I trusted my friend Hermotimus? I feel sure they will say, We know not this Hermotimus, who he ts, nor be us 3 you bad no right to condemn us all, and give judgement by default against us, on the authority of a man who knew only one of the philosophic roads, and even that, perhaps, imper-
+<p>Puta case, now: just as I am, as uncertain as ever which of the whole number has the truth, I choose your school; I rely on you, who are my friend, but who still know only the Stoic doctrine, and have not travelled any way but that. Now some God brings Plato, Pythagoras, Aristotle, and the rest to life again; they gather round and cross-examine me, or actually sue me in court for constructive defamation; Good Lycinus, they say, what possessed or who induced you to exalt Chrysippus and Zeno at our expense? we are far older established; they are mere creatures of yesterday; yet you never gave us a hearing, nor inquired into our statements at all. Well, what am I to plead? will it avail me to say I trusted my friend Hermotimus? I feel sure they will say, We know not this Hermotimus, who he ts, nor be us 3 you bad no right to condemn us all, and give judgement by default against us, on the authority of a man who knew only one of the philosophic roads, and even that, perhaps, 
 
 
 
@@ -1546,7 +1546,7 @@ Your mistake was at the beginning: before leaving, you should have gone up to so
 
 
 
-fectly. These are not the instructions issued to juries, Lycinus; they are not to hear one party, and refuse the other permission to say what he deems advisable; they are to hear both sides alike, with a view to the better sifting of truth from falsehood by comparison of the arguments; if they fail in these duties, the law allows an appeal to another court, That is what we may expect them to say.
+imperfectly. These are not the instructions issued to juries, Lycinus; they are not to hear one party, and refuse the other permission to say what he deems advisable; they are to hear both sides alike, with a view to the better sifting of truth from falsehood by comparison of the arguments; if they fail in these duties, the law allows an appeal to another court, That is what we may expect them to say.
 
 </p></div>
 
@@ -1679,7 +1679,7 @@ say everything is material, and Plato recognizes an immaterial element also in a
 
 
 <div type="textpart" subtype="section" n="38">
-<p>Ly. There is no why, if you really find it, and can be certain it is the missing article, the sacred object being unmistakable. But there are some differences in this case, friend; the temple-
+<p>Ly. There is no why, if you really find it, and can be certain it is the missing article, the sacred object being unmistakable. But there are some differences in this case, friend; the 
 
 
 
@@ -1688,7 +1688,7 @@ say everything is material, and Plato recognizes an immaterial element also in a
 
 
 
-visitors are not two, so that if one has not got the booty the other has, but many; and the identity of the missing object is also uncertain; it may be cup, or bowl, or garland; every priest gives a different description of it; they do not agree even about the material; bronze, say these, silver, say those—anything from gold to tin. So there is nothing for it but to strip the visitors, if you want to find it; even if you discover a gold cup on the first man, you must go on to the others.</p>
+templevisitors are not two, so that if one has not got the booty the other has, but many; and the identity of the missing object is also uncertain; it may be cup, or bowl, or garland; every priest gives a different description of it; they do not agree even about the material; bronze, say these, silver, say those—anything from gold to tin. So there is nothing for it but to strip the visitors, if you want to find it; even if you discover a gold cup on the first man, you must go on to the others.</p>
 
 <p>Her, What for?</p>
 
@@ -2440,7 +2440,7 @@ a gentleman should. I may go as far as a fashionable coat, by way of publishing 
 <head>HERODOTUS AND AETION</head>
 
 <div type="textpart" subtype="section" n="1">
-<p>I devoutly wish that Herodotus’s other characteristics were imitable; not all of them, of course—that is past praying for—, but any one of them: the agreeable style, the constructive skill, the native charm of his Ionic, the sententious wealth, or any of a thousand beauties which he combined into one whole, to the despair of imitators. But there is one thing—the use he made of his writings, and the speed with which he attained the respect of all Greece; from that you, or I, or any one else, might take a hint. As soon as he had sailed from his Carian home for Greece, he concentrated his thoughts on the quickest and easiest method of winning a brilliant reputation for himself and his works. He might have gone the round, and read them successively at Athens, Corinth, Argos, and Sparta; but that would be a long toilsome business, he thought, with no end to it; so he would not do it in detail, collecting his recogni-
+<p>I devoutly wish that Herodotus’s other characteristics were imitable; not all of them, of course—that is past praying for—, but any one of them: the agreeable style, the constructive skill, the native charm of his Ionic, the sententious wealth, or any of a thousand beauties which he combined into one whole, to the despair of imitators. But there is one thing—the use he made of his writings, and the speed with which he attained the respect of all Greece; from that you, or I, or any one else, might take a hint. As soon as he had sailed from his Carian home for Greece, he concentrated his thoughts on the quickest and easiest method of winning a brilliant reputation for himself and his works. He might have gone the round, and read them successively at Athens, Corinth, Argos, and Sparta; but that would be a long toilsome business, he thought, with no end to it; so he would not do it in detail, collecting his 
 
 
 
@@ -2449,7 +2449,7 @@ a gentleman should. I may go as far as a fashionable coat, by way of publishing 
 
 
 
-tion by degrees, and scraping it together little by little; his idea was, if possible, to catch all Greece together. The great Olympic Games were at hand, and Herodotus bethought him that here was the very occasion on which his heart was set. He seized the moment when the gathering was at its fullest, and every city had sent the flower of its citizens; then he appeared in the temple hall, bent not on sight-seeing, but on bidding for an Olympic victory of his own; he recited his Histories, and bewitched his hearers; nothing would do but each book must be named after one of the Muses, to whose number they corresponded.
+recognition by degrees, and scraping it together little by little; his idea was, if possible, to catch all Greece together. The great Olympic Games were at hand, and Herodotus bethought him that here was the very occasion on which his heart was set. He seized the moment when the gathering was at its fullest, and every city had sent the flower of its citizens; then he appeared in the temple hall, bent not on sight-seeing, but on bidding for an Olympic victory of his own; he recited his Histories, and bewitched his hearers; nothing would do but each book must be named after one of the Muses, to whose number they corresponded.
 
 </p></div>
 
@@ -2494,7 +2494,7 @@ High Steward of the Games on the occasion, was so delighted with his genius that
 
 
 <div type="textpart" subtype="section" n="7">
-<p>Herodotus, then (to return to him), thought that the Olympic festival would serve a second purpose very well—that of revealing to the Greeks a wonderful historian who had related their vic-
+<p>Herodotus, then (to return to him), thought that the Olympic festival would serve a second purpose very well—that of revealing to the Greeks a wonderful historian who had related their 
 
 
 
@@ -2503,7 +2503,7 @@ High Steward of the Games on the occasion, was so delighted with his genius that
 
 
 
-tories as he had done. As for me—and in Heaven’s name do not suppose me so beside myself as to intend any comparison between my works and his; I desire his favour too much for that—but one experience I have in common with him. On my first visit to Macedonia, my thoughts too were busy with my best policy. My darling wish was to be known to you all, and to exhibit my writings to as many Macedonians as might be; I decided that it would be too great an undertaking at such a time of year to go round in person visiting city by city; but if I seized the occasion of this your meeting, appeared before you all, and delivered my discourse, my aspirations, I thought, might be realized that way.
+victories as he had done. As for me—and in Heaven’s name do not suppose me so beside myself as to intend any comparison between my works and his; I desire his favour too much for that—but one experience I have in common with him. On my first visit to Macedonia, my thoughts too were busy with my best policy. My darling wish was to be known to you all, and to exhibit my writings to as many Macedonians as might be; I decided that it would be too great an undertaking at such a time of year to go round in person visiting city by city; but if I seized the occasion of this your meeting, appeared before you all, and delivered my discourse, my aspirations, I thought, might be realized that way.
 
 </p></div>
 
@@ -2586,7 +2586,7 @@ dug like a foal. In the upper part of the picture, as on higher ground, is a Cen
 
 
 <div type="textpart" subtype="section" n="7">
-<p>Zeuxis imagined that when the picture was shown the technique of it would take visitors by storm. Well, they did acclaim him; they could hardly help that, with such a master-
+<p>Zeuxis imagined that when the picture was shown the technique of it would take visitors by storm. Well, they did acclaim him; they could hardly help that, with such a 
 
 
 
@@ -2595,7 +2595,7 @@ dug like a foal. In the upper part of the picture, as on higher ground, is a Cen
 
 
 
-piece before them; but their commendations were all in the style of those given to me the other night; it was the strangeness of the idea, the fresh unhackneyed sentiment of the picture, and so on. Zeuxis saw that they were preoccupied with the novelty of his subject, art was at a discount, and truth of rendering quite a minor matter. ‘Oh, pack it up, Miccio,’ he said to his pupil, ‘and you and the others take it home; these people are delighted with the earthy part of the work; the questions of its aim, its beauty, its artistic merit, are of no importance whatever; novelty of subject goes for much more than truth of rendering.’
+masterpiece before them; but their commendations were all in the style of those given to me the other night; it was the strangeness of the idea, the fresh unhackneyed sentiment of the picture, and so on. Zeuxis saw that they were preoccupied with the novelty of his subject, art was at a discount, and truth of rendering quite a minor matter. ‘Oh, pack it up, Miccio,’ he said to his pupil, ‘and you and the others take it home; these people are delighted with the earthy part of the work; the questions of its aim, its beauty, its artistic merit, are of no importance whatever; novelty of subject goes for much more than truth of rendering.’
 
 </p></div>
 
@@ -2772,7 +2772,7 @@ am Toxaris,’
 
 
 <div type="textpart" subtype="section" n="5">
-<p>‘What! come to the very door, and then turn back? This is not the language of enthusiasm. However, there is no fear of that—you will not go back, Athens will not let you off so easily. She is not so much at a loss for charms wherewith to detain the stranger: she will take such a hold on you, that you will forget your own wife and children—if you have any. Now I will put you into the readiest way of seeing Athens, ay, and Greece, and the glories of Greece. There is a certain philosopher living here; he is an Athenian, but has travelled a great deal in Asia and Egypt, and held intercourse with the most eminent men. For the rest, he is none of your moneyed men: indeed, he is quite poor; be prepared for an old man, dressed as plainly as could be. Yet his virtue and wisdom are held in such esteem, that he was employed by them to draw up a constitution, and his ordinances form their rule of life. Make this man your friend, study him, and rest assured that in knowing him you know Greece; for he is an epitome of all that is excellent in the Greek character. I can do you no greater service than to introduce you to him.’
+<p>‘What! come to the very door, and then turn back? This is not the language of enthusiasm. However, there is no fear of that—you will not go back, Athens will not let you off so easily. She is not so much at a loss for charms wherewith to detain the stranger: she will take such a hold on you, that you will forget your own wife and children—if you have any. Now I will put you into the readiest way of seeing Athens, ay, and Greece, and the glories of Greece. There is a certain philosopher living here; he is an Athenian, but has travelled a great deal in Asia and Egypt, and held intercourse with the most eminent men. For the rest, he is none of your moneyed men: indeed, he is quite poor; be prepared for an old man, dressed as plainly as could be. Yet his virtue and wisdom are held in such esteem, that he was employed by them to draw up a constitution, and his ordinances form their rule of life. Make this man your friend, study him, and rest assured that in knowing him you know Greece; for he is an epitome of all that is excellent in the Greek character. I can do you no greater service than to introduce you to him.’</p>
 
 
 
@@ -2781,7 +2781,7 @@ am Toxaris,’
 
 
 
-* Let us lose no time, then, Toxaris. Take metohim.</p></div>
+<p>'Let us lose no time, then, Toxaris. Take me to him.</p></div>
 
 
 <div type="textpart" subtype="section" n="6">
@@ -2798,7 +2798,7 @@ It is as I told you, Anacharsis: having seen Solon, you have seen all; behold At
 
 
 <div type="textpart" subtype="section" n="8">
-<p>It would take too long to describe the pleasure of Solon at Toxaris’s ‘gift,’ his words on the occasion, and his subsequent intercourse with Anacharsis—how he gave him the most valuable instruction, procured him the friendship of all Athens, showed him the sights of Greece, and took every trouble to make his stay in the country a pleasant one; and how Anachar-
+<p>It would take too long to describe the pleasure of Solon at Toxaris’s ‘gift,’ his words on the occasion, and his subsequent intercourse with Anacharsis—how he gave him the most valuable instruction, procured him the friendship of all Athens, showed him the sights of Greece, and took every trouble to make his stay in the country a pleasant one; and how 
 
 
 
@@ -2807,7 +2807,7 @@ It is as I told you, Anacharsis: having seen Solon, you have seen all; behold At
 
 
 
-sis for his part regarded the sage with such reverence, that he was never willingly absent from his side. Suffice it to say, that the promise of Toxaris was fulfilled: thanks to Solon’s good offices, Anacharsis speedily became familiar with Greece and with Greek society, in which he was treated with the consideration due to one who came thus strongly recommended; for here too Solon was a lawgiver: those whom he esteemed were loved and admired by all. Finally, if we may believe the statement of Theoxenus, Anacharsis was presented with the freedom of the city, and initiated into the mysteries; nor does it seem likely that he would ever have returned to Scythia, had not Solon died.
+Anacharsis for his part regarded the sage with such reverence, that he was never willingly absent from his side. Suffice it to say, that the promise of Toxaris was fulfilled: thanks to Solon’s good offices, Anacharsis speedily became familiar with Greece and with Greek society, in which he was treated with the consideration due to one who came thus strongly recommended; for here too Solon was a lawgiver: those whom he esteemed were loved and admired by all. Finally, if we may believe the statement of Theoxenus, Anacharsis was presented with the freedom of the city, and initiated into the mysteries; nor does it seem likely that he would ever have returned to Scythia, had not Solon died.
 
 </p></div>
 
@@ -2929,7 +2929,7 @@ ance; let us first decide what the historian is to avoid—of what faults he mus
 
 
 <div type="textpart" subtype="section" n="7">
-<p>But there are mistakes peculiar to history; your own observation will show you just those which a constant attendance at authors’ readings<note n="120.1">These were very common in Roman Imperial times, for purposes of advertisement, of eliciting criticism, etc. ‘The audience at recitations may be compared with the modern literary reviews, discharging the functions of a preventive and emendatory, not merely of a correctional tribunal. Before publication a work might thus be known to more hearers than it would now find readers.’ Mayor, Juvenal, iii. 9.</note> has impressed on me; you have only to keep your ears open at every opportunity. It will be convenient, however, to refer by the way to a few illustrations in recent histories. Here is a serious fault to begin with. It is the fashion to neglect the examination of facts, and give the space gained to eulogies of generals and commanders; those of their own side they exalt to the skies, the other side they disparage intemperately. They forget that between history and panegyric there is a great gulf fixed, barring communication; in musical phrase, the two things are a couple of octaves apart. The panegyrist has only one concern—to commend and gratify his living theme some way or other; if misrepresentation will serve his purpose, he has no objection to that. History, on the other hand, abhors the intrusion of any least scruple of false-
+<p>But there are mistakes peculiar to history; your own observation will show you just those which a constant attendance at authors’ readings<note n="120.1">These were very common in Roman Imperial times, for purposes of advertisement, of eliciting criticism, etc. ‘The audience at recitations may be compared with the modern literary reviews, discharging the functions of a preventive and emendatory, not merely of a correctional tribunal. Before publication a work might thus be known to more hearers than it would now find readers.’ Mayor, Juvenal, iii. 9.</note> has impressed on me; you have only to keep your ears open at every opportunity. It will be convenient, however, to refer by the way to a few illustrations in recent histories. Here is a serious fault to begin with. It is the fashion to neglect the examination of facts, and give the space gained to eulogies of generals and commanders; those of their own side they exalt to the skies, the other side they disparage intemperately. They forget that between history and panegyric there is a great gulf fixed, barring communication; in musical phrase, the two things are a couple of octaves apart. The panegyrist has only one concern—to commend and gratify his living theme some way or other; if misrepresentation will serve his purpose, he has no objection to that. History, on the other hand, abhors the intrusion of any least scruple of 
 
 
 
@@ -2940,7 +2940,7 @@ ance; let us first decide what the historian is to avoid—of what faults he mus
 
 
 
-hood; it is like the windpipe, which the doctors tell us will not tolerate a morsel of stray food.
+falsehood; it is like the windpipe, which the doctors tell us will not tolerate a morsel of stray food.
 
 </p></div>
 
@@ -2952,7 +2952,7 @@ hood; it is like the windpipe, which the doctors tell us will not tolerate a mor
 
 
 <div type="textpart" subtype="section" n="9">
-<p>I would not be understood to exclude eulogy from history altogether; it is to be kept to its place and used with moderation, is not to tax the reader’s patience; I shall presently show, indeed, that in all such matters an eye is to be had to posterity. It is true, there is a school which makes a pretty division of history into the agreeable and the useful, and defends the intro-
+<p>I would not be understood to exclude eulogy from history altogether; it is to be kept to its place and used with moderation, is not to tax the reader’s patience; I shall presently show, indeed, that in all such matters an eye is to be had to posterity. It is true, there is a school which makes a pretty division of history into the agreeable and the useful, and defends the 
 
 
 
@@ -2963,7 +2963,7 @@ hood; it is like the windpipe, which the doctors tell us will not tolerate a mor
 
 
 
-duction of panegyric on the ground that it is agreeable, and pleases the general reader. But nothing could be further from the truth. In the first place the division is quite a false one; history has only one concern and aim, and that is the useful; which again has one single source, and that is truth. The agreeable is no doubt an addition, if it is present; so is beauty to an athlete; but a Nicostratus, who isa fine fellow and proves himself a better man than either of his opponents, gets his recognition as a Heracles, however ugly his face may be; and if one opponent is the handsome Alcaeus himself—handsome enough to make Nicostratus in love with him, says the story—, that does not affect the issue. History too, if it can deal incidentally in the agreeable, will attract a multitude of lovers; but so long as it does its proper business efficiently—and that is the establishment of truth—, it may be indifferent to beauty.
+introduction of panegyric on the ground that it is agreeable, and pleases the general reader. But nothing could be further from the truth. In the first place the division is quite a false one; history has only one concern and aim, and that is the useful; which again has one single source, and that is truth. The agreeable is no doubt an addition, if it is present; so is beauty to an athlete; but a Nicostratus, who isa fine fellow and proves himself a better man than either of his opponents, gets his recognition as a Heracles, however ugly his face may be; and if one opponent is the handsome Alcaeus himself—handsome enough to make Nicostratus in love with him, says the story—, that does not affect the issue. History too, if it can deal incidentally in the agreeable, will attract a multitude of lovers; but so long as it does its proper business efficiently—and that is the establishment of truth—, it may be indifferent to beauty.
 
 </p></div>
 
@@ -3393,7 +3393,7 @@ is desirable between the harshness which results from separating what belongs to
 
 
 <div type="textpart" subtype="section" n="50">
-<p>All this, however, with moderation; a subject is not to be ridden to death; no neglect of proportion, no childish engross-
+<p>All this, however, with moderation; a subject is not to be ridden to death; no neglect of proportion, no childish 
 
 
 
@@ -3403,7 +3403,7 @@ is desirable between the harshness which results from separating what belongs to
 
 
 
-ment, but easy transitions. He should call a halt here, while he crosses over to another set of operations which demands attention; that settled up, he can return to the first set, now ripe for him; he must pass swiftly to each in turn, keeping his different lines of advance as nearly as possible level, fly from Armenia to Media, thence swoop straight upon Iberia, and then take wing for Italy, everywhere present at the nick-of time.
+engrossment, but easy transitions. He should call a halt here, while he crosses over to another set of operations which demands attention; that settled up, he can return to the first set, now ripe for him; he must pass swiftly to each in turn, keeping his different lines of advance as nearly as possible level, fly from Armenia to Media, thence swoop straight upon Iberia, and then take wing for Italy, everywhere present at the nick-of time.
 
 </p></div>
 
@@ -4383,7 +4383,7 @@ Scintharus, who was bald, recovered his hair; most striking of all, the ship’s
 
 
 <div type="textpart" subtype="section" n="43">
-<p>Well, we made our way over and reached the water, into which we let her down in the same way. We then sailed through clear transparent sea, till we found ourselves on the edge of a great gorge which divided water from water, like the land fissures which are often produced by earthquakes. We got the sails down and brought her to just in time to escape making the plunge. We could bend over and see an awful mysterious gulf perhaps a hundred miles deep, the water stand-
+<p>Well, we made our way over and reached the water, into which we let her down in the same way. We then sailed through clear transparent sea, till we found ourselves on the edge of a great gorge which divided water from water, like the land fissures which are often produced by earthquakes. We got the sails down and brought her to just in time to escape making the plunge. We could bend over and see an awful mysterious gulf perhaps a hundred miles deep, the water 
 
 
 
@@ -4392,7 +4392,7 @@ Scintharus, who was bald, recovered his hair; most striking of all, the ship’s
 
 
 
-ing wall against wall. A glance round showed us not far off to the right a water bridge which spanned the chasm, and gave a moving surface crossing from one sea to the other. We got out the sweeps, pulled her to the bridge, and with great exertions effected that astonishing passage.
+standing wall against wall. A glance round showed us not far off to the right a water bridge which spanned the chasm, and gave a moving surface crossing from one sea to the other. We got out the sweeps, pulled her to the bridge, and with great exertions effected that astonishing passage.
 
 </p></div>
 
@@ -4623,7 +4623,7 @@ armed attendants? But who was my victim? The tyrant’s son, himself a more grie
 <div type="textpart" subtype="section" n="17">
 <p>Shall we put it, that the tyrant has escaped, and lives? Still I claim my recompense. What say you, gentlemen? do you withhold it? The son, perhaps, caused you no uneasiness; he was no despot, no grievous oppressor?</p>
 
-<p>And now for the final stroke. All that my adversary demands of me, I have performed; and that in the most effectual manner. I slew the tyrant when I slew his son; slew him not with a single blow—he could have asked no easier expiation of his guilt than that—but with prolonged torment. I showed him his beloved lying in the dust, in pitiable case, weltering in blood. And what if he were a villain? he was still his son, still the old man’s like-
+<p>And now for the final stroke. All that my adversary demands of me, I have performed; and that in the most effectual manner. I slew the tyrant when I slew his son; slew him not with a single blow—he could have asked no easier expiation of his guilt than that—but with prolonged torment. I showed him his beloved lying in the dust, in pitiable case, weltering in blood. And what if he were a villain? he was still his son, still the old man’s 
 
 
 
@@ -4632,7 +4632,7 @@ armed attendants? But who was my victim? The tyrant’s son, himself a more grie
 
 
 
-ness in the pride of youth. These are the wounds that fathers feel; this the tyrannicide’s sword of justice; this the death, the vengeance, that befits cruelty and oppression. The tyrant who dies in a moment, and knows not his loss, and sees not such sights as these, dies unpunished.</p></div>
+likeness in the pride of youth. These are the wounds that fathers feel; this the tyrannicide’s sword of justice; this the death, the vengeance, that befits cruelty and oppression. The tyrant who dies in a moment, and knows not his loss, and sees not such sights as these, dies unpunished.</p></div>
 
 
 <div type="textpart" subtype="section" n="18">
@@ -4946,7 +4946,7 @@ business to inquire whether the parental anger rests upon good and sufficient gr
 
 <div type="textpart" subtype="section" n="22">
 <p>What is the grievance, then?—That you refuse to treat her at my bidding, and for such disobedience to your father deserve to be disinberited.—Gentlemen, I will explain presently how the nature of this demand results in a seeming disobedience, but a real inability. Meanwhile, I simply remark that neither the authority which the law confers on him, nor the obedience to which I am bound, is indiscriminate. Among orders, some have no sanction, while the disregard of others justifies anger and punishment. My father may be ill, and I neglect him; he may charge me with the management of his house, and I take no notice; he may tell me to look after his country estate, and I evade the task. In all these and similar cases, the parental censure will be well deserved. But other things again are for the sons to decide, as questions of professional skill or policy—
-especially if the father’s interests are not touched. Ifa painter’s father says to him, ‘Paint this, my boy, and do not paint that’; or a musician’s, ‘Strike this note, and not the other’; or a bronze-
+especially if the father’s interests are not touched. Ifa painter’s father says to him, ‘Paint this, my boy, and do not paint that’; or a musician’s, ‘Strike this note, and not the other’; or a 
 
 
 
@@ -4957,7 +4957,7 @@ especially if the father’s interests are not touched. Ifa painter’s father s
 
 
 
-founder’s, ‘Cast so-and-so’; would it be tolerable that the son should be disinherited for not taking such advice? Of course not.
+bronzefounder’s, ‘Cast so-and-so’; would it be tolerable that the son should be disinherited for not taking such advice? Of course not.
 
 </p></div>
 
@@ -5570,7 +5570,7 @@ wish and the object of his curiosity, fasten the packet with thread, and seal it
 
 
 <div type="textpart" subtype="section" n="20">
-<p>The trick here was one which would be seen through easily enough by a person of your intelligence (or, if I may say so without violating modesty, of my own), but which to the ordinary imbecile would have the persuasiveness of what is marvellous and incredible. He contrived various methods of undoing the seals, read the questions, answered them as seemed good, and then folded, sealed, and returned them, to the great astonish-
+<p>The trick here was one which would be seen through easily enough by a person of your intelligence (or, if I may say so without violating modesty, of my own), but which to the ordinary imbecile would have the persuasiveness of what is marvellous and incredible. He contrived various methods of undoing the seals, read the questions, answered them as seemed good, and then folded, sealed, and returned them, to the great 
 
 
 
@@ -5579,7 +5579,7 @@ wish and the object of his curiosity, fasten the packet with thread, and seal it
 
 
 
-ment of the recipients. And then it was, ‘How could he possibly know what I gave him carefully secured under a seal that defies imitation, unless he were a true God, with a God’s omniscience?”
+astonishment of the recipients. And then it was, ‘How could he possibly know what I gave him carefully secured under a seal that defies imitation, unless he were a true God, with a God’s omniscience?”
 
 </p></div>
 
@@ -5688,7 +5688,7 @@ Then when the foolish Gaul took his advice and invaded, to the total destruction
 
 
 <div type="textpart" subtype="section" n="29">
-<p>Knowing the fame of Clarus, Didymus, and Mallus for sooth-
+<p>Knowing the fame of Clarus, Didymus, and Mallus for 
 
 
 
@@ -5699,7 +5699,7 @@ Then when the foolish Gaul took his advice and invaded, to the total destruction
 
 
 
-saying much like his own, he struck up an alliance with them, sending on many of his clients to those places. So
+soothsaying much like his own, he struck up an alliance with them, sending on many of his clients to those places. So
 
 <l>Hie thee to Clarus now, and hear my sire.</l>
 And again,
@@ -6221,7 +6221,7 @@ contains instructions to the dancers: ‘Forward, lads: foot it lightly: reel it
 
 <div type="textpart" subtype="section" n="13">
 <p>You have read your Homer; so that I need say nothing of the Shield of Achilles, with its choral dance, modelled on that which Daedalus designed for Ariadne; nor of the two dancers
-(‘tumblers,’ he calls them) there represented as leading the dance; nor again of the ‘whirling dance of youth,’ so beautifully wrought thereon by Hephaestus. As to the Phaeacians, living as they did in the lap of luxury, nothing is more natural than that they should have rejoiced in the dance. Odysseus, we find, is particularly struck with this: he gazes with admira-
+(‘tumblers,’ he calls them) there represented as leading the dance; nor again of the ‘whirling dance of youth,’ so beautifully wrought thereon by Hephaestus. As to the Phaeacians, living as they did in the lap of luxury, nothing is more natural than that they should have rejoiced in the dance. Odysseus, we find, is particularly struck with this: he gazes with 
 
 
 
@@ -6231,7 +6231,7 @@ contains instructions to the dancers: ‘Forward, lads: foot it lightly: reel it
 
 
 
-tion on the ‘twinkling of their feet.’
+admiration on the ‘twinkling of their feet.’
 </p></div>
 
 
@@ -6671,7 +6671,7 @@ Greeks, is an apt one, and scarcely exaggerates the artist’s versatility. ‘O
 <div type="textpart" subtype="section" n="69">
 <p>Other arts call out only one half of a man’s powers—the bodily or the mental: the pantomime combines the two. His performance is as much an intellectual as a physical exercise: there is meaning in his movements; every gesture has its significance; and therein lies his chief excellence. The enlightened Lesbonax of Mytilene called pantomimes ‘manual philosophers,’ and used to frequent the theatre, in the conviction that he came out of it a better man than he went in. And Timocrates, his teacher, after accidentally witnessing a pantomimic performance, exclaimed: ‘How much have I lost by my scrupulous devotion to
 
- philosophy!’
+philosophy!’
 
 </p></div>
 
@@ -6886,7 +6886,7 @@ So it is with Pantomime. It charms the eyes—to wakefulness; and quickens the m
 
 
 <div type="textpart" subtype="section" n="2">
-<p><label>Lexiphanes</label> ‘Then to dinner, quoth Callicles, ‘then to our post-prandial deambulation in the Lyceum; but now ’tis time for our parasolar unction, ere we bask and bathe and take our nuncheon; go we our way. Now, boy, strigil and mat, towels and soap; transport me them bathwards, and see to the bath-penny; you will find st a-ground by the chest. And thou, Lexiphanes, comest thou, or tarriest here?? °Tis a thousand years, quoth I, ‘till I bathe; for I am in no comfort, with sore posteriors from my mulesaddle. Trod the mule-man as on eggs, yet kept his beast a-moving. And when I got to the farm, still no peace for the wicked. I found the hinds shrilling the harvest-song, and there were persons burying my father, I think it was. I just gave them a hand with the grave and things, and then I left them; it was so cold, and I had prickly heat; one does, you know, in a hard frost. So I went round the plough-lands; and there I found garlic growing, delved radishes, culled chervil and all herbs, bought parched barley, and (for not yet had the meadows reached the redolency that tempts the ten toes)—so to mule-back again; whence this tender-
+<p><label>Lexiphanes</label> ‘Then to dinner, quoth Callicles, ‘then to our post-prandial deambulation in the Lyceum; but now ’tis time for our parasolar unction, ere we bask and bathe and take our nuncheon; go we our way. Now, boy, strigil and mat, towels and soap; transport me them bathwards, and see to the bath-penny; you will find st a-ground by the chest. And thou, Lexiphanes, comest thou, or tarriest here?? °Tis a thousand years, quoth I, ‘till I bathe; for I am in no comfort, with sore posteriors from my mulesaddle. Trod the mule-man as on eggs, yet kept his beast a-moving. And when I got to the farm, still no peace for the wicked. I found the hinds shrilling the harvest-song, and there were persons burying my father, I think it was. I just gave them a hand with the grave and things, and then I left them; it was so cold, and I had prickly heat; one does, you know, in a hard frost. So I went round the plough-lands; and there I found garlic growing, delved radishes, culled chervil and all herbs, bought parched barley, and (for not yet had the meadows reached the redolency that tempts the ten toes)—so to mule-back again; whence this 
 
 
 
@@ -6895,7 +6895,7 @@ So it is with Pantomime. It charms the eyes—to wakefulness; and quickens the m
 
 
 
-ness behind. And now I walk with pain, and the sweat runs down; my bones languish, and yearn for the longest of water-swims; tts ever my joy to wash me after toil.
+tenderness behind. And now I walk with pain, and the sweat runs down; my bones languish, and yearn for the longest of water-swims; tts ever my joy to wash me after toil.
 
 </p></div>
 
@@ -7052,7 +7052,7 @@ assure you I am full beyond my capacity as it is; if I do not succeed in quickly
 
 
 <div type="textpart" subtype="section" n="19">
-<p><label>Lexiphanes</label> Heal him, not me, Sopolis; he is manifestly moonstruck; persons duly pia-matered he accounts beside their five wits; he might come from Samos and call Mnesarchus father; for he enjoins silence and linguinanity. But by the unabashed Athene, by Heracles the beast-killer, no jot or tittle of notice shall he have from me. *Tis my foreboding that I fall not in with him again. For his censures, I void my rheum upon them.
+<p><label>Lexiphanes</label> Heal him, not me, Sopolis; he is manifestly moonstruck; persons duly pia-matered he accounts beside their five wits; he might come from Samos and call Mnesarchus father; for he enjoins silence and linguinanity. But by the unabashed Athene, by Heracles the beast-killer, no jot or tittle of notice shall he have from me. 'Tis my foreboding that I fall not in with him again. For his censures, I void my rheum upon them.
 
 </p></div>
 

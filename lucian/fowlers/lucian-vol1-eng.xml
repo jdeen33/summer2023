@@ -45,7 +45,7 @@
 </imprint>
 <biblScope unit="volume">1</biblScope>
 </monogr>
- <ref
+<ref
 target="https://archive.org/details/worksphilojudaeu01philuoft" >Internet Archive</ref>
 </biblStruct>
 </listBibl>
@@ -53,9 +53,9 @@ target="https://archive.org/details/worksphilojudaeu01philuoft" >Internet Archiv
 </fileDesc>
 <encodingDesc>
 <p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE Architecture.</p>
-     <refsDecl n="CTS">
-        <cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-      </refsDecl>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -87,7 +87,7 @@ When my childhood was over, and I had just left school, my father called a counc
 
 <div type="textpart" subtype="section" n="2">
 <p>So the next step was to select the most satisfactory of the handicrafts; it must be one quite easy to acquire, respectable, inexpensive as regards plant, and fairly profitable. Various suggestions were made, according to the taste and knowledge of the councillors; but my father turned to my mother’s brother, supposed to be an excellent statuary, and said to him:
-‘With you here, it would be a sin to prefer any other craft; take the lad, regard him as your charge, teach him to handle, match, and grave your marble; he will do well enough; you know he has the ability.’? This he had inferred from certain tricks I used to play with wax. When I got out of school, I used to scrape off the wax from my tablets and work it into cows, horses, or even men and women, and he thought I did it creditably; my masters used to cane me for it, but on this occasion it was taken as evidence of a natural faculty, and my modelling gave them good hopes of my picking up the art quickly.
+‘With you here, it would be a sin to prefer any other craft; take the lad, regard him as your charge, teach him to handle, match, and grave your marble; he will do well enough; you know he has the ability.’ This he had inferred from certain tricks I used to play with wax. When I got out of school, I used to scrape off the wax from my tablets and work it into cows, horses, or even men and women, and he thought I did it creditably; my masters used to cane me for it, but on this occasion it was taken as evidence of a natural faculty, and my modelling gave them good hopes of my picking up the art quickly.
 
 
 
@@ -101,7 +101,7 @@ When my childhood was over, and I had just left school, my father called a counc
 
 <div type="textpart" subtype="section" n="3">
 <p>As soon as it seemed convenient for me to begin, I was handed over to my uncle, and by no means reluctantly;
-I thought I should find it amusing, and be in a position to impress my companions; they should see me chiselling gods and making little images for myself and my favourites. The usual first experience of beginners followed: my uncle gave me a chisel, and told me to give a gentle touch to a plaque lying on the bench: ‘Well begun is half done,’ said he, not very originally, In my inexperience I brought down the tool too hard, and the plaque broke; he flew into a rage, picked up a stick which lay handy, and gave me an introduction to art which might have been gentler and more encouraging; so I paid my footing with tears.
+I thought I should find it amusing, and be in a position to impress my companions; they should see me chiselling gods and making little images for myself and my favourites. The usual first experience of beginners followed: my uncle gave me a chisel, and told me to give a gentle touch to a plaque lying on the bench: ‘Well begun is half done,’ said he, not very originally. In my inexperience I brought down the tool too hard, and the plaque broke; he flew into a rage, picked up a stick which lay handy, and gave me an introduction to art which might have been gentler and more encouraging; so I paid my footing with tears.
 
 </p></div>
 
@@ -113,7 +113,7 @@ I thought I should find it amusing, and be in a position to impress my companion
 
 
 <div type="textpart" subtype="section" n="5">
-<p>So much of my tale is ridiculous and childish, What you have now to hear, gentlemen, is not so contemptible, but deserves an attentive hearing; in the words of Homer,
+<p>So much of my tale is ridiculous and childish. What you have now to hear, gentlemen, is not so contemptible, but deserves an attentive hearing; in the words of Homer,
 
 <l>To me in slumber wrapt a dream divine</l>
 <l>Ambrosial night conveyed,</l>
@@ -131,7 +131,7 @@ a dream so vivid as to be indistinguishable from reality; after all these years,
 <pb n="3"/>
 
 
- fall to the other again. All the time they were exchanging loud protests: ‘He is mine, and I mean to keep him;’ ‘Not yours at all, and it is no use your saying he is.’ One of them seemed to be a working woman, masculine looking, with untidy hair, horny hands, and dress kilted up; she was all powdered with plaster, like my uncle when he was chipping marble. The other had a beautiful face, a comely figure, and neat attire. At last they invited me to decide which of them I would live with; the rough manly one made her speech first.
+fall to the other again. All the time they were exchanging loud protests: ‘He is mine, and I mean to keep him;’ ‘Not yours at all, and it is no use your saying he is.’ One of them seemed to be a working woman, masculine looking, with untidy hair, horny hands, and dress kilted up; she was all powdered with plaster, like my uncle when he was chipping marble. The other had a beautiful face, a comely figure, and neat attire. At last they invited me to decide which of them I would live with; the rough manly one made her speech first.
 
 </p></div>
 
@@ -150,20 +150,20 @@ a dream so vivid as to be indistinguishable from reality; after all these years,
 
 
 <div type="textpart" subtype="section" n="9">
-<p>‘And I, child, am Culture, no stranger to you even now, though you have yet to make my closer acquaintance, The
+<p>‘And I, child, am Culture, no stranger to you even now, though you have yet to make my closer acquaintance. The
 
 
 
 <pb n="4"/>
 
 
- advantages that the profession of a sculptor will bring with it you have just been told; they amount to no more than being a worker with your hands, your whole prospects in life limited to that; you will be obscure, poorly and illiberally paid, meanspirited, of no account outside your doors; your influence will never help a friend, silence an enemy, nor impress your countrymen; you will be just a worker, one of the masses, cowering before the distinguished, truckling to the eloquent, living the life of a hare, a prey to your betters. You may turn out a Phidias or a Polyclitus, to be sure, and create a number of wonderful works; but even so, though your art will be generally commended, no sensible observer will be found to wish himself like you; whatever your real qualities, you” will always rank as a common craftsman who makes his living with his hands.
+advantages that the profession of a sculptor will bring with it you have just been told; they amount to no more than being a worker with your hands, your whole prospects in life limited to that; you will be obscure, poorly and illiberally paid, meanspirited, of no account outside your doors; your influence will never help a friend, silence an enemy, nor impress your countrymen; you will be just a worker, one of the masses, cowering before the distinguished, truckling to the eloquent, living the life of a hare, a prey to your betters. You may turn out a Phidias or a Polyclitus, to be sure, and create a number of wonderful works; but even so, though your art will be generally commended, no sensible observer will be found to wish himself like you; whatever your real qualities, you” will always rank as a common craftsman who makes his living with his hands.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="10">
-<p>Be governed by me, on the other hand, and your first reward shall be a view of the many wondrous deeds and doings of the men of old; you shall hear their words and know them all, what manner of men they were; and your soul, which is your very self, I will adorn with many fair adornments, with self-mastery and justice and reverence and mildness, with consideration and understanding and fortitude, with love of what is beautiful, and yearning for what is great; these things it is that are the true and pure ornaments of the soul. Nought shall escape you either of ancient wisdom or of present avail; nay, the future too, with me to aid, you shall foresee; in a word, I will instil into you, and that in no long time, all knowledge human and divine.
+<p>'Be governed by me, on the other hand, and your first reward shall be a view of the many wondrous deeds and doings of the men of old; you shall hear their words and know them all, what manner of men they were; and your soul, which is your very self, I will adorn with many fair adornments, with self-mastery and justice and reverence and mildness, with consideration and understanding and fortitude, with love of what is beautiful, and yearning for what is great; these things it is that are the true and pure ornaments of the soul. Nought shall escape you either of ancient wisdom or of present avail; nay, the future too, with me to aid, you shall foresee; in a word, I will instil into you, and that in no long time, all knowledge human and divine.
 
 </p></div>
 
@@ -176,13 +176,13 @@ a dream so vivid as to be indistinguishable from reality; after all these years,
 <pb n="5"/>
 
 
- raiment), ‘held worthy of place and precedence; and if you leave yeur, native land, you will be no unknown nameless wanderer; you shall wear my marks upon you, and every man beholding you shall touch his neighbour’s arm and say, That is he.
+raiment), ‘held worthy of place and precedence; and if you leave yeur, native land, you will be no unknown nameless wanderer; you shall wear my marks upon you, and every man beholding you shall touch his neighbour’s arm and say, That is he.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="12">
-<p>‘And if some great moment come to try your friends or country, then shall all look to you. And to your lightest word the many shall listen open-mouthed, and marvel, and count you happy in your eloquence, and your father in his son. -’Tis said that some from mortal men become immortal; and I Will make it truth in you; for though you depart from life yourself, you shall; keep touch with the learned and hold communion with the best. Consider the mighty Demosthenes, whose son he was, and whither I exalted him; consider Aeschines; how came a Philip to pay court to the cymbal-woman’s brat? how but for my sake?~ Dame Statuary here had the breeding of Socrates himself; but no sooner could he discern the better part, than he deserted her and enlisted with me; since when, his name is on every tongue.
+<p>‘And if some great moment come to try your friends or country, then shall all look to you. And to your lightest word the many shall listen open-mouthed, and marvel, and count you happy in your eloquence, and your father in his son. ’Tis said that some from mortal men become immortal; and I Will make it truth in you; for though you depart from life yourself, you shall; keep touch with the learned and hold communion with the best. Consider the mighty Demosthenes, whose son he was, and whither I exalted him; consider Aeschines; how came a Philip to pay court to the cymbal-woman’s brat? how but for my sake?~ Dame Statuary here had the breeding of Socrates himself; but no sooner could he discern the better part, than he deserted her and enlisted with me; since when, his name is on every tongue.
 
 </p></div>
 
@@ -201,13 +201,13 @@ a dream so vivid as to be indistinguishable from reality; after all these years,
 <pb n="6"/>
 
 
- woman, and went rejoicing to lady Culture, the more when I thought upon the stick, and all the blows my yesterday’s apprenticeship had brought me. For a time the deserted one was wroth, with clenched fists and grinding teeth; but at last she stiffened, like another Niobe, into marble. A strange fate, but I must request your belief; dreams are great magicians, are they not?
+woman, and went rejoicing to lady Culture, the more when I thought upon the stick, and all the blows my yesterday’s apprenticeship had brought me. For a time the deserted one was wroth, with clenched fists and grinding teeth; but at last she stiffened, like another Niobe, into marble. A strange fate, but I must request your belief; dreams are great magicians, are they not?
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="15">
-<p>Then the other looked upon me and spoke:—‘ For this justice done me,’ said she, ‘you shall now be recompensed; come, mount this car’—and lo, one stood ready, drawn by winged steeds like Pegasus—, ‘that you may learn what fair sights another choice would have cost you.” We mounted, she took the reins and drove, and I was carried aloft and beheld towns and nations and peoples from the East to the West; and methought I was sowing like Triptolemus; but the nature of the seed I cannot call to mind—only this, that men on earth when they saw it gave praise, and all whom I reached in my flight sent me on my way with blessings.
+<p>Then the other looked upon me and spoke:—‘For this justice done me,’ said she, ‘you shall now be recompensed; come, mount this car’—and lo, one stood ready, drawn by winged steeds like Pegasus—, ‘that you may learn what fair sights another choice would have cost you.” We mounted, she took the reins and drove, and I was carried aloft and beheld towns and nations and peoples from the East to the West; and methought I was sowing like Triptolemus; but the nature of the seed I cannot call to mind—only this, that men on earth when they saw it gave praise, and all whom I reached in my flight sent me on my way with blessings.
 
 </p></div>
 
@@ -227,7 +227,7 @@ a dream so vivid as to be indistinguishable from reality; after all these years,
 <pb n="7"/>
 
 
- ancient, worn-out dream! what stale frigid stuff! does he take us for interpreters of dreams?’ Sir, I do not. When Xenophon related that vision of his which you all know, of his father’s house on fire and the rest, was it just by way of a riddle? was it in deliberate ineptitude that he reproduced it? a likely thing in their desperate military situation, with the enemy surrounding them! no, the relation was to serve a useful purpose.
+ancient, worn-out dream! what stale frigid stuff! does he take us for interpreters of dreams?’ Sir, I do not. When Xenophon related that vision of his which you all know, of his father’s house on fire and the rest, was it just by way of a riddle? was it in deliberate ineptitude that he reproduced it? a likely thing in their desperate military situation, with the enemy surrounding them! no, the relation was to serve a useful purpose.
 </p></div>
 
 
@@ -253,7 +253,7 @@ So you will have me a Prometheus? If your meaning is, my good sir, that my works
 <pb n="8"/>
 
 
- earth, all unworthy of Caucasian clay-pits. How much better a claim to kinship with Prometheus have you gentlemen who win fame in the courts, engaged in real contests; your works have true life and breath, ay, and the warmth of fire. That is Promethean indeed, though with the difference, it may be, that you do not work in clay; your creations are oftenest of gold;</p></div>
+earth, all unworthy of Caucasian clay-pits. How much better a claim to kinship with Prometheus have you gentlemen who win fame in the courts, engaged in real contests; your works have true life and breath, ay, and the warmth of fire. That is Promethean indeed, though with the difference, it may be, that you do not work in clay; your creations are oftenest of gold;</p></div>
 
 
 <div type="textpart" subtype="section" n="2">
@@ -261,7 +261,7 @@ So you will have me a Prometheus? If your meaning is, my good sir, that my works
 
 <l>Full well Prometheus-Cleon plans—the past.</l>
 
-Or again, the Athenians used to call Prometheuses the makers of jars and stoves and other, clay-workers, with playful reference to the material, and perhaps to the use of fire in baking the ware, If that is all your ‘Prometheus’ means, you have aimed your shaft well enough, and flavoured your jest with the right Attic tartness; my productions are as brittle as their pottery; fling a stone, and you may smash them all to pieces.
+Or again, the Athenians used to call Prometheuses the makers of jars and stoves and other, clay-workers, with playful reference to the material, and perhaps to the use of fire in baking the ware. If that is all your ‘Prometheus’ means, you have aimed your shaft well enough, and flavoured your jest with the right Attic tartness; my productions are as brittle as their pottery; fling a stone, and you may smash them all to pieces.
 </p></div>
 
 
@@ -273,7 +273,7 @@ Or again, the Athenians used to call Prometheuses the makers of jars and stoves 
 <pb n="9"/>
 
 
- meaning; not that I can rest content, however, with the mere credit of innovation, and the absence of any original to which my work can be referred; if it is not good as well as original, I assure you I shall be ashamed of it, bring down my foot and crush it out of existence; its novelty shall not avail (with me at least) to save its ugliness from annihilation. If I thought otherwise, I admit that a round dozen of vultures would be none too many for the liver of a dunce who could not see that ugliness was only aggravated by strangeness.
+meaning; not that I can rest content, however, with the mere credit of innovation, and the absence of any original to which my work can be referred; if it is not good as well as original, I assure you I shall be ashamed of it, bring down my foot and crush it out of existence; its novelty shall not avail (with me at least) to save its ugliness from annihilation. If I thought otherwise, I admit that a round dozen of vultures would be none too many for the liver of a dunce who could not see that ugliness was only aggravated by strangeness.
 
 </p></div>
 
@@ -293,13 +293,13 @@ Or again, the Athenians used to call Prometheuses the makers of jars and stoves 
 <pb n="10"/>
 
 
- paingings of its drunken bouts and murders go for anything. Well, but on the other hand is it not possible for two such components to result in beauty, as the combination of wine and honey in superlative sweetness? That is my belief; but I am not prepared to maintain that my components have that property; I fear the mixture may only have obscured their separate beauties.
+paintings of its drunken bouts and murders go for anything. Well, but on the other hand is it not possible for two such components to result in beauty, as the combination of wine and honey in superlative sweetness? That is my belief; but I am not prepared to maintain that my components have that property; I fear the mixture may only have obscured their separate beauties.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="6">
-<p>For one thing, there was no great original connexion or friendship between Dialogue and Comedy; the former was a stay-at-home, spending his time in solitude, or at most taking a stroll with a few intimates; whereas Comedy put herself in the hands of Dionysus, haunted the theatre, frolicked in company, laughed and mocked and tripped it to the flute when she saw good; nay, she would mount her anapaests, as likely as not, and pelt the friends of Dialogue with nicknames— doctrinaires, airy metaphysicians, and the like. The thing she loved of all else was to chaff them and drench them in holiday impertinence, exhibit them treading on air and arguing with the clouds, or measuring the jump of a flea, as a type of their ethereal refinements, But Dialogue continued his deep speculations upon Nature and Virtue, till, as the musicians say, the interval between them was two full octaves, from the highest to the lowest note. This ill-assorted pair it is that we have dared to unite and harmonize—reluctant and ill-disposed for reconciliation.
+<p>For one thing, there was no great original connexion or friendship between Dialogue and Comedy; the former was a stay-at-home, spending his time in solitude, or at most taking a stroll with a few intimates; whereas Comedy put herself in the hands of Dionysus, haunted the theatre, frolicked in company, laughed and mocked and tripped it to the flute when she saw good; nay, she would mount her anapaests, as likely as not, and pelt the friends of Dialogue with nicknames— doctrinaires, airy metaphysicians, and the like. The thing she loved of all else was to chaff them and drench them in holiday impertinence, exhibit them treading on air and arguing with the clouds, or measuring the jump of a flea, as a type of their ethereal refinements. But Dialogue continued his deep speculations upon Nature and Virtue, till, as the musicians say, the interval between them was two full octaves, from the highest to the lowest note. This ill-assorted pair it is that we have dared to unite and harmonize—reluctant and ill-disposed for reconciliation.
 
 </p></div>
 
@@ -312,7 +312,7 @@ Or again, the Athenians used to call Prometheuses the makers of jars and stoves 
 <pb n="11"/>
 
 
- me in such forced unions and hybrids, I have never made his acquaintance, But after all, what am I to do? I have made my bed, and I must lie in it; Epimetheus may change his mind, but Prometheus, never. H.
+me in such forced unions and hybrids, I have never made his acquaintance. But after all, what am I to do? I have made my bed, and I must lie in it; Epimetheus may change his mind, but Prometheus, never. H.
 
 </p></div></div>
 
@@ -325,11 +325,9 @@ Or again, the Athenians used to call Prometheuses the makers of jars and stoves 
 
 
 <div type="textpart" subtype="section" n="intro">
-<p>
+<p>Lucian to Nigrinus. Health.</p>
 
-[Lucian to Nigrinus. Health.</p>
-
-<p>There is a proverb about carrying ‘owls to Athens’—an absurd undertaking, considering the excellent supply already on the spot. Had it been my intention, in presenting Nigrinus with a volume of my composition, to indulge him of all people with a display of literary skill, I should indeed have been an arrant ‘owl-fancier in Athens.’ As however my object is merely to communicate to you my present sentiments, and the profound impression produced upon me by your eloquence, I may fairly plead Not Guilty, even to the charge of Thucydides, that ‘Men are bold from ignorance, where mature consideration would render them cautious.’ For I need not say that devotion to my subject is partly responsible for my present hardihood; it is not all the work of ignorance. Farewell.]
+<p>There is a proverb about carrying ‘owls to Athens’—an absurd undertaking, considering the excellent supply already on the spot. Had it been my intention, in presenting Nigrinus with a volume of my composition, to indulge him of all people with a display of literary skill, I should indeed have been an arrant ‘owl-fancier in Athens.’ As however my object is merely to communicate to you my present sentiments, and the profound impression produced upon me by your eloquence, I may fairly plead Not Guilty, even to the charge of Thucydides, that ‘Men are bold from ignorance, where mature consideration would render them cautious.’ For I need not say that devotion to my subject is partly responsible for my present hardihood; it is not all the work of ignorance. Farewell.
 
 </p>
 </div>
@@ -388,8 +386,8 @@ Or again, the Athenians used to call Prometheuses the makers of jars and stoves 
 <pb n="13"/>
 
 
- for the vulgar error which sets a value upon wealth and renown and dominion and power, upon gold and purple, and all that dazzles the eyes of the world,—and once attracted my own!
-I listened with rapt attention, and with a swelling heart. At the time, I knew not what had come over me; my feelings were indescribable. My dearest idols, riches and renown, lay shattered; one moment I was ready to shed bitter tears over the disillusionment, the next, I could have laughed for scorn of these very things, and was exulting in my escape from the murky atmosphere of my past life into the brightness of the upper air, The result was curious: I forgot all about my ophthalmic troubles, in the gradual improvement of my spiritual vision; for till that day I had grovelled in spiritual blindness.
+for the vulgar error which sets a value upon wealth and renown and dominion and power, upon gold and purple, and all that dazzles the eyes of the world,—and once attracted my own!
+I listened with rapt attention, and with a swelling heart. At the time, I knew not what had come over me; my feelings were indescribable. My dearest idols, riches and renown, lay shattered; one moment I was ready to shed bitter tears over the disillusionment, the next, I could have laughed for scorn of these very things, and was exulting in my escape from the murky atmosphere of my past life into the brightness of the upper air. The result was curious: I forgot all about my ophthalmic troubles, in the gradual improvement of my spiritual vision; for till that day I had grovelled in spiritual blindness.
 
 </p></div>
 
@@ -414,7 +412,7 @@ I listened with rapt attention, and with a swelling heart. At the time, I knew n
 <pb n="14"/>
 
 
- of his mistress, remembers some word, some act of hers, dwells on it, and beguiles hours of sickness with her feigned presence. Sometimes he thinks he is face to face with her; words, heard long since, come again from her lips; he rejoices; his soul cleaves to the memory of the past, and has no time for present vexations. It is so with me. Philosophy is far away, but I have heard a philosopher’s words. I piece them together, and revolve them in my heart, and am comforted. Nigrinus is the beacon-fire on which, far out in mid-ocean, in the darkness of night, I fix my gaze; I fancy him present with me in all my doings; I hear ever the same words. At times, in moments of concentration, I see his very face, his voice rings in my ears. Of him it may truly be said, as of Pericles,
+of his mistress, remembers some word, some act of hers, dwells on it, and beguiles hours of sickness with her feigned presence. Sometimes he thinks he is face to face with her; words, heard long since, come again from her lips; he rejoices; his soul cleaves to the memory of the past, and has no time for present vexations. It is so with me. Philosophy is far away, but I have heard a philosopher’s words. I piece them together, and revolve them in my heart, and am comforted. Nigrinus is the beacon-fire on which, far out in mid-ocean, in the darkness of night, I fix my gaze; I fancy him present with me in all my doings; I hear ever the same words. At times, in moments of concentration, I see his very face, his voice rings in my ears. Of him it may truly be said, as of Pericles,
 
 <l>In every heart he left his sting.</l>
 
@@ -439,7 +437,7 @@ I listened with rapt attention, and with a swelling heart. At the time, I knew n
 <pb n="15"/>
 
 
- far aloof from the stage, and knows nothing of what is going forward. The memory of the actor is all that you are invited to criticize; I am neither more nor less than the ‘Messenger’ in a tragedy. At each flaw in the argument, be this your first thought, that the author probably said something quite different, and much more to the point;—and then you may hiss me off if you will.
+far aloof from the stage, and knows nothing of what is going forward. The memory of the actor is all that you are invited to criticize; I am neither more nor less than the ‘Messenger’ in a tragedy. At each flaw in the argument, be this your first thought, that the author probably said something quite different, and much more to the point;—and then you may hiss me off if you will.
 
 </p></div>
 
@@ -467,7 +465,7 @@ A little, shrill, womanish pipe of a voice that would disgrace Polyxena or Hecub
 
 
 
-<label>Lucian</label> Nay, that is all, And now to my subject. Nigrinus’s first words were in praise of Greece, and in particular of the Athenians. They are brought up, he said, to poverty and to philosophy. The endeavours, whether of foreigners or of their own countrymen, to introduce luxury into their midst, find no favour with them. When a man comes among them with this view, they quietly set about to correct his tendency, and by gentle degrees to bring him to a better course of life.</p></div>
+<label>Lucian</label> Nay, that is all. And now to my subject. Nigrinus’s first words were in praise of Greece, and in particular of the Athenians. They are brought up, he said, to poverty and to philosophy. The endeavours, whether of foreigners or of their own countrymen, to introduce luxury into their midst, find no favour with them. When a man comes among them with this view, they quietly set about to correct his tendency, and by gentle degrees to bring him to a better course of life.</p></div>
 
 
 <div type="textpart" subtype="section" n="13">
@@ -486,7 +484,7 @@ A little, shrill, womanish pipe of a voice that would disgrace Polyxena or Hecub
 <pb n="17"/>
 
 
- and took his part; and when the herald declared that he had violated the law by attending the festival in that attire, they all exclaimed with one voice, as if they had been in consultation,
+and took his part; and when the herald declared that he had violated the law by attending the festival in that attire, they all exclaimed with one voice, as if they had been in consultation,
 ‘that he must be pardoned for wearing those clothes, as he had no others.’
 
 He further commended the Athenian liberty, and unpretentious style of living; the peace and learned leisure which they so abundantly enjoy. To dwell among such men, he declared, is to dwell with philosophy; a single-hearted man, who has been taught to despise wealth, may here preserve a pure morality; no life could be more in harmony with the determined pursuit of all that is truly beautiful.</p></div>
@@ -512,7 +510,7 @@ Such was Rome; such were the blessings she taught men to enjoy.</p></div>
 <pb n="18"/>
 
 
- and called myself to account, in the words of Homer, for my return.
+and called myself to account, in the words of Homer, for my return.
 
 <l>Ah, wretch! and leav’st thou then the light of day—the joyous freedom of Greece,</l>
 <l>And wouldst behold—</l>
@@ -542,19 +540,19 @@ for virtue, no truer test of moral strength, than life in this same city of Rome
 <pb n="19"/>
 
 
- confessedly the playthings of Fortune, they have no pretence to security; yet, with instances of this daily before their eyes, men will reach after wealth and power;—not one of them but carries his load of hopes unrealized.
+confessedly the playthings of Fortune, they have no pretence to security; yet, with instances of this daily before their eyes, men will reach after wealth and power;—not one of them but carries his load of hopes unrealized.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="21">
-<p>‘But I said that there was entertainment also to be derived from the scene; and IL will maintain it. Our rich men are an entertainment in themselves, with their purple and theis rings always in evidence, and their thousand vulgarities. The latest development is the salutation by proxy<note n="19.1">The spoken salutation being performed by a servant.</note>; they favour us with a glance, and that must be happiness enough. By the more ambitious spirits, an obeisance is expected; this is not performed at a distance, after the Persian fashion—you go right up, and make a profound bow, testifying with the angle of your body to the self-abasement of your soul; you then kiss his hand or breast—and happy and tnviable is he who may do so muchrlp And théte stands’ the great man, protracting the illusion as leng as may be. (I heartily acquiesce, by the way, in the churlish sentence which excludes us from a nearer acquaintance with their lips.)
+<p>‘But I said that there was entertainment also to be derived from the scene; and I will maintain it. Our rich men are an entertainment in themselves, with their purple and theis rings always in evidence, and their thousand vulgarities. The latest development is the salutation by proxy<note n="19.1">The spoken salutation being performed by a servant.</note>; they favour us with a glance, and that must be happiness enough. By the more ambitious spirits, an obeisance is expected; this is not performed at a distance, after the Persian fashion—you go right up, and make a profound bow, testifying with the angle of your body to the self-abasement of your soul; you then kiss his hand or breast—and happy and tnviable is he who may do so muchrlp And there stands the great man, protracting the illusion as leng as may be. (I heartily acquiesce, by the way, in the churlish sentence which excludes us from a nearer acquaintance with their lips.)
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="22">
-<p>‘But if these men a¥e amusing’ their courtiers and flatterers are doubly so. They rise in the small hours of the night, to go their round of the city, to have doors slammed in their faces by slaves, to swallow as best they may the compliments of “Dog,” “Toadeater,” and the like. And the guerdon of their painful circumambulations? A vulgarly magnificent dinner, the source of many woes! They eat too much, they drink more than they want, they talk more than they should; and then they go away, angry and disappointed, grumbling at their fare, and protesting against the scant courtesy shown them by their insolent patron. You may see them vomiting in every alley, squabbling at every brothel. The daylight most of them spend in bed, furnishing employment for the doctors. Most of them, I say; for with
+<p>‘But if these men a¥e amusing their courtiers and flatterers are doubly so. They rise in the small hours of the night, to go their round of the city, to have doors slammed in their faces by slaves, to swallow as best they may the compliments of “Dog,” “Toadeater,” and the like. And the guerdon of their painful circumambulations? A vulgarly magnificent dinner, the source of many woes! They eat too much, they drink more than they want, they talk more than they should; and then they go away, angry and disappointed, grumbling at their fare, and protesting against the scant courtesy shown them by their insolent patron. You may see them vomiting in every alley, squabbling at every brothel. The daylight most of them spend in bed, furnishing employment for the doctors. Most of them, I say; for with
 
 
 
@@ -562,7 +560,7 @@ for virtue, no truer test of moral strength, than life in this same city of Rome
 <pb n="20"/>
 
 
- some it has come to this, that they actually have no time to be ill.</p></div>
+some it has come to this, that they actually have no time to be ill.</p></div>
 
 
 <div type="textpart" subtype="section" n="23">
@@ -584,7 +582,7 @@ There is an artlessness in their manner of stuffing themselves, a frankness in t
 <pb n="21"/>
 
 
- sponge with more spirit than other men, and sit on with greater persistency. It is not an uncommon thing for the more courtly sages to oblige the company with a song.’
+sponge with more spirit than other men, and sit on with greater persistency. It is not an uncommon thing for the more courtly sages to oblige the company with a song.’
 
 All this he treated as a jest. But he had much to say on the subject of those paid philosophers, who hawk about virtue like any other marketable commodity. ‘Hucksters’ and ‘petty traders’ were his words for them. A man who proposes to teach the contempt of wealth, should begin (he maintained) by showing a soul above fees.</p></div>
 
@@ -603,7 +601,7 @@ There are other points in which he sets an admirable example to the serious foll
 <pb n="22"/>
 
 
- strait waistcoat, varied with flagellations, or the enlightened process of scarification.</p></div>
+strait waistcoat, varied with flagellations, or the enlightened process of scarification.</p></div>
 
 
 <div type="textpart" subtype="section" n="28">
@@ -631,8 +629,8 @@ There are other points in which he sets an admirable example to the serious foll
 <pb n="23"/>
 
 
- spices; who in midwinter smother themselves in roses, ay, for roses are scarce, and out of season, and altogether desirable; but let a thing come in its due course, and oh, ’tis vile, ’tis contemptible. These are they whose drink is of costly essences.’
-He had no mercy on them here. ‘Very bunglers in sensuality, who know not her laws, and confound her ordinances, flinging down their souls to be trampled beneath the heels of luxury! As the play has it, Door or window, all is one to them.</p></div>
+spices; who in midwinter smother themselves in roses, ay, for roses are scarce, and out of season, and altogether desirable; but let a thing come in its due course, and oh, ’tis vile, ’tis contemptible. These are they whose drink is of costly essences.’
+He had no mercy on them here. ‘Very bunglers in sensuality, who know not her laws, and confound her ordinances, flinging down their souls to be trampled beneath the heels of luxury! As the play has it, door or window, all is one to them.</p></div>
 
 
 <div type="textpart" subtype="section" n="32">
@@ -656,7 +654,7 @@ He had no mercy on them here. ‘Very bunglers in sensuality, who know not her l
 <pb n="24"/>
 
 
- stand without the support of a slave; it is much that they retain enough vitality to get away on their own legs at all.’ One practice which obtains in the streets and Baths of Rome seemed to arouse his particular resentment. Slaves have to walk on ahead of their masters, and call out to them to ‘look to their feet,’ whenever there is a hole or a lump in their way; it has come to this, that men must be reminded that they are walking. ‘It is too much,’ he cried; ‘these men can get through their dinner with the help of their own teeth and fingers; they can hear with their own ears: yet they must have other men’s eyes to see for them! They are in possession of all their faculties: yet they are content to be spoken to in language which should only be addressed to poor maimed wretches! And this goes on in broad daylight, in our public places; and among the sufferers are men who are responsible for the welfare of cities!’
+stand without the support of a slave; it is much that they retain enough vitality to get away on their own legs at all.’ One practice which obtains in the streets and Baths of Rome seemed to arouse his particular resentment. Slaves have to walk on ahead of their masters, and call out to them to ‘look to their feet,’ whenever there is a hole or a lump in their way; it has come to this, that men must be reminded that they are walking. ‘It is too much,’ he cried; ‘these men can get through their dinner with the help of their own teeth and fingers; they can hear with their own ears: yet they must have other men’s eyes to see for them! They are in possession of all their faculties: yet they are content to be spoken to in language which should only be addressed to poor maimed wretches! And this goes on in broad daylight, in our public places; and among the sufferers are men who are responsible for the welfare of cities!’
 
 </p></div>
 
@@ -674,7 +672,7 @@ He had no mercy on them here. ‘Very bunglers in sensuality, who know not her l
 <pb n="25"/>
 
 
- them right through the soul, and they pass on their way, leaving only a gaping wound behind them. Others make the contrary mistake: their bows are too slack, and their shafts never reach their destination; as often as not their force is spent at half distance, and they drop to earth. Or if they reach the mark, they do but graze its surface; there can be no deep wound, where the archer lacks strength.</p></div>
+them right through the soul, and they pass on their way, leaving only a gaping wound behind them. Others make the contrary mistake: their bows are too slack, and their shafts never reach their destination; as often as not their force is spent at half distance, and they drop to earth. Or if they reach the mark, they do but graze its surface; there can be no deep wound, where the archer lacks strength.</p></div>
 
 
 <div type="textpart" subtype="section" n="37">
@@ -695,7 +693,7 @@ For as it is not every man that is maddened by the sound of the Phrygian flute, 
 <pb n="26"/>
 
 
- need not surprise you. A person who has been bitten by a mad dog not only goes mad himself, you know, but communicates his madness to any one whom he bites whilst he is in that state, so that the infection may be carried on by this means through a long succession of persons.</p>
+need not surprise you. A person who has been bitten by a mad dog not only goes mad himself, you know, but communicates his madness to any one whom he bites whilst he is in that state, so that the infection may be carried on by this means through a long succession of persons.</p>
 
 <p><label>Lucian</label> Ah, then you confess to a tenderness?</p>
 
@@ -741,7 +739,7 @@ I made no claim for damages, and affected unconsciousness of what I heard; my co
 <pb n="27"/>
 
 
- my own; I shall be almost dumb, lose my rank as a letter, and be degraded to a mere noise.
+my own; I shall be almost dumb, lose my rank as a letter, and be degraded to a mere noise.
 
 </p></div>
 
@@ -766,7 +764,7 @@ I made no claim for damages, and affected unconsciousness of what I heard; my co
 <pb n="28"/>
 
 
- they declared to consist of those nine which cannot be sounded at all by themselves. The vowels are accordingly the natural guardians of our laws.
+they declared to consist of those nine which cannot be sounded at all by themselves. The vowels are accordingly the natural guardians of our laws.
 
 </p></div>
 
@@ -778,7 +776,7 @@ I made no claim for damages, and affected unconsciousness of what I heard; my co
 
 
 <div type="textpart" subtype="section" n="7">
-<p>I was once staying at Cybelus, a pleasant little town, said to be an Athenian colony; my travelling companion was the excellent Rho, best of neighbours. My host was a writer of comedies, called Lysimachus; he seems to have been a Boeotian by descent, though he represented himself as coming from the interior of Attica. It was while with him that I first detected Tau’s depredations'. For some earlier occasional attempts (as when he took to τετταράκοντα for τεσσαράκοντα, τήμερον for
+<p>I was once staying at Cybelus, a pleasant little town, said to be an Athenian colony; my travelling companion was the excellent Rho, best of neighbours. My host was a writer of comedies, called Lysimachus; he seems to have been a Boeotian by descent, though he represented himself as coming from the interior of Attica. It was while with him that I first detected Tau’s depredations. For some earlier occasional attempts (as when he took to τετταράκοντα for τεσσαράκοντα, τήμερον for
 σήμερον, with little pilferings of that sort) I had explained as a trick and peculiarity of pronunciation; I had tolerated the sound without letting it annoy me seriously.</p></div>
 
 
@@ -790,7 +788,7 @@ But impunity emboldened him; κασσίτερος became καττίτερος, �
 <pb n="29"/>
 
 
- equanimity is out of place; I am tortured with apprehension; how long will it be before σῦκα is τῦκα? Bear with me, I beseech you; I despair and have none to help me; do I not well to be angry? It is no petty everyday peril, this threatened separation from my long-tried familiars. My κίσσα, my talking bird that nestled in my breast, he has torn away and named anew; my φάσσα, my νῆσσαι, my κόσσυφοι —all gone; and I had Aristarchus’s own word that they were mine; half my
+equanimity is out of place; I am tortured with apprehension; how long will it be before σῦκα is τῦκα? Bear with me, I beseech you; I despair and have none to help me; do I not well to be angry? It is no petty everyday peril, this threatened separation from my long-tried familiars. My κίσσα, my talking bird that nestled in my breast, he has torn away and named anew; my φάσσα, my νῆσσαι, my κόσσυφοι —all gone; and I had Aristarchus’s own word that they were mine; half my
 μέλισσαι he has lured: to strange hives; Attica itself he has invaded, and wrongfully annexed its Hymettus (as he calls it); and you and the rest looked on at the seizure.
 
 </p></div>
@@ -798,21 +796,21 @@ But impunity emboldened him; κασσίτερος became καττίτερος, �
 
 <div type="textpart" subtype="section" n="9">
 <p>But why dwell on such trifles? I am driven from all Thessaly
-(Thettaly, forsooth!), θάλασσα is now mare clausum to me; he will not leave me a poor garden-herb like σεύτλιον, I have never a mdovados to hang myself upon. What a long-suffering letter I am myself, your own knowledge is witness enough. When Zeta stole my σμάραγδος, and robbed me of all Smyrna, I never took proceedings against him; Xi might break all
+(Thettaly, forsooth!), θάλασσα is now mare clausum to me; he will not leave me a poor garden-herb like σεύτλιον, I have never a πάσσαλος to hang myself upon. What a long-suffering letter I am myself, your own knowledge is witness enough. When Zeta stole my σμάραγδος, and robbed me of all Smyrna, I never took proceedings against him; Xi might break all
 πάσσαλος, and appeal to Thucydides (who ought to know) as xympathizing with his xystem; I let them alone. My neighbour Rho I made no difficulty about pardoning as an invalid, when he transplanted my μυρσίναι into his garden, or, in a fit of the spleen, took liberties with my κόρση. So much for my temper.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="10">
-<p>Tau’s, on the other hand, is naturally violent; its manifestations are not confined to me. In proof that he has not spared other letters, but assaulted Delta, Theta, Zeta, and almost the whole alphabet, I wish his various victims to be put in the box. Now, Vowels of the jury, mark the evidence of Delta:—‘ He robbed me of ἐνδελέχεια, which he claimed, quite illegally, as ἐντελέχεια,' Mark Theta beating his breast and plucking out his hair in grief for the loss of κολοκύνθη. And Zeta mourns for συρίζειν and σαλπίζειν—nay, cannot mourn, for
+<p>Tau’s, on the other hand, is naturally violent; its manifestations are not confined to me. In proof that he has not spared other letters, but assaulted Delta, Theta, Zeta, and almost the whole alphabet, I wish his various victims to be put in the box. Now, Vowels of the jury, mark the evidence of Delta:— He robbed me of ἐνδελέχεια, which he claimed, quite illegally, as ἐντελέχεια,' Mark Theta beating his breast and plucking out his hair in grief for the loss of κολοκύνθη. And Zeta mourns for συρίζειν and σαλπίζειν—nay, cannot mourn, for
 
 
 
 <pb n="30"/>
 
 
- lack of his γρύζειν. What tolerance is possible, what Penalty adequate, for this criminal letter’s iniquities?
+lack of his γρύζειν. What tolerance is possible, what Penalty adequate, for this criminal letter’s iniquities?
 </p></div>
 
 
@@ -864,7 +862,7 @@ But impunity emboldened him; κασσίτερος became καττίτερος, �
 <pb n="32"/>
 
 
- always hard at it, the aegis quivering, the thunder rattling, the lightning engaged in a perpetual skirmish. Earth was shaken like a sieve, buried in snow, bombarded with hail. It rained cats and dogs (if you will pardon my familiarity), and every shower was a waterspout. Why, in Deucalion’s time, hey presto, everything was swamped, mankind went under, and just one little ark was saved, stranding on the top of Lycoreus and preserving a remnant of human seed for the generation of greater wickedness.
+always hard at it, the aegis quivering, the thunder rattling, the lightning engaged in a perpetual skirmish. Earth was shaken like a sieve, buried in snow, bombarded with hail. It rained cats and dogs (if you will pardon my familiarity), and every shower was a waterspout. Why, in Deucalion’s time, hey presto, everything was swamped, mankind went under, and just one little ark was saved, stranding on the top of Lycoreus and preserving a remnant of human seed for the generation of greater wickedness.
 
 </p></div>
 
@@ -884,7 +882,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <pb n="33"/>
 
 
- who once cringed and worshipped and hung upon my nod. If I meet one of them in the street, he passes me by as he might pass the tombstone of one long dead; it has fallen face upwards, loosened by time, but he wastes no moment deciphering it. Another will take the next turning when he sees me in the distance; I am a sight of ill omen, to be shunned by the man whose saviour and benefactor I had been not so long ago.
+who once cringed and worshipped and hung upon my nod. If I meet one of them in the street, he passes me by as he might pass the tombstone of one long dead; it has fallen face upwards, loosened by time, but he wastes no moment deciphering it. Another will take the next turning when he sees me in the distance; I am a sight of ill omen, to be shunned by the man whose saviour and benefactor I had been not so long ago.
 
 </p></div>
 
@@ -898,7 +896,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <div type="textpart" subtype="section" n="7">
 <p><label>Zeus</label> Hermes, who is that calling out from Attica? there, on the lower slopes of Hymettus—a grimy squalid fellow in a smock-frock; he is bending over a spade or something; but he has a tongue in his head, and is not afraid to use it. He must be a philosopher, to judge from his fluent blasphemy.</p>
 
-<p><label>Hermes</label> What, father! have you forgotten Timon—son of Echecratides, of Collytus? many is the time he has feasted’ us on unexceptionable victims; the rich parvenu of the whole hecatombs, you know, who used to do us so well at the Diasia.</p>
+<p><label>Hermes</label> What, father! have you forgotten Timon—son of Echecratides, of Collytus? many is the time he has feasted us on unexceptionable victims; the rich parvenu of the whole hecatombs, you know, who used to do us so well at the Diasia.</p>
 
 <p><label>Zeus</label> Dear, dear, quantum mutatus! is this the admired, the rich, the popular? What has brought him to this pass? There he is in filth and misery, digging for hire, labouring at that ponderous spade.
 
@@ -906,20 +904,20 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 
 
 <div type="textpart" subtype="section" n="8">
-<p><label>Hermes</label> Why, if you like to put it so, it was kindness and genero-
+<p><label>Hermes</label> Why, if you like to put it so, it was kindness and 
 
 
 
 <pb n="34"/>
 
 
- sity and universal compassion that ruined him; but it would be nearer the truth to call him a fool and a simpleton and a blunderer; he did not realize that his protégés were carrion crows and wolves; vultures were feeding on his unfortunate liver, and he took them for friends and good comrades, showing a fine appetite just to please him, So they gnawed his bones perfectly clean, sucked oyt with great precision any marrow there might be in them, and went off, leaving him as dry as a tree whose roots have been severed; and now they do not know him or vouchsafe him a nod—no such fools—, nor ever think of showing him charity or repaying his gifts. That is how the spade and smock-frock are accounted for; he is ashamed to show his face in town; so he hires himself out to dig, and broods over his wrongs—the rich men he has made passing him contemptuously by, apparently quite unaware e that his name is Timon.
+generosity and universal compassion that ruined him; but it would be nearer the truth to call him a fool and a simpleton and a blunderer; he did not realize that his protégés were carrion crows and wolves; vultures were feeding on his unfortunate liver, and he took them for friends and good comrades, showing a fine appetite just to please him. So they gnawed his bones perfectly clean, sucked oyt with great precision any marrow there might be in them, and went off, leaving him as dry as a tree whose roots have been severed; and now they do not know him or vouchsafe him a nod—no such fools—, nor ever think of showing him charity or repaying his gifts. That is how the spade and smock-frock are accounted for; he is ashamed to show his face in town; so he hires himself out to dig, and broods over his wrongs—the rich men he has made passing him contemptuously by, apparently quite unaware e that his name is Timon.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="9">
-<p><label>Zeus</label> This is a case we must take up and see to, No wonder he is down on his luck. We should be putting ourselves on the level of his despicable sycophants, if we forgot all the fat ox and goat thighs he has burnt on our altars; the savour of, them isyet in my nostrils. But I have been so busy, there is such" a din of perjury, assault, and burglary; I am so frightened of the temple-robbers—they swarm now, you cannot keep them  out, nor take a nap with any safety; and, with one thing and another, it is an age since I had a look at Attica. I have hardly been there since philosophy and argument came into fashion; ~ indeed, with their shouting-matches going on, prayers are quite inaudible. One must sit with one’s ears plugged, if one does  not want the drums of them cracked; such long vociferous rigmaroles about Incorporeal Things, or something™ they call Virtue! That is how we came to neglect this man—who really deserved better.
+<p><label>Zeus</label> This is a case we must take up and see to. No wonder he is down on his luck. We should be putting ourselves on the level of his despicable sycophants, if we forgot all the fat ox and goat thighs he has burnt on our altars; the savour of, them isyet in my nostrils. But I have been so busy, there is such" a din of perjury, assault, and burglary; I am so frightened of the temple-robbers—they swarm now, you cannot keep them  out, nor take a nap with any safety; and, with one thing and another, it is an age since I had a look at Attica. I have hardly been there since philosophy and argument came into fashion; ~ indeed, with their shouting-matches going on, prayers are quite inaudible. One must sit with one’s ears plugged, if one does  not want the drums of them cracked; such long vociferous rigmaroles about Incorporeal Things, or something™ they call Virtue! That is how we came to neglect this man—who really deserved better.
 
 </p></div>
 
@@ -957,7 +955,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <pb n="36"/>
 
 
- ful fora miserable pittance of sixpence a day, these reckless squanderers of £1,000  presents.
+ful fora miserable pittance of sixpence a day, these reckless squanderers of £1,000  presents.
 
 </p></div>
 
@@ -969,7 +967,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 
 
 <div type="textpart" subtype="section" n="14">
-<p>They were perfectly ridiculous, you know, loving ye you to distraction, but not daring to enjoy you when they might; you were in their power, yet they could not give the reins to their passion; they kept awake watching you with their eyes glued to bolt and seal; the enjoyment that satisfied them was not to enjoy you themselves, but to prevent others’ enjoying you— true dogs in the manger. Yes, and then how absurd it was that they should scrape and hoard, and end by being jealous of their
+<p>They were perfectly ridiculous, you know, loving ye you to distraction, but not daring to enjoy you when they might; you were in their power, yet they could not give the reins to their passion; they kept awake watching you with their eyes glued to bolt and seal; the enjoyment that satisfied them was not to enjoy you themselves, but to prevent others enjoying you— true dogs in the manger. Yes, and then how absurd it was that they should scrape and hoard, and end by being jealous of their
 ‘own selves! Ah, if they could but see that rascally slave— steward—trainer—sneaking in bent on carouse! little enough be troubles his head about the luckless unamiable owner at his nightly accounts by a dim little half-fed lamp. How, pray, do you reconcile your old strictures of this sort with your contrary denunciation of Timon?
 
 </p></div>
@@ -983,7 +981,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <pb n="37"/>
 
 
- attitudes reasonable. It is clear enough that Timon’s utter negligence comes from slackness, and not from any consideration for me. As for the other sort, who keep me shut up in the obscurity of strong-boxes, intent on making me heavy and fat and unwieldy, never touching me themselves, and never letting me see the light, lest some one else should catch sight of me, I always thought of them as fools and tyrants; what harm had I done that they should let me rot in close confinement? and did not they know that in a little while they would pass away and have to resign me to some other lucky man?
+attitudes reasonable. It is clear enough that Timon’s utter negligence comes from slackness, and not from any consideration for me. As for the other sort, who keep me shut up in the obscurity of strong-boxes, intent on making me heavy and fat and unwieldy, never touching me themselves, and never letting me see the light, lest some one else should catch sight of me, I always thought of them as fools and tyrants; what harm had I done that they should let me rot in close confinement? and did not they know that in a little while they would pass away and have to resign me to some other lucky man?
 
 </p></div>
 
@@ -1002,7 +1000,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <pb n="38"/>
 
 
- about or waste me by the bucketful, and the others clap irons on me like a runaway convict.
+about or waste me by the bucketful, and the others clap irons on me like a runaway convict.
 
 </p></div>
 
@@ -1039,7 +1037,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 
 
 
- you plenty of people who yesterday had not the price of a halter to hang themselves with, and to-day have developed into lavish men of fortune; they drive their pair of high-steppers, whereas a donkey would have been beyond their means before. They go about in purple raiment with jewelled fingers, hardly convinced yet that their wealth is not all a dream.
+you plenty of people who yesterday had not the price of a halter to hang themselves with, and to-day have developed into lavish men of fortune; they drive their pair of high-steppers, whereas a donkey would have been beyond their means before. They go about in purple raiment with jewelled fingers, hardly convinced yet that their wealth is not all a dream.
 
 </p></div>
 
@@ -1064,7 +1062,7 @@ My good sir, when is this careless indifference to cease? how~ long before you w
 <pb n="40"/>
 
 
- is an abode of awe to him. He is now insufferable—insults his new equals, and whips his old fellows to see what that side of the transaction feels like. He ends by finding a mistress, or taking to the turf, or being cajoled by parasites; these have only to swear he is handsomer than Nireus, nobler than Cecrops or Codrus, wiser than Odysseus, richer than a dozen Croesuses rolled into one; and so the poor wretch disperses in a moment what cost so many perjuries, robberies, and swindles to amass.</p>
+is an abode of awe to him. He is now insufferable—insults his new equals, and whips his old fellows to see what that side of the transaction feels like. He ends by finding a mistress, or taking to the turf, or being cajoled by parasites; these have only to swear he is handsomer than Nireus, nobler than Cecrops or Codrus, wiser than Odysseus, richer than a dozen Croesuses rolled into one; and so the poor wretch disperses in a moment what cost so many perjuries, robberies, and swindles to amass.</p>
 
 <p><label>Hermes</label> A very fair picture.</p></div>
 
@@ -1133,7 +1131,7 @@ So you see, as the good are few, and cities are crowded with multitudes of the b
 
 
 
- a goodly company more. These possess his soul; he begins to admire mean things, pursues what he should abhor, reveres me amid my bodyguard of the insinuating vices which I have begotten, and would consent to anything sooner than part with me.
+a goodly company more. These possess his soul; he begins to admire mean things, pursues what he should abhor, reveres me amid my bodyguard of the insinuating vices which I have begotten, and would consent to anything sooner than part with me.
 
 </p></div>
 
@@ -1285,7 +1283,7 @@ A misanthrope you may well be, after the way men have treated you; but with the 
 <pb n="46"/>
 
 
- that the flatterers may burst themselves with envy. And now for heaven, via Etna.</p>
+that the flatterers may burst themselves with envy. And now for heaven, via Etna.</p>
 
 <p><label>Plutus</label> He is off, I suppose, from the beating of his wings. Now, ¢ you stay where you are, while I go and fetch Thesaurus to you; or rather, dig hard. Here, Gold! Thesaurus I say! answer Timon’s summons and let him unearth you. Now, Timon, with a will; a deep stroke or two. I will leave you together.
 
@@ -1295,7 +1293,7 @@ A misanthrope you may well be, after the way men have treated you; but with the 
 <div type="textpart" subtype="section" n="41">
 <p><label>Timon</label> Come, spade, show your mettle; stick to it; invite Thesaurus to step up from his retreat.... O God of Wonders!
 
-O mystic priests! O lucky Hermes! whence this flood of gold? Sure, ’tis all a dream; methinks ’twill be ashes when I wake, And yet—coined gold, ruddy and heavy, a feast of delight!
+O mystic priests! O lucky Hermes! whence this flood of gold? Sure, ’tis all a dream; methinks ’twill be ashes when I wake. And yet—coined gold, ruddy and heavy, a feast of delight!
 
 <l>O gold, the fairest gift to mortal eyes!</l>
 
@@ -1308,7 +1306,7 @@ Come to me, my own, my beloved. I doubt the tale no longer; well might Zeus take
 
 
 <div type="textpart" subtype="section" n="42">
-<p>Talk of Midas, Croesus, Delphic treasures! they were all nothing to Timon and his wealth; why, the Persian King could not match it. My spade, my dearest smock-frock, you must hang, a votive offering to Pan, And now I will buy up this desert corner, and build a tiny castle for my treasure, big enough for me to live in all alone, and, when I am dead, to liein. And be the rule and law of my remaining days to shun all men, be blind to all men, scorn all men, Friendship, hospitality, society, compassion—vain words all, To be moved by another’s tears, to assist another’s need—be such things illegal and immoral. Let me live apart like a wolf; be Timon’s one friend—Timon.
+<p>Talk of Midas, Croesus, Delphic treasures! they were all nothing to Timon and his wealth; why, the Persian King could not match it. My spade, my dearest smock-frock, you must hang, a votive offering to Pan. And now I will buy up this desert corner, and build a tiny castle for my treasure, big enough for me to live in all alone, and, when I am dead, to liein. And be the rule and law of my remaining days to shun all men, be blind to all men, scorn all men. Friendship, hospitality, society, compassion—vain words all. To be moved by another’s tears, to assist another’s need—be such things illegal and immoral. Let me live apart like a wolf; be Timon’s one friend—Timon.
 
 </p></div>
 
@@ -1322,19 +1320,19 @@ Come to me, my own, my beloved. I doubt the tale no longer; well might Zeus take
 <pb n="47"/>
 
 
- day unholy; let them be to me even as images of bronze or stone. I will receive no herald from them, keep with them no truce; the bounds of my desert are the line they may not cross. Cousin and kinsman, neighbour and countryman—these are dead useless names, wherein fools may find a meaning. Let Timon keep his wealth to himself, scorn all men, and live in solitary luxury, quit of flattery and vulgar praise; let him sacrifice and feast alone, his own associate and neighbour, far from<note n="47.1">Reading, with Dindorf, ἑκὰς ὤν for ἐκσείων.</note> the world, Yea, when his last day comes, let there be none to close his eyes and lay him out, but himself alone.
+day unholy; let them be to me even as images of bronze or stone. I will receive no herald from them, keep with them no truce; the bounds of my desert are the line they may not cross. Cousin and kinsman, neighbour and countryman—these are dead useless names, wherein fools may find a meaning. Let Timon keep his wealth to himself, scorn all men, and live in solitary luxury, quit of flattery and vulgar praise; let him sacrifice and feast alone, his own associate and neighbour, far from<note n="47.1">Reading, with Dindorf, ἑκὰς ὤν for ἐκσείων.</note> the world. Yea, when his last day comes, let there be none to close his eyes and lay him out, but himself alone.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="44">
-<p>Be the name he loves Misanthropus, and the marks whereby he may be known peevishness and spleen, wrath and rudeness and abhorrence. If ever one burning to death should call for help against the flames, let me help—with pitch and oil. If another be swept past me by a winter torrent, and stretch out his hands for aid, then let mine press him down head under, that he never rise again, So shall they receive as they have given. Mover of this resolution—Timon, son of Echecratides of Collytus. Presiding officer—the same Timon. The ayes have it. Let it be law, and duly observed.
+<p>Be the name he loves Misanthropus, and the marks whereby he may be known peevishness and spleen, wrath and rudeness and abhorrence. If ever one burning to death should call for help against the flames, let me help—with pitch and oil. If another be swept past me by a winter torrent, and stretch out his hands for aid, then let mine press him down head under, that he never rise again. So shall they receive as they have given. Mover of this resolution—Timon, son of Echecratides of Collytus. Presiding officer—the same Timon. The ayes have it. Let it be law, and duly observed.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="45">
-<p>All the same, I would give a good deal to have the fact of my enormous wealth generally known; they would all be fit to hang themselves over it.... Why, whatis this? Well, that is quick work, Here they come running from every point of the compass, all dusty and panting; they have smelt out the gold somehow or other. Now, shall I get on top of this knoll, keep up a galling fire of stones from my point of vantage, and get rid of them that way? Or shall I make an exception to my law by parleying with them for once? contempt might hit harder than stones, Yes, I think that is better; I will stay where I am, and receive them. Let us see, who is this in front? Ah, Gnathonides the flatterer; when I asked an alms of him
+<p>All the same, I would give a good deal to have the fact of my enormous wealth generally known; they would all be fit to hang themselves over it.... Why, whatis this? Well, that is quick work. Here they come running from every point of the compass, all dusty and panting; they have smelt out the gold somehow or other. Now, shall I get on top of this knoll, keep up a galling fire of stones from my point of vantage, and get rid of them that way? Or shall I make an exception to my law by parleying with them for once? contempt might hit harder than stones. Yes, I think that is better; I will stay where I am, and receive them. Let us see, who is this in front? Ah, Gnathonides the flatterer; when I asked an alms of him
 
 
 
@@ -1342,7 +1340,7 @@ Come to me, my own, my beloved. I doubt the tale no longer; well might Zeus take
 <pb n="48"/>
 
 
- the other day, he offered me a halter; many a cask of my wine has’ he made a beast of himself over. I congratulate him on his speed; first come, first served.
+the other day, he offered me a halter; many a cask of my wine has’ he made a beast of himself over. I congratulate him on his speed; first come, first served.
 
 </p></div>
 
@@ -1390,7 +1388,7 @@ Timon’s merits! now Gnathonides would be his friend and boon-companion!| well,
 Some of us were his familiars and playmates and neighbours; but we hold back a little; we would not seem to thrust ourselves upon him. Greeting, lord Timon; pray let me -varn you against these abominable flatterers; they are your humble servants during meal-times, and else about as useful as carrion crows. Perfidy is the order of the day; everywhere ingratitude and vileness. I was just bringing a couple of hundred pounds, for your immediate necessities, and was nearly here before I heard of your splendid fortune. So I just came on to give you this word of caution; though indeed you are wise enough
 (I would take your advice before Nestor’s myself) to need none of my counsel.</p>
 
-<p><label>Timon</label> Quite so, Philiades, But come near, will you not, and receive my—spade!</p>
+<p><label>Timon</label> Quite so, Philiades. But come near, will you not, and receive my—spade!</p>
 
 <p><label>Philiades</label> Help, help! this thankless brute has broken my head, for giving him good counsel.
 
@@ -1404,14 +1402,14 @@ Some of us were his familiars and playmates and neighbours; but we hold back a l
 
 
 <div type="textpart" subtype="section" n="50">
-<p><label>Demeas</label> Hail, Timon, ornament of our race, pillar of Athens, shield of Hellas! The Assembly and both Councils are met, and expect your appearance. But first hear the decree which I have proposed in your honour. ‘Whereas Timon son of Echecratides of Collytus who adds to high position and character a sagacity unmatched in Greece is a consistent and indefatigable promoter of his country’s good and Whereas he has been vic-
+<p><label>Demeas</label> Hail, Timon, ornament of our race, pillar of Athens, shield of Hellas! The Assembly and both Councils are met, and expect your appearance. But first hear the decree which I have proposed in your honour. ‘Whereas Timon son of Echecratides of Collytus who adds to high position and character a sagacity unmatched in Greece is a consistent and indefatigable promoter of his country’s good and Whereas he has been 
 
 
 
 <pb n="50"/>
 
 
- torious at Olympia on one day in boxing wrestling and running as well as in the two and the four-horse chariot races—*
+victorious at Olympia on one day in boxing wrestling and running as well as in the two and the four-horse chariot races—*
 
 <label>Timon</label> Why, I was never so much as a spectator at Olympia.</p>
 
@@ -1443,7 +1441,7 @@ Some of us were his familiars and playmates and neighbours; but we hold back a l
 <pb n="51"/>
 
 
- a coup d’état, you Timon; you assault free men, and you are neither a free man nor a citizen yourself. You shall soon be called to account for your crimes; it was you set fire to the Acropolis, for one thing.
+a coup d’état, you Timon; you assault free men, and you are neither a free man nor a citizen yourself. You shall soon be called to account for your crimes; it was you set fire to the Acropolis, for one thing.
 
 </p></div>
 
@@ -1535,7 +1533,7 @@ I had better get up on the rock; my poor tired spade wants a little rest; I will
 <pb n="54"/>
 
 
- these men of his might come to their maker’s assistance; nor at the top, where he would be invisible from the earth. What do you say to a middle course? Let him hang over this precipice, with his arms stretched across from crag to crag.</p>
+these men of his might come to their maker’s assistance; nor at the top, where he would be invisible from the earth. What do you say to a middle course? Let him hang over this precipice, with his arms stretched across from crag to crag.</p>
 
 <p><label>Hermes</label> The very thing. Steep rocks, slightly overhanging, inaccessible on every side; no foothold but a mere ledge, with scarcely room for the tips of one’s toes; altogether a sweet spot for a crucifixion. Now, Prometheus, come and be nailed up; there is no time to lose.
 
@@ -1566,7 +1564,7 @@ I had better get up on the rock; my poor tired spade wants a little rest; I will
 <pb n="55"/>
 
 
- pension, if justice were done. And by the way, I should like, if you can spare the time, to answer to these charges, and satisfy you of the injustice of my sentence. You can employ your practised eloquence on behalf of Zeus, and justify his conduct in nailing me up here at the Gates of the Caspian, for all Scythia to behold and pity.</p>
+pension, if justice were done. And by the way, I should like, if you can spare the time, to answer to these charges, and satisfy you of the injustice of my sentence. You can employ your practised eloquence on behalf of Zeus, and justify his conduct in nailing me up here at the Gates of the Caspian, for all Scythia to behold and pity.</p>
 
 <p><label>Hermes</label> There is nothing to be gained now by an appeal to another court; it is too late. Proceed, however. We have to wait in any case till the eagle comes to look after that liver of yours; and the time might be worse spent than in listening to the subtleties of such a master in impudence as yourself.
 
@@ -1596,7 +1594,7 @@ I shall expect a great deal of you; you are both artists.</p>
 <pb n="56"/>
 
 
- how you created the race of men, with absolutely no justification for so doing; how you stole fire and conveyed it to these same men. You seem not to realize, my friend, that, all things considered, Zeus has dealt very handsomely by you. Now, if you deny the charges, I shall be compelled to establish your guilt at some length, and to set the facts in the clearest possible light. But if you admit the distribution of meat in the manner described, the introduction of men, and the theft of fire,—then my case is complete, and there is no more to be said. To expatiate further would be to talk nonsense.
+how you created the race of men, with absolutely no justification for so doing; how you stole fire and conveyed it to these same men. You seem not to realize, my friend, that, all things considered, Zeus has dealt very handsomely by you. Now, if you deny the charges, I shall be compelled to establish your guilt at some length, and to set the facts in the clearest possible light. But if you admit the distribution of meat in the manner described, the introduction of men, and the theft of fire,—then my case is complete, and there is no more to be said. To expatiate further would be to talk nonsense.
 
 </p></div>
 
@@ -1606,15 +1604,14 @@ I shall expect a great deal of you; you are both artists.</p>
 
 
 <div type="textpart" subtype="section" n="8">
-<p>Why, Hermes, these tricks that are played over the wine-cups are not worth thinking twice about. A joke, perhaps, is carried a little too far, in the warmth of the feast; still, it is a joke, and resentment should be left behind in the dregs of the bowl. I have no patience with your long memories; this nursing of grievances, this raking up of last night’s squabbles, is unworthy of a king, let
-‘alone a king of Gods, Once take away from our feasts the little elegancies of quip and crank and wile, and what is left?. Muzziness; repletion; silence;—cheerful accompaniments these to the wine-bowl! For my part, I never supposed that Zeus would give the matter a thought the next morning; much less that he would make such a stir about it, and think himself
+<p>Why, Hermes, these tricks that are played over the wine-cups are not worth thinking twice about. A joke, perhaps, is carried a little too far, in the warmth of the feast; still, it is a joke, and resentment should be left behind in the dregs of the bowl. I have no patience with your long memories; this nursing of grievances, this raking up of last night’s squabbles, is unworthy of a king, let alone a king of Gods. Once take away from our feasts the little elegancies of quip and crank and wile, and what is left?. Muzziness; repletion; silence;—cheerful accompaniments these to the wine-bowl! For my part, I never supposed that Zeus would give the matter a thought the next morning; much less that he would make such a stir about it, and think himself
 
 
 
 <pb n="57"/>
 
 
- so mightily injured; my little manceuvre with the meat was merely a playful experiment, to see which he would choose.
+so mightily injured; my little manceuvre with the meat was merely a playful experiment, to see which he would choose.
 </p></div>
 
 
@@ -1640,7 +1637,7 @@ I shall expect a great deal of you; you are both artists.</p>
 <pb n="58"/>
 
 
- a hideous shapeless mass, a tangle of rude vegetation. The Godshad no altars then, nor temples (for who should raise them?), no images of wood or stone, such as now abound in every corner of the earth, and are honoured with all observance. It was to me that the idea occurred—amid my ceaseless meditations on the common welfare, on the aggrandizement of the Gods and the promotion of order and beauty in the universe—of setting all to rights with a handful of clay; of creating living things, and moulding them after our own likeness. I saw what was lacking to our godhead: some counterpart, some foil wherein to set off its blessedness. And that counterpart must be mortal; but in all else exquisitely contrived, perfect in intelligence, keen to appreciate our superiority.
+a hideous shapeless mass, a tangle of rude vegetation. The Godshad no altars then, nor temples (for who should raise them?), no images of wood or stone, such as now abound in every corner of the earth, and are honoured with all observance. It was to me that the idea occurred—amid my ceaseless meditations on the common welfare, on the aggrandizement of the Gods and the promotion of order and beauty in the universe—of setting all to rights with a handful of clay; of creating living things, and moulding them after our own likeness. I saw what was lacking to our godhead: some counterpart, some foil wherein to set off its blessedness. And that counterpart must be mortal; but in all else exquisitely contrived, perfect in intelligence, keen to appreciate our superiority.
 
 </p></div>
 
@@ -1655,7 +1652,7 @@ I shall expect a great deal of you; you are both artists.</p>
 
 
 <div type="textpart" subtype="section" n="14">
-<p>That the cause of the Gods suffered nothing at my hands is evident; show me the slightest instance to the contrary, and I will-say no more; I have but my deserts. But for the positive benefits I have conferred, use: the evidence of your eyes. The earth, no longer barren and untilled, is decked with cities and farms and the fruits of cultivation; the sea has its ships, theislands their inhabitants, Everywhere are altars and temples, everywhere festivals and sacrifices:
+<p>That the cause of the Gods suffered nothing at my hands is evident; show me the slightest instance to the contrary, and I will-say no more; I have but my deserts. But for the positive benefits I have conferred, use: the evidence of your eyes. The earth, no longer barren and untilled, is decked with cities and farms and the fruits of cultivation; the sea has its ships, theislands their inhabitants. Everywhere are altars and temples, everywhere festivals and sacrifices:
 
 <l>Zeus with his presence fills their hr enherngs</l>
 <l>He fills their streets.</l>
@@ -1673,7 +1670,7 @@ Had I created mankind for my own private convenience, it might perhaps have deno
 
 
 <div type="textpart" subtype="section" n="15">
-<p>And further. Consider, Hermes: can any good thing whatsoever, be it gift of Nature or work of our hands, give the full measure of enjoyment to its possessor, when there is none to see, none to admire? You see whither my question tends? But for mankind, the glories of the universe must have been without a witness; and there was little satisfaction to be derived from a wealth which was doomed to excite no envy in others. We should have lacked a standard for comparison; and should never have known the extent of our happiness, while all were as happy as ourselves, The great is not great, till it is compared with the small. Yet instead of honouring me for my political insight, you crucify me; such are the wages of wisdom!
+<p>And further. Consider, Hermes: can any good thing whatsoever, be it gift of Nature or work of our hands, give the full measure of enjoyment to its possessor, when there is none to see, none to admire? You see whither my question tends? But for mankind, the glories of the universe must have been without a witness; and there was little satisfaction to be derived from a wealth which was doomed to excite no envy in others. We should have lacked a standard for comparison; and should never have known the extent of our happiness, while all were as happy as ourselves. The great is not great, till it is compared with the small. Yet instead of honouring me for my political insight, you crucify me; such are the wages of wisdom!
 
 </p></div>
 
@@ -1691,26 +1688,26 @@ Had I created mankind for my own private convenience, it might perhaps have deno
 <pb n="60"/>
 
 
- assurance in finding fault with my women in particular, when all the time you are in love with them: our bulls and satyrs and swans are never tired of making descents upon the Earth; women, they find, are good enough to be made the mothers of Gods! Yes, yes (you will say), it was quite right that men should be created, but they should not have been made in our likeness. And what better model could I have taken than this, whose perfection I knew? Was I to make them brute beasts without
+assurance in finding fault with my women in particular, when all the time you are in love with them: our bulls and satyrs and swans are never tired of making descents upon the Earth; women, they find, are good enough to be made the mothers of Gods! Yes, yes (you will say), it was quite right that men should be created, but they should not have been made in our likeness. And what better model could I have taken than this, whose perfection I knew? Was I to make them brute beasts without
 -understanding? Had they been other than they are, how should they have paid you due honour and sacrifice? When
- .he hecatombs are getting ready, you think nothing of a journey to the ends of the earth to see the ‘blameless Ethiopians’; and my reward for procuring you these advantages is—crucifixion! But on this subject I have said enough.
+.he hecatombs are getting ready, you think nothing of a journey to the ends of the earth to see the ‘blameless Ethiopians’; and my reward for procuring you these advantages is—crucifixion! But on this subject I have said enough.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="18">
-<p>And now, with your permission, I will approach the subject of that stolen fire, of which we hear so much, I have a question to ask, which I beg you will answer frankly. Has there been one spark less fire in Heaven, since men shared it with us? Of course not. It is the nature of fire, that it does not become less by being imparted to others. A fire is not put out by kindling another from it. No, this is sheer envy: you cannot bear that men should have a share of this necessary, though you have suffered no harm thereby. For shame! Gods should be beneficent, * givers of good’; they should be above all envy. Had I taken away fire altogether, and left not a spark behind, it would have been no great loss, You have no use for it. You are never cold; you need no artificial light; nor is ambrosia improved by boiling.</p></div>
+<p>And now, with your permission, I will approach the subject of that stolen fire, of which we hear so much, I have a question to ask, which I beg you will answer frankly. Has there been one spark less fire in Heaven, since men shared it with us? Of course not. It is the nature of fire, that it does not become less by being imparted to others. A fire is not put out by kindling another from it. No, this is sheer envy: you cannot bear that men should have a share of this necessary, though you have suffered no harm thereby. For shame! Gods should be beneficent, * givers of good’; they should be above all envy. Had I taken away fire altogether, and left not a spark behind, it would have been no great loss. You have no use for it. You are never cold; you need no artificial light; nor is ambrosia improved by boiling.</p></div>
 
 
 <div type="textpart" subtype="section" n="19">
-<p>To man, on the other hand, fire is indispensable for many purposes, particularly for those of sacrifice how else are they to fill their streets with the savour of burntofferings, and the fumes of frankincense? how else to burn fat thigh-pieces upon your altars? I observe that you take a par-
+<p>To man, on the other hand, fire is indispensable for many purposes, particularly for those of sacrifice how else are they to fill their streets with the savour of burntofferings, and the fumes of frankincense? how else to burn fat thigh-pieces upon your altars? I observe that you take a 
 
 
 
 <pb n="61"/>
 
 
- ticular pleasure in the steam arising therefrom, and think no feast more delicious than the smell of roast meat, as it mounts heavenwards
+particular pleasure in the steam arising therefrom, and think no feast more delicious than the smell of roast meat, as it mounts heavenwards
 
 <l>In eddying clouds of smoke,</l>
 
@@ -1914,7 +1911,7 @@ You bad old man! Just because you have no beard, and no white hairs, are you goi
 <pb n="66"/>
 
 
- wonder if they fall in love, and form ambitious schemes! Yes, Love is all-powerful; and not with mortals only: we Gods have sometimes fallen beneath his sway.</p>
+wonder if they fall in love, and form ambitious schemes! Yes, Love is all-powerful; and not with mortals only: we Gods have sometimes fallen beneath his sway.</p>
 
 <p><label>Hera</label>  He has made himself master of you; no doubt of that. He does what he likes with you;—leads you by the nose. You follow him whither he chooses, and assume every shape at his command; you are his chattel, his toy. I know how it will be: you are going to let Ixion off, because you have had relations with his wife; she is the mother of Pirithous.
 </p></div>
@@ -1999,7 +1996,7 @@ I suppose, when he goes home, he will boast to every one of how he has enjoyed t
 <pb n="68"/>
 
 
- him on his back in a twinkling; before the applause was over, he had taken the opportunity of a congratulatory hug from Aphrodite to steal her girdle; Zeus had not done laughing before— the sceptre was gone. If the thunderbolt had not been too heavy, and very hot, he would have made away with that too.</p>
+him on his back in a twinkling; before the applause was over, he had taken the opportunity of a congratulatory hug from Aphrodite to steal her girdle; Zeus had not done laughing before— the sceptre was gone. If the thunderbolt had not been too heavy, and very hot, he would have made away with that too.</p>
 
 <p><label>Hephaestus</label> The child has some spirit in him, by your account.</p>
 
@@ -2045,7 +2042,7 @@ I suppose, when he goes home, he will boast to every one of how he has enjoyed t
 <pb n="69"/>
 
 
- now, and you shall taste my resentment; it will not be the first time. Come, a good lusty stroke, and quick about it. I am in the pangs of travail; my brain is in a whirl.</p>
+now, and you shall taste my resentment; it will not be the first time. Come, a good lusty stroke, and quick about it. I am in the pangs of travail; my brain is in a whirl.</p>
 
 <p><label>Hephaestus</label> Mind you, the consequences may be serious: the axe is sharp, and will prove but a rough midwife,
 
@@ -2155,7 +2152,7 @@ you have made her quite mad: she harnesses those lions of ers, and drives about 
 <pb n="72"/>
 
 
- cracked your skull, for your unholy doings, and now you have been allowed your immortality again out of sheer pity?</p>
+cracked your skull, for your unholy doings, and now you have been allowed your immortality again out of sheer pity?</p>
 
 <p><label>Asclepius</label> You twit me with my fiery end; you seem to have forgotten that you too were burnt to death, on Oeta.</p>
 
@@ -2243,7 +2240,7 @@ I dare say you have your use for doctoring sick men, but you never did a bold de
 <pb n="74"/>
 
 
- sweat, bent over the forge, all sooty-faced; and yet they cuddle and kiss him, and sleep with him!</p>
+sweat, bent over the forge, all sooty-faced; and yet they cuddle and kiss him, and sleep with him!</p>
 
 <p><label>Hermes</label> Yes, it makes me angry too; how I envy him! Ah, Apollo, you may let your locks grow, and play your harp, and be proud of your looks; I am a healthy fellow, and can touch the lyre; but, when it comes to bedtime, we lie alone.</p>
 
@@ -2289,14 +2286,14 @@ I dare say you have your use for doctoring sick men, but you never did a bold de
 <pb n="75"/>
 
 
- and dotes on him still. But those two of yours!—that girl is wild and mannish to a degree; and now she has gone off to Scythia, and her doings there are no secret; she is as bad as any Scythian herself,—butchering strangers and eating them! Apollo, too, who pretends to be so clever, with his bow and his lyre and his medicine and his prophecies; those oracle-shops that he has opened at Delphi, and Clarus, and Dindyma, are a cheat; he takes good care to be on the safe side by giving ambiguous answers that no one can understand, and makes money out of it, for there are plenty of fools who like being imposed upon,—but sensible people know well enough that most of it is clap-trap. The prophet did not know that he was to kill his favourite with a quoit; he never foresaw that Daphne would run away from him, so handsome as he is, too, such beautiful hair! I am not sure, after all, that there is much to choose between your children and Niobe’s.
+and dotes on him still. But those two of yours!—that girl is wild and mannish to a degree; and now she has gone off to Scythia, and her doings there are no secret; she is as bad as any Scythian herself,—butchering strangers and eating them! Apollo, too, who pretends to be so clever, with his bow and his lyre and his medicine and his prophecies; those oracle-shops that he has opened at Delphi, and Clarus, and Dindyma, are a cheat; he takes good care to be on the safe side by giving ambiguous answers that no one can understand, and makes money out of it, for there are plenty of fools who like being imposed upon,—but sensible people know well enough that most of it is clap-trap. The prophet did not know that he was to kill his favourite with a quoit; he never foresaw that Daphne would run away from him, so handsome as he is, too, such beautiful hair! I am not sure, after all, that there is much to choose between your children and Niobe’s.
 
 </p></div>
 
 <div type="textpart" subtype="section" n="2"><p><label>Leto</label> Oh, of course; my children are butchers and impostors.
 I know how you hate the sight of them. You cannot bear to hear my girl complimented on her looks, or my boy’s playing admired by the company.</p>
 
-<p><label>Hera</label>  His playing, madam!—excuse a smile;—why, if the Muses had not favoured him, his contest with Marsyas would have cost him his skin; poor Marsyas was shamefully used on that occasion; *twas a judicial murder.—As for your charming daughter, when Actaeon once caught sight of her charms, she had to set the dogs upon him, for fear he should tell all he knew:
+<p><label>Hera</label>  His playing, madam!—excuse a smile;—why, if the Muses had not favoured him, his contest with Marsyas would have cost him his skin; poor Marsyas was shamefully used on that occasion; 'twas a judicial murder.—As for your charming daughter, when Actaeon once caught sight of her charms, she had to set the dogs upon him, for fear he should tell all he knew:
 I forbear to ask where the innocent child picked up her knowledge of obstetrics.</p>
 
 <p><label>Leto</label> You set no small value on yourself, madam, because you are the wife of Zeus, and share his throne; you may insult whom you please. But there will be tears presently, when the next bull or swan sets out on his travels, and you are left neglected.
@@ -2342,7 +2339,7 @@ F.
 <pb n="77"/>
 
 
- drink their wine neat, and drink too much of it. Taken in moderation, it engenders cheerfulness and benevolence. Dionysus is not likely to treat any of his guests as Icarius was treated.
+drink their wine neat, and drink too much of it. Taken in moderation, it engenders cheerfulness and benevolence. Dionysus is not likely to treat any of his guests as Icarius was treated.
 —No; I see what it is:—you are jealous, my love; you can’t forget about Semele, and so you must disparage the noble achievements of her son. F.
 
 </p></div>
@@ -2378,7 +2375,7 @@ F.
 <pb n="78"/>
 
 
- a bit. But why do you let the Muses go scot free? do they toss their plumes and hold out Gorgons’ heads?</p>
+a bit. But why do you let the Muses go scot free? do they toss their plumes and hold out Gorgons’ heads?</p>
 
 <p><label>Eros</label> Ah, mother, they make me bashful; they are so grand, always studying and composing; I love to stand there listening to their music,
 
@@ -2424,7 +2421,7 @@ H.
 <pb n="79"/>
 
 
- this young Phrygian to whom you are going is of the royal blood
+this young Phrygian to whom you are going is of the royal blood
 —a relation of Ganymede’s,—and at the same time a simple countryman; so that we need have no hesitation in trusting his eyes.
 
 </p></div>
@@ -2540,8 +2537,8 @@ I picked up his pipes—he had dropped them in his fright— and—ah! here is o
 <pb n="82"/>
 
 
- yet distracted by neighbouring charms, I bathe in beauty:
-I am enthralled: ah, why am I not all eyes like Argus? Methinks it were a fair award, to give the apple to all three. Then again: one is the wife and sister of Zeus; the others are his daughters, Take it where you will, ’tis a hard matter to judge.</p>
+yet distracted by neighbouring charms, I bathe in beauty:
+I am enthralled: ah, why am I not all eyes like Argus? Methinks it were a fair award, to give the apple to all three. Then again: one is the wife and sister of Zeus; the others are his daughters. Take it where you will, ’tis a hard matter to judge.</p>
 
 <p><label>Hermes</label> So it is, Paris. At the same time—Zeus’s orders!
 There is no way out of it.
@@ -2596,7 +2593,7 @@ There is no way out of it.
 
 
 <div type="textpart" subtype="section" n="11">
-<p><label>Paris</label> God of wonders! What loveliness is here! Oh, rapture! How exquisite these maiden charms! How dazzling the majesty of Heaven’s true queen! And oh, how sweet, how enthralling is Aphrodite’s smile! *Tis too much, too much of happiness.—But perhaps it would be well for me to view each in detail; for as yet I doubt, and know not where to look; my eyes are drawn all ways at once.</p>
+<p><label>Paris</label> God of wonders! What loveliness is here! Oh, rapture! How exquisite these maiden charms! How dazzling the majesty of Heaven’s true queen! And oh, how sweet, how enthralling is Aphrodite’s smile! 'Tis too much, too much of happiness.—But perhaps it would be well for me to view each in detail; for as yet I doubt, and know not where to look; my eyes are drawn all ways at once.</p>
 
 <p><label>Aphrodite</label> Yes, that will be best.</p>
 
@@ -2625,7 +2622,7 @@ There is no way out of it.
 <pb n="84"/>
 
 
- your beauty in this desert. What have you to do with mountains? What satisfaction can your beauty give to a lot of cows?
+your beauty in this desert. What have you to do with mountains? What satisfaction can your beauty give to a lot of cows?
 You ought to have been married long ago; not to any of these dowdy women hereabouts, but to some Greek girl; an Argive, perhaps, or a Corinthian, or a Spartan; Helen, now, is a Spartan, and such a pretty girl—quite as pretty as -I am—and so susceptible! Why, if she once caught sight of you, she would give up everything, I am sure, to go with you, and a most devoted wife she would be. But you have heard of Helen, of course?</p>
 
 <p><label>Paris</label> No, ma’am; but I should like to hear all about her now.
@@ -2708,7 +2705,7 @@ Love and Desire. They shall be your guides. Love will assail her in all his migh
 <pb n="86"/>
 
 
- hand, if I chose to haul up, I should have you all dangling in mid air, with earth and sea into the bargain’—and so on; you heard? Well, I dare say he is too much for any of us individually, but I will never believe he outweighs the whole of us in a body, or that, even with the makeweight of earth and sea, we should not get the better of him.
+hand, if I chose to haul up, I should have you all dangling in mid air, with earth and sea into the bargain’—and so on; you heard? Well, I dare say he is too much for any of us individually, but I will never believe he outweighs the whole of us in a body, or that, even with the makeweight of earth and sea, we should not get the better of him.
 
 </p></div>
 
@@ -2746,7 +2743,7 @@ Love and Desire. They shall be your guides. Love will assail her in all his migh
 <pb n="87"/>
 
 
- this new cup-bearer was bought. And it really is too bad, that when every one else is in bed, I should have to go off to Pluto with the Shades, and play the usher in Rhadamanthus’s court. It is not enough that I must be busy all day in the wrestlingground and the Assembly and the schools of rhetoric, the dead must have their share in me too.
+this new cup-bearer was bought. And it really is too bad, that when every one else is in bed, I should have to go off to Pluto with the Shades, and play the usher in Rhadamanthus’s court. It is not enough that I must be busy all day in the wrestlingground and the Assembly and the schools of rhetoric, the dead must have their share in me too.
 </p></div>
 
 
@@ -2783,7 +2780,7 @@ You have utterly done for the earth, trusting your car to a silly boy like that;
 <pb n="88"/>
 
 
- boy pressed me so; how could I tell it would turn out so badly?</p>
+boy pressed me so; how could I tell it would turn out so badly?</p>
 
 <p><label>Zeus</label> Oh, of course you didn’t know what a delicate business it is, and how the slightest divergence ruins everything! it never occurred to you that the horses are spirited, and want a tight hand! oh no! why, give them their heads a moment, and they are out of control; just what happened: they carried him now left, now right, now clean round backwards, and up or down, just at their own sweet will; he was utterly helpless.
 
@@ -2896,7 +2893,7 @@ You have utterly done for the earth, trusting your car to a silly boy like that;
 <pb n="91"/>
 
 
- looks, sit on a rock when it is calm, and lean over the water; just a bit of white skin, that is all; and who cares for that, if it is not picked out with some red?</p>
+looks, sit on a rock when it is calm, and lean over the water; just a bit of white skin, that is all; and who cares for that, if it is not picked out with some red?</p>
 
 <p><label>Galatea</label> Well, if I am all white, I have got a lover of some sort; there is not a-shepherd or a sailor or a boatman to care for any of you. Besides, Polyphemus is very musical.
 
@@ -2908,7 +2905,7 @@ You have utterly done for the earth, trusting your car to a silly boy like that;
 
 
 <div type="textpart" subtype="section" n="5">
-<p>Oh, and the pet that your beau brought you in his arms!—a bear cub nearly as shaggy as himself, Now then, Galatea, do you still think we envy you your lover?</p>
+<p>Oh, and the pet that your beau brought you in his arms!—a bear cub nearly as shaggy as himself. Now then, Galatea, do you still think we envy you your lover?</p>
 
 <p><label>Galatea</label> Well, Doris, only show us your own; no doubt he is much handsomer, and sings and plays far better.</p>
 
@@ -2966,7 +2963,7 @@ You have utterly done for the earth, trusting your car to a silly boy like that;
 
 The villain! that name of his was just a trick! And what I minded most was the way in which he made game of my misfortune: ‘Not even Papa can put this right,’ he said.</p>
 
-<p><label>Posidon</label> Never mind, my boy; I will be even with him. I may not be able to cure blindness, but he shall know that I have something to say to mariners, He is not home yet. F.
+<p><label>Posidon</label> Never mind, my boy; I will be even with him. I may not be able to cure blindness, but he shall know that I have something to say to mariners. He is not home yet. F.
 
 </p></div></div>
 
@@ -3051,7 +3048,7 @@ Everything is above-board. Your eyes were open, I suppose, and you saw me change
 <pb n="95"/>
 
 
- hopes to escape the observation of fishermen: there is no contrast of colour to betray his presence; he looks just like stone.</p>
+hopes to escape the observation of fishermen: there is no contrast of colour to betray his presence; he looks just like stone.</p>
 
 <p><label>Menelaus</label> So I have heard. But yours is quite another matter, Proteus.</p>
 
@@ -3219,7 +3216,7 @@ H.
 <pb n="99"/>
 
 
- when they were in mid Aegean, the sailors rose against him. As I was swimming alongside, I heard all that went on. ‘Since your minds are made up,’ says Arion, ‘at least let me get my mantle on, and sing my own dirge; and then I will throw myself into the sea of my own accord.’—The sailors agreed. He threw his minstrel’s cloak about him, and sang a most sweet melody; and then he let himself drop into the water, never doubting but that his last moment had come. But I caught him up on my back, and swam to shore with him at Taenarum.</p>
+when they were in mid Aegean, the sailors rose against him. As I was swimming alongside, I heard all that went on. ‘Since your minds are made up,’ says Arion, ‘at least let me get my mantle on, and sing my own dirge; and then I will throw myself into the sea of my own accord.’—The sailors agreed. He threw his minstrel’s cloak about him, and sang a most sweet melody; and then he let himself drop into the water, never doubting but that his last moment had come. But I caught him up on my back, and swam to shore with him at Taenarum.</p>
 
 <p><label>Posidon</label> I am glad to find you a patron of the arts. This was handsome pay for a song. F.
 
@@ -3233,7 +3230,7 @@ H.
 
 <p><label>Posidon</label> The strait where the child fell shall be called Hellespont after her. And as for her body, you Nereids shall take it to the Troad to be buried by the inhabitants,
 
-<label>Amphitrite</label> Oh no, Posidon, Let her grave be the sea which bears her name. We are so sorry for her; that step-mother’s treatment of her was shocking.</p>
+<label>Amphitrite</label> Oh no, Posidon. Let her grave be the sea which bears her name. We are so sorry for her; that step-mother’s treatment of her was shocking.</p>
 
 <p><label>Posidon</label> No, my dear, that may not be. And indeed it is not desirable that she should lie here under the sand; her grave shall be in the Troad, as I said, or in the Chersonese. It will be no small consolation to her that Ino will have the same fate before long. She will be chased by Athamas from the top of Cithaeron down the ridge which runs into the sea, and there plunge in with her son in her arms. But her we must rescue, to please Dionysus; Ino was his nurse and suckled him, you know.
 
@@ -3284,14 +3281,14 @@ H.
 </p></div>
 <div type="textpart" subtype="section" n="2">
 <p>
-<label>Posidon</label> I see.—Island, be still! Rise once more from the depths; and this time there must be no sinking. Henceforth you are terra firma; it will be your happiness to receive my brother’s twin children, fairest of the Gods.—Tritons, you will have to convey Leto across, Let all be calm.—As to that
+<label>Posidon</label> I see.—Island, be still! Rise once more from the depths; and this time there must be no sinking. Henceforth you are terra firma; it will be your happiness to receive my brother’s twin children, fairest of the Gods.—Tritons, you will have to convey Leto across. Let all be calm.—As to that
 
 
 
 <pb n="101"/>
 
 
- serpent who is frightening her out of her senses, wait till these children are born; they will soon avenge their mother.—You can tell Zeus that all is ready. Delos stands firm: Leto has only to come. F.
+serpent who is frightening her out of her senses, wait till these children are born; they will soon avenge their mother.—You can tell Zeus that all is ready. Delos stands firm: Leto has only to come. F.
 
 </p></div></div>
 
@@ -3307,7 +3304,7 @@ H.
 
 <p><label>Sea</label> What is this, Xanthus? who has burned you?</p>
 
-<p><label>Xanthus</label> Hephaestus, Oh, I am burned to cinders! oh, oh, oh, I boil!</p>
+<p><label>Xanthus</label> Hephaestus. Oh, I am burned to cinders! oh, oh, oh, I boil!</p>
 
 <p><label>Sea</label> What made him use his fire upon you?</p>
 
@@ -3369,7 +3366,7 @@ I am beginning again, at the mere remembrance of it.</p>
 <pb n="103"/>
 
 
- chest into those fishermen’s nets, look; and then of course they will be hauled in, and come safe to shore.</p>
+chest into those fishermen’s nets, look; and then of course they will be hauled in, and come safe to shore.</p>
 
 <p><label>Thetis</label> The very thing. She shall not die; nor the child, sweet treasure! F.
 
@@ -3414,14 +3411,14 @@ I suppose, cut off Medusa’s head, and flew away.</p>
 
 <p><label>Iphianassa</label> How could he see them? The Gorgons are a forbidden sight. Whoever looks at them will never look at any one else again.</p>
 
-<p><label>Triton</label> Athene held up her shield—I heard him telling Andro-
+<p><label>Triton</label> Athene held up her shield—I heard him telling 
 
 
 
 <pb n="104"/>
 
 
- meda and Cepheus about it afterwards—Athene showed him the reflection of the Gorgon in her shield, which is as bright as any mirror; so he took hold of her hair in his left hand, grasped his scimetar with the right, still looking at the reflection, cut off her head, and was off before her sisters woke up. </p></div>
+Andromeda and Cepheus about it afterwards—Athene showed him the reflection of the Gorgon in her shield, which is as bright as any mirror; so he took hold of her hair in his left hand, grasped his scimetar with the right, still looking at the reflection, cut off her head, and was off before her sisters woke up. </p></div>
 <div type="textpart" subtype="section" n="3">
 <p>
 Lowering his flight as he reached the Ethiopian coast yonder, he caught sight of Andromeda, fettered to a jutting rock, her hair hanging loose about her shoulders; ye Gods, what loveliness was there exposed to view! And first pity of her hard fate prompted him to ask the cause of her doom: but Fate had decreed the maiden’s deliverance, and presently Love stole upon him, and he resolved to save her. The hideous monster now drew near, and would have swallowed her: but the youth, hovering above, smote him with the drawn scimetar in his right hand, and with his left uncovered the petrifying Gorgon’s head: in one moment the monster was lifeless; all of him that had met that gaze was turned to stone. Then Perseus released the maiden from her fetters, and supported her, as with timid steps she descended from the slippery rock.—And now he is to marry her in Cepheus’s palace, and take her home to Argos; so that where she looked for death, she has found an uncommonly good match.</p>
@@ -3486,7 +3483,7 @@ Every wave fell; the sea donned her robe of peace to speed them on their way; we
 <pb n="106"/>
 
 
- train, all eyes; fluttering Loves skimmed the waves, just dipping now and again a heedless toe—in their hands lighted torches, on their lips the nuptial song; up floated Nereids—few but were prodigal of naked charms—and clapped their hands, and kept pace on dolphin steeds; the Triton company, with every seacreature that frights not the eye, tripped it around the maid; for Posidon on his car, with Amphitrite by him, led them in festal mood, ushering his brother through the waves. But, crowning all, a Triton pair bore Aphrodite, reclined on a shell, heaping the bride with all flowers that blow.
+train, all eyes; fluttering Loves skimmed the waves, just dipping now and again a heedless toe—in their hands lighted torches, on their lips the nuptial song; up floated Nereids—few but were prodigal of naked charms—and clapped their hands, and kept pace on dolphin steeds; the Triton company, with every seacreature that frights not the eye, tripped it around the maid; for Posidon on his car, with Amphitrite by him, led them in festal mood, ushering his brother through the waves. But, crowning all, a Triton pair bore Aphrodite, reclined on a shell, heaping the bride with all flowers that blow.
 
 </p></div>
 <div type="textpart" subtype="section" n="4">
@@ -3540,7 +3537,7 @@ But we plunged this way and that, and roused the still seas anew.</p>
 <pb n="108"/>
 
 
- and ventilation, and is patched all colours of the rainbow; always laughing, and usually gibing at pretentious philosophers,
+and ventilation, and is patched all colours of the rainbow; always laughing, and usually gibing at pretentious philosophers,
 
 <label>Pollux</label> Ah, I cannot mistake him now.</p>
 
@@ -3571,7 +3568,7 @@ But we plunged this way and that, and roused the still seas anew.</p>
 <div type="textpart" subtype="section" n="4">
 <p>
 
-<label>Diogenes</label> Yes, my Spartan, and here is for the poor. There are a great many of them, very sorry for themselves and resentful of their helplessness, Tell them to dry their tears and cease their cries; explain to them that here one man is as good as
+<label>Diogenes</label> Yes, my Spartan, and here is for the poor. There are a great many of them, very sorry for themselves and resentful of their helplessness. Tell them to dry their tears and cease their cries; explain to them that here one man is as good as
 
 
 
@@ -3579,7 +3576,7 @@ But we plunged this way and that, and roused the still seas anew.</p>
 <pb n="109"/>
 
 
- another, and they will find those who were rich on earth no better than themselves. As for your Spartans, -you will not mind scolding them, from me, upon their present degeneracy?</p>
+another, and they will find those who were rich on earth no better than themselves. As for your Spartans, -you will not mind scolding them, from me, upon their present degeneracy?</p>
 
 <p><label>Pollux</label> No, no, Diogenes; leave Sparta alone; that is going too far; your other commissions I will execute.</p>
 
@@ -3624,7 +3621,7 @@ Not content with having lived the abominable lives they did, they keep on talkin
 <pb n="110"/>
 
 
- you are, there shall I be also; worrying, jeering, singing you down.</p>
+you are, there shall I be also; worrying, jeering, singing you down.</p>
 
 <p><label>Croesus</label> Presumption!</p>
 
@@ -3673,7 +3670,7 @@ Not content with having lived the abominable lives they did, they keep on talkin
 <pb n="111"/>
 
 
- you from the rest of us? Now, on your seer-ship, what is a Hero? I am sure I don’t know.</p>
+you from the rest of us? Now, on your seer-ship, what is a Hero? I am sure I don’t know.</p>
 
 <p><label>Trophonius</label> He is half God, and half man,
 
@@ -3761,7 +3758,7 @@ It will prevent any unpleasantness later on.</p>
 <pb n="113"/>
 
 
- him be immortal, and bring them away before him with their mouths still open for the fruit that never drops.
+him be immortal, and bring them away before him with their mouths still open for the fruit that never drops.
 </p></div>
 <div type="textpart" subtype="section" n="2">
 <p>
@@ -3803,7 +3800,7 @@ It will prevent any unpleasantness later on.</p>
 <pb n="114"/>
 
 
- teeth in his head, half blind, tottering about with a pair of slaves on each side to hold him up, drivelling and rheumy-eyed, having no joy of life, a living tomb, the derision of his juniors,— and young men are to die in the prime of their strength and beauty. ’Tis contrary to nature. At any rate the young men have a right to know when the old are going to die, so that they may not throw away their attentions on them for nothing, as is sometimes the case. The present arrangement is a putting of the cart before the horse.:
+teeth in his head, half blind, tottering about with a pair of slaves on each side to hold him up, drivelling and rheumy-eyed, having no joy of life, a living tomb, the derision of his juniors,— and young men are to die in the prime of their strength and beauty. ’Tis contrary to nature. At any rate the young men have a right to know when the old are going to die, so that they may not throw away their attentions on them for nothing, as is sometimes the case. The present arrangement is a putting of the cart before the horse.:
 
 </p></div>
 <div type="textpart" subtype="section" n="3">
@@ -3822,7 +3819,7 @@ I passed anxious, sleepless nights, reckoning and arranging all;
 <pb n="115"/>
 
 
- to my death. And he swallows my bait whole, and attends my funeral chuckling.
+to my death. And he swallows my bait whole, and attends my funeral chuckling.
 
 </p></div>
 <div type="textpart" subtype="section" n="5">
@@ -3868,7 +3865,7 @@ As for me, I was free of Dinias’s table, and there died of a surfeit; but that
 <pb n="116"/>
 
 
- and Ptoeodorus the plain; and behold, before he had done drinking, there was I sprawling on the ground, a vicarious corpse! Why are you laughing so, Zenophantus? I am your friend; such mirth is unseemly.</p>
+and Ptoeodorus the plain; and behold, before he had done drinking, there was I sprawling on the ground, a vicarious corpse! Why are you laughing so, Zenophantus? I am your friend; such mirth is unseemly.</p>
 
 <p><label>Zenophantus</label> Well, it was such a humorous exit. And how did the old man behave?</p>
 
@@ -3959,7 +3956,7 @@ F.
 <pb n="118"/>
 
 
- delighted to do me honour; happy was the man on whom my glance rested a moment.</p>
+delighted to do me honour; happy was the man on whom my glance rested a moment.</p>
 
 <p><label>Simylus</label> Well, then, you had some adventure like Phaon’s, when he rowed Aphrodite across from Chios; your God granted your prayer and made you young and fair and lovely again.</p>
 
@@ -3999,7 +3996,7 @@ F.
 <pb n="119"/>
 
 
- foreign accent are no bars to his being called nobler than Codrus, handsomer than Nireus, wiser than Odysseus.</p>
+foreign accent are no bars to his being called nobler than Codrus, handsomer than Nireus, wiser than Odysseus.</p>
 
 <p><label>Simylus</label> Well, I don’t mind; let him be Emperor of Greece, if he likes, so long as he keeps the property away from that other crew. H.
 
@@ -4173,7 +4170,7 @@ F.
 <pb n="123"/>
 
 
- accord.—</p></div>
+accord.—</p></div>
 <div type="textpart" subtype="section" n="12">
 <p>By the way, I surely heard a noise, as if people were shouting on the earth?</p>
 
@@ -4183,7 +4180,7 @@ F.
 <div type="textpart" subtype="section" n="13">
 <p><label>Menippus</label> Wait a bit: before long you will hear the mournful howl of dogs, and the beating of crows’ wings, as they gather to perform my funeral rites.</p>
 
-<p><label>Hermes</label> I like your spirit——However, here we  .re in port. Away with you all to the judgement-seat; it is straight ahead, The ferryman and I must go back for a fresh load.</p>
+<p><label>Hermes</label> I like your spirit——However, here we  .re in port. Away with you all to the judgement-seat; it is straight ahead. The ferryman and I must go back for a fresh load.</p>
 
 <p><label>Menippus</label> Good voyage to you, Hermes.—Let us be getting on; what are you all waiting for? We have got to face the judge, sooner or later; and by all accounts his sentences are no joke; wheels, rocks, vultures are mentioned. Every detail of our lives will now come to light! F.
 
@@ -4295,14 +4292,14 @@ F.
 <div type="textpart" subtype="section" n="3">
 <p>
 
-<label>Alexander</label> on the other hand, in increasing and extending as he did the dominion which he had inherited from his father, was but following the impetus given to him by Fortune. And this conqueror had no sooner crushed his puny adversary by the victories of Issus and Arbela, than he forsook the traditions of his country, and lived the life of a Persian; accepting the prostrations of his subjects, assassinating his friends at his own table, or handing them over to the executioner. I in my command respected the freedom of my country, delayed not to obey her summons, when the enemy with their huge armament invaded Libya, laid aside the privileges of my office, and sub-
+<label>Alexander</label> on the other hand, in increasing and extending as he did the dominion which he had inherited from his father, was but following the impetus given to him by Fortune. And this conqueror had no sooner crushed his puny adversary by the victories of Issus and Arbela, than he forsook the traditions of his country, and lived the life of a Persian; accepting the prostrations of his subjects, assassinating his friends at his own table, or handing them over to the executioner. I in my command respected the freedom of my country, delayed not to obey her summons, when the enemy with their huge armament invaded Libya, laid aside the privileges of my office, and 
 
 
 
 <pb n="127"/>
 
 
- mitted to my sentence withouta murmur. Yet I wasa barbarian all unskilled in Greek culture; I could not recite Homer, nor had I enjoyed the advantages of Aristotle’s instruction; I had to make a shift with such qualities as were mine by nature.—
+submitted to my sentence withouta murmur. Yet I wasa barbarian all unskilled in Greek culture; I could not recite Homer, nor had I enjoyed the advantages of Aristotle’s instruction; I had to make a shift with such qualities as were mine by nature.—
 It is on these grounds that I claim the pre-eminence. My rival has indeed all the lustre that attaches to the wearing of a diadem, and—I know not—for Macedonians such things may have charms: but I cannot think that this circumstance constitutes a higher claim than the courage and genius of one who owed nothing to Fortune, and everything to his own resolution.</p>
 
 <p><label>Minos</label> Not bad, for a Libyan.—Well, Alexander, what do you say to that?
@@ -4321,7 +4318,7 @@ It is on these grounds that I claim the pre-eminence. My rival has indeed all th
 <pb n="128"/>
 
 
- say nothing of Tyre and Arbela, I penetrated into India, and carried my empire to the shores of Ocean; I captured elephants;
+say nothing of Tyre and Arbela, I penetrated into India, and carried my empire to the shores of Ocean; I captured elephants;
 I conquered Porus; I crossed the Tanais, and worsted the Scythians—no mean enemies—in a tremendous cavalry engagement. I heaped benefits upon my friends: I made my enemie’, taste my resentment. If men took me for a god, I cannot blame them; the vastness of my undertakings might excuse such a belief. But to conclude. </p></div>
 <div type="textpart" subtype="section" n="6">
 <p>
@@ -4464,7 +4461,7 @@ But there is one thing I wish you would tell me: how do you like thinking over a
 <pb n="132"/>
 
 
- ran through the body, in the middle of dinner, because he presumed to mention my achievements in the same breath with yours.
+ran through the body, in the middle of dinner, because he presumed to mention my achievements in the same breath with yours.
 
 </p></div>
 <div type="textpart" subtype="section" n="4">
@@ -4506,18 +4503,18 @@ And now that you have died, can you doubt that many a jest is being cracked on t
 
 </p></div>
 <div type="textpart" subtype="section" n="2">
-<p><label>Achilles</label> In those days, son of Nestor, I knew not this place; ignorant whether of those two was the better, I esteemed that flicker of fame more than life; now I see that it is worthless, let folk up there make what verses of it they will. *Tis dead level among the dead, Antilochus; strength and beauty are no more; we welter all in the same gloom, one no better than another; the shades of Trojans fear me not, Achaeans pay me no reverence; each may say what he will; a man is a ghost, ‘or be he churl, or be he peer.’ It irks me; I would fain be a servant, and alive.
+<p><label>Achilles</label> In those days, son of Nestor, I knew not this place; ignorant whether of those two was the better, I esteemed that flicker of fame more than life; now I see that it is worthless, let folk up there make what verses of it they will. 'Tis dead level among the dead, Antilochus; strength and beauty are no more; we welter all in the same gloom, one no better than another; the shades of Trojans fear me not, Achaeans pay me no reverence; each may say what he will; a man is a ghost, ‘or be he churl, or be he peer.’ It irks me; I would fain be a servant, and alive.
 
 </p></div>
 <div type="textpart" subtype="section" n="3">
-<p><label>Antilochus</label> But what help, Achilles? ’tis Nature’s decree that by all means all die. We must abide by her law, and not fret at her commands. Consider too how many of us are with you here; Odysseus comes ere long; how else? Is there not com-
+<p><label>Antilochus</label> But what help, Achilles? ’tis Nature’s decree that by all means all die. We must abide by her law, and not fret at her commands. Consider too how many of us are with you here; Odysseus comes ere long; how else? Is there not 
 
 
 
 <pb n="134"/>
 
 
- fort in the common fate? ’tis something not to suffer alone. See Heracles, Meleager, and many another great one; they, methinks, would not choose return, if one would send them up to serve poor destitute men.
+comfort in the common fate? ’tis something not to suffer alone. See Heracles, Meleager, and many another great one; they, methinks, would not choose return, if one would send them up to serve poor destitute men.
 
 </p></div>
 <div type="textpart" subtype="section" n="4">
@@ -4550,13 +4547,13 @@ I am his phantom.</p>
 
 <p><label>Diogenes</label> His phantom! What then, can one half of any one be a God, and the other half mortal?</p>
 
-<p><label>Heracles</label> Even so. The God still lives. *Tis I, his counterpart, am dead.
+<p><label>Heracles</label> Even so. The God still lives. 'Tis I, his counterpart, am dead.
 
 </p></div>
 <div type="textpart" subtype="section" n="2">
 <p><label>Diogenes</label> I see. You’re a dummy; he palms you off upon Pluto, instead of coming himself. And here are you, enjoying his mortality!</p>
 
-<p><label>Heracles</label> *Tis somewhat as thou hast said.</p>
+<p><label>Heracles</label> 'Tis somewhat as thou hast said.</p>
 
 <p><label>Diogenes</label> Well, but where were Aeacus’s keen eyes, that he let
 
@@ -4565,7 +4562,7 @@ I am his phantom.</p>
 <pb n="135"/>
 
 
- a counterfeit Heracles pass under his very nose, and never knew the difference?</p>
+a counterfeit Heracles pass under his very nose, and never knew the difference?</p>
 
 <p><label>Heracles</label> I was made very like to him.</p>
 
@@ -4603,7 +4600,7 @@ You were really half-brothers all the time?</p>
 <pb n="136"/>
 
 
- phantom, you have no body. At this rate we shall get three Heracleses.</p>
+phantom, you have no body. At this rate we shall get three Heracleses.</p>
 
 <p><label>Heracles</label> Three?</p>
 
@@ -4696,7 +4693,7 @@ I am a new-comer.</p>
 <pb n="138"/>
 
 
- part of Greece; Greeks and barbarians were slain, and cities made desolate.</p>
+part of Greece; Greeks and barbarians were slain, and cities made desolate.</p>
 
 <p><label>Hermes</label> Ah, Menippus, you never saw the living Helen; or you would have said with Homer,
 
@@ -4742,7 +4739,7 @@ F.
 <pb n="139"/>
 
 
- of your deity? against love you know (with the best will in the world) how vain it is to strive; ’tis a spirit that draws us whither it will.
+of your deity? against love you know (with the best will in the world) how vain it is to strive; ’tis a spirit that draws us whither it will.
 
 </p></div>
 <div type="textpart" subtype="section" n="2">
@@ -4780,7 +4777,7 @@ H.
 <pb n="140"/>
 
 
- heroes flung down upon the earth, shapeless, undistinguishable; mere meaningless dust; ‘strengthless heads,’ and no mistake.—Who is this one, Aeacus?</p>
+heroes flung down upon the earth, shapeless, undistinguishable; mere meaningless dust; ‘strengthless heads,’ and no mistake.—Who is this one, Aeacus?</p>
 
 <p><label>Aeacus</label> That is Cyrus; and here is Croesus; beyond him Sardanapalus, and beyond him again Midas, And yonder is Xerxes.</p>
 
@@ -4997,7 +4994,7 @@ F.
 
 <p><label>Charon</label> Where did you pick up this Cynic, Hermes? The noise he made on the crossing, too! laughing and jeering at all the rest, and singing, when every one else was at his lamentations.</p>
 
-<p><label>Hermes</label> Ah, Charon, you little know your passenger! Independence, every inch of him: he cares for noone. *Tis Menippus.</p>
+<p><label>Hermes</label> Ah, Charon, you little know your passenger! Independence, every inch of him: he cares for noone. 'Tis Menippus.</p>
 
 <p><label>Charon</label> Wait till I catch you——
 
@@ -5054,7 +5051,7 @@ F.
 </p></div>
 <div type="textpart" subtype="section" n="3">
 <p>
-<label>Protesilaus</label> Bethink thee, Pluto. *T'was for this same cause that ye gave Orpheus his Eurydice; and Heracles had interest enough to be granted Alcestis; she was of my kin.</p>
+<label>Protesilaus</label> Bethink thee, Pluto. 'T'was for this same cause that ye gave Orpheus his Eurydice; and Heracles had interest enough to be granted Alcestis; she was of my kin.</p>
 
 <p><label>Pluto</label> Would you like to present that bare ugly skull to your fair bride? will she admit you, when she cannot tell you from another man? I know well enough; she will be frightened and run from you, and you will have gone all that way for nothing.</p>
 
@@ -5089,7 +5086,7 @@ F.
 
 
 
- was comely, and of noble stature, and a mighty warrior. Finally, a vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. Thereon are the perfect semblances of man and horse, carved in the fairest marble; scarcely may a temple be found to match it. These are the grounds of my pride: are they inadequate?
+was comely, and of noble stature, and a mighty warrior. Finally, a vast tomb lies over me in Halicarnassus, of such dimensions, of such exquisite beauty as no other shade can boast. Thereon are the perfect semblances of man and horse, carved in the fairest marble; scarcely may a temple be found to match it. These are the grounds of my pride: are they inadequate?
 
 </p></div>
 <div type="textpart" subtype="section" n="2">
@@ -5249,7 +5246,7 @@ He has no charm for most people.</p>
 <pb n="150"/>
 
 
- charged far in advance of his men, and the Thracian, standing his ground and sheltering himself with his buckler, warded off the lance, and then, planting his pike, transfixed man and horse together.
+charged far in advance of his men, and the Thracian, standing his ground and sheltering himself with his buckler, warded off the lance, and then, planting his pike, transfixed man and horse together.
 
 </p></div>
 <div type="textpart" subtype="section" n="4">
@@ -5275,7 +5272,7 @@ I left them to their blubberings, ran on to the ferry, and secured a comfortable
 <pb n="151"/>
 
 
- well. When Damis exclaimed upon his son, ‘You only have your deserts,’ I remarked,—‘an old man of ninety living in luxury yourself with your million of money, and fobbing off your eighteen-year son with a few pence! As for you, sir Acarnanian’—he was groaning and cursing Myrtium—, ‘why put the blame on Love? it belongs to yourself; you were never afraid of an enemy—took all sorts of risks in other people’s service—and then let yourself be caught, my hero, by the artificial tears and sighs of the first wench you came across.’ Blepsias uttered his own condemnation, without giving me time to do it for him: he had hoarded his money for heirs who were nothing to him, and been fool enough to reckon on immortality. I assure you it was no common satisfaction I derived from their whinings.
+well. When Damis exclaimed upon his son, ‘You only have your deserts,’ I remarked,—‘an old man of ninety living in luxury yourself with your million of money, and fobbing off your eighteen-year son with a few pence! As for you, sir Acarnanian’—he was groaning and cursing Myrtium—, ‘why put the blame on Love? it belongs to yourself; you were never afraid of an enemy—took all sorts of risks in other people’s service—and then let yourself be caught, my hero, by the artificial tears and sighs of the first wench you came across.’ Blepsias uttered his own condemnation, without giving me time to do it for him: he had hoarded his money for heirs who were nothing to him, and been fool enough to reckon on immortality. I assure you it was no common satisfaction I derived from their whinings.
 
 </p></div>
 <div type="textpart" subtype="section" n="8">
@@ -5555,20 +5552,20 @@ F.
 <pb n="158"/>
 
 
- and they do not confine themselves to the Heroes, but include the Gods in their descriptions, adulterous Gods, rapacious Gods, violent, litigious, usurping, incestuous Gods—, well, I found it all quite proper, and indeed was intensely interested in it. But as I came to man’s estate, I observed that the laws flatly contradicted the poets, forbidding adultery, sedition, and rapacity. So I was in a very hazy state of mind, and could not tell what to make of it. The Gods would surely never have been guilty of such behaviour if they had not considered it good; and yet law-givers would never have recommended avoiding it, if avoidance had not seemed desirable.
+and they do not confine themselves to the Heroes, but include the Gods in their descriptions, adulterous Gods, rapacious Gods, violent, litigious, usurping, incestuous Gods—, well, I found it all quite proper, and indeed was intensely interested in it. But as I came to man’s estate, I observed that the laws flatly contradicted the poets, forbidding adultery, sedition, and rapacity. So I was in a very hazy state of mind, and could not tell what to make of it. The Gods would surely never have been guilty of such behaviour if they had not considered it good; and yet law-givers would never have recommended avoiding it, if avoidance had not seemed desirable.
 
 </p></div>
 
 
 <div type="textpart" subtype="section" n="4">
-<p>In this perplexity, I determined to go to the people they call philosophers, put myself in their hands, and ask them to make what they would of me and give me a plain reliable map of life. This was my idea in going to them; but the effort only shifted me from the frying-pan into the fire; it was just among these that my inquiry brought the greatest ignorance and bewilderment to light; they very soon convinced me that the real golden life is that of the man in the street. One of them would have me do nothing but seek pleasure and ensue it; according to him, Happiness was pleasure, Another recommended the exact contrary—toil and moil, bring the body under, be filthy and squalid, disgusting and abusive—concluding always with the tags from Hesiod about Virtue, or something about indefatigable pursuit of the ideal, Another bade me despise money, and reckon the acquisition of it as a thing indifferent; he too had his contrary, who declared wealth a good in itself. I will spare you their metaphysics; I was sickened with daily doses of Ideas, Incorporeal Things, Atoms, Vacua, and a multitude more. The extraordinary thing was that people maintaining the most opposite views would each of them produce convincing plausible arguments; when the same thing was called hot and cold by different persons, there was no re-
+<p>In this perplexity, I determined to go to the people they call philosophers, put myself in their hands, and ask them to make what they would of me and give me a plain reliable map of life. This was my idea in going to them; but the effort only shifted me from the frying-pan into the fire; it was just among these that my inquiry brought the greatest ignorance and bewilderment to light; they very soon convinced me that the real golden life is that of the man in the street. One of them would have me do nothing but seek pleasure and ensue it; according to him, Happiness was pleasure, Another recommended the exact contrary—toil and moil, bring the body under, be filthy and squalid, disgusting and abusive—concluding always with the tags from Hesiod about Virtue, or something about indefatigable pursuit of the ideal, Another bade me despise money, and reckon the acquisition of it as a thing indifferent; he too had his contrary, who declared wealth a good in itself. I will spare you their metaphysics; I was sickened with daily doses of Ideas, Incorporeal Things, Atoms, Vacua, and a multitude more. The extraordinary thing was that people maintaining the most opposite views would each of them produce convincing plausible arguments; when the same thing was called hot and cold by different persons, there was no 
 
 
 
 <pb n="159"/>
 
 
- futing one more than the other, however well one knew that it could not be hot and cold at once. I was just like a man dropping off to sleep, with his head first nodding forward, and then jerking back.
+refuting one more than the other, however well one knew that it could not be hot and cold at once. I was just like a man dropping off to sleep, with his head first nodding forward, and then jerking back.
 
 </p></div>
 
@@ -5593,7 +5590,7 @@ F.
 <pb n="160"/>
 
 
- sun in a long formula, of which I never caught much; he gabbled indistinctly, like bad heralds at the Games; but he appeared to be invoking spirits. This charm completed, he spat thrice upon my face, and I went home, not letting my eyes meet those of any one we passed. Our food was nuts and acorns, our drink’ milk and hydromel and water from the Choaspes, and we slept out of doors on the grass. When he thought me sufficiently prepared, he took me at midnight to the Tigris, purified and rubbed me over, sanctified me with torches and squills and other things, muttering the charm aforesaid, then made a magic circle round me to protect me from ghosts, and finally led me home backwards just as I was; it was now time to arrange our voyage.
+sun in a long formula, of which I never caught much; he gabbled indistinctly, like bad heralds at the Games; but he appeared to be invoking spirits. This charm completed, he spat thrice upon my face, and I went home, not letting my eyes meet those of any one we passed. Our food was nuts and acorns, our drink’ milk and hydromel and water from the Choaspes, and we slept out of doors on the grass. When he thought me sufficiently prepared, he took me at midnight to the Tigris, purified and rubbed me over, sanctified me with torches and squills and other things, muttering the charm aforesaid, then made a magic circle round me to protect me from ghosts, and finally led me home backwards just as I was; it was now time to arrange our voyage.
 
 </p></div>
 
@@ -5620,7 +5617,7 @@ For some distance we floated down stream, until we entered the marshy lake in wh
 <pb n="161"/>
 
 
- slay our sheep, and sprinkle their blood round thé edge. Meanwhile the Mage, with a lighted torch in his hand, abandoning his customary whisper, shouted at the top of his voice an invocation to all spirits, particularly the Poenae and Erinyes,
+slay our sheep, and sprinkle their blood round thé edge. Meanwhile the Mage, with a lighted torch in his hand, abandoning his customary whisper, shouted at the top of his voice an invocation to all spirits, particularly the Poenae and Erinyes,
 
 <l>Hecat’s dark might, and dread Persephone,</l> with a string of other names, outlandish, unintelligible, and polysyllabic.
 </p></div>
@@ -5641,7 +5638,7 @@ For some distance we floated down stream, until we entered the marshy lake in wh
 <pb n="162"/>
 
 
- that pollutes the stream of life. Separate from them came the rich and usurers, pale, pot-bellied, and gouty, each with a hundredweight of spiked collar upon him. There we stood looking at the proceedings and listening to the pleas they put in; their accusers were orators of a strange and novel species.</p>
+that pollutes the stream of life. Separate from them came the rich and usurers, pale, pot-bellied, and gouty, each with a hundredweight of spiked collar upon him. There we stood looking at the proceedings and listening to the pleas they put in; their accusers were orators of a strange and novel species.</p>
 
 <p><label>Philonides</label> Who, in God’s name? shrink not; let me know all.</p>
 
@@ -5668,7 +5665,7 @@ For some distance we floated down stream, until we entered the marshy lake in wh
 <pb n="163"/>
 
 
- case. Dionysius of Syracuse was accused by Dion of many unholy deeds, and damning evidence was produced by his shadow; he was on the point of being chained to the Chimera, when Aristippus of Cyrene, whose name and influence are great below, got him off on the ground of his constant generosity as a patron of literature.
+case. Dionysius of Syracuse was accused by Dion of many unholy deeds, and damning evidence was produced by his shadow; he was on the point of being chained to the Chimera, when Aristippus of Cyrene, whose name and influence are great below, got him off on the ground of his constant generosity as a patron of literature.
 
 </p></div>
 
@@ -5709,7 +5706,7 @@ Pyrrhias from Agamemnon’s self. Their ancient marks were gone, and their bones
 <pb n="165"/>
 
 
- leaves monuments, statues, inscriptions behind him on earth, does not this place him in a class above the common dead?</p>
+leaves monuments, statues, inscriptions behind him on earth, does not this place him in a class above the common dead?</p>
 
 <p><label>Menippus</label> Nonsense, my good man; if you had looked on Mausolus himself—the Carian so famous for his tomb—, I assure you, you would never have stopped laughing; he was a miserable unconsidered unit among the general mass of the dead, flung aside in a dusty hole, with no profit of his sepulchre but its extra weight upon him. No, friend, when Aeacus gives a man his allowance of space—and it never exceeds a foot’s breadth—, he must be content to pack himself into its limits. You might have laughed still more if you had beheld the kings and governors of earth begging in Hades, selling salt fish for a living, it might be, or giving elementary lessons, insulted by any one who met them, and cuffed like the most worthless of slaves. When I saw Philip of Macedon, I could not contain myself; some one showed him to me cobbling old shoes for money in a corner. Many others were to be seen begging—people like Xerxes, Darius, or Polycrates.
 
@@ -5757,7 +5754,7 @@ Pyrrhias from Agamemnon’s self. Their ancient marks were gone, and their bones
 
 <pb n="167"/>
 
- leave me not to wander through life in a blindness worse than yours.’ So he drew me apart to a considerable distance, and whispered in my ear:—‘ The life of the ordinary man is the best and most prudent choice; cease from the folly of metaphysical speculation and inquiry into origins and ends, utterly reject their clever logic, count all these things idle talk, and pursue one end, alone—how you may do what your hand finds to do, and go your way with ever a smile and never a passion.’</p>
+leave me not to wander through life in a blindness worse than yours.’ So he drew me apart to a considerable distance, and whispered in my ear:—‘ The life of the ordinary man is the best and most prudent choice; cease from the folly of metaphysical speculation and inquiry into origins and ends, utterly reject their clever logic, count all these things idle talk, and pursue one end, alone—how you may do what your hand finds to do, and go your way with ever a smile and never a passion.’</p>
 
 <p>So he, and sought the lawn of asphodel.</p>
 
@@ -5786,7 +5783,7 @@ It was now late, and I told Mithrobarzanes that our work was done, and we might 
 <pb n="168"/>
 
 
- in the light of day. I am in luck, it seems, to fall in with you. You will show me round, of course, and point out all that‘is to be seen, as you know all about it.</p>
+in the light of day. I am in luck, it seems, to fall in with you. You will show me round, of course, and point out all that‘is to be seen, as you know all about it.</p>
 
 <p><label>Hermes</label> I have no time, good ferryman. I am bound on certain errands of the Upper Zeus, certain human matters. He is short-tempered: any loitering on my part, and he may hand me over to you Powers of Darkness for good and all; or treat me as he did Hephaestus the other day—hurl me down headlong from the threshold of Heaven; there would be a pair of lame cupbearers then, to amuse the gods.</p>
 
@@ -5803,7 +5800,7 @@ It was now late, and I told Mithrobarzanes that our work was done, and we might 
 <pb n="169"/>
 
 
- proportionately furious. We have only to think, therefore, of contriving you a general view of what is going on.</p>
+proportionately furious. We have only to think, therefore, of contriving you a general view of what is going on.</p>
 
 <p><label>Charon</label> You must do the best you can for me. I know nothing of the matter, being a stranger up here.</p>
 
@@ -5899,7 +5896,7 @@ That’s better! A fine view. You can come now.</p>
 <pb n="172"/>
 
 
- with you.’ And before the words were out of his mouth, down came a tile—started somehow from the roof—and he was a dead man! Ha, ha, thought I, that promise will never be kept.—
+with you.’ And before the words were out of his mouth, down came a tile—started somehow from the roof—and he was a dead man! Ha, ha, thought I, that promise will never be kept.—
 So I think I shall go down again; I want to see and hear.
 
 </p></div>
@@ -5970,7 +5967,7 @@ No Greek, to judge by his dress.</p>
 <pb n="174"/>
 
 
- of bullion, and all my riches. Tell me therefore, whom do you account the happiest of mankind?</p>
+of bullion, and all my riches. Tell me therefore, whom do you account the happiest of mankind?</p>
 
 <p><label>Charon</label> What will Solon say, I wonder?</p>
 
@@ -6007,7 +6004,7 @@ No Greek, to judge by his dress.</p>
 <pb n="175"/>
 
 
- this men will endure slavery and imprisonment; for this they traffic and sail the seas.;
+this men will endure slavery and imprisonment; for this they traffic and sail the seas.;
 
 <label>Charon</label> For this stuff? Why, it is not much different from copper. I know copper, of course, because I get a penny from each passenger.</p>
 
@@ -6087,7 +6084,7 @@ No Greek, to judge by his dress.</p>
 <pb n="177"/>
 
 
- and Ethiopia, will finally slay the god Apis, and die a raving madman.</p>
+and Ethiopia, will finally slay the god Apis, and die a raving madman.</p>
 
 <p><label>Charon</label> What fun! Why, at this moment no one would presume to meet their eyes; from such a height do they look down on the rest of mankind. Who would believe that before long one of them will be a captive, and the other have his head in a bottle of blood?—</p></div>
 
@@ -6118,7 +6115,7 @@ Let them know that they are men. And let them be exalted in the meantime; the hi
 <pb n="178"/>
 
 
- and such like. They differ in their habits. The Folly is a domestic creature, with vested rights of its own. The same with the Grudge, the Hate, the Envy, the Greed, the Knownot, and the What’s-to-do. But the Fear and the Hope fly overhead. The Fear swoops on its prey from above; sometimes it is content with startling a man out of his wits, sometimes it frightens him in real earnest. The Hope hovers almost within reach, and just when a man thinks he is going to catch it, off it flies, and leaves him gaping—like Tantalus in the water, you know.</p></div>
+and such like. They differ in their habits. The Folly is a domestic creature, with vested rights of its own. The same with the Grudge, the Hate, the Envy, the Greed, the Knownot, and the What’s-to-do. But the Fear and the Hope fly overhead. The Fear swoops on its prey from above; sometimes it is content with startling a man out of his wits, sometimes it frightens him in real earnest. The Hope hovers almost within reach, and just when a man thinks he is going to catch it, off it flies, and leaves him gaping—like Tantalus in the water, you know.</p></div>
 
 
 <div type="textpart" subtype="section" n="16">
@@ -6143,7 +6140,7 @@ Let them know that they are men. And let them be exalted in the meantime; the hi
 <pb n="179"/>
 
 
- juties, tyrants,—not one of which gives them a moment’s concern so long as they are prosperous; but when they come to grief, then it is Alack! and Well-a-day! and Oh dear me!
+juties, tyrants,—not one of which gives them a moment’s concern so long as they are prosperous; but when they come to grief, then it is Alack! and Well-a-day! and Oh dear me!
 If only they would start with a clear understanding that they are mortal, that after a brief sojourn on the earth they will wake from the dream of life, and leave all behind them,—they would live more sensibly, and not mind dying so much. As it is, they get it into their heads that what they possess they possess for good and all; the consequence is, that when Death’s officer calls for them, and claps on a fever or a consumption, they take it amiss; the parting is so wholly unexpected. Yonder is a man building his house, urging the workmen to use all dispatch. How would he take the news, that he was just to see the roof on and all complete, when he would have to take his departure, and leave all the enjoyment to his heir?—hard fate, not once to sup beneath it! There again is one rejoicing over the birth of a son; the child is to inherit his grandfather’s name, and the father is celebrating the occasion with his friends. He would not be so pleased, if he knew that the boy was to die before he was eight years old! It is natural enough: he sees before him some happy father of an Olympian victor, and has no eyes for his neighbour there, who is burying a child; that thin-spun thread escapes, his notice. Behold, too, the moneygtubbers, whom the aforesaid Death’s-oficers will never permit to be money-spenders; and the noble army of litigant neighbours!
 
 </p></div>
@@ -6157,7 +6154,7 @@ If only they would start with a clear understanding that they are mortal, that a
 <pb n="180"/>
 
 
- nothing of the tyranny of Sorrow, Disease, and Passion, with whom there is confessedly no respect of persons. And if the king’s lot is a hard one, we may make a pretty shrewd guess at that of the commoner.</p></div>
+nothing of the tyranny of Sorrow, Disease, and Passion, with whom there is confessedly no respect of persons. And if the king’s lot is a hard one, we may make a pretty shrewd guess at that of the commoner.</p></div>
 
 
 <div type="textpart" subtype="section" n="19">
@@ -6185,7 +6182,7 @@ If only they would start with a clear understanding that they are mortal, that a
 
 
 
- crew when he was afraid of the Sirens; they have waxed men’s ears up so effectually, that no drill would ever open them. How then should they hear you? You might shout till your lungs gave way. Ignorance is as potent here as the waters of Lethe are with you. There are a few, to be sure, who from a regard for Truth have refused the wax process; men whose eyes are open to discern good and evil.</p>
+crew when he was afraid of the Sirens; they have waxed men’s ears up so effectually, that no drill would ever open them. How then should they hear you? You might shout till your lungs gave way. Ignorance is as potent here as the waters of Lethe are with you. There are a few, to be sure, who from a regard for Truth have refused the wax process; men whose eyes are open to discern good and evil.</p>
 
 <p><label>Charon</label> Well then, we might call out to them?</p>
 
@@ -6238,7 +6235,7 @@ What does it all mean?</p>
 <pb n="183"/>
 
 
- stranger still, so do rivers! Inachus is gone from Argos—not a puddle left.</p>
+stranger still, so do rivers! Inachus is gone from Argos—not a puddle left.</p>
 
 <p><label>Charon</label> Oh, Homer, Homer! You and your ‘holy Troy,’ and your ‘city of broad streets,’ and your ‘strong-walled Cleonae’!
 </p></div>
@@ -6278,7 +6275,7 @@ Methinks that man must lie sore stricken under the hand of sorrow, who has not a
 <pb n="184"/>
 
 
- be all. He will first have a question to ask himself: Is he to call them devout worshippers or very outcasts, who think so meanly of God as to suppose that he can require anything at the hand of man, can take pleasure in their flattery, or be wounded by their neglect? Thus the afflictions of the Calydonians, that long tale of misery and violence, ending with the death of Meleager—all is attributed to the resentment of Artemis, at Oeneus’s neglect in not inviting her to a feast. She must have taken the disappointment very much to heart. I fancy I see her, poor Goddess, left all alone in Heaven, after the rest have set out for Calydon, brooding darkly over the fine spread at which she will not be present.</p></div>
+be all. He will first have a question to ask himself: Is he to call them devout worshippers or very outcasts, who think so meanly of God as to suppose that he can require anything at the hand of man, can take pleasure in their flattery, or be wounded by their neglect? Thus the afflictions of the Calydonians, that long tale of misery and violence, ending with the death of Meleager—all is attributed to the resentment of Artemis, at Oeneus’s neglect in not inviting her to a feast. She must have taken the disappointment very much to heart. I fancy I see her, poor Goddess, left all alone in Heaven, after the rest have set out for Calydon, brooding darkly over the fine spread at which she will not be present.</p></div>
 
 
 <div type="textpart" subtype="section" n="2">
@@ -6296,7 +6293,7 @@ The God is quite put out of countenance: he seizes his bow,
 <pb n="185"/>
 
 
- settles down in the harbour and smites the Achaeans with shafts of pestilence, them and their mules and their dogs.
+settles down in the harbour and smites the Achaeans with shafts of pestilence, them and their mules and their dogs.
 </p></div>
 
 
@@ -6312,7 +6309,7 @@ The God is quite put out of countenance: he seizes his bow,
 <pb n="186"/>
 
 
- eagle; a very Proteus for versatility. Once, and only once, he conceived within his own brain, and gave birth to Athene. For Dionysus, they say, he tore from the womb of Semele before the fire had yet consumed her, and hid the child within his thigh, till the time of travail was come.
+eagle; a very Proteus for versatility. Once, and only once, he conceived within his own brain, and gave birth to Athene. For Dionysus, they say, he tore from the womb of Semele before the fire had yet consumed her, and hid the child within his thigh, till the time of travail was come.
 
 </p></div>
 
@@ -6335,7 +6332,7 @@ The God is quite put out of countenance: he seizes his bow,
 <pb n="187"/>
 
 
- gold. We arrive first at the abode of the Seasons; they are the portresses of Heaven. Then we have Iris and Hermes, the servants and messengers of Zeus; and next Hephaestus’s smithy, which is stocked with all manner of cunning contrivances. Last come the dwellings of the Gods, and the palace of Zeus. All are the work of Hephaestus; and noble work it is,
+gold. We arrive first at the abode of the Seasons; they are the portresses of Heaven. Then we have Iris and Hermes, the servants and messengers of Zeus; and next Hephaestus’s smithy, which is stocked with all manner of cunning contrivances. Last come the dwellings of the Gods, and the palace of Zeus. All are the work of Hephaestus; and noble work it is,
 
 </p></div>
 
@@ -6361,7 +6358,7 @@ If a sacrifice is going forward, all mouths are open to feast upon the smoke; li
 <pb n="188"/>
 
 
- rest of it;—he has been lying snugly underground in Crete all this time.
+rest of it;—he has been lying snugly underground in Crete all this time.
 
 </p></div>
 
@@ -6389,7 +6386,7 @@ If a sacrifice is going forward, all mouths are open to feast upon the smoke; li
 <pb n="189"/>
 
 
- with blood,—in short, omitting no detail of his holy office. Finally, he kindles fire, and sets the victim bodily thereon, sheep or goat, unfleeced, unflayed. A godly steam, and fit for godly nostrils, rises heavenwards, and drifts to each quarter of the sky. The Scythian, by the way, will have nothing to do with paltry cattle: he offers men to Artemis; and the offering is appreciated.
+with blood,—in short, omitting no detail of his holy office. Finally, he kindles fire, and sets the victim bodily thereon, sheep or goat, unfleeced, unflayed. A godly steam, and fit for godly nostrils, rises heavenwards, and drifts to each quarter of the sky. The Scythian, by the way, will have nothing to do with paltry cattle: he offers men to Artemis; and the offering is appreciated.
 
 </p></div>
 
@@ -6404,14 +6401,14 @@ If so, you will find no lack of sages and scribes and shaven priests to inform y
 
 
 <div type="textpart" subtype="section" n="15">
-<p>Their sacrifices differ from others only in this respect, that they go into mourning for the victim, slaying him first, and beating their breasts for grief afterwards, and (in some parts) burying him as soon as he is killed. When their great god Apis dies, off comes every man’s hair, however much he values himself on it; though he had the purple lock of Nisus, it would make no difference: he must show a sad crown on the occasion, if he die for it. It is as the result of an election that each succeeding Apis leaves his pasture for the temple; his superior beauty and majestic bearing prove that he is something more than bull. On such absurdities as these, such vulgar credulity, remon-
+<p>Their sacrifices differ from others only in this respect, that they go into mourning for the victim, slaying him first, and beating their breasts for grief afterwards, and (in some parts) burying him as soon as he is killed. When their great god Apis dies, off comes every man’s hair, however much he values himself on it; though he had the purple lock of Nisus, it would make no difference: he must show a sad crown on the occasion, if he die for it. It is as the result of an election that each succeeding Apis leaves his pasture for the temple; his superior beauty and majestic bearing prove that he is something more than bull. On such absurdities as these, such vulgar credulity, 
 
 
 
 <pb n="190"/>
 
 
- strance would be thrown away; a Heraclitus would best meet the case, or a Democritus; for the ignorance of these men is as laughable as their folly is deplorable. F.
+remonstrance would be thrown away; a Heraclitus would best meet the case, or a Democritus; for the ignorance of these men is as laughable as their folly is deplorable. F.
 
 </p></div></div>
 
@@ -6784,7 +6781,7 @@ Above all, be bold, be impudent; distribute your abuse impartially to king and c
 <pb n="198"/>
 
 
- the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm.</p>
+the spirit, not of the flesh. Under my roof, be sure, a boy will come to no harm.</p>
 
 <p><label>Fifth Dealer</label> Very unconvincing that. A teacher of the art of love, and never meddle with anything but the spirit? Never use the opportunities your office gives you?
 
@@ -6936,7 +6933,7 @@ Who is for universal monopoly?</p>
 <pb n="201"/>
 
 
- guess correctly whether he means to restore him or not. Which are you going to say?</p>
+guess correctly whether he means to restore him or not. Which are you going to say?</p>
 
 <p><label>Seventh Dealer</label> A difficult question. I don’t know which way I should get him back soonest. In Heaven’s hame, answer for me, and save the child before he is eaten up.</p>
 
@@ -7221,7 +7218,7 @@ We are all parties in this war; not one of us but he has assailed. You, Diogenes
 <pb n="207"/>
 
 
- characters you have assailed. Now, what shall we do with him? it must be rather an elaborate execution, to meet all our claims upon him; he owes a separate death to every one of us.
+characters you have assailed. Now, what shall we do with him? it must be rather an elaborate execution, to meet all our claims upon him; he owes a separate death to every one of us.
 
 First Phil. Impale him, say I.
 
@@ -7309,7 +7306,7 @@ Leave him his life; the suppliant’s life is sacred.</p>
 <pb n="209"/>
 
 
- us. I believe you are under the delusion that you are really talking to slaves; after the insolent excesses of your tongue, do you propose to chop gratitude with us?
+us. I believe you are under the delusion that you are really talking to slaves; after the insolent excesses of your tongue, do you propose to chop gratitude with us?
 
 </p></div>
 
@@ -7336,7 +7333,7 @@ Leave him his life; the suppliant’s life is sacred.</p>
 <pb n="210"/>
 
 
- hearing of both sides? Appoint a judge, then; be you my accusers, by your own mouths or by your chosen representative; and let me defend my own case; then if I be convicted of wrong, and that be the court’s decision, I shall get my deserts, and you will have no violence upon your consciences. But if examination shows me spotless and irreproachable, the court will acquit me, and then turn you your wrath upon the deceivers who have excited you against me.
+hearing of both sides? Appoint a judge, then; be you my accusers, by your own mouths or by your chosen representative; and let me defend my own case; then if I be convicted of wrong, and that be the court’s decision, I shall get my deserts, and you will have no violence upon your consciences. But if examination shows me spotless and irreproachable, the court will acquit me, and then turn you your wrath upon the deceivers who have excited you against me.
 
 </p></div>
 
@@ -7344,7 +7341,7 @@ Leave him his life; the suppliant’s life is sacred.</p>
 <div type="textpart" subtype="section" n="9">
 <p><label>Platonists</label> Ah, every cock to his own dunghill! You think you will hoodwink the jury and get off. I hear you are a lawyer, an advocate, an old hand at a speech. Have you any judge to suggest who will be proof against such an experienced corrupter as you?</p>
 
-<p><label>Lucian</label> Oh, be reassured. The official I think of proposing is no suspicious, dubious character likely to sell a verdict. What say you to forming the court yourselves, with’ Philosophy for your President?</p>
+<p><label>Lucian</label> Oh, be reassured. The official I think of proposing is no suspicious, dubious character likely to sell a verdict. What say you to forming the court yourselves, with Philosophy for your President?</p>
 
 <p><label>Platonists</label> Who is to prosecute, if we are the jury?</p>
 
@@ -7391,7 +7388,7 @@ I do not know where she lives, myself. I once spent a long time wandering about 
 <pb n="212"/>
 
 
- generally known. However, we need not go to her house; we will wait for her here in the Ceramicus. I should think it is near her hour for coming back from the Academy, and taking her walk in the Poecile; she is very regular; to be sure, here she comes. Do you see the orderly, rather prim lady there, with the kindly look in her eyes, and the slow meditative walk?</p>
+generally known. However, we need not go to her house; we will wait for her here in the Ceramicus. I should think it is near her hour for coming back from the Academy, and taking her walk in the Poecile; she is very regular; to be sure, here she comes. Do you see the orderly, rather prim lady there, with the kindly look in her eyes, and the slow meditative walk?</p>
 
 <p><label>Lucian</label> I see several answering the description so far as looks and walk and clothes go. Yet among them all the real lady Philosophy can be but one.</p>
 
@@ -7450,7 +7447,7 @@ I do not know where she lives, myself. I once spent a long time wandering about 
 
 <p><label>Philosophy</label> Not see her? over there, all naked and unadorned, shrinking from observation, and always slipping out of sight.</p>
 
-<p><label>Lucian</label> Now just discern her. But why not bring them all with you? there would be a fullness and completeness about that commission. Ah yes, and I should like to brief Truth on my behalf. ©
+<p><label>Lucian</label> Now just discern her. But why not bring them all with you? there would be a fullness and completeness about that commission. Ah yes, and I should like to brief Truth on my behalf. 
 
 <label>Philosophy</label> Well thought of; come, all of you; you will not mind sitting through a single case—in which we have a personal interest, too?
 
@@ -7511,7 +7508,7 @@ I do not know where she lives, myself. I once spent a long time wandering about 
 <pb n="215"/>
 
 
- not vary as a man comes from Soli or Cyprus, Babylon or Stagira. However, even one who could not talk Greek would be none the worse in your eyes, so long as his sentiments were right and just.</p>
+not vary as a man comes from Soli or Cyprus, Babylon or Stagira. However, even one who could not talk Greek would be none the worse in your eyes, so long as his sentiments were right and just.</p>
 
 <p><label>Philosophy</label> True, the question was unnecessary.
 
@@ -7603,7 +7600,7 @@ I will come at once, then, to the insults to which we have been subjected by the
 <pb n="218"/>
 
 
- the stage, and wove farcical comedies around him. But they at least confined themselves to a single victim, and they had the charter of Dionysus; a jest might pass at holiday time, and the laughing God might be well pleased.
+the stage, and wove farcical comedies around him. But they at least confined themselves to a single victim, and they had the charter of Dionysus; a jest might pass at holiday time, and the laughing God might be well pleased.
 
 </p></div>
 
@@ -7637,8 +7634,7 @@ We did well to be angry; we have come from Hades; and we ask you to give us sati
 
 
 <div type="textpart" subtype="section" n="29">
-<p><label>Parrhesiades</label> Philosophy, Diogenes has been far indeed from exhausting his material; the greater part of it, and the more strongly expressed, he has passed by, for reasons best known to himself, I refer to statements of mine which I am as far from denying that I made as from having provided myself with any elaborate defence of them. Any of these that have been omitted by him, and not previously emphasized by myself, I propose now to quote; this will be the best way to show you who were the persons that I sold by auction and inveighed
--against as pretenders and impostors; please to concentrate your vigilance on the truth or falsehood of my descriptions. If what I say is injurious or severe, your censure will be more fairly directed at the perpetrators than at the discoverer of such iniquities. I had no sooner realized the odious practices which his profession imposes qn an advocate—the deceit, falsehood, bluster, clamour, pushing, and all the long hateful list, than I fled as a matter of course from these, betook myself to your dear service, Philosophy, and pleased myself with the thought of a remainder of life spent far from the tossing waves in a calm haven beneath your shadow.
+<p><label>Parrhesiades</label> Philosophy, Diogenes has been far indeed from exhausting his material; the greater part of it, and the more strongly expressed, he has passed by, for reasons best known to himself, I refer to statements of mine which I am as far from denying that I made as from having provided myself with any elaborate defence of them. Any of these that have been omitted by him, and not previously emphasized by myself, I propose now to quote; this will be the best way to show you who were the persons that I sold by auction and inveighed against as pretenders and impostors; please to concentrate your vigilance on the truth or falsehood of my descriptions. If what I say is injurious or severe, your censure will be more fairly directed at the perpetrators than at the discoverer of such iniquities. I had no sooner realized the odious practices which his profession imposes qn an advocate—the deceit, falsehood, bluster, clamour, pushing, and all the long hateful list, than I fled as a matter of course from these, betook myself to your dear service, Philosophy, and pleased myself with the thought of a remainder of life spent far from the tossing waves in a calm haven beneath your shadow.
 </p></div>
 
 
@@ -7656,7 +7652,7 @@ We did well to be angry; we have come from Hades; and we ask you to give us sati
 <pb n="220"/>
 
 
- conduct they belied their looks, read your lessons backwards, and degraded their profession. Then I was wroth; methought it was as though some soft womanish actor on the tragic stage should give us Achilles or Theseus or Heracles himself; he cannot stride nor speak out as a Hero should, but minces along under his enormous mask; Helen or Polyxena would find him too realistically feminine to pass for them; and what shall an invincible Heracles say? Will he not swiftly pound man and mask together into nothingness with his club, for womanizing and disgracing him?
+conduct they belied their looks, read your lessons backwards, and degraded their profession. Then I was wroth; methought it was as though some soft womanish actor on the tragic stage should give us Achilles or Theseus or Heracles himself; he cannot stride nor speak out as a Hero should, but minces along under his enormous mask; Helen or Polyxena would find him too realistically feminine to pass for them; and what shall an invincible Heracles say? Will he not swiftly pound man and mask together into nothingness with his club, for womanizing and disgracing him?
 
 </p></div>
 
@@ -7697,7 +7693,7 @@ But they take pay for-imparting them, they are abashed in presence of the rich, 
 <pb n="222"/>
 
 
- get something, we hear a great deal, to be sure, about community of goods—how wealth is a thing indifferent—and what is gold and silver?—neither more nor less worth than pebbles on the beach. But when an old comrade and tried friend needs help and comes to them with his modest requirements, ah, then there is silence and searchings of heart, unlearning of tenets and flat renunciation of doctrines. All their fine talk of friendship, with Virtue and The Good, have vanished and flown, who knows whither? they were winged words in sad truth, empty phantoms, only meant for daily conversational use.
+get something, we hear a great deal, to be sure, about community of goods—how wealth is a thing indifferent—and what is gold and silver?—neither more nor less worth than pebbles on the beach. But when an old comrade and tried friend needs help and comes to them with his modest requirements, ah, then there is silence and searchings of heart, unlearning of tenets and flat renunciation of doctrines. All their fine talk of friendship, with Virtue and The Good, have vanished and flown, who knows whither? they were winged words in sad truth, empty phantoms, only meant for daily conversational use.
 
 </p></div>
 
@@ -7716,7 +7712,7 @@ But they take pay for-imparting them, they are abashed in presence of the rich, 
 <pb n="223"/>
 
 
- of you, what have such creatures to do with you? Is there a trace in their lives of kindred and affinity? Does oil mix with water? If they grow their beards and call themselves philosophers and look solemn, do these things make them like you?
+of you, what have such creatures to do with you? Is there a trace in their lives of kindred and affinity? Does oil mix with water? If they grow their beards and call themselves philosophers and look solemn, do these things make them like you?
 I could have contained myself if there had been any touch of plausibility in their acting; but the vulture is more like the nightingale than they like philosophers. And now I have pleaded my cause to the best of my ability. Truth, I rely upon you to confirm my words.
 
 </p></div>
@@ -7788,7 +7784,7 @@ I could have contained myself if there had been any touch of plausibility in the
 <pb n="225"/>
 
 
- a swarm of bees. In Homeric phrase, on this side are exceeding many, and on that
+a swarm of bees. In Homeric phrase, on this side are exceeding many, and on that
 
 <l>Ten thousand, thick as leaves and flowers in spring.</l>
 
@@ -7849,13 +7845,13 @@ Ha! you fly? In good truth they do, jumping down the crags, most of them. Why, t
 <div type="textpart" subtype="section" n="46">
 <p><label>Truth</label> I think we had better give Parrhesiades this commission; he has been shown an honest man, our friend and your true admirer, Philosophy. Let him take Exposure with him and have interviews with all who profess philosophy; any genuine scion that he finds let him crown with olive and entertain in the Banqueting Hall; and for the rascals—ah, how many!—who are only costume philosophers, let him pull their cloaks off them, clip their beards short with a pair of common goatshears, and mark their foreheads or brand them between the eyebrows; the design on the branding iron to be a fox or an ape.</p>
 
-<p><label>Philosophy</label> Well planned, Truth. And, Parrhesiades, here is a test for you; you know how young eagles are supposed to bé tested by the sun; well, our candidates have not got to satisfy us that they can look at light, of course; but put gold, fame, and pleasure before their eyes; when you see one remain un-
+<p><label>Philosophy</label> Well planned, Truth. And, Parrhesiades, here is a test for you; you know how young eagles are supposed to bé tested by the sun; well, our candidates have not got to satisfy us that they can look at light, of course; but put gold, fame, and pleasure before their eyes; when you see one remain 
 
 
 <pb n="227"/>
 
 
- conscious and unattracted, there is your man for the olive; but when one looks hard that way, with a motion of his hand in the direction of the gold, first off with his beard, and then off with him to the brander.
+unconscious and unattracted, there is your man for the olive; but when one looks hard that way, with a motion of his hand in the direction of the gold, first off with his beard, and then off with him to the brander.
 
 </p></div>
 
@@ -7898,7 +7894,7 @@ Ha! you fly? In good truth they do, jumping down the crags, most of them. Why, t
 <pb n="228"/>
 
 
- where you thought you could lurk unobserved? But now you shall hang by the gills for every one to look at you. Pull out hook and bait. Why, the hook is bare; he has not been long assimilating the figs, eh? and the gold has gone down too.</p>
+where you thought you could lurk unobserved? But now you shall hang by the gills for every one to look at you. Pull out hook and bait. Why, the hook is bare; he has not been long assimilating the figs, eh? and the gold has gone down too.</p>
 
 <p><label>Diogenes</label> Make him disgorge; we want the bait for some more.</p>
 
@@ -8017,7 +8013,7 @@ Ha! you fly? In good truth they do, jumping down the crags, most of them. Why, t
 <pb n="231"/>
 
 
- what’s reasonable. Hermes is common property. We have never kept him here when he was due to go. No, I know what itis. In these parts of ours all is mist and gloom and darkness, and nothing to be had but asphodel and libations and sacrificial cakes and meats, Yonder in Heaven, all’s bright, with plenty of ambrosia, and no end of nectar. Small wonder that he likes to loiter there. When he leaves us, ’tis on wings; it is as though he escaped from prison. But when the time comes for return, he tramps it on foot, and has much ado to get here at all.
+what’s reasonable. Hermes is common property. We have never kept him here when he was due to go. No, I know what itis. In these parts of ours all is mist and gloom and darkness, and nothing to be had but asphodel and libations and sacrificial cakes and meats, Yonder in Heaven, all’s bright, with plenty of ambrosia, and no end of nectar. Small wonder that he likes to loiter there. When he leaves us, ’tis on wings; it is as though he escaped from prison. But when the time comes for return, he tramps it on foot, and has much ado to get here at all.
 
 </p></div>
 
@@ -8044,7 +8040,7 @@ Ha! you fly? In good truth they do, jumping down the crags, most of them. Why, t
 <pb n="232"/>
 
 
- hung back, and dug his heels into the ground: it was no easy work getting him along. Every now and then he would take to prayers and entreaties: Would I let him go just for a few minutes? he would make it worth my while. Of course I was not going to do that; it was out of the question.—Well, we had actually got to the very pit’s mouth, when somehow or other this double-dyed knave managed to slip off, whilst I was telling over the Shades to Aeacus, as usual, and he checking them by your sister’s invoice. The consequence was, we were one short of tally. Aeacus raised his eyebrows. ‘Hermes,’ he said, ‘everything in its right place: no larcenous work here, please. You play enough of those tricks in Heaven. We keep strict accounts here: nothing escapes us. The invoice says
+hung back, and dug his heels into the ground: it was no easy work getting him along. Every now and then he would take to prayers and entreaties: Would I let him go just for a few minutes? he would make it worth my while. Of course I was not going to do that; it was out of the question.—Well, we had actually got to the very pit’s mouth, when somehow or other this double-dyed knave managed to slip off, whilst I was telling over the Shades to Aeacus, as usual, and he checking them by your sister’s invoice. The consequence was, we were one short of tally. Aeacus raised his eyebrows. ‘Hermes,’ he said, ‘everything in its right place: no larcenous work here, please. You play enough of those tricks in Heaven. We keep strict accounts here: nothing escapes us. The invoice says
 1,004; there it is in black and white. You have brought me one short, unless you say that Atropus was too clever for you.’
 I coloured up at that; and then all at once I remembered what had happened on the way, and when I looked round and this fellow was nowhere to be seen, I knew that he must have made off, and I set off after him along the road to the upper world, as fast as I could go. My worthy friend here volunteered for the service; so we made a race of it, and caught the runaway just as he got to Taenarum! It was a near thing.
 
@@ -8056,7 +8052,7 @@ I coloured up at that; and then all at once I remembered what had happened on th
 
 <p><label>Charon</label> Well, and why are we waiting here, as if there had not been enough delay already?</p>
 
-<p><label>Clotho</label> True. Let them come aboard. 1’ll to my post by the gangway, with my notebook, and take their names and countries as they come up, and details of their deaths; and you can stow them away as you get them.—Hermes, let us have those babies in first; I shall get nothing out of them.</p>
+<p><label>Clotho</label> True. Let them come aboard. I’ll to my post by the gangway, with my notebook, and take their names and countries as they come up, and details of their deaths; and you can stow them away as you get them.—Hermes, let us have those babies in first; I shall get nothing out of them.</p>
 
 <p><label>Hermes</label> Here, skipper. Three hundred of them, including those that were exposed.
 
@@ -8144,7 +8140,7 @@ Dame Hecate, eked out with sacrificial eggs and a raw cuttle-fish; where is he?<
 
 <p><label>Megapenthes.</label> Oh Fate, I ask no long reprieve. Vouchsafe me this one day, that I may inform my wife where my great treasure lies buried.</p>
 
-<p><label>Clotho</label> Impossible. *Tis Fate’s decree.</p>
+<p><label>Clotho</label> Impossible. 'Tis Fate’s decree.</p>
 
 <p><label>Megapenthes.</label> And all that money is to be thrown away?</p>
 
@@ -8225,7 +8221,7 @@ You only succeeded to it by murdering him, and butchering his children before hi
 
 <p><label>Clotho</label> Certainly; you shall have that mortification. Your wife will pass into the hands of Midas, your slave; he has been her gallant for some time past.</p>
 
-<p><label>Megapenthes.</label> Acurse on him! *Twas at her request that I gave him his freedom.</p>
+<p><label>Megapenthes.</label> Acurse on him! 'Twas at her request that I gave him his freedom.</p>
 
 <p><label>Clotho</label> Your daughter will take her place in the harem of the present monarch. ‘Then all the old statues and portraits which the city set up in your honour will be overturned,—to the entertainment, no doubt, of the spectators.</p>
 
@@ -8279,7 +8275,7 @@ I burned with resentment: but there I lay stark and cold, and could do nothing. 
 <pb n="238"/>
 
 
- pauper! I have been a king,—let me be a slave! Only let me live!</p>
+pauper! I have been a king,—let me be a slave! Only let me live!</p>
 
 <p><label>Clotho</label> Where is the one with the stick? Hermes, you and he must drag him up feet foremost. He will never come up by himself.</p>
 
@@ -8318,7 +8314,7 @@ I burned with resentment: but there I lay stark and cold, and could do nothing. 
 <pb n="239"/>
 
 
- thought happy while he lived; he was feared and respected by all: he had his gold and his silver; his fine clothes and his horses and his banquets; his smart pages and his handsome ladies,—and had to leave them all. No wonder if he was vexed, and felt the tug of parting. For I know not how it is, but these things are like birdlime: a man’s soul sticks to them, and will not easily come away; they have grown to be a part of him. Nay, ’tis as if men were bound in some chain that nothing can break; and when by sheer force they are dragged away, they cry out and beg for mercy. They are bold enough for aught else, but show them this .ame road to Hades, and they prove to be but cowards. They turn about, and must ever be looking back at what they have left behind them, far off though it be,—like men that are sick for love. So it was with the fool yonder: as we came along, he was for running away; and now he tires you with his entreaties.</p></div>
+thought happy while he lived; he was feared and respected by all: he had his gold and his silver; his fine clothes and his horses and his banquets; his smart pages and his handsome ladies,—and had to leave them all. No wonder if he was vexed, and felt the tug of parting. For I know not how it is, but these things are like birdlime: a man’s soul sticks to them, and will not easily come away; they have grown to be a part of him. Nay, ’tis as if men were bound in some chain that nothing can break; and when by sheer force they are dragged away, they cry out and beg for mercy. They are bold enough for aught else, but show them this .ame road to Hades, and they prove to be but cowards. They turn about, and must ever be looking back at what they have left behind them, far off though it be,—like men that are sick for love. So it was with the fool yonder: as we came along, he was for running away; and now he tires you with his entreaties.</p></div>
 
 
 <div type="textpart" subtype="section" n="15">
@@ -8337,7 +8333,7 @@ I burned with resentment: but there I lay stark and cold, and could do nothing. 
 
 
 
-<label>Micyllus</label> I'll tell you, best of Goddesses. Being next door to a tyrant up there, I was all eyes for what went on in his house’; and he seemed to me neither more nor less than a God. I saw the embroidered purple, the host of courtiers, the gold, the jewelled goblets, the couches with their feet of silver: and I thought, this is happiness. As for the sweet savour that arose when his dinner was getting ready, it was too much for me; such blessedness seemed more than human. And then his proud looks and stately walk and high carriage, striking admiration into all beholders! It seemed almost as if he must be handsomer than other men, and a good eighteen inches taller. But when he was dead, he made a queer figure, with all his finery gone; though I laughed more at myself than at him: there had I been worshipping mere scum on no better authority than the smell of roast meat, and reckoning happiness by the blood of Lacedaemonian sea-snails!</p></div>
+<label>Micyllus</label> I'll tell you, best of Goddesses. Being next door to a tyrant up there, I was all eyes for what went on in his house; and he seemed to me neither more nor less than a God. I saw the embroidered purple, the host of courtiers, the gold, the jewelled goblets, the couches with their feet of silver: and I thought, this is happiness. As for the sweet savour that arose when his dinner was getting ready, it was too much for me; such blessedness seemed more than human. And then his proud looks and stately walk and high carriage, striking admiration into all beholders! It seemed almost as if he must be handsomer than other men, and a good eighteen inches taller. But when he was dead, he made a queer figure, with all his finery gone; though I laughed more at myself than at him: there had I been worshipping mere scum on no better authority than the smell of roast meat, and reckoning happiness by the blood of Lacedaemonian sea-snails!</p></div>
 
 
 <div type="textpart" subtype="section" n="17">
@@ -8402,7 +8398,7 @@ And here I shall be left all by myself. Stay, though: why not swim across in the
 <pb n="242"/>
 
 
- quite improper that any shade should cross the stream, and make no moan.</p>
+quite improper that any shade should cross the stream, and make no moan.</p>
 
 <p><label>Micyllus</label> Get along with you. What have I to dowith Ohs and Ahs? I’m enjoying the trip!</p>
 
@@ -8431,7 +8427,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 
 
 <div type="textpart" subtype="section" n="22">
-<p><label>Micyllus</label> Bless me, how dark it is! Where is handsome Megillus now? ‘There would be no telling Simmiche from Phryne. All complexions are alike here, no question of beauty, greater or less. Why, the cloak I thought so shabby before passes muster here as well as royal purple; the darkness hides both alike. Cyniscus, whereabouts are you?</p>
+<p><label>Micyllus</label> Bless me, how dark it is! Where is handsome Megillus now? There would be no telling Simmiche from Phryne. All complexions are alike here, no question of beauty, greater or less. Why, the cloak I thought so shabby before passes muster here as well as royal purple; the darkness hides both alike. Cyniscus, whereabouts are you?</p>
 
 <p><label>Cynic</label> Use your ears; here I am. We might walk together. What do you say?
 
@@ -8493,7 +8489,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 <pb n="244"/>
 
 
- rubbed out apparently, or cut out. How do you explain this, Cyniscus? How did you get such a clean skin again?</p>
+rubbed out apparently, or cut out. How do you explain this, Cyniscus? How did you get such a clean skin again?</p>
 
 <p><label>Cynic</label> Why, in old days, when I knew no better, I lived an evil life, and acquired thereby a number of brands. But from the day that I began to practise philosophy, little by little I washed out all the scars from my soul,—thanks to the efficiency of that admirable lotion.</p>
 
@@ -8526,7 +8522,7 @@ You’re joking, Charon; or else this is what they call a ‘castle in the air.�
 <pb n="245"/>
 
 
- which he has not perpetrated. His hapless fellow-citizens have been subjected to every form of cruelty and insult. Virgins have been seduced, boys corrupted, the feelings of his subjects outraged in every possible way. His overweening pride, his insolent bearing towards all who had to do with him, were such as no doom of yours can adequately requite. A man might with more security have fixed his gaze upon the blazing sun, than upon yonder tyrant. As for the refined cruelty of his punishments, it baffles description; and not even his familiars were exempt. That this accusation has not been brought without sufficient grounds, you may easily satisfy yourself, by summoning the murderer’s victims.—Nay, they need no summons; see, they are here; they press round as though they would stifle him. Every man there, Rhadamanthus, fell a prey to his iniquitous designs. Some had attracted his attention by the beauty of their wives; others by their resentment at the forcible abduction of their children; others by their wealth; others again by their understanding, their moderation, and their unvarying disapproval of his conduct.
+which he has not perpetrated. His hapless fellow-citizens have been subjected to every form of cruelty and insult. Virgins have been seduced, boys corrupted, the feelings of his subjects outraged in every possible way. His overweening pride, his insolent bearing towards all who had to do with him, were such as no doom of yours can adequately requite. A man might with more security have fixed his gaze upon the blazing sun, than upon yonder tyrant. As for the refined cruelty of his punishments, it baffles description; and not even his familiars were exempt. That this accusation has not been brought without sufficient grounds, you may easily satisfy yourself, by summoning the murderer’s victims.—Nay, they need no summons; see, they are here; they press round as though they would stifle him. Every man there, Rhadamanthus, fell a prey to his iniquitous designs. Some had attracted his attention by the beauty of their wives; others by their resentment at the forcible abduction of their children; others by their wealth; others again by their understanding, their moderation, and their unvarying disapproval of his conduct.
 </p></div>
 
 
