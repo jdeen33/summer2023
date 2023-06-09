@@ -4740,19 +4740,20 @@ an accomplished sophist. You are lucky, however,
 
 that Zeus did not hear you say all this, for I am
 very sure he would have set sixteen vultures upon
-you to pul] out your vitals, so eloquently did you
+you to pull out your vitals, so eloquently did you
 accuse him in seeming to defend yourself. But I
 am surprised that as you are a prophet you did not
-- know in advance that you would be punished for all
+know in advance that you would be punished for all
 this.
 <label>PROMETHEUS</label>
 I did know it, Hermes, and I also know that
 I shall be set free again; before long someone will
-come from Thebes, a brother of yours,! to shoot
+come from Thebes, a brother of yours,1 to shoot
 down the eagle which you say will fly to me.
 <label>HERMES</label>
 I hope so, Prometheus, and I hope to see you at
 large, feasting with us all—but not serving our meat !
+@
 <label>PROMETHEUS</label>
 Never fear, I shall feast with you, and Zeus will
 set me free in return for a considerable favour.
@@ -4761,7 +4762,7 @@ What favour? Don’t hesitate to tell us.
 <label>PROMETHEUS</label>
 You know Thetis, Hermes ?—but I must not tell.
 It is best to keep the secret, so that I may be
-rewarded and set free instead of being sentenced.?
+rewarded and set free instead of being sentenced.2
 <label>HERMES</label>
 Why, keep it, Titan, if it is best that way. Let’s
 be going, Hephaestus, for here is the eagle close by.
@@ -4827,6 +4828,7 @@ stars,
 Great Heracles! That's a long dream you are
 talking of, if you actually lost yourself and slept for
 leagues and leagues !
+@
 <label>MENIPPUS</label>
 Dream, man! Do you think I’m telling you a
 dream? [am just back from a visit to Zeus.
@@ -4843,11 +4845,12 @@ good luck is beyond belief,
 Why, my divine Menippus, my Olympian Menippus,
 how can a mortal groundling like myself disbelieve
 a sky-man—in fact, to use the words of Homer, a
-son of Heaven?! But tell ine, please, how you
+son of Heaven?1 But tell ine, please, how you
 were carried aloft, and where you got so long a
 ladder ; for as far as looks go you are too little like
 the lad of Phrygia for us to suppose that, like hii,
-you were snatched up by the eagle to become a cupbearer.?
+you were snatched up by the eagle to become a cupbearer.2@
+
 <label>MENIPPUS</label>
 You have clearly been making fun of me this long
 time, and it is no wonder you think that my strange
@@ -4862,11 +4865,14 @@ eagle’s pet, for I had wings of my own.
 <label>FRIEND</label>
 You have improved on Daedalus, by what you say,
 if over and above all else, you have turned from a
-‘man to a hawk or a crow without our knowing it.
+man to a hawk or a crow without our knowing it.
 <label>MENIPPUS</label>
 Your guess is well-aimed, my friend, and hits the
 bull’s-eye ; for I myself constructed wings, patterned
 after Daedalus’ clever invention.
+
+@
+
 <label>FRIEND</label>
 Of all the foolhardy men in the world! Then
 you weren’t afraid you would fall into the water
@@ -4895,7 +4901,7 @@ somewhere in the midst of the story.
 
 
 <pb n="275"/>
-
+@
 <label>MENIPPUS</label>
 Listen then, for a friend left in the lurch with his
 mouth open would be anything but a pretty spectacle,
@@ -4922,6 +4928,9 @@ her multiplicity of shapes had some hidden reason.
 More than that, lightning flashing and thunder
 crashing and rain or snow or hail driving down were
 all hard to interpret and impossible to reason out.
+
+@
+
 Being in that state of mind, I thought it best to
 learn about all these points from the philosophers,
 for I supposed that they surely would be able to tell
@@ -4951,6 +4960,9 @@ me over to his own doctrine.
 Extraordinary that learned men quarrelled with
 each other about their doctrines and did not hold
 the same views about the same things !
+
+@
+
 <label>MENIPPUS</label>
 Indeed, my friend, it will make you laugh to hear
 about the way they bragged and worked wonders
@@ -4976,7 +4988,10 @@ of the sea and the circumference of the earth, but by
 the description of circles and the construction of
 triangles on squares and of imultiple spheres they
 actually measured out the cubic content of the
-Heavens.!
+Heavens.1
+
+@
+
 Moreover, was it not silly and completely absurd
 that when they were talking about things so uncertain they did not make a single assertion
 hypothetically but were vehement in their insistence
@@ -4987,6 +5002,9 @@ that the stars drink water, the sun drawing up the
 moisture from the sea with a rope and bucket, as it
 were, and distributing the beverage to all of them
 in order?
+
+@
+
 As for the contradictory nature of their theories,
 that is easy to appreciate. Just see for yourself, in
 Heaven’s name, whether their doctrines are akin and
@@ -5016,10 +5034,13 @@ of them setting a limit to the universe and others
 considering it to be unlimited; nay more, they asserted that there are many worlds and censured
 those who talked as if there were but one. Another,
 not a man of peace, opined that war was the father
-of the universe.?
+of the universe.1
+
+@
+
 As for the gods, why speak of them at all, seeing
 that to some a number was god, while others swore
-by geese and dogs and plane-trees?? Moreover,
+by geese and dogs and plane-trees?2 Moreover,
 some banished all the rest of the gods and assigned
 the governance of the universe to one only, so that
 it made me a little disgusted to hear that gods were
@@ -5043,14 +5064,22 @@ like that of supers in comedy. A few went beyond
 all this and did not even believe that there were any
 gods at all, but left the world to wag on unruled and
 ungoverned.
+
+@
+
 When [ heard all this, the result was that I did not
 venture to disbelieve “high-thundering ” gentlemen
 with goodly beards, and yet did not know where to
 turn in order to find a point of doctrine that was unassailable and not in any way subject to refutation
 by someone else. So I went through just what
 Homer speaks of; again and again I was fain to
-believe one of them, “but other counsel drew me
-back.” !
+believe one of them, 
+
+<cit><quote><l>“but other counsel drew me
+back.</l></quote>
+<bibl>Od. 9, 302.</bibl></cit>
+
+
 At my wit’s end in view of all this, I despaired of
 hearing any truth about these matters on earth and
 thought that the only way out of my whole dilemma
@@ -5059,7 +5088,7 @@ Heaven. The wish was father to the thought, of
 course, but the story-teller Aesop had something to
 do with it also, for he makes Heaven accessible to
 eagles and beetles and now and then even to camels.
-<note n="1">Od. 9, 302.</note>
+
 283
 <pb n="285"/>
 
@@ -5077,7 +5106,11 @@ jumping up and down, working my arms and doing
 as geese do—lifting myself along the ground and
 running on tiptoe as I flew. When the thing began
 to work well for me, I went in for the experiment
-with greater boldness. Going up to the acropolis, I
+with greater boldness. 
+
+@
+
+Going up to the acropolis, I
 let myself drop down the cliff right into the theatre.
 Since I flew down without mischance, I began to
 aspire high and used to take wing from Parnes or
@@ -5096,9 +5129,9 @@ the moon, I felt myself getting tired, especially in
 <pb n="287"/>
 
 the left wing, the vulture’s. Flying up, therefore,
-and perching on the moon, | rested myself, looking
+and perching on the moon, I rested myself, looking
 down on the earth from on high and like Homer’s
-Zeus,! now observing the land of the horse-loving
+Zeus,1 now observing the land of the horse-loving
 Thracians, now the land of the Mysians, and
 presently, if I liked, Greece, Persia and India; and
 from all this I got my fill of kaleidoscopic pleasure.
@@ -5114,12 +5147,16 @@ from above.
 You are right in your assumption, my friend, so
 mount up to the moon in fancy as best you can and
 share my trip and my view of the whole scheme of
-things on earth. In the first place, imagine that the
+things on earth.
+
+@
+
+ In the first place, imagine that the
 earth you see is very small, far less than the moon, [
 mean; so that when I suddenly peered down I was
 long uncertain where the big mountains and the
 great sea were, and if I had not spied the Colossus of
-Rhodes? and the lighthouse on Pharos, I vow I
+Rhodes2 and the lighthouse on Pharos, I vow I
 shouldn’t have known the earth at all. But as it
 was, the fact that they were high and prominent
 and that the ocean glinted in the sun showed me
@@ -5135,7 +5172,7 @@ the nations and cities but the people themselves
 as clear as could be, the traders, the soldiers, the
 farmers, the litigants, the women, the animals and,
 in a word, all the life that the good green earth
-supports.!
+supports.1
 <label>FRIEND</label>
 What you say is completely beyond belief and
 self-contradictory, for you told me just now that you
@@ -5147,9 +5184,12 @@ How is it, then, that you have suddenly turned into a
 Lynceus and can make out everything on earth—
 the men, the animals and very nearly the nests of
 the mosquitoes ?
+
+@
+
 <label>MENIPPUS</label>
-Thanks for reminding me; somehow or other 1
-neglected to say what | certainly should have said.
+Thanks for reminding me; somehow or other I
+neglected to say what I certainly should have said.
 When I recognised the earth by sight, but was
 unable to distinguish anything else on account of the
 height, because my vision did not carry so far, the
@@ -5162,7 +5202,10 @@ I wasa bit startled, to tell the truth, and thought I
 beheld a lunar spirit ; but he said “ Don’t be alarmed,
 Menippus;
 ‘No god am I: why liken me to them? ’2
-<note n="1">A reminiscence of Homer; cf. Il. 2, 548 ; Od. 4, 229; 9, 357- 2 Od. 16, 187.</note>
+
+<cit><quote><l>No god am I: why liken me to them? </l></quote>
+<bibl>A reminiscence of Homer; cf. Il. 2, 548 ; Od. 4, 229; 9, 357- 2 Od. 16, 187.</bibl></cit>
+
 
 <pb n="291"/>
 
@@ -5177,12 +5220,15 @@ you, I take it, that you cannot clearly see everything
 on earth.” “Thank you very much, Empedocles,”
 said I; “you are most kind, and as soon as I fly
 down to Greece again I will remember to pour you a
-drink-offering in the chimney! and on the first: of
+drink-offering in the chimney1 and on the first: of
 every month to open my mouth at the moon three
 times and make a prayer.” “Great Endymion !”
 said he, “I didn’t come here for pay; my heart was
 touched a bit when I saw you sorrowful. Do you
-know what to do in order to become sharp-sighted ?”’
+know what to do in order to become sharp-sighted ?”
+
+@
+
 “No,” said I, “unless you are going to take the mist
 from my eyes somehow. At present my sight seems
 to be uncommonly blurred.” “ Why,” said he, “you
@@ -5216,8 +5262,14 @@ sight of an eagle; it would do just as well, for I am
 sure I have often seen carpenters getting on better
 with only one eye when they were trimming off
 timbers to the straight-edge.”
+
+
 This said, I set about doing as Empedocles advised,
-while he receded little by little and gradually dissolved into smoke. No sooner had I flapped the
+while he receded little by little and gradually dissolved into smoke. 
+
+@
+
+No sooner had I flapped the
 wing than a great light broke upon me and all that
 was formerly invisible was revealed. Bending down
 toward earth, I clearly saw the cities, the people and
@@ -5228,7 +5280,7 @@ conspiring against his father, Seleucus’ son Antiochus
 flirting surreptitiously with his stepmother, Alexander
 of ‘Thessaly getting killed by his wife, Antigonus
 committing adultery with the wife of his son, and
-<note n="1">If an eaglet failed to stand the test, he was pushed out of the nest; cf. Aeclian de Nat, Anim, 2, 26.</note>
+<note n="1">If an eaglet failed to stand the test, he was pushed out of the nest; cf. Aelian de Nat, Anim, 2, 26.</note>
 293
 <pb n="295"/>
 
@@ -5238,10 +5290,13 @@ the eunuch Arbaces drawing his sword on Arsaces,
 and Spatinus the Mede in the hands of the guards,
 being dragged out of the dining-room by the leg
 after having had his head broken with a golden
-cup.! Similar things were to be seen going on in
+cup.1 Similar things were to be seen going on in
 Libya and among the Thracians and Scythians in the
 palaces of kings—men committing adultery, murdering, conspiring, plundering, forswearing, fearing
 and falling victims to the treason of their closest kin.
+
+@
+
 Although the doings of the kings afforded me such
 rare amusement, those of the common people were
 far more ridiculous, for I could see them too—
@@ -5265,7 +5320,7 @@ To tell it all from first to last, my friend, would be
 
 impossible in such a case, where even to see it all
 was hard work. However, the principal features
-were like what Homer says was on the shield In
+were like what Homer says was on the shield.1 In
 one place there were banquets and weddings, elsewhere there were sessions of court and assemblics ;
 in a different direction a man was offering sacrifice,
 and close at hand another was mourning a death.
@@ -5274,7 +5329,11 @@ saw them fighting ; whenever I transferred my gaze to
 the Seythians, they could be seen roving about on their
 wagons: and when I turned my eyes aside slightly,
 I beheld the Egyptians working the land. The Phoenicians were on trading-ventures, the Cilicians were
-engaged in piracy, the Spartans were whipping themselves and the Athenians were attending court. As
+engaged in piracy, the Spartans were whipping themselves and the Athenians were attending court. 
+
+@
+
+As
 all these things were going on at the same time, you
 can imagine what a hodge-podge it looked. It is as
 if one should put on the stage a company of singers,
@@ -5284,7 +5343,7 @@ sing a tune of his own; with cach one full of
 emulation and carrying his own tune and striving to
 outdo his neighbour in loudness of voice, what, in the
 name of Heaven, do you suppose the song would be
-like P
+like ?
 <label>FRIEND</label>
 Utterly ridiculous, Menippus, and all confused.
 <label>MENIPPUS</label>
@@ -5304,6 +5363,9 @@ singing that unrhythmical medley of theirs. But
 there in the play-house itself, full of variety and
 shifting spectacles, everything that took place was
 truly laughable.
+
+@
+
 I was especially inclined to laugh at the people who
 quarrelled about boundary-lines, and at those who
 plumed themselves on working the plain of Sicyon
@@ -5319,7 +5381,7 @@ Epicurean atom under cultivation. And when I
 looked toward the Peloponnese and caught sight
 of Cynuria, I noted what a tiny region, no bigger in
 any way than an Egyptian bean, had caused so many
-Argives and Spartans to fall in a single day.! Again,
+Argives and Spartans to fall in a single day.1 Again,
 if T saw any man pluming himself on gold because
 he had eight rings and four cups, I laughed heartily
 at him too, for the whole of Pangacum, mines and
@@ -5349,15 +5411,22 @@ and you will find that the Myrmidons, the most
 warlike of races, turned from ants into men.
 Well, when I had looked and laughed at everything to my heart’s content, I shook myself and flew
 upward,
-"Unto the palace of Zeus, to the home of the other
-immortals.” !
+
+<cit><quote><l>Unto the palace of Zeus, to the home of the other
+immortals.</l></quote>
+<bibl>Iliad 1, 222.</bibl></cit>
+
+
+
+@
+
 Before I had gone a furlong upward, the moon spoke
 with a voice like a woman’s and said: “ Menippus,
 Pll thank you kindly to do me a service with Zeus.”
 "Tell me what it is,’ said I, “it will be no trouble
 at all, unless you want me to carry something.”
 "Take a simple message and a request from me to
-<note n="1">Iliad 1, 222.</note>
+
 301
 <pb n="303"/>
 
@@ -5374,6 +5443,9 @@ wanting to entangle and embroil me with him,
 although he is my brother; for they were not
 satisfied with saying that Helius himself was a stone,
 and a glowing mass of molten metal.
+
+@
+
 “But am I not aware of all the shameful,
 abominable deeds they do at night, they who by
 day are dour-visaged, resolute of cye, majestic of
@@ -5403,10 +5475,17 @@ logicians, razes the Porch, burns down the Academy,
 and stops the lectures in the Walks; for only then
 can I get a rest and cease to be surveyed by them
 every day.”
+
+@
+
 “Very well,” said I, and therewith I pressed on
 upwards along the road to Heaven,
-"‘Whence there was naught to be seen of the labours
-of men or of oxen ;’!
+
+<cit><quote><l>‘Whence there was naught to be seen of the labours
+of men or of oxen ;</l></quote>
+<bibl>Od. 10, 98.</bibl></cit>
+
+
 for in a little while even the moon seemed small to me,
 and the earth had at last disappeared from my view.
 Taking the sun on my right and flying past the
@@ -5427,16 +5506,23 @@ without apprehension themselves; for my visit,
 being so unprecedented, had put them in a quiet
 flutter, and they almost expected the whole human
 race to arrive at any moment, provided with wings
-like maine.- Zeus, however, looked at me with a
-<note n="1">Od. 10, 98.</note>
-305
-voL. II.
+like maine.
+
+@
+
+ Zeus, however, looked at me with a
+
+
 <pb n="307"/>
 
 fierce, Titanic stare and said in a very terrible
 voice:
-"What is your name, sir, whence do you come, and
-where is your city and hearth-stone ?’’!
+
+<cit><quote><l>What is your name, sir, whence do you come, and
+where is your city and hearth-stone ?</l></quote>
+<bibl>The line occurs frequently in the Odyssey, e.g. 1, 170.</bibl></cit>
+
+
 When I heard this, I nearly dropped dead of
 fright, but stood my ground all the same, though
 my jaw was hanging and I was thunderstruck by
@@ -5462,8 +5548,8 @@ As he walked along he asked me about things on
 earth, first the usual questions, how much wheat now
 costs in Greece, whether the last winter hit us hard
 and whether the crops needed more rain. Then he
-<note n="1">The line occurs frequently in the Odyssey, e.g. 1, 170.</note>
-397
+
+
 <pb n="309"/>
 
 inquired whether any of the descendants of Phidias
@@ -5471,9 +5557,15 @@ were still left, why the Athenians had omitted the
 Diasia for so many years, whether they had any idea
 of finishing the Olympieion for him and whether the
 men who robbed his temple in Dodona had been
-arrested,!
+arrested.!</p>
+<p>
 When I had answered these questions, he said:
-“Tell me, Menippus, what opinion do men_ hold
+
+<quote><l>“Tell me, Menippus, what opinion do men hold
+about me?</l></quote>
+
+
+“Tell me, Menippus, what opinion do men hold
 about me?” “ What opinion should they hold, sir,”
 said I, “except the highest possible one, that you
 are king of all the gods?” “ You are fond of your
@@ -5501,6 +5593,8 @@ if they sacrifice to me once every four whole years
 at Olympia. Consequently, you can see for yourself
 that my altars are more frigid than the Laws of
 Plato or the Syllogisms of Chrysippus.”
+
+@
 Pursuing such topics, we came to the place where
 he had to sit and hear the prayers. There was a
 row of openings like mouths of wells, with covers
@@ -5524,12 +5618,17 @@ south wind; and the farmers were praying for rain
 while the washermen were praying for sunshine.
 Zeus listened and weighed each prayer carefully,
 but did not promise everything ;
-“ This by the Father was granted and that was denied
-them.” !
+
+<cit><quote><l>This by the Father was granted and that was denied
+them.</l></quote>
+<bibl>Iliad 16, 250.</bibl></cit>
+
+
 You see, he let the just prayers come up through the
 orifice and then took them and filed them away at
 his right; but he sent the impious ones back un-
-<note n="1">Thad 16, 250.</note>
+
+
 
 <pb n="313"/>
 
@@ -5541,6 +5640,9 @@ equal sacrifices, he didn’t know which one of them
 to give assent to; so that he was in the same plight
 as the Academicians and could not make any aflirmation at all, but suspended judgement for a while and
 thought it over, like Pyrrho.
+
+@
+
 When he had given sufficient consideration to the
 prayers, he moved to the next throne and the second
 opening, leaned down and devoted himself to covenants and people making oaths. After considering
@@ -5558,6 +5660,9 @@ blow in Lydia. South Wind, take a day off. Let
 the West Wind raise a storm on the Adriatic, and
 let about a thousand bushels of hail be sprinkled over
 Cappadocia.”
+
+@
+
 By this time he had pretty well settled everything,
 and we went away to the dining-hall, as it was time
 for dinner. Hermes took me in charge and gave me
@@ -5573,7 +5678,7 @@ the nectar, for Ganymede, bless his heart, had so
 much of human kindness about him that whenever
 he saw Zeus looking another way he would hastily
 pour me out a mouthful or two of the nectar. But
-as Homer says somewhere or other,!—having seen
+as Homer says somewhere or other,1—having seen
 what was there, I suppose, just like me—the gods
 themselves neither cat bread nor drink ruddy wine
 but have ambrosia sect before them and get drunk on
@@ -5584,9 +5689,11 @@ that is shed about the altars when people sacrifice.
 During dinner - Apollo played the lute, Silenus
 danced the can-can and the Muses got up and sang
 us something from Hesiod’s Theogony and the first
-song in the Hymns of Pindar.22 When we had had
+song in the Hymns of Pindar.2 When we had had
 enough we composed ourselves for the night without
 any ceremony, being pretty well soused.
+
+@
 
 <cit><quote><l>All the others, the gods and the warriors chariot-owning,</l>
 <l>Slept until morning, pus I was unbound by the
@@ -5606,18 +5713,22 @@ the early morning Zeus got up and ordered procla-:
 315
 <pb n="317"/>
 
-mation for an assembly to be made. When everybody was there, he began to speak :
+mation for an assembly to be made. 
+
+@
+
+When everybody was there, he began to speak :
 "The reason for calling you together is supplied,
-of course, by our visitor here of yesterday, but |
+of course, by our visitor here of yesterday, but I
 have long wanted to confer with you about the
 philosophers, and so, being stirred to action by the
 moon in particular and the criticisms that she makes,
 I have decided not to put off the discussion any
 longer.
-“There is a class of men which made _ its
+“There is a class of men which made its
 appearance in the world not long ago, lazy, disputatious, vainglorious, quick-tempered, gluttonous,
 doltish, addle-pated, full of effrontery and to age
-the language of Homer, ‘a uscless load to the soil.’
+the language of Homer, ‘a uscless load to the soil.1
 Well, these people, dividing themselves into schol
 and inventing various word-mazes, have called themselves Stoics, Academics, Epicurcans, Peripatetics
 and other things much more laughable than these.
