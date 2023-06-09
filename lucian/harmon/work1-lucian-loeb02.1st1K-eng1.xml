@@ -323,7 +323,7 @@ with his entreaties.
 <label>CLOTHO</label>
 Come, let’s see who he is.
 <label>CYNISCUS</label>
-Megapenthes,! son of Lacydes, a tyrant.
+Megapenthes,1 son of Lacydes, a tyrant.
 <label>CLOTHO</label>
 Aboard with you !
 <label>MEGAPENTHES</label>
@@ -880,7 +880,7 @@ But that is not enough, Cyniscus: strip yourself,
 so that I can judge you from the marks on your
 back.
 <label>CYNISCUS</label>
-Why, how did I ever come to be a marked man?!
+Why, how did I ever come to be a marked man?1
 <label>RHADAMANTHUS</label>
 For every wicked deed that each of you has done
 in his life he bears an invisible mark on his soul.
@@ -1439,14 +1439,14 @@ world is it that, letting off the temple-robbers and
 pirates and so many who are insolent and violent
 and forsworn, you repeatedly blast an oak or a stone
 or the mast of a harmless ship, and now and then
-an honest and pious wayfarer?! Why are you silent,
+an honest and pious wayfarer?1 Why are you silent,
 Zeus? Isn’t it permitted me to know this, either ?
 <label>ZEUS</label>
 No, Cyniseus. You are a meddler, and I can’t
 conceive where you got together all this stuff that
 you bring me.
 , CYNISCUS
-Then Iam not to put my other question to you
+Then I am not to put my other question to you
 and to Providence and Destiny, why in the world is
 it that honest Phocion and Aristides before him died
 in so great poverty and want, while Callias and
@@ -3301,7 +3301,7 @@ presenting himself in a form so honey-sweet and
 palpable. At all events I should be glad to hear
 what he is like, since you hold him so very dear.
 <label>MICYLLUS</label>
-Iam ready to tell; in fact, it will be delightful
+I am ready to tell; in fact, it will be delightful
 to think and talk about it. But when are you going
 to tell me about your transmigrations, Pythagoras?
 <label>COCK</label>
@@ -3680,7 +3680,7 @@ myself from the peg that you are standing on.
 
 <label>COCK</label>
 You can’t by any possibility find that out. But
-when I became Euphorbus—for Iam going back to
+when I became Euphorbus—for I am going back to
 that subject—I fought at Troy and was killed by
 Menelaus, and some time afterwards I entered into
 Pythagoras. In the meanwhile I stood about and
@@ -5139,7 +5139,7 @@ from all this I got my fill of kaleidoscopic pleasure.
 Then do tell me about it, Menippus, so that I
 may not miss a single detail of the trip, but may even
 know whatever you may have found out incidentally.
-I assure you, Iam looking forward to hearing a good
+I assure you, I am looking forward to hearing a good
 deal about the shape of the earth and about
 everything upon it as it looked to you, viewing it all
 from above.
@@ -5724,7 +5724,8 @@ have long wanted to confer with you about the
 philosophers, and so, being stirred to action by the
 moon in particular and the criticisms that she makes,
 I have decided not to put off the discussion any
-longer.
+longer.</p>
+<p>
 “There is a class of men which made its
 appearance in the world not long ago, lazy, disputatious, vainglorious, quick-tempered, gluttonous,
 doltish, addle-pated, full of effrontery and to age
@@ -5741,6 +5742,8 @@ take away from the latter their masks and_ their
 gold-embroidered robes, nothing is left but a
 comical little creature hired for the show at seven
 drachmas.
+
+@
 “ But although that is what they are, they look
 with scorn on all mankind and they tell absurd
 stories about the gods; collecting lads who are easy
@@ -5760,13 +5763,21 @@ off pennies ?
 “ Worst of all, though they themselves do no goéd
 either in public or in private life but are uscless and
 superfluous,
-‘ Neither in war nor in council of any account,’ !
+
+<cit><quote><l>Neither in war nor in council of any account,</l></quote>
+<bibl>Iliad 2, 202.</bibl></cit>
+
+
 nevertheless they accuse everyone clse; they amass
 biting phrases and school themselves in novel terms
 of abuse, and then they censure and reproach their
-fellow-inen 3; and whoever of them is the most noisy
+fellow-men ; and whoever of them is the most noisy
 and impudent and reckless in calling names is held
-to be the champion. But if you were to ask the
+to be the champion. 
+
+@
+
+But if you were to ask the
 very man who is straining his lungs and bawling and
 accusing everybody else: ‘How about yourself?
 What do you really do, and what in Heaven’s name
@@ -5779,13 +5790,16 @@ filthy mantle and like Momus carp at everything the
 others do. If some rich man or other has made an
 extravagant outlay on a dinner or keeps a mistress, |
 make it my affair and get hot about it; but if one of
-<note n="1">Tliad 2, 202.</note>
-319
+
+
 <pb n="321"/>
 
 my friends or associates is ill abed and needs relief
-and attendance, I ignore it.’
+and attendance, I ignore it.’</p>
+<p>
 “That is what these whelps are like, gods.
+@
+
 Moreover, some of them who call themselves
 Epicureans are very insolent fellows indeed and
 attack us immoderately, saying not only that the
@@ -5794,10 +5808,14 @@ no attention at all to what goes on. So it is high
 time you were bethinking yourselves that if they
 ever are able to persuade the world, you will go
 uncommonly hungry; for who would continue to
-sacrifice to you if he expected to gain nothing by it ?
+sacrifice to you if he expected to gain nothing by it ?</p>
+<p>
 “As for what the moon finds fault with, you all
 heard the stranger tell about that yesterday. In
 view of all this, take such action as may be most advantageous to men and most salutary for ourselves.”
+
+@
+
 When Zeus had finished this speech the assembly
 fell into a commotion, and at once they all began to
 shout: “ Blast them,” “ Burn them,” “ Annihilate
@@ -5811,10 +5829,14 @@ four months, and I have already sent about to
 announce the truce of God. Next year, therefore,
 at the opening of spring the wretches shall die
 a wretched death by the horrid thunderbolt.”
-* So spake Cronus his son, and he bent black brows to
-confirm it ! 1
-“As to Menippus here,"" he said, “this is my
-<note n="1">Iliad 1, 528.</note>
+
+<cit><quote><l>So spake Cronus his son, and he bent black brows to
+confirm it !</l></quote>
+<bibl>Iliad 1, 528.</bibl></cit>
+ 
+ @
+“As to Menippus here," he said, “this is my
+
 
 <pb n="323"/>
 
@@ -5873,13 +5895,17 @@ verses, for then to help them out you assume a
 multitude of names and so shore up the weak spots in
 their metre and fill up the gaps in their rhythm!
 Where now is your pealing levin, your rolling thunder
-and your blazing, flashing, horrid bolt?! All that
+and your blazing, flashing, horrid bolt?1 All that
 has turned out to be stuff and nonsense, pure poetic
 vapour except for the resonance of the names.
 That famous, far-flying, ready weapon of yours has
 been completely quenched in some way or other
 and is cold, not even retaining a tiny spark of
-resentment against wrong doers. Indeed, anyone
+resentment against wrong doers. 
+
+@
+
+Indeed, anyone
 who should undertake to commit perjury would be
 more afraid of a guttering rushlight than of the
 blaze of your all-conquering thunderbolt. What
@@ -5887,6 +5913,9 @@ you menace them with is such a mere firebrand, they
 think, that they do not fear flame or smoke from it
 and expect the only harm they will get from the
 stroke is to be covered with soot.
+</p>
+<p>
+   
 That is why even Salmoneus dared to rival your
 thunder, and he was far from ineffective at it, for
 <note n="1">Cf. Eur. Phoen. 182.</note>
@@ -5899,7 +5928,11 @@ not, when you lie asleep as if you were drugged
 with mandragora? You neither hear perjurers nor
 see wrong-doers ; you are short-sighted and purblind
 to all that goes on and have grown as hard of hearing
-as aman in his dotage. Yet while you were still
+as aman in his dotage.
+
+@
+
+ Yet while you were still
 young and quick-tempered and violent in your wrath,
 you were very active against sinners and oppressors
 and you never made truce with them then. No,
@@ -5915,6 +5948,8 @@ that when everything else had sunk beneath the
 waters a single chest barely escaped to land at
 Lycoreus, preserving a vital spark of human seed
 for the engendering of greater wickedness.
+
+@
 The result is that you are reaping the fruit of
 your laziness. Nobody either sacrifices or wears
 wreaths in your honour any longer, except now and
@@ -5937,14 +5972,19 @@ might come to your rescue and catch the fellows
 while they were still packing up for flight. No,
 you noble Giant-killer and Titan-conqueror, you sat
 still and let them crop your long locks, holding a
-fifteen-foot thunderbolt in your right hand !4
+fifteen-foot thunderbolt in your right hand !1</p>
+<p>
 Come, you marvellous ruler, when will you stop
 overlooking these things in such a careless way ?
 When will you punish all this wrong-doing? How
 many conflagrations and deluges will be enough to
 cope with such overwhelming insolence in the world ?
 For instance, let me put aside generalities and speak
-of my own case. After raising so many Athenians
+of my own case. 
+
+@
+
+After raising so many Athenians
 to high station and making them rich when they
 were wretchedly poor before and helping all who
 were in want, nay more, pouring out my wealth in
@@ -5958,12 +5998,16 @@ dead which time has overturned, passing by without even a curious glance..-- Ind
 on catching sight of me in the distance, turn off in
 another direction, thinking that the man who not
 long ago showed himself their saviour and benefactor
-will be an unpleasant and repulsive spectacle. There-
+will be an unpleasant and repulsive spectacle. 
+
+@
+
+Therefore
 <note n="1">According to Pausanias (v. 11, 1), the Zeus at Olympia held a Victory in his right hand and a sceptre surmounted by an eagle in his left. This is borne out by late coins (see Gardner, Greek Sculpture, p. 259). The error is odd in so good an observer as Lucian.</note>
 331
 <pb n="333"/>
 
-fore my wrongs have driven me to this outlying
+ my wrongs have driven me to this outlying
 farm, where, dressed in skins, I till the soil as a
 hired labourer at four obols a day, philosophizing
 with the solitude and with my pick. By so doing, I
@@ -5978,6 +6022,8 @@ a great blaze, evincing anger worthy of a stalwart
 and youthful Zeus—unless indeed the tale is true
 that the Cretans tell about you and your tomb in
 their island.
+@
+
 <label>ZEUS</label>
 Who is that, Hermes, who is shouting from Attica,
 near Hymettus, in the foot-hills, all dirty and
@@ -6001,6 +6047,9 @@ rich man, who had all the friends about him? What
 has happened to him to make hin like this, poor
 man, a dirty fellow digging ditches and working for
 wages, it seems, with such a heavy pick to swing?
+
+@
+
 <label>HERMES</label>
 Well, you might say that he was ruined by
 kind-heartedness and philanthropy and compassion
@@ -6023,6 +6072,9 @@ and tills the soil for hire, brooding” crazily over his
 wrongs because the men whom he enriched pass him
 by very disdainfully without even knowing whether
 his name is Timon or not.
+
+@
+
 <label>ZEUS</label>
 Come now, we must not overlook the man or neglect him, for he had reason to be angry in view of his
 wretched plight. Why, we should be like those vile
@@ -6046,6 +6098,9 @@ or be dinned to death with their harangues about
 “virtue” and “things incorporeal”’ and other piffle.
 That is how I happened to neglect this man, who is
 not a bad sort.
+
+@
+
 However, take Riches, Hermes, and go to him
 quickly ; let Riches take Treasure along too, and let
 them both stay with Timon and not be so ready to
@@ -6061,10 +6116,13 @@ count at all. I missed him, for Pericles held his
 
 <pb n="339"/>
 
-hand over him,! and the bolt, glancing off into the
+hand over him,1 and the bolt, glancing off into the
 Anaceum, set the temple afire and itself came near
 being broken to bits on the rock. But in the meantime it will be punishment enough for them if they
 see Timon enormously rich.
+
+@
+
 <label>HERMES</label>
 What an advantageous thing it is to shout loudly
 and to be annoying and impudent! It is useful not
@@ -6079,6 +6137,9 @@ But I really can’t go to him, Zeus.
 <label>ZEUS</label>
 Why not, my good Riches, when I have bidden
 you to do so?
+
+@
+
 <label>RICHES</label>
 Why, by Zeus, because he treated me contumeliously, bundled me out, made ducks and drakes of
 me, although I was his father’s friend, and all
@@ -6097,6 +6158,9 @@ me; let them get a coat of skin and a pick from her
 and be content, poor wretches, with a wage of four
 obols, they who heedlessly fling away ten-talent
 gifts.
+
+@
+
 <label>ZEUS</label>
 Timon will never again treat you in any such way,
 for unless the small of his back is completely insensible, his pick has certainly taught him that he
@@ -6118,7 +6182,11 @@ a chance you would run away. In short, you thought
 it a terrible thing to lead a virginal life like Danae
 in a chamber of bronze or iron, and to be brought
 up under the care of those precise and unscrupulous
-guardians, Interest and Accounts. As a matter of
+guardians, Interest and Accounts. 
+
+@
+
+As a matter of
 fact, you used to say that they acted absurdly in that
 they loved you to excess, yet did not dare to enjoy
 ‘you when they might, and instead of giving free
@@ -6141,6 +6209,9 @@ to sit up over his interests beside a dim, narrownecked lamp with a thirsty wick
 not unjust in you, after having found fault with that
 sort of thing in the past, to charge Timon with the
 opposite now ?
+
+@
+
 <label>RICHES</label>
 Really, if you look into the truth, you will think
 that I do both with good reason, for Timon’s
@@ -6155,7 +6226,9 @@ senseless and arrogant because they let me grow
 soft in such durance when I had done no wrong,
 and were unaware that after a little they would go
 away and leave me to some other favourite of fortune.
-Ihave no praise, therefore, either for these men or
+@
+
+I have no praise, therefore, either for these men or
 for those who are very free with me, but only for
 those who will do what is best and observe modera-
 343
@@ -6169,9 +6242,13 @@ for his lawful wife and then should not keep watch
 of her or display jealousy at all, but should let her
 go wherever she would by night and by day and
 have to do with anyone who wished, nay more,
-. should himself induce her to commit adultery,
-opening his doors and playing the go-between and °
-inviting everybody in to her, would such a man appear to love her? You at least, Zeus, who have
+should himself induce her to commit adultery,
+opening his doors and playing the go-between and
+inviting everybody in to her, would such a man appear to love her? 
+
+@
+
+You at least, Zeus, who have
 often been in love, would not say so! On the other
 hand, suppose a man should take a woman of gentle
 birth into his house in due form for the procreation of
@@ -6189,6 +6266,8 @@ to Demeter? That is the sort of thing I myself am
 angry about; for some of them kick me about
 shamefully and tear my flesh and pour me out like
 water, while others keep me in shackles like a runaway slave with a brand on his forehead.
+
+@
 <label>ZEUS</label>
 Then why are you angry at them? Both sorts
 pay a fine penalty ; for these last, like Tantalus, go
@@ -6209,7 +6288,9 @@ swamp him? No, and so I expect to carry water to
 the jar of the Danaids and pour it in without result, because the vessel is not tight but all that flows
 in will run out almost before it flows in, so much
 wider is the vent of the jar and so unhindered is
-the escape.!
+the escape.1
+@
+
 <label>ZEUS</label>
 Well, if he doesn’t intend to stop that vent and it
 turns out to have been opened once for all, you will
@@ -6219,6 +6300,9 @@ when you come back, Hermes, be sure to bring me
 the Cyclopes from Actna, so that they may point my
 thunderbolt and put it in order, for we shall soon
 need it sharp.
+
+@
+
 <label>HERMES</label>
 Let us be going, Riches. What’s this? You're
 limping? I didn’t know that you were lame as well
@@ -6248,6 +6332,9 @@ when they never before owned so much as a donkey.
 In spite of that, they: go about dressed in purple,
 with rings on their fingers, themselves unable to
 believe, I fancy, that their wealth is not a dream.
+
+@
+
 <label>RICHES</label>
 That is a different matter, Hermes; I do not go
 on my own feet then, and it is not Zeus but Pluto
@@ -6264,6 +6351,10 @@ public square with their mouths open, just as the
 <pb n="351"/>
 
 swallow’s chirping brood waits for her to tly home.
+
+
+@
+
 When the seal is removed, the thread cut, and the
 tablets opened, they announce the naine of my new
 master, cither a relative or a toady or a lewd slave
@@ -6274,14 +6365,18 @@ that he is, for many and various favours which he did
 his master long after he had earned a discharge.
 Whoever he may be, he snatches me up, tablets and
 all, and runs off with me, changing his name from
-Pyrrhias or Dromo or ‘Tibius to Megacles or
+Pyrrhias or Dromo or Tibius to Megacles or
 Megabyzus or Protarchus, while those others who
 opened their mouths in vain are left looking at one
 another and mourning in earnest because such a
 fine fish has made his escape from the inmost
 pocket of their net after swallowing quantities of
-bait. As for the man who has been flung head over
-_ears into riches, an uncultivated, coarse-grained
+bait.1 
+
+@
+
+As for the man who has been flung head over
+ears into riches, an uncultivated, coarse-grained
 fellow who still shudders at the irons, pricks up his
 ear if anyone casually flicks a whip in passing, and
 worships the mill as if it were the seat of the
@@ -6300,6 +6395,8 @@ in a moment, poor devil, he pours out all that was
 
 accumulated little by little through many perjuries,
 robberies and villainies.
+@
+
 <label>HERMES</label>
 Yes, that is just about the way of it. But when
 you go on your own feet, how do you find the way,
@@ -6319,7 +6416,10 @@ I wander up and down, roaming about until I come
 upon someone unawares, and that man, whoever he
 may be who happens on me, takes me home and
 keeps me, paying homage to you, Hermes, for his
-unexpected stroke of good-luck.?
+unexpected stroke of good-luck.2
+
+@
+
 <label>HERMES</label>
 Then you have cheated Zeus, who thinks that you
 observe his decrees and enrich those who in his
@@ -6345,6 +6445,9 @@ escape easily, since you do not know the way ?
 <label>RICHES</label>
 For some reason I become sharp of eye and swift
 of foot then, but only for the time of ny escape.
+
+@
+
 <label>HERMES</label>
 Now just answer me this one more question. How
 is it that although you are blind (pardon my frankness), and not only that but pale and heavy-footed, you
@@ -6354,7 +6457,11 @@ win you, but cannot bear to live if they fail? In
 fact, I know a good many of them who were so
 desperately in love with you that they went and
 flung themselves “into the deep-bosomed sea” and
-“over the beetling crags’?! because they thought
+“over the beetling crags"1 
+
+
+
+because they thought
 you were cutting them when as a matter of fact you
 could not see them at all. But you yourself will
 admit, I am sure, if you know yourself, that they
@@ -6382,6 +6489,9 @@ of life if they do not win me. If anyone’ should
 strip me and show me to them, without a doubt
 they would reproach themselves for being shortsighted to that extent and for falling in love with
 things hateful and ugly.
+
+@
+
 <label>HERMES</label>
 Why is it, then, that even after they are in the
 very midst of riches and have put the mask on their
@@ -6409,6 +6519,7 @@ me, the progenitor of all these ills that have come in,
 because I am attended by them, and he would
 endure anything in the world rather than put up
 with losing me.
+@
 <label>HERMES</label>
 But how smooth and slippery you are, Riches,
 how hard to hold and how quick to get away! You
@@ -6426,6 +6537,9 @@ What is it?
 <label>HERMES</label>
 We have not brought along Treasure, whom we
 needed most.
+
+@
+
 <label>RICHES</label>
 Be easy on that score; 1 always leave him on
 earth when I go up to you, bidding him to stay at home
@@ -6443,6 +6557,9 @@ It is very good of you to lead me, Hermes, for if
 you should leave me behind I would soon run against
 Hyperbolus or Cleon as I strayed about. But what
 is that noise as of iron on stone?
+
+@
+
 <label>HERMES</label>
 Our friend Timon is digging ina hilly and stony
 piece of ground close by. Oho, Poverty is with him,
@@ -6456,6 +6573,8 @@ mentioning with a man that is hedged in by such an
 army.
 <label>HERMES</label>
 Zeus thought differently, so let’s not be cowardly.
+
+@
 <label>POVERTY</label>
 Where are you going with that person whom you
 have by the hand, Hermes?
@@ -6479,8 +6598,11 @@ before, and then return him to me reduced to a
 clout?
 <label>HERMES</label>
 It was the will of Zeus, Poverty.
+
+@
+
 <label>POVERTY</label>
-Iam going; follow me, Toil and Wisdom and the
+I am going; follow me, Toil and Wisdom and the
 rest of you. ‘This man will soon find out whom he is
 deserting in me—a good helpmate and a teacher of
 all that is best, through whose instruction he kept
@@ -6490,6 +6612,9 @@ abundance and excess to be nothing to him, as indeed
 it is.
 <label>HERMES</label>
 They are going ; let us approach him.
+
+@
+
 <label>TIMON</label>
 Who are you, plague take you, and what do you
 want that you come here to bother a man at work
@@ -6499,7 +6624,7 @@ of you; for I'll very soon throw these clods and
 stones at you and break every bone in your bodies.
 <label>HERMES</label>
 No, no, Timon! don’t throw at us, for we are not
-men. Iam Hermes and this is Riches. We were
+men. I am Hermes and this is Riches. We were
 sent by Zeus in answer to your prayers. So desist
 from your labours and accept prosperity, and good
 luck to you!
@@ -6515,6 +6640,9 @@ certainly break his head with my pick.
 Let’s go, Hermes, in the name of Zeus, in order
 that I may not come to some harm before going ; for
 the man is uncommonly crazy, it seems to me.
+
+@
+
 <label>HERMES</label>
 Let’s have no roughness, Timon. Lay aside this
 excessive rudeness and asperity, stretch out your
@@ -6529,16 +6657,22 @@ I am as happy as can be if only nobody comes near
 me.
 <label>HERMES</label>
 Such an uncivil answer, friend ?
-“Will you I carry to Zeus those words so repellent
-and stubborn ?”” 4
+
+<cit><quote><l>Will you I carry to Zeus those words so repellent
+and stubborn ?</l></quote>
+<bibl>Iliad, 15, 202</bibl></cit>
+
+
 True enough, it is reasonable for you to hate men
 after they have treated you so horribly, but not in
 the least to hate the gods, who take such good care
 of you.
+
+@
+
 <label>TIMON</label>
 I am very much obliged to you, Hermes, and to
-<note n="1">Iliad, 15, 202.</note>
-365
+
 <pb n="367"/>
 
 Zeus for the care, but 1 must decline to take your
@@ -6561,7 +6695,11 @@ wherein lay my own riches, which could not be
 taken away either by a toady with flattery or by a
 blackmailer with threats, by a mob in a gust of
 passion, a voter with his ballot or a tyrant with his
-intrigues. Strengthened, therefore, by my labours, |
+intrigues. 
+
+@
+
+Strengthened, therefore, by my labours, |
 work upon this farm with pleasure in my toil, secing
 nothing of the ills in the city and getting ample and
 suflicient sustenance from my pick. So wend your
@@ -6581,6 +6719,9 @@ shall you be offended at me if I say anything ?
 Speak, but not at length nor with a preface, like a
 rascally orator. I will endure a few words from you
 for the sake of Hermes.
+
+@
+
 <label>RICHES</label>
 Perhaps 1 ought really to speak at length in
 reply to so many charges made by you. However, judge whether I have wronged you as you
@@ -6589,7 +6730,7 @@ delightful,—honour, precedence, civic crowns, and
 every form of luxury; and you were admired and
 puffed and courted, thanks to me. On the other
 hand, if you have suffered any cruel treatment at
-the hands of the toadies, Iam not to blame; rather
+the hands of the toadies, I am not to blame; rather
 have I myself been wronged by you because you so
 basely put me at the mercy of scoundrels who praised
 you and bewitched you and intrigued against me in
@@ -6620,6 +6761,9 @@ into, curse the luck! Until now I was leading the
 happiest of lives, but in a moment, though I have
 done no wrong, I am to receive so much gold and to
 take on so many cares.
+
+@
+
 <label>HERMES</label>
 Endure it, Timon, for my sake, even if it is difficult
 and unbearable, in order that those toadies may burst
@@ -6632,6 +6776,10 @@ away and send Treasure to you. But, no, strike in.
 Ho, Treasure of Gold! Submit to Timon and let
 yourself be dug up. Dig, Timon, and bring down
 deep strokes. I will leave you to yourselves.
+
+@
+
+
 <label>TIMON</label>
 Come, pick, be strong for me now and don’t flag in
 the task of calling Treasure out of the depths to the
@@ -6645,26 +6793,36 @@ I may wake up and find nothing but ashes. No,
 
 verily it is coined gold, red and heavy and mighty
 good to look upon.
-“O gold, thou fairest gift that comes to man!” 1
+
+<cit><quote><l>O gold, thou fairest gift that comes to man!</l></quote>
+<bibl>Euripides, Danae, fr. 326 Nauck.</bibl></cit>
+
+
 In very truth you stand out like blazing fire, not only
-by night but by day.2- Come to me, my precious, my
+by night but by day.
+<note>The allusion is to Pindar, Olymp. i. 1 ff.</note> Come to me, my precious, my
 pretty! Now I am convinced that Zeus once turned
 into gold, for what maid would not open her bosom
 and receive so beautiful a lover coming down through
 the roof in a shower? O Midas! O Croesus! O
 treasures of Delphi! How little worth you are beside
 Timon and the wealth of Timon! Yes, even the
-king of Persia is not a match for me.
+king of Persia is not a match for me.</p>
+<p>
 Pick and darling coat of skin, it is best that I
 should hang you up here as an offering to Pan. For
 myself, I purpose now to buy the whole farm, build
 a tower over the treasure just large enough for me
-to live in, and have it for my tomb when I am dead.
+to live in, and have it for my tomb when I am dead.</p>
+<p>
 “Be it resolved and enacted into law, to be
 binding for the rest of my life, that I shall associate
 with no one, recognize no one and scorn everyone.
-Friends, guests, comrades and Altars of Mercy 3
-shall be matter for boundless mockery. To pity one
+Friends, guests, comrades and Altars of Mercy<note>There was such an altar in Athens; cf. Demonax 57.</note>
+shall be matter for boundless mockery.
+
+@
+ To pity one
 who weeps, to help one who is in need shall be a
 misdemeanour and an infringement of the constitution. My life shall be solitary, like that of wolves;
 Timon shall be my only friend, and all others shall
@@ -6673,9 +6831,8 @@ them shall be pollution, and if I simply see one of
 them, that day shall be under a curse. In short,
 they shall be no more than statues of stone or bronze
 in my sight. I shall receive no ambassadors from
-<note n="1">Huripides, Danae, fr. 326 Nauck.</note>
-<note n="2">The allusion is to Pindar, Olymp. i. 1 ff.</note>
-<note n="3">There was such an altar in Athens; cf. Demonax 57.</note>
+
+
 373
 <pb n="375"/>
 
@@ -6687,6 +6844,10 @@ live in luxury all by himself, remote from flattery
 and tiresome praise. He shall sacrifice to the gods
 and celebrate his feast-days by himsclf, his own
 sole neighbour and crony, shaking free of all others.
+
+@
+
+
 Be it once for all resolved that he shall give himself
 the farewell handclasp when he comes to die, and
 shall set the funeral wreath upon his own brow.
@@ -6702,9 +6863,14 @@ plunging him down so deep that he cannot come up
 again. In that way they will get what they deserve.
 Moved by Timon, son of Echecratides, of Collytus ;
 motion submitted to the assembly by the aforesaid
-Timon.”
+Timon.”</p>
+<p>
 Good! Let us pass this resolution and abide by
-it stoutly. Yet I would have given a great deal if
+it stoutly. 
+
+@
+
+Yet I would have given a great deal if
 everybody could have found out somehow that I am
 tremendously rich ; they would be fit to hang themselves over the thing. But what is this? I say,
 375
@@ -6724,6 +6890,7 @@ when I asked for a loan, though often he has spewed
 up whole jars of wine at my house. I am glad he
 came: he shall be the first to smart.
 
+@
 <label>GNATHONIDES</label>
 Didn’t I say that the gods would not neglect an
 upright man like Timon? Good day to you, Timon,
@@ -6735,7 +6902,7 @@ in voracity and first of all mankind in rascality.
 <label>GNATHONIDES</label>
 You are always fond of your joke. But where
 are we to dine? I have brought you a new song
-from one of the plays! that have just been put on.
+from one of the plays1 that have just been put on.
 <label>TIMON</label>
 I assure you, it will be a very mournful dirge that
 you will sing, with this pick of mine to prompt you.
@@ -6757,8 +6924,11 @@ staunching blood.
 <label>TIMON</label>
 What, are you still bent on staying ?
 <label>GNATHONIDES</label>
-Iam going; but you shall be sorry that you left
+I am going; but you shall be sorry that you left
 off being a gentleman and became such a boor.
+
+@
+
 <label>TIMON</label>
 Who is this coming up, with the bald pate?
 Philiades, the most nauseous toady of them all.
@@ -6770,6 +6940,9 @@ his word of honour that I was a better singer than a
 swan. Yet when he saw me ill the other day and I
 went up to him and begged for alms, the generous
 fellow bestowed a thrashing on me.
+
+@
+
 <label>PHILIADES</label>
 Oh, what effrontery! So you all recognize Timon
 now? So Gnathonides is his friend and booncompanion now? Then he has had just what he
@@ -6796,6 +6969,9 @@ may give you a friendly greeting with my pick !
 <label>PHILIADES</label>
 Help! The ingrate has broken my head because I
 gave him good advice.
+
+@
+
 <label>TIMON</label>
 Lo and behold! here comes a third, the orator
 Demeas, holding a resolution in his hand and saying
@@ -6803,12 +6979,14 @@ that he is a relative of mine. That fellow paid the
 city treasury sixteen talents within a single day,
 getting his money from me, for he had been condemned to a fine and put in jail while it was unpaid.
 And yet when it became his duty recently to
-distribute the show-money to the Erechtheis tribe,
+distribute the show-money to the Erechtheis tribe,1
 and I went up and asked for my share, he said he
 did not recognize me as a citizen !
 <note n="1">A slip on Lucian’s part, for Collytus belonged to Aegeis. The show-money (theoric fund) was at first given only to cover the cost of admission to state spectacles, but later became a distribution per capita of the surplus funds.</note>
 381
 <pb n="383"/>
+
+@
 
 <label>DEMEAS</label>
 Good day, Timon, great benefactor of your kin,
@@ -6824,13 +7002,16 @@ the wrestling match, and the foot-race at Olympia in
 a single day, as well as the horse-races, both with
 the regular chariot and with the span of colts””— -
 <label>TIMON</label>
-But I never was even a delegate ! to the games at
+But I never was even a delegate 1 to the games at
 Olympia !
 <label>DEMEAS</label>
 What of that? You will be, later. It is best to
 put in plenty of that sort of thing.
 — "and fought bravely for the city at Acharnae vee
 and cut to pieces two divisions of Spartans"—
+
+@
+
 <label>TIMON </label>
 What do you mean by that? I wasn’t even posted
 on the muster-roll because I had no arms.
@@ -6848,7 +7029,7 @@ the council and acting as general ;
 council, the assembly, the panel of jurors, the tribes
 and the demes, both severally and in common, to erect
 a golden statue of Timon beside Athena on the
-Acropolis with a thunderbolt in his hand and a halo
+Acropolis with a thunderbolt in his hand and a halo1
 upon his head, and to crown him with seven crowns
 of gold, said crowns to be awarded by proclamation
 to-day at the Dionysia when the new tragedies
@@ -6856,6 +7037,9 @@ are performed ; for the Dionysia must be held to-day
 on his account. Moved by the orator Demeas, his
 next of kin and his pupil; for Timon is an excellent
 orator and anything else that he wants to be.”
+
+@
+
 There you have the resolution. I wish I had
 brought my son to see you; I have called him Timon
 after you.
@@ -6880,6 +7064,8 @@ and for burning the Acropolis too.
 
 <pb n="387"/>
 
+@
+
 <label>TIMON</label>
 But the Acropolis has not been burned, you
 scoundrel, so it is plain that you are a blackmailer.
@@ -6902,6 +7088,9 @@ be too ridiculous if I had cut up two divisions of
 Spartans unarmed and then couldn’t thrash a single
 filthy little creature like you. My victory at Olympia
 in boxing and wrestling would be all for nothing !
+
+@
+
 But what have we here? Isn’t this Thrasyc yeles ?
 No other! With his beard spread out and his eyebrows uplifted, he marches along deep in haughty
 meditation, his eyes glaring like a Titan’s and his
@@ -6922,7 +7111,11 @@ a dog, bends over his plate as if he expected to find
 virtue in it, carefully wipes out the dishes with his
 forefinger so as not to leave a particle of the sauce,
 and grumbles continually, even if he gets the whole
-cake or the whole boar to himself. Heis the height
+cake or the whole boar to himself. 
+
+@
+
+He is the height
 of gluttony and insatiability, and he gets so drunken
 and riotous that he not only sings and dances, but
 even abuses people and flies into a passion. Besides
@@ -6938,11 +7131,11 @@ he perjures himself with the greatest facility ; humbug is his guide and shamele
 to sum it up, he is a wonderfully clever piece of
 work, correct in every detail and perfect in a world
 of ways. Therefore he shall soon smart for ;his
-superiority. (Zo Turasycies): Well, well! I say,
+superiority. (To Thrasycles): Well, well! I say,
 Thrasycles, you are late.
 389
 <pb n="391"/>
-
+@
 <label>THRASYCLES</label>
 I have not come with the same intent as all this
 crowd, Timon. Dazzled by your riches, they have
@@ -6963,7 +7156,11 @@ by all means throw the whole of it into the sea, for it
 is not at all essential to a virtuous man who can discern the riches of philosophy; but don’t throw it into
 the deep water, my dear fellow: just wade in as far
 as your waist and toss it a short distance outside the
-breakers, with none but me to see you. However, if
+breakers, with none but me to see you. 
+
+@
+
+However, if
 you are unwilling to do this, then bundle it out of the
 house quickly in another and a better way without
 leaving as much as a copper for yourself by distributing it to all the needy, five drachmas to this
@@ -6976,7 +7173,7 @@ my comrades who are needy, and it will be plenty if
 <pb n="393"/>
 
 you let me have the fill of this wallet, which holds
-not quite two bushels Aeginetan =A man in
+not quite two bushels Aeginetan.1 A man in
 philosophy should be easily satisfied and temperate,
 and should limit his aspirations to his wallet.
 <label>TIMON</label>
@@ -6990,6 +7187,8 @@ beating me, in a free city !
 What are you angry about, my dear fellow? Surely
 I haven’t given you short measure ? Come, Pll throw
 in four pecks over the amount !
+
+@
 But what have we here? «They are gathering in
 swarms; I see Blepsias yonder, Laches, Guipho and
 the whole crew of my intended victims. Why not
@@ -7038,7 +7237,7 @@ with me and guide me, and will show me everything, knowing all about it as you d
 <label>HERMES</label>
 I haven't time, ferryman; I am on my way to
 carry out a little commission among men for Zeus in
-Heaven.' He is quick-tempered, and I fear that if
+Heaven.1 He is quick-tempered, and I fear that if
 I am slow about it he will let me be yours altogether,
 committing me to the nether gloom, or else that he
 will treat me as he did Hephaestus the other day,
@@ -7067,12 +7266,17 @@ be no better off than the blind, for they stumble and
 reel about in the darkness, while I, to the contrary,
 am dazed in the light. Be good to me, Cyllenian,
 and I shall remember your kindness forever.
+
+@
+
+
 <label>HERMES</label>
 This business will stand me in a thrashing ; at any
 rate I see even now that my pay for playing guide
 will certainly include plenty of fisticufls. But 1
 must comply all the same, for what can a man do
-when a friend insists ?
+when a friend insists ?</p>
+<p>
 For you to see everything minutely in detail is impossible, ferryman, since it would busy us for many
 years. In that event Zeus would be obliged to have
 me advertized by the crier, like a runaway slave, and
@@ -7096,6 +7300,9 @@ If it were possible for you to go up into Heaven, we
 should be in no difficulty, for you could see everything plainly from on high. But as it is not permissible for one who consorts always with shades to set
 foot in the palace of Zeus, we must look about for a
 high mountain.
+
+@
+
 <label>CHARON</label>
 You know, Hermes, what I am in the habit of
 telling you and the others when we are on the water.
@@ -8341,7 +8548,7 @@ They are left unsold also.
 Put up another.
 <label>HERMES</label>
 Do you want the Athenian over there, who has so
-much to say?!
+much to say?1
 <label>ZEUS</label>
 By all means.
 <label>HERMES</label>
@@ -8533,7 +8740,7 @@ In the name of wisdom, don’t begrudge telling me
 <pb n="491"/>
 
 at least what predicaments and bye-predicaments are ;
-for Iam somehow impressed by the rhythm of the
+for I am somehow impressed by the rhythm of the
 terms.
 <label>STOIC</label>
 Indeed, I do not begrudge it at all. If a man who
@@ -8566,7 +8773,7 @@ back to you if you told him truly what he intended
 <pb n="493"/>
 
 to do about giving it back, what would you say he
-had made up his mind to do?!
+had made up his mind to do?1
 <label>BUYER</label>
 Your question is hard to answer, for I don’t know
 which alternative I should follow in my reply, in
@@ -8807,7 +9014,7 @@ Whom have we left ?
 <pb n="507"/>
 
 <label>HERMES</label>
-This Sceptic is still on our hands. Reddy,! come
+This Sceptic is still on our hands. Reddy,1 come
 here and be put up without delay. The crowd
 is already drifting away, and there will be but few
 at his sale. However,—who'll buy this one?
