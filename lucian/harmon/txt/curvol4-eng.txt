@@ -1,36 +1,5 @@
-<pb n="1"/>
-<note type="head">THE WORKS OF LUCIAN</head>
-ANACHARSIS, OR ATHLETICS
-Taking us back to the early sixth century, Lucian lets us
-listen to a conversation about Greek athletics between Solon,
-the Athenian lawgiver, and that legendary figure, the
-Scythian Anacharsis, who came to Greece in the quest of
-wisdom just as Solon himself had gone to Egypt and
-Lycurgus of Sparta to Crete.
-K. G. Jacob, who tried to make out that Lucian was an
-ardent reformer, laid great stress on this dialogue as a tract
-designed to restore the importance of athletics in Greek educa-
-tion by recalling how much they meant in the good old days.
-But Lucian, who in any case was no laudator temporis acti, says
-nothing of any significance elsewhere to indicate either that
-he thought athletics especially in need of reform or that he
-felt any particular interest in them; and if the Anacharsis
-had been written for any such purpose, surely it would have
-ended with the conversion of the Scythian to the standpoint
-of the Greek.
-Let us say rather that Lucian, who was especially
-interested in Anacharsis and Solon, as we see from his
-Scythian, wished, perhaps for the edification of an Athenian
-audience, to present them in conversation, and shrewdl
-picks athletics for their theme as that feature of Gree
-civilization which would be most striking and least intel-
-ligible to the foreigner, the ‘child of Nature.’
-The conversation takes place in the Lyceum at Athens
-The opening sentence assumes that Anacharsis has just
-been enquiring about something else, and now turns to a
-new topic. ;
-I
-VOL. IV. ~ B
+
+
 <pb n="2"/>
 <note type="head">1</head>
 ANAXAP3I2 H TIEPI TTMNAZION
@@ -61,9 +30,40 @@ poruvecOai, AN dhavicaytes TO Xpicpa Kal Tod
 BopBépov davardnabértes év iSpHtt Gua TOArA@
 Available in photugraphs: TN.
 <pb n="3"/>
-<note type="head">ANACHARSIS, OR ATHLETICS</head>
+<div type="translation" n="tlg0062.tlg034">
+<head>ANACHARSIS, OR ATHLETICS <note><p>Taking us back to the early sixth century, Lucian lets us
+listen to a conversation about Greek athletics between Solon,
+the Athenian lawgiver, and that legendary figure, the
+Scythian Anacharsis, who came to Greece in the quest of
+wisdom just as Solon himself had gone to Egypt and
+Lycurgus of Sparta to Crete.</p>
+<p>K. G. Jacob, who tried to make out that Lucian was an
+ardent reformer, laid great stress on this dialogue as a tract
+designed to restore the importance of athletics in Greek educa-
+tion by recalling how much they meant in the good old days.
+But Lucian, who in any case was no laudator temporis acti, says
+nothing of any significance elsewhere to indicate either that
+he thought athletics especially in need of reform or that he
+felt any particular interest in them; and if the Anacharsis
+had been written for any such purpose, surely it would have
+ended with the conversion of the Scythian to the standpoint
+of the Greek.</p>
+<p>Let us say rather that Lucian, who was especially
+interested in Anacharsis and Solon, as we see from his
+Scythian, wished, perhaps for the edification of an Athenian
+audience, to present them in conversation, and shrewdl
+picks athletics for their theme as that feature of Gree
+civilization which would be most striking and least intel-
+ligible to the foreigner, the ‘child of Nature.’
+The conversation takes place in the Lyceum at Athens
+The opening sentence assumes that Anacharsis has just
+been enquiring about something else, and now turns to a
+new topic.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 ANACHARSIS
-Anp why are your young men doing all this,
+And why are your young men doing all this,
 Solon? Some of them, locked in each other’s arms,
 are tripping one another up, while others are choking
 and twisting each other and grovelling together in
@@ -281,7 +281,7 @@ in all of which we hold contests, and the winner is
 considered best in his class and carries off the prizes.
 ANACHARSIS
 And these prizes of yours, what are they?
-&
+
 SOLON
 At the Olympic games, a wreath made of wild
 olive, at the Isthmian one of pine, and at the
@@ -299,7 +299,7 @@ the contestants themselves to be tremendously eager
 prize in the Pythia, it may have been apples before the re-
 organization of the games in 586. But in that year the
 competition had prizes “in kind,” spoils of the Crisaean war
-(xpnparirns &rd Aapipwy: Marmor Parium) ; and from 582 it
+(χρηματίτης ἀπὸ λαφύρων: Marmor Parium) ; and from 582 it
 was orepavirns, like the other three Panhellenic Festivals,
 with a wreath of laurel.
 9
@@ -2024,8 +2024,7 @@ you never match them under arms but bring them
 out naked and show them receiving kicks and blows,
 and when they have won you give them apples and
 parsley. It is worth while to know why you do so..
-1 nev Dindorf : yap MSS.
-2 ayorCoudvous Jacobitz: &ywricouévous MSS.
+
 59
 <pb n="60"/>
 <note type="head">THE WORKS OF LUCIAN</head>
@@ -2341,46 +2340,8 @@ with this understanding, for it is now evening.
 <note type="head">Digitized by Google</head>
 Original from
 THE OHIO STATE UNIVERSITY
-<pb n="71"/>
-<note type="head">MENIPPUS</head>
-OR THE DESCENT INTO HADES
-Menirrvus, who in the Jcaromenippus (II. 267) described
-his ascent to Heaven to discover the truth about the nature
-of the universe, now tells the story of his descent into Hades
-to find out the right way to live. Utterly perplexed by the
-philosophers, who neither agree in their doctrines nor practise
-what they preach, he goes below to consult Teiresias, who
-tells him to disregard them ; that the ordinary man’s way of
-living is best.
-The unity of the dialogue is badly marred because Lucian
-has given it a double point, aiming it not only at the
-philosophers but at the rich. Indeed, it is not the philo-
-sophers but the rich and powerful who are getting on badly
-in Hades, and against whom a decree is paeeel by the assembly
-of the dead.
-This curious defect arises, I believe, from the way in
-which Lucian adapted his model, the Necyia of the real
-Menippus. Helm argues, to be sure, that the Menippus isa
-mere epitome and revision of the Necyia, but in my opinion
-the Necyia must have been a satire against wealth and power,
-in which Menippus told how he (or someone else) had
-learned, by his own observation and from the lips of Teire-
-sias, that kings and millionaires fared ill in the hereafter, and
-that the life of the ordinary man was preferable to theirs. This
-Cynic sermon Lucian parodies and turns against the philo-
-sophers, retaining the response of Teiresias, but twisting its
-point so that the ‘‘ordinary man” is now contrasted, not
-with kings and plutocrats, but with philosophers. He ought
-to have carried out this idea by recasting the whole show in
-Hades ; but he wanted to work in a decree of the dead, which
-could not be directed against the philosophers without steal-
-ing the thunder of Teiresias. So he aimed it at the rich, and
-retained the stage setting of Menippus to lead up to it.
-The dialogue probably was written in a.p. 161-162 (p. 90,
-note). Helm’s discussion (Lucian wnd Menipp, 15 ff.) contains
-much valuable comment, especially upon the magic ritual.
-On Menippus, see the Index.
-71
+
+
 <pb n="72"/>
 <note type="head">MENITIMO® H NEKTOMANTEIA</head>
 MENININOZ
@@ -2407,9 +2368,49 @@ Available in photographs I, PN.
 abrdy wap’ dSpiv.
 42
 <pb n="73"/>
-<note type="head">MENIPPUS -</head>
-OR THE DESCENT INTO HADES
-MENIPPUS
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg035">
+<head>MENIPPUS, OR THE DESCENT INTO HADES
+MENIPPUS<note><p>Menippus, who in the Jcaromenippus (II. 267) described
+his ascent to Heaven to discover the truth about the nature
+of the universe, now tells the story of his descent into Hades
+to find out the right way to live. Utterly perplexed by the
+philosophers, who neither agree in their doctrines nor practise
+what they preach, he goes below to consult Teiresias, who
+tells him to disregard them ; that the ordinary man’s way of
+living is best.</p>
+<p>The unity of the dialogue is badly marred because Lucian
+has given it a double point, aiming it not only at the
+philosophers but at the rich. Indeed, it is not the philo-
+sophers but the rich and powerful who are getting on badly
+in Hades, and against whom a decree is paeeel by the assembly
+of the dead.</p>
+<p>This curious defect arises, I believe, from the way in
+which Lucian adapted his model, the Necyia of the real
+Menippus. Helm argues, to be sure, that the Menippus isa
+mere epitome and revision of the Necyia, but in my opinion
+the Necyia must have been a satire against wealth and power,
+in which Menippus told how he (or someone else) had
+learned, by his own observation and from the lips of Teire-
+sias, that kings and millionaires fared ill in the hereafter, and
+that the life of the ordinary man was preferable to theirs. This
+Cynic sermon Lucian parodies and turns against the philo-
+sophers, retaining the response of Teiresias, but twisting its
+point so that the ‘‘ordinary man” is now contrasted, not
+with kings and plutocrats, but with philosophers. He ought
+to have carried out this idea by recasting the whole show in
+Hades ; but he wanted to work in a decree of the dead, which
+could not be directed against the philosophers without steal-
+ing the thunder of Teiresias. So he aimed it at the rich, and
+retained the stage setting of Menippus to lead up to it.
+The dialogue probably was written in a.p. 161-162 (p. 90,
+note). Helm’s discussion (Lucian wnd Menipp, 15 ff.) contains
+much valuable comment, especially upon the magic ritual.
+On Menippus, see the Index.</p></note></head>
+
+<div type="textpart" subtype="section" n="1"><p>
+
 All hail, ye halls and portals of my home!
 What joy you give mine eyes, to light returned !!
 A FRIEND
@@ -3037,9 +3038,9 @@ by speakers of a novel and surprising sort.
 in a similar application. The extreme weight, however,
 suggests something resembling @ ball-and-chain, a weight
 attached by a hook to a chain which perhaps was fastened
-& ue neck-iron. It would have to be carried in the
+to the neck-iron. It would have to be carried in the
 and.
-gI
+
 <pb n="92"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 SIA0z
@@ -3212,7 +3213,7 @@ OKENETOV KEtwevon Kal TavTwV opoiws poBepov Tt
 kal Sidxevov SeSopxotwy Kal yupvovs Tovs ddorvtas
 1 yareras ye xovra A.M.H.: xadrerds te xovra Tr. Not
 in PN. Fritzsche reads xorén’ baye’ Exovta.
-1 A reflection (purposely bald and prosaic, in order to
+
 96
 <pb n="97"/>
 <note type="head">MENIPPUS</head>
@@ -3244,15 +3245,17 @@ they were lying one atop of another, ill-defined,
 unidentified, retaining no longer any trace of earthly
 beauty. So, with many skeletons lying together,
 all alike staring horridly and vacuously and baring
-fetch a smile) of Homer’s xadén’ &ayé Zxovra (Odyssey, 11,
-582). ;
+
+1 A reflection (purposely bald and prosaic, in order to
+fetch a smile) of Homer’s χαλέπ᾽ ἄλγε' ἔχοντα (Odyssey, 11,
+582). 
 2 He covered nine pelethra; Odyssey, 11,577; unfortunately
 we do not know how much a Homeric pelethron was. But
 when Athena took the measure of Ares, who could shout as
 loud as nine or ten thousand soldiers, it was but seven
-pelethra (Zi. 5, 860; 21, 407).
-97
-VOL. Iv. H
+pelethra (Il. 5, 860; 21, 407).
+
+
 <pb n="98"/>
 <note type="head">THE WORKS OF LUCIAN</head>
 TpopawovTwy, Hmopouy mpos ewavtoy wri dia-
@@ -3650,39 +3653,8 @@ and found myself in Lebadeia.
 <note type="head">Digitized by Goc gle</head>
 Original from
 THE OHIO STATE UNIVERSITY
-<pb n="111"/>
-<note type="head">ON FUNERALS</head>
-In the introductory note on Sacrifices (III. 153) it has been
-indicated that Sacrifices and Funerals are closely related.
-There is reason, I think, to believe that Sacrifices was written
-later than Funerals, to be read in public as a continuation of
-that piece. After the lecture it was put into circulation as a
-separate piece because Funerals was already in the hands of
-the public, and because the supplement seemed independent
-enough to stand alone. Thus, without ignoring the fact that
-the two pieces have come down to us separate, we may
-account for the further fact that the first sentence of one
-takes up the last sentence of the other as if it had been
-meant to do so (see the note on p. 131).
-Though Lucian here follows the Cynic pattern pretty
-closely, and may indeed be drawing directly upon Bion the
-Borysthenite (p. 128, note 1), there is a difference. He can-
-not forget his inborn artistry and his rhetorical training. So,
-instead of preaching at his hearers, he lectures to them,
-censuring ‘‘the many” for the delectation of ‘‘the best.”
-Moreover, his constant desire for novelty in literary form
-finds characteristic expression. In an inconspicuous way he
-employs once more a ‘‘ frame” device, somewhat as in the
-Prometheus. The most usual form of this device, and the
-oldest, is that in which dialogue ‘‘ frames” narrative, as in
-Lucian’s Lover of Lies, and Plato’s Phaedo. Inthe Prometheus,
-dialogue forms a setting for plea and counter-plea—the accusa-
-tion of Hermes and the defence of Prometheus. Here, in
-a setting of diatribe, we come upon threnody and para-
-threnody—the father’s lament, and the dead son’s reply. It
-may be remarked also that the source and character of the
-reply contribute a truly Lucianic fillip of surprise.
-III
+
+
 <pb n="112"/>
 <note type="head">IIEPI TIIEN@OT></head>
 1 “Aftov ye waparnpeiv ta bd TOY TOAKY ev
@@ -3711,8 +3683,43 @@ Codices available in photographs : Tr, UPN.
 1 otre ei vulg. : efre ci y; % B.
 112
 <pb n="113"/>
-<note type="head">ON FUNERALS</head>
-TRULY, it is well worth while to observe what most
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg036">
+<head>ON FUNERALS<note><p>In the introductory note on Sacrifices (III. 153) it has been
+indicated that Sacrifices and Funerals are closely related.
+There is reason, I think, to believe that Sacrifices was written
+later than Funerals, to be read in public as a continuation of
+that piece. After the lecture it was put into circulation as a
+separate piece because Funerals was already in the hands of
+the public, and because the supplement seemed independent
+enough to stand alone. Thus, without ignoring the fact that
+the two pieces have come down to us separate, we may
+account for the further fact that the first sentence of one
+takes up the last sentence of the other as if it had been
+meant to do so (see the note on p. 131).</p>
+<p>Though Lucian here follows the Cynic pattern pretty
+closely, and may indeed be drawing directly upon Bion the
+Borysthenite (p. 128, note 1), there is a difference. He can-
+not forget his inborn artistry and his rhetorical training. So,
+instead of preaching at his hearers, he lectures to them,
+censuring "the many” for the delectation of ‘‘the best.”
+Moreover, his constant desire for novelty in literary form
+finds characteristic expression. In an inconspicuous way he
+employs once more a "frame” device, somewhat as in the
+Prometheus. The most usual form of this device, and the
+oldest, is that in which dialogue "frames” narrative, as in
+Lucian’s Lover of Lies, and Plato’s Phaedo. Inthe Prometheus,
+dialogue forms a setting for plea and counter-plea—the accusa-
+tion of Hermes and the defence of Prometheus. Here, in
+a setting of diatribe, we come upon threnody and para-
+threnody—the father’s lament, and the dead son’s reply. It
+may be remarked also that the source and character of the
+reply contribute a truly Lucianic fillip of surprise.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
+Truly, it is well worth while to observe what most
 people do and say at funerals, and on the other
 hand what their would-be comforters say ; to observe
 also how unbearable the mourners consider what is
@@ -4327,54 +4334,14 @@ and others still more ridiculous are done at funerals,
 for the reason that people think death the greatest
 of misfortunes.1
 1 The first words of Sacrifices seem to take up this sentence.
-They may be translated: ‘‘ And as to sacrifices, what the
-dolts do ”—& pév yap ev tais Ovotas of wdrasos xpdt roves.
+They may be translated: "And as to sacrifices, what the
+dolts do”—ἃ μὲν γὰρ ἐν ταῖς θυσίαις οἱ μάταιοι πράττουσι.
 131
 <pb n="132"/>
 <note type="head">Digitized by Google</head>
 Original from
 THE OHIO’STATE UNIVERSITY
-<pb n="133"/>
-<note type="head">A PROFESSOR OF PUBLIC</head>
-SPEAKING
-A SATIRE upon the new fashion in oratory, and one of its
-foremost representatives.
-The traditional course of training in rhetoric, fully de-
-scribed by the Latin Quintilian, was too arduous, it seems,
-to attract the general run of would-be public speakers
-under the Antonines. They sought a royal road to success,
-and found it; for as success in those days, especially in the
-case of Greeks, was far less a matter of persuading juries
-and swaying deliberative assemblies than of entertainin
-audiences with oratorical display, it could be attaine
-readily by meretricious methods which, in so far as they
-were capable of being taught at all (natura enim non do-
-cetur, says Quintilian), could be taught quickly.
-‘‘Some say,” remarks the scholiast, ‘‘that Lucian was
-aiming at Pollux the lexicographer when he wrote this
-piece.” This may be mere conjecture on the part of his
-authorities, but it cannot be dismissed as baseless. Pollux
-was Lucian’s contemporary, was born in Egypt, and certainly
-could have been called ‘‘a namesake of the sons of Zeus
-and Leda.” That phrase, to be sure, would better fit a
-Dioscorides, or a Didymus or Geminus, but we do not know
-of any such rhetorician of that period. Lucian may have
-been a bit vague on purpose. What little Philostratus says
-of his oratory indicates that Pollux was a follower of the new
-school ; moreover, he was the pupil of the sophist Hadrian,
-who was decidedly up to date, and the rival of the old-
-fashioned Chrestus, over whose head he was appointed by
-Commodus to the public professorship of rhetoric in Athens.
-The allusion in this piece to the high fees charged by the
-representative of the old school leads Ranke (Pollux et
-Incianus) to conclude that Lucian’s butt himself must have
-taught gratis, and must therefore have been a public pro-
-fessor. And from the silence of Philostratus as to the family
-history and private life of Pollux, Ranke argues that he was
-of low birth and doubtful reputation.
-If the piece was aimed at Pollux and written after he
-became professor, it must date after a.p. 179.
-133
+
 <pb n="134"/>
 <note type="head">PHTOPON AIAAZKAAOZ</head>
 ’Epotds, @ petpdxiov, Straws dy pytwp yévoto
@@ -4405,8 +4372,49 @@ wanting in Pr.
 1 Sdgas Struve: ddins y, ddters B.
 134
 <pb n="135"/>
-<note type="head">A PROFESSOR OF PUBLIC</head>
-SPEAKING
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg037">
+<head>A PROFESSOR OF PUBLIC SPEAKING<note><p>A satire upon the new fashion in oratory, and one of its
+foremost representatives.
+The traditional course of training in rhetoric, fully de-
+scribed by the Latin Quintilian, was too arduous, it seems,
+to attract the general run of would-be public speakers
+under the Antonines. They sought a royal road to success,
+and found it; for as success in those days, especially in the
+case of Greeks, was far less a matter of persuading juries
+and swaying deliberative assemblies than of entertainin
+audiences with oratorical display, it could be attaine
+readily by meretricious methods which, in so far as they
+were capable of being taught at all (natura enim non do-
+cetur, says Quintilian), could be taught quickly.</p>
+<p>"Some say,” remarks the scholiast, "that Lucian was
+aiming at Pollux the lexicographer when he wrote this
+piece.” This may be mere conjecture on the part of his
+authorities, but it cannot be dismissed as baseless. Pollux
+was Lucian’s contemporary, was born in Egypt, and certainly
+could have been called "a namesake of the sons of Zeus
+and Leda.” That phrase, to be sure, would better fit a
+Dioscorides, or a Didymus or Geminus, but we do not know
+of any such rhetorician of that period. Lucian may have
+been a bit vague on purpose. What little Philostratus says
+of his oratory indicates that Pollux was a follower of the new
+school ; moreover, he was the pupil of the sophist Hadrian,
+who was decidedly up to date, and the rival of the old-
+fashioned Chrestus, over whose head he was appointed by
+Commodus to the public professorship of rhetoric in Athens.
+The allusion in this piece to the high fees charged by the
+representative of the old school leads Ranke (Pollux et
+Incianus) to conclude that Lucian’s butt himself must have
+taught gratis, and must therefore have been a public pro-
+fessor. And from the silence of Philostratus as to the family
+history and private life of Pollux, Ranke argues that he was
+of low birth and doubtful reputation.</p>
+<p>If the piece was aimed at Pollux and written after he
+became professor, it must date after a.p. 179.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 You ask, my boy, how you can get to be a public
 speaker, and be held to personify the sublime and
 glorious name of sophist; life, you say, is not worth
@@ -5721,14 +5729,45 @@ was easy and downhill.
 <note type="head">Digitized by Google</head>
 Original from
 THE OHIO STATE UNIVERSITY
-<pb n="173"/>
-<note type="head">ALEXANDER THE FALSE</head>
-PROPHET
-AN account of the false priest of Asclepius, Alexander of
+
+<pb n="174"/>
+<note type="head">AAEZANAPOS H WVEYAOMANTIZ</head>
+Xv pev tows, ® dirtate Kédce, pixpov te kab
+gavdrov oles Td Tpootaypa, mpootaTTew TOV
+b) / a? , t
+AreEdvdpou cot tod "ABwvorerxitou yontos Biov
+Kat érwwoias avtod Kal Trohunpata Kal payyavelas
+> 4 > , , ‘\ v
+els BuBdiov éeyypdavra wéuar to 8d, ef Tis
+€0édou mpds TO axpiBes Exacrov éreksévat, ov
+pelov eat 4 tas "AreEdvdpov tod Didimmov
+mpdkes avaypdwat tocobtos eis xaxtay odtos,
+bcos eis dpetnv exeivos. Syws be ei peta
+ovyyveuns dvayvecer Oat pérXots Kal Ta évdéorvta
+Tots (oTopoupevors mpocroyieic Oat, SroaTHcopatl
+got Tov aOdov, Kab thv Adyéou Bovotaciay, ei
+Kal wn waoav, ad eis Sivapiv ye THY éuavTod
+avaxabdpacbat Tweipdcopat, ddiyous Saous TOY
+Kopivev éexpopycas, os am’ éxeivwv Texpaipo.o
+moon Taca Kal ws apvOntos Rv 1) KoTpos ty
+Available in photographs: Tr, UPN. (F lost as far as
+twos KAAov, c. 18 fin. Beginning supplied by late hand g).
+1 The scholiast thinks this Celsus the writer of the True
+Word, an attack upon Christianity, to which Origen replied
+in his eight books contra Celsum. He is certainly identical
+with the man whom Origen himself believed to be the author
+of that work, who, he says, was an Epicurean living under
+Hadrian and the Antonines, author also of a treatise against
+174
+<pb n="175"/>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg038">
+<head>ALEXANDER THE FALSE PROPHET<note><p>An account of the false priest of Asclepius, Alexander of
 Abonoteichus. It has been discussed in detail by Cumont in
 the jemoires couronnées de Vacadémie de Belgique, vol. xl
-(1887).
-Although Alexander achieved honour not only in his own
+(1887).</p>
+<p>Although Alexander achieved honour not only in his own
 country, a small city in remote Paphlagonia, but over a large
 part of the Roman world, almost nothing is known of him
 except from the pages of Lucian. Gems, coins, and in-
@@ -5760,42 +5799,12 @@ doubt his account is essentially accurate, but it need not be
 credited absolutely to the letter. Lucian was no historian
 at best, and he was angry. In the account of his relations
 with Alexander he reveals his own personality more clearly
-than usual, but not in a pleasant light.
-The piece was written at the request of a friend, after
-A.D. 180, when Alexander had been in his grave for ten years.
-173
-<pb n="174"/>
-<note type="head">AAEZANAPOS H WVEYAOMANTIZ</head>
-Xv pev tows, ® dirtate Kédce, pixpov te kab
-gavdrov oles Td Tpootaypa, mpootaTTew TOV
-b) / a? , t
-AreEdvdpou cot tod "ABwvorerxitou yontos Biov
-Kat érwwoias avtod Kal Trohunpata Kal payyavelas
-> 4 > , , ‘\ v
-els BuBdiov éeyypdavra wéuar to 8d, ef Tis
-€0édou mpds TO axpiBes Exacrov éreksévat, ov
-pelov eat 4 tas "AreEdvdpov tod Didimmov
-mpdkes avaypdwat tocobtos eis xaxtay odtos,
-bcos eis dpetnv exeivos. Syws be ei peta
-ovyyveuns dvayvecer Oat pérXots Kal Ta évdéorvta
-Tots (oTopoupevors mpocroyieic Oat, SroaTHcopatl
-got Tov aOdov, Kab thv Adyéou Bovotaciay, ei
-Kal wn waoav, ad eis Sivapiv ye THY éuavTod
-avaxabdpacbat Tweipdcopat, ddiyous Saous TOY
-Kopivev éexpopycas, os am’ éxeivwv Texpaipo.o
-moon Taca Kal ws apvOntos Rv 1) KoTpos ty
-Available in photographs: Tr, UPN. (F lost as far as
-twos KAAov, c. 18 fin. Beginning supplied by late hand g).
-1 The scholiast thinks this Celsus the writer of the True
-Word, an attack upon Christianity, to which Origen replied
-in his eight books contra Celsum. He is certainly identical
-with the man whom Origen himself believed to be the author
-of that work, who, he says, was an Epicurean living under
-Hadrian and the Antonines, author also of a treatise against
-174
-<pb n="175"/>
-<note type="head">ALEXANDER THE FALSE</head>
-PROPHET
+than usual, but not in a pleasant light.</p>
+<p>The piece was written at the request of a friend, after
+A.D. 180, when Alexander had been in his grave for ten years.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 No doubt, my dear Celsus,! you think it a slight
 and trivial matter to bid me set down in a book and
 send you the history of Alexander, the impostor of
@@ -8585,44 +8594,7 @@ truths in the minds of all men of sense.
 253
 <pb n="254"/>
 <note type="head">Original from</head>
-<pb n="255"/>
-<note type="head">ESSAYS IN PORTRAITURE</head>
-An elaborate compliment to Panthea, a girl of Smyrna,
-favourite of the Emperor Verus. It was written in the East,
-almost certainly at Antioch, before the death of Verus
-(4.D. 169) and probably during his residence in the East
-(162-166).
-It is ungallant to say with La Croze: ‘‘Hic adulatorum
-derisor Lucianus omnes adulatores vincit!”’ No doubt it is
-Panthea of whom Capitolinus speaks so slightingly (7, 10).
-But that a scribbler who never saw her called her a vulgaris
-amica is less significant, I submit, than that an emperor who
-knew her aid aside his beard” to suit her whim, She was
-not of high rank, it may be, but she was certainly attractive.
-And in all seriousness she cannot have been wholly unworthy.
-When Marcus Aurelius says (8, 37): ‘‘ Does Panthea still sit
-by the sepulchre of her lord?” it accords with what we
-are told here of her devotion to him; and in Lucian’s praise
-of her character there is a warmth that ensures its sincerity.
-For Lucian’s circle the piece was an interesting novelty.
-Making literary portraits by Gases though not un-
-exampled in poetry, was not hackneyed even there, and in
-prose quite new. It was original, too, to use dialogue as a
-vehicle for encomium, which commonly took the form of a
-poem or a speech.
-In this piece and in the next, its sequel, the Greek word
-sikon creates unusual difficulty for the translator. In the
-first place, it denotes any kind of portrayal, whether painting
-or statue; but its nearest equivalents—likeness, portrait,
-sketch—all suggest the flat, not the round. Indeed, for a
-portrait-statue we have no proper word. Moreover—and
-this, though perhaps less obviously awkward in its con-
-sequences, is even more serious—it also means a comparison,
-or simile ; and as Lucian’s likenesses are for the most part
-nothing but comparisons of one sort or another, his jew d’ esprit
-owes & great measure of its effectiveness to a word-play which
-cannot be transferred.
-255
+
 <pb n="256"/>
 <note type="head">EIKONES</head>
 ATKINOZ
@@ -8650,7 +8622,48 @@ introduced by the mention of Mount Sipylus, where Niobe
 was turned into stone; and now, by styling her the daughter
 256
 <pb n="257"/>
-<note type="head">ESSAYS IN PORTRAITURE</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg039">
+<head>ESSAYS IN PORTRAITURE<note type="head">ESSAYS IN PORTRAITURE</head>
+<note><p>An elaborate compliment to Panthea, a girl of Smyrna,
+favourite of the Emperor Verus. It was written in the East,
+almost certainly at Antioch, before the death of Verus
+(A.D. 169) and probably during his residence in the East
+(162-166).</p>
+<p>It is ungallant to say with La Croze: ‘‘Hic adulatorum
+derisor Lucianus omnes adulatores vincit!”’ No doubt it is
+Panthea of whom Capitolinus speaks so slightingly (7, 10).
+But that a scribbler who never saw her called her a vulgaris
+amica is less significant, I submit, than that an emperor who
+knew her aid aside his beard” to suit her whim, She was
+not of high rank, it may be, but she was certainly attractive.
+And in all seriousness she cannot have been wholly unworthy.
+When Marcus Aurelius says (8, 37): ‘‘ Does Panthea still sit
+by the sepulchre of her lord?” it accords with what we
+are told here of her devotion to him; and in Lucian’s praise
+of her character there is a warmth that ensures its sincerity.
+For Lucian’s circle the piece was an interesting novelty.
+Making literary portraits by Gases though not un-
+exampled in poetry, was not hackneyed even there, and in
+prose quite new. It was original, too, to use dialogue as a
+vehicle for encomium, which commonly took the form of a
+poem or a speech.</p>
+<p>In this piece and in the next, its sequel, the Greek word
+sikon creates unusual difficulty for the translator. In the
+first place, it denotes any kind of portrayal, whether painting
+or statue; but its nearest equivalents—likeness, portrait,
+sketch—all suggest the flat, not the round. Indeed, for a
+portrait-statue we have no proper word. Moreover—and
+this, though perhaps less obviously awkward in its con-
+sequences, is even more serious—it also means a comparison,
+or simile ; and as Lucian’s likenesses are for the most part
+nothing but comparisons of one sort or another, his jeu d’ esprit
+owes a great measure of its effectiveness to a word-play which
+cannot be transferred.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 LYCINUS
 Upon my word, Polystratus, those who saw the
 Gorgon must have been affected by it very much as
@@ -9974,22 +9987,8 @@ beauty of body and nobility of soul.
 295
 <pb n="296"/>
 <note type="head">Original from</head>
-<pb n="297"/>
-<note type="head">"ESSAYS IN PORTRAITURE</head>
-DEFENDED
-Panthea justifies Lucian’s commendation of her modesty
-by finding his praises too high for her and sending the piece
-back to Be revised. Lucian could not comply if he would,
-for it is already in circulation; so he defends it, and incident-
-ally takes occasion to pay her still higher tribute.
-That Panthea really did object may be taken as certain.
-If she had not done so, to say that she had, and to compli-
-ment her upon it, would have been an unpardonable affront.
-Nothing could be neater than the casual way in which he
-alludes to the essential fact that the dialogue is already out
-(c. 14), and hints that the only alternative to a defence of it
-is a public recantation (c. 15).
-297
+
+
 <pb n="298"/>
 <note type="head">TITEP TON EIKONON</head>
 NOATZTPATOZ
@@ -10019,8 +10018,24 @@ Available in photographs: Ir, N.
 1 guvéypage vulg. : ovveypdpero MSS.
 298
 <pb n="299"/>
-<note type="head">ESSAYS IN PORTRAITURE</head>
-DEFENDED
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg040">
+<head>ESSAYS IN PORTRAITURE DEFENDED<note><p>Panthea justifies Lucian’s commendation of her modesty
+by finding his praises too high for her and sending the piece
+back to Be revised. Lucian could not comply if he would,
+for it is already in circulation; so he defends it, and incident-
+ally takes occasion to pay her still higher tribute.
+That Panthea really did object may be taken as certain.
+If she had not done so, to say that she had, and to compli-
+ment her upon it, would have been an unpardonable affront.
+Nothing could be neater than the casual way in which he
+alludes to the essential fact that the dialogue is already out
+(c. 14), and hints that the only alternative to a defence of it
+is a public recantation (c. 15).</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 POLYSTRATUS
 Tuis is the lady’s reply: “Lycinus, I have dis-
 cerned, to be sure, from what you have written that
@@ -11149,8 +11164,7 @@ areixdter, AXA nal THY? EdpopBov xopunv ais
 the name Hector had fallen out.
 8 Oeots—rhy N: not in Era. Probably @ conjecture ;
 aneixd(e: is certainly false (Mras).
-1 Respectively Zoilus the Homeromastix and Aristarchus
-of Alexandria, the grammarian.
+1
 33°
 <pb n="331"/>
 <note type="head">ESSAYS IN PORTRAITURE DEFENDED</head>
@@ -11176,12 +11190,14 @@ Peleus is often godlike.®
 But I will return to the parallels that concern
 women. You know, naturally, that he says:
 “Artemis she resembleth, or else Aphrodite the
-golden,” &
+golden,” 6
 also,
 “ Just so Artemis runneth adown the slope of a
-mountain.” ?
+mountain.” 7
 Moreover, he not only compares human beings
 with gods, but likens the long hair of Euphorbus to
+1 Respectively Zoilus the Homeromastix and Aristarchus
+of Alexandria, the grammarian.
 2 Iliad 2, 478-479.
 3 Notably Hector, Jiiad 11, 295; 13, 802.
 « Paris, [liad 3, 16. 5 Achilles, Jliad 1, 131.
@@ -11317,46 +11333,9 @@ who said that good men were images of gods (Diog. Laert. 6,
 335
 <pb n="336"/>
 <note type="head">Google</head>
-<pb n="337"/>
-<note type="head">THE GODDESSE OF SURRYE</head>
-An account of the worship of ‘‘Juno” (Atargatis) at
-Hieropolis in Syria, done, not in Lucian’s customary Attic
-Greek, but in the Ionic dialect, after the manner of Herodo-
-tus, which Lucian counterfeits so cleverly and parodies so
-alyly that many have been unwilling to recognize him as the
-author.
-It would be most unfair to Lucian to turn this tale into
-contemporary English. In order to have the same effect
-that it had in his own day, and to be really intelligible, it
-must seem to come from the lips of an ancient traveller.
-The version here offered seeks to secure that effect through
-mimicry of Sir John Mandeville. It is true that Herodotus
-was better known in Lucian’s time than Mandeville is! °°
-known now, and his language seemed less remote. In every'
-other respect, however—in his limited vocabulary, in his
-simple style, and in his point of view—Mandeville provides
-a mask uniquely adapted to the part—if only its wearer
-does not fall down in it and break it.
-In the notes, which are more extensive than usual because
-Lucian’s topic here is outside the ordinary classical range,
-several books which have been of particular service are cited
-by abbreviated titles: E.Schrader, Die Keilinschriften und
-das Alte Testament, pt. ii, Religion und Sprache, 3rd_ed.,
-1903, by H. Zimmern (Schrader-Zimmern) ; Stanley A. Cook,
-Religion of Ancient Palestine, etc., London, 1908 (Cook) ; W. W.
-Graf Baudissin, Adonis und Esmun, Leipzig, 1911 (Baudissin),
-and his Studien zur Semitischen Religionsgeschichte, 1878
-(Studien) ; Sir J. G. Frazer, Adonis, Attis, Osiris, in Golden
-Bough, pt iv, London, 1919 (Frazer), and his Folklore in the
-id Testament, London, 1919 (Folklore); Albert T. Clay,
-A Hebrew Deluge Story, etc, New Haven 1921 (Clay).
-Those who wish to see the piece in modern English may be
-referred to the version by fa A. Strong (London, 1913).
-This is supplied with an introduction and notes by J. E,
-Garstang, whose commentary will be found to supplement
-this in many points, especially in the matter of Hittite
-parallels.
-337
+
+
+
 VoL, IV. Zz
 <pb n="338"/>
 <note type="head">ITIEPI TH2 2TPIHS OEOT</head>
@@ -11389,7 +11368,50 @@ time of Seleucus Nicator (Ael. V.H. 12, 2), but the old name
 persisted (Manbij; le Strange, Palestine under the Moslems,
 338
 <pb n="339"/>
-<note type="head">THE GODDESSE OF SURRYE</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg041">
+<head>THE GODDESSE OF SURRYE<note><p>
+An account of the worship of "Juno” (Atargatis) at
+Hieropolis in Syria, done, not in Lucian’s customary Attic
+Greek, but in the Ionic dialect, after the manner of Herodo-
+tus, which Lucian counterfeits so cleverly and parodies so
+alyly that many have been unwilling to recognize him as the
+author.</p>
+<p>It would be most unfair to Lucian to turn this tale into
+contemporary English. In order to have the same effect
+that it had in his own day, and to be really intelligible, it
+must seem to come from the lips of an ancient traveller.
+The version here offered seeks to secure that effect through
+mimicry of Sir John Mandeville. It is true that Herodotus
+was better known in Lucian’s time than Mandeville is! °°
+known now, and his language seemed less remote. In every'
+other respect, however—in his limited vocabulary, in his
+simple style, and in his point of view—Mandeville provides
+a mask uniquely adapted to the part—if only its wearer
+does not fall down in it and break it.</p>
+<p>In the notes, which are more extensive than usual because
+Lucian’s topic here is outside the ordinary classical range,
+several books which have been of particular service are cited
+by abbreviated titles: E.Schrader, Die Keilinschriften und
+das Alte Testament, pt. ii, Religion und Sprache, 3rd_ed.,
+1903, by H. Zimmern (Schrader-Zimmern) ; Stanley A. Cook,
+Religion of Ancient Palestine, etc., London, 1908 (Cook) ; W. W.
+Graf Baudissin, Adonis und Esmun, Leipzig, 1911 (Baudissin),
+and his Studien zur Semitischen Religionsgeschichte, 1878
+(Studien) ; Sir J. G. Frazer, Adonis, Attis, Osiris, in Golden
+Bough, pt iv, London, 1919 (Frazer), and his Folklore in the
+id Testament, London, 1919 (Folklore); Albert T. Clay,
+A Hebrew Deluge Story, etc, New Haven 1921 (Clay).
+Those who wish to see the piece in modern English may be
+referred to the version by fa A. Strong (London, 1913).
+This is supplied with an introduction and notes by J. E,
+Garstang, whose commentary will be found to supplement
+this in many points, especially in the matter of Hittite
+parallels.</p></note></head>
+
+<div type="textpart" subtype="section" n="1"><p>
+
 In Surrye, not fer fro the Ryvere Eufrate, is a
 Cytee that Holy highte and holy is in sothe, for it
 is of Iuno Assurien.! Yit I wene that the cyteene
@@ -14126,4 +14148,6 @@ temple of Zeus Panamaros, it was customary for a man to
 dedicate a lock of hair in a stone receptacle on which was
 carved his name and that of the priest or priestess in charge
 the receptacle was preserved in the temple.
-4ll
+</p></div>
+</div>
+</body></text></TEI>

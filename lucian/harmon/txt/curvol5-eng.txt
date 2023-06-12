@@ -1,43 +1,5 @@
-<pb n="1"/>
-<note type="head">“THE WORKS OF LUCIAN</head>
-THE PASSING OF PEREGRINUS
-An account of the life and death of a Cynic philosopher
-who for a time in his early life went over to Christianity,
-practising it to the point of imprisonment under a very
-tolerant administration, and after returning to Cynicism
-became in his old age so enamoured of Indic ideas and pre-
-cedents that he cremated himself at Olympia, just after the
-games of .D. 165, even as Calanus had done at Susa in the
-presence of Alexander the Great and as Zarmarus had done
-at Athens, after initiation into the mysteries, in the presence
-of Augustus.
-Writing soon after the event, of which he was a witness,
-Lucian makes his main theme the story of what went on at
-Olympia. The earlier life of Peregrinus is portrayed incident-
-ally in a speech attributed by Lucian to someone whose name
-he aa not know, but clearly made by Lucian himself (p. 8,
-n. 2).
-Lucian believes himself to be exposing a sham, whose
-zeal was not at all for truth but only for applause and renown.
-Many notable modern critics, including Zeller, Bernays,
-Croiset, and Wilamowitz, dissent from his interpretation,
-discerning in the man an earnest seeker after truth; for to
-them thirst for glory is not an adequate explanation of his
-final act. This point of view hardly embodies sufficient
-recognition of the driving force of that motive with Greeks,
-and particularly Greeks of the second century (Nock, Con-
-verston, p. 201). Greek writers recognised it as a possible
-explanation of the behaviour of Calanus and of Zarmarus.
-In this case, Lucian not only knew the man but knew others
-who knew him: for instance, Demonax. Assuredly, the
-interpretation that he gives is not his alone. Perhaps it is
-not so far wrong after all. Certainly there are authentic
-features in it, like the attempt of Proteus to get back the
-inheritance he had previously renounced and bestowed upon
-his native city, which make it impossible to see in him the
-‘earnest and steadfast man” that Aulus Gellius thought him.
-I
-VOL. V. B
+
+
 <pb n="2"/>
 <note type="head">IIEPI THX WNEPEIPINOY TEAEYTH2</head>
 Aovxiavos Kpovi ed mparrew.
@@ -69,7 +31,47 @@ Proteus in Demonaz, 21 (I, p. 156), but simply Proteus the
 Cynic in adv. Indoct., 14 (III, p. 192), and he is Proteus to
 2
 <pb n="3"/>
-<note type="head">THE PASSING OF PEREGRINUS</head>
+<div type="translation" n="tlg0062.tlg042">
+
+<head>THE PASSING OF PEREGRINUS<note><p>An account of the life and death of a Cynic philosopher
+who for a time in his early life went over to Christianity,
+practising it to the point of imprisonment under a very
+tolerant administration, and after returning to Cynicism
+became in his old age so enamoured of Indic ideas and pre-
+cedents that he cremated himself at Olympia, just after the
+games of .D. 165, even as Calanus had done at Susa in the
+presence of Alexander the Great and as Zarmarus had done
+at Athens, after initiation into the mysteries, in the presence
+of Augustus.</p>
+<p>Writing soon after the event, of which he was a witness,
+Lucian makes his main theme the story of what went on at
+Olympia. The earlier life of Peregrinus is portrayed incident-
+ally in a speech attributed by Lucian to someone whose name
+he aa not know, but clearly made by Lucian himself (p. 8,
+n. 2).</p>
+<p>Lucian believes himself to be exposing a sham, whose
+zeal was not at all for truth but only for applause and renown.
+Many notable modern critics, including Zeller, Bernays,
+Croiset, and Wilamowitz, dissent from his interpretation,
+discerning in the man an earnest seeker after truth; for to
+them thirst for glory is not an adequate explanation of his
+final act. This point of view hardly embodies sufficient
+recognition of the driving force of that motive with Greeks,
+and particularly Greeks of the second century (Nock, Con-
+verston, p. 201). Greek writers recognised it as a possible
+explanation of the behaviour of Calanus and of Zarmarus.
+In this case, Lucian not only knew the man but knew others
+who knew him: for instance, Demonax. Assuredly, the
+interpretation that he gives is not his alone. Perhaps it is
+not so far wrong after all. Certainly there are authentic
+features in it, like the attempt of Proteus to get back the
+inheritance he had previously renounced and bestowed upon
+his native city, which make it impossible to see in him the
+earnest and steadfast man” that Aulus Gellius thought him.</p></note></head>
+
+<div type="textpart" subtype="section" n="1"><p>
+
+
 Best wishes from Lucian to Cronius.1
 Unlucky Peregrinus, or, as he delighted to style
 himself, Proteus,? has done exactly what Proteus
@@ -1832,15 +1834,44 @@ of them admiring him.
 51
 <pb n="52"/>
 <note type="head">Google</head>
-<pb n="53"/>
-<note type="head">THE RUNAWAYS</head>
-A comic dialogue in three scenes attacking sham philo-
+
+<pb n="54"/>
+<note type="head">APATIETAI</head>
+ATIOAAQDN
+*AdnO_ ratrd daow, mdtep, ws euBdAow tts
+depwv avrov eis To Trip KarevavTe ’OdAupriwv, 75
+mpeoBurns dvOpurnos, ouK dyes Bavparomo.ds
+Ta, Tovabra.; 7 LeAjvn yap hutv Sunyetro, adr}
+éwpakevat Katopevov A€yovaa..
+ZETS
+Kai advy ddnfq, & “Amodov- ws py more
+yevésbar ddpedev.
+ATIOAAQN
+Odrw xpnords 6 yépwr hv Kal avagios év tupi
+amroAwAévan;
+ZETZ
+Kat Tobro pev lows: ad’ eye mroAAny ri
+andiay peurnpan dvacxspevos TOTE vad xvions
+movnpas, olay elds drropépecbat Omrrepeveav
+dvOpurtretoov owpdtwr. ei yoov pn «ig tH ’Apa-
+Biav ws elxov evO0s amv @younv, amodAdAew
+1 The Olympic games were timed to come at the full of the
+moon, and the cremation took place at moon-rise (Peregr., 36).
+2 By dividing Apollo’s question and emphasising the negative
+in the second part, the translation seeks to reproduce the
+ambiguity of Zeus’s reply, which in the Greek is sufficiently
+54
+<pb n="55"/>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg043">
+<head>THE RUNAWAYS<note><p>A comic dialogue in three scenes attacking sham philo-
 sophers: Peregrinus, the rabble of low fellows masquerading
 as Cynics, and one of them whom he dubs “ Cantharus’”’
 (Scarabee), describing him as settled at Philippopolis in Thrace
 in the company of two other runaway slaves and the errant
-wife of a former host of his.
-This is assuredly an outgrowth of the hot dispute about
+wife of a former host of his.</p>
+<p>This is assuredly an outgrowth of the hot dispute about
 the character and motives of Peregrinus which broke out
 even before he leaped into the flames and for months after-
 wards must have raged wherever Greek was spoken. Lucian,
@@ -1870,38 +1901,11 @@ Also, towards the end the lines themselves do not always
 make it clear who speaks them—a matter in which Lucian is
 generally very resourceful (A. R. Bellinger, Yale Classical
 Studies, I [1928], pp. 3-40). Either he was hasty or he had
-not yet attained his later facility.
-The dialogue was written late in 165 or early in a.p. 166,
-almost certainly in Philippopolis.
-53
-<pb n="54"/>
-<note type="head">APATIETAI</head>
-ATIOAAQDN
-*AdnO_ ratrd daow, mdtep, ws euBdAow tts
-depwv avrov eis To Trip KarevavTe ’OdAupriwv, 75
-mpeoBurns dvOpurnos, ouK dyes Bavparomo.ds
-Ta, Tovabra.; 7 LeAjvn yap hutv Sunyetro, adr}
-éwpakevat Katopevov A€yovaa..
-ZETS
-Kai advy ddnfq, & “Amodov- ws py more
-yevésbar ddpedev.
-ATIOAAQN
-Odrw xpnords 6 yépwr hv Kal avagios év tupi
-amroAwAévan;
-ZETZ
-Kat Tobro pev lows: ad’ eye mroAAny ri
-andiay peurnpan dvacxspevos TOTE vad xvions
-movnpas, olay elds drropépecbat Omrrepeveav
-dvOpurtretoov owpdtwr. ei yoov pn «ig tH ’Apa-
-Biav ws elxov evO0s amv @younv, amodAdAew
-1 The Olympic games were timed to come at the full of the
-moon, and the cremation took place at moon-rise (Peregr., 36).
-2 By dividing Apollo’s question and emphasising the negative
-in the second part, the translation seeks to reproduce the
-ambiguity of Zeus’s reply, which in the Greek is sufficiently
-54
-<pb n="55"/>
-<note type="head">THE RUNAWAYS</head>
+not yet attained his later facility.</p>
+<p>The dialogue was written late in 165 or early in a.p. 166,
+almost certainly in Philippopolis.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
 APOLLO
 Is the report true, father, that someone threw
 himself bodily into the fire, in the very face of the
@@ -3365,9 +3369,34 @@ that you are.
 99
 <pb n="100"/>
 <note type="head">Original from</head>
-<pb n="101"/>
-<note type="head">TOXARIS, OR FRIENDSHIP</head>
-A conversation between Toxaris, a Scythian, and Mnesippus,
+
+
+
+<pb n="102"/>
+<note type="head">TOSAPIZ H OJAIA</head>
+MNHZINMOZ
+t , t , ‘ , > , ‘ .
+; Ti ys, @ Togape i Ouere Opéorn Kat TIvAddn
+dpets of UkvOar Kai Oeods elvae wemorevKare
+avrous ;
+TOHAPI2
+Qvoper, & Mvyoirme, Ovopev, od pny Deods
+ye oldpevor elvar, dard advdpas ayabous.
+MNH2INNOS
+Nopos S€ jpiv Kai avipdow ayabois dmobavoiat
+Ovew dorep Geots ;
+TOHAPIZ
+Od povov, ddAda Kal €oprais Kal mavnydpeow
+TiL@pev avTous.
+MNHZINIMNOZ
+Té Onpdépevor map’ adrdv; od yap 37 én
+edpeveia Were adtois, vexpois ye obo.
+102
+<pb n="103"/>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg044">
+<head>TOXARIS, OR FRIENDSHIP<note><p>A conversation between Toxaris, a Scythian, and Mnesippus,
 a Greek, on the subject of friendship. Toxaris explains that
 the memory of Orestes and Pylades is honoured in Scythia
 despite the havoc they wrought there because the Scythians
@@ -3391,7 +3420,7 @@ but the scene is not definitely fixed. The manner of the
 allusion to Athens in § 21 seems to exclude that city. The
 diction of the piece suggests a relatively early date. It
 may have been written about a.p. 163 in Asia.
-e oaths of Toxaris and Mnesippus attest Lucian’s
+The oaths of Toxaris and Mnesippus attest Lucian’s
 mastery of the stock devices of a story-teller rather than the
 authenticity of his tales. Most of his stories, both Scythian
 and Greek, are probable enough to be founded on fact.
@@ -3404,30 +3433,9 @@ been indicated by Rostovtzeff (Skythien und der Bosporus,
 pp. 96-99), who has pointed out that his background is
 realistic and plausible in its general effect, but inaccurate in
 historical and. geographic details, and argues that he drew
-extensively upon Greek novels with a Scythian plot.
-Tor
-<pb n="102"/>
-<note type="head">TOSAPIZ H OJAIA</head>
-MNHZINMOZ
-t , t , ‘ , > , ‘ .
-; Ti ys, @ Togape i Ouere Opéorn Kat TIvAddn
-dpets of UkvOar Kai Oeods elvae wemorevKare
-avrous ;
-TOHAPI2
-Qvoper, & Mvyoirme, Ovopev, od pny Deods
-ye oldpevor elvar, dard advdpas ayabous.
-MNH2INNOS
-Nopos S€ jpiv Kai avipdow ayabois dmobavoiat
-Ovew dorep Geots ;
-TOHAPIZ
-Od povov, ddAda Kal €oprais Kal mavnydpeow
-TiL@pev avTous.
-MNHZINIMNOZ
-Té Onpdépevor map’ adrdv; od yap 37 én
-edpeveia Were adtois, vexpois ye obo.
-102
-<pb n="103"/>
-<note type="head">TOXARIS, OR FRIENDSHIP</head>
+extensively upon Greek novels with a Scythian plot.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
 MNESIPPUS
 What about it, Toxaris? Do you Scythians
 sacrifice to Orestes and Pylades, and have you come
@@ -7157,46 +7165,9 @@ by what you have said.
 207
 <pb n="208"/>
 <note type="head">Google</head>
-<pb n="209"/>
-<note type="head">THE DANCE</head>
-AN encomiastic treatise, set in a frame of dialogue. The
-Cynic Crato, who has no manner of use for pantomimic dancing
-or those who go to see it, is converted by Lycinus.
-In that form of dancing, a dramatic plot was enacted by a
-masked and costumed dancer, supported by an actor (p. 271,
-n. 3). The dancer’s lines were spoken for him by someone
-else. There was also a chorus, and, for accompaniment, the
-flute and the syrinx, with various instruments of percussion,
-including the ‘‘iron shoe” (p. 285, n. 2). The name pantomime,
-denoting properly the dancer, not the dance, and coined in
-Italy, according to Lucian (§ 67), is eschewed by Lucian and the
-other Atticists, who speak simply of ‘‘ dancers.” Inscriptions
-show a cumbrous official designation voicing a claim to affinity
-with tragedy (rpaycxijs evpvOpou Kivijcews vmoxpiris, see
-L. Robert, Hermes, LXV [1930], 106-122). The art was
-sometimes called ‘‘ tragic’ dancing (Athen., I, 20), but not
-by Lucian, who, moreover, does not let himself in for the
-error that it was invented by Bathyllus and Pylades (Athen.,
-l.c.; Zosimus, I, 6), but represents only that it began to
-attain perfection under Augustus.
-Vastly popular, it invited notice from rhetoricians as well
-as philosophers. Aristides issued an invective against it,
-now lost, but in good part recoverable from quotations in the
-reply of Libanius (cf. Mesk, Wiener Studien, XXX [1908],
-59-74). Lucian knew the book of Aristides, then quite
-new, but elected not to reply to it directly. His dialogue was
-probably written, as D. S. Robertson has indicated, at Antioch
-in 162-165 a.p., when the Emperor Verus was there, in
-compliment to him because of his interest in dancers (Essays
-and Studies presented to William Ridgeway, p. 180; cf. L.
-Robert, sited above). The treatment is on traditional lines,
-especially in respect of its emphasis upon gods, heroes, and
-nations who have practised or patronized the art, and poets
-and philosophers who have sanctioned it; compare, for
-instance, The Parasite, and Astrology. It is not meant to be
-taken too seriously, in this part above all.
-209
-VOL. Vv. P
+
+
+
 <pb n="210"/>
 <note type="head">IIEPI OPXHZEQU</head>
 ATKINOS
@@ -7226,7 +7197,49 @@ Maidpas Kat Tlapbevdmas Kat ‘Poddras rtwds,
 1 épyrjoews A.
 210
 <pb n="211"/>
-<note type="head">THE DANCE</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg045">
+<head>THE DANCE<note><p>An encomiastic treatise, set in a frame of dialogue. The
+Cynic Crato, who has no manner of use for pantomimic dancing
+or those who go to see it, is converted by Lycinus.
+In that form of dancing, a dramatic plot was enacted by a
+masked and costumed dancer, supported by an actor (p. 271,
+n. 3). The dancer’s lines were spoken for him by someone
+else. There was also a chorus, and, for accompaniment, the
+flute and the syrinx, with various instruments of percussion,
+including the ‘‘iron shoe” (p. 285, n. 2). The name pantomime,
+denoting properly the dancer, not the dance, and coined in
+Italy, according to Lucian (§ 67), is eschewed by Lucian and the
+other Atticists, who speak simply of ‘‘ dancers.” Inscriptions
+show a cumbrous official designation voicing a claim to affinity
+with tragedy (rpaycxijs evpvOpou Kivijcews vmoxpiris, see
+L. Robert, Hermes, LXV [1930], 106-122). The art was
+sometimes called ‘‘ tragic’ dancing (Athen., I, 20), but not
+by Lucian, who, moreover, does not let himself in for the
+error that it was invented by Bathyllus and Pylades (Athen.,
+l.c.; Zosimus, I, 6), but represents only that it began to
+attain perfection under Augustus.</p>
+<p>Vastly popular, it invited notice from rhetoricians as well
+as philosophers. Aristides issued an invective against it,
+now lost, but in good part recoverable from quotations in the
+reply of Libanius (cf. Mesk, Wiener Studien, XXX [1908],
+59-74). Lucian knew the book of Aristides, then quite
+new, but elected not to reply to it directly. His dialogue was
+probably written, as D. S. Robertson has indicated, at Antioch
+in 162-165 a.p., when the Emperor Verus was there, in
+compliment to him because of his interest in dancers (Essays
+and Studies presented to William Ridgeway, p. 180; cf. L.
+Robert, sited above). The treatment is on traditional lines,
+especially in respect of its emphasis upon gods, heroes, and
+nations who have practised or patronized the art, and poets
+and philosophers who have sanctioned it; compare, for
+instance, The Parasite, and Astrology. It is not meant to be
+taken too seriously, in this part above all.</p></note></head>
+
+<div type="textpart" subtype="section" n="1"><p>
+
+
 LYCINUS
 WELL, Crato, this is a truly forceful indictment
 that you have brought, after long preparation, I
@@ -10115,49 +10128,8 @@ may not be the only one to come back to us wiser!
 VOL. V. U
 <pb n="290"/>
 <note type="head">Original from</head>
-<pb n="291"/>
-<note type="head">LEXIPHANES</head>
-‘LexrpHanss (‘‘ Word-flaunter”’), whose enthusiasm for
-Attic diction is equalled by his want of ideas, of schooling, and
-of taste, has his jacket soundly dusted by his friend Lycinus.
-The piece is sufficiently similar to the Professor of Public
-Speaking to have given rise to the idea that it is aimed at the
-same man, and that Lexiphanes is Pollux, the lexicographer
-(cf. IV, p. 133). To the argument of E. E. Seiler against
-this view (which was not that of Ranke), two points may be
-added, which seem to settle the matter. The ‘‘ namesake
-of the sons of Zeus and Leda ” cannot be Lexiphanes because
-‘* fifteen, or anyhow not more than twenty, Attic words ”
-with which to besprinkle his speeches suffice him (IV, p. 155),
-whereas Lexiphanes revels in rarities and glories in the obscurity
-of his style. Moreover, Lexiphanes is so thoroughly addicted
-to this jargon of his that he uses it even in conversation. How,
-then (unless we assume that Lucian’s castigation reformed
-him), can he ever have written in a style as normal as that
-of the Onomasticon ? .
-Curiously enough, the cult of rare words is not conspicuous
-in the Greek prose of the time, but in the Latin, with Fronto
-as its most ardent devotee. The Atticists so tempered zeal
-with discretion that nothing comparableto the extravagances
-of Lexiphanes is to be found outside of the pages of Athenaeus
-(III, 97 ¢: Gulick, I, p. 419), where Cynulcus takes Ulpian
-to task for just this sort of thing, adverts upon Pompeianus
-of Philadelphia as a bird of the same feather, and implies
-wider circle by alluding to ‘‘ the Ulpianean sophists.” This
-is certainly the group to which our man belonged (cf. c. 14).
-The time is right—just right if Ulpian was the father of the
-famous jurist; and these people not only use the selfsame
-jargon (see the notes for the parallels), but employ it even in
-conversation. Seiler’s contention that Lexiphanes is Pompei-
-anus is highly probable but not wholly certain because it
-is impossible to fix the extent to which the vocabulary of the
-‘* Ulpianeans ” was common stock.
-A conspicuous feature of Lucian’s parody of Lexiphanes
-is the use of words no longer generally employed in the old
-sense but in a new and very different one, so that double
-meanings result. Adequate translation therefore is often
-quite impossible, for the lack of an equivalent expression.
-291
+
+
 <pb n="292"/>
 <note type="head">1</head>
 AEZI®ANHZ
@@ -10184,7 +10156,52 @@ Avriouprocidlw 7@ ’Apiorwvos ev ata.
 Philadelphia in Athenaeus, III, 98 8.
 292
 <pb n="293"/>
-<note type="head">LEXIPHANES</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg046">
+<head>LEXIPHANES<note><p>Lexiphanes ("Word-flaunter”), whose enthusiasm for
+Attic diction is equalled by his want of ideas, of schooling, and
+of taste, has his jacket soundly dusted by his friend Lycinus.
+The piece is sufficiently similar to the Professor of Public
+Speaking to have given rise to the idea that it is aimed at the
+same man, and that Lexiphanes is Pollux, the lexicographer
+(cf. IV, p. 133). To the argument of E. E. Seiler against
+this view (which was not that of Ranke), two points may be
+added, which seem to settle the matter. The ‘‘ namesake
+of the sons of Zeus and Leda ” cannot be Lexiphanes because
+‘* fifteen, or anyhow not more than twenty, Attic words ”
+with which to besprinkle his speeches suffice him (IV, p. 155),
+whereas Lexiphanes revels in rarities and glories in the obscurity
+of his style. Moreover, Lexiphanes is so thoroughly addicted
+to this jargon of his that he uses it even in conversation. How,
+then (unless we assume that Lucian’s castigation reformed
+him), can he ever have written in a style as normal as that
+of the Onomasticon ?</p>
+<p>Curiously enough, the cult of rare words is not conspicuous
+in the Greek prose of the time, but in the Latin, with Fronto
+as its most ardent devotee. The Atticists so tempered zeal
+with discretion that nothing comparableto the extravagances
+of Lexiphanes is to be found outside of the pages of Athenaeus
+(III, 97 ¢: Gulick, I, p. 419), where Cynulcus takes Ulpian
+to task for just this sort of thing, adverts upon Pompeianus
+of Philadelphia as a bird of the same feather, and implies
+wider circle by alluding to ‘‘ the Ulpianean sophists.” This
+is certainly the group to which our man belonged (cf. c. 14).
+The time is right—just right if Ulpian was the father of the
+famous jurist; and these people not only use the selfsame
+jargon (see the notes for the parallels), but employ it even in
+conversation. Seiler’s contention that Lexiphanes is Pompei-
+anus is highly probable but not wholly certain because it
+is impossible to fix the extent to which the vocabulary of the
+"Ulpianeans” was common stock.</p>
+<p>A conspicuous feature of Lucian’s parody of Lexiphanes
+is the use of words no longer generally employed in the old
+sense but in a new and very different one, so that double
+meanings result. Adequate translation therefore is often
+quite impossible, for the lack of an equivalent expression.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 LYCINUS
 Lexiphanes, the glass of fashion, with a book?
 LEXIPHANES
@@ -10270,7 +10287,7 @@ wax).
 p- 157).
 295
 <pb n="296"/>
-<note type="head">THE WORKS OF LUCIAN</head>
+<head>THE WORKS OF LUCIAN</head>
 ATKINOZ
 "Eouxe tototros elvar ads ye wv. GA apfa
 OTE.
@@ -11407,29 +11424,7 @@ with Gallimnachus and Aratus in the L.C.L.
 <note type="head">Original from</head>
 <pb n="329"/>
 <note type="head">THE EUNUCH</head>
-A MALICIOUSLY satirical account of a competition for one
-of the chairs in philosophy established at Athens, along with
-a@ chair in rhetoric, by Marcus Aurelius. The chairs in
-pilose hy were apportioned to four sects only—Platonic,
-toic, Epicurean, and Peripatetic. That there were two chairs
-for each of these sects, not merely one, is clear from the
-statement that this vacancy is due (c. 3) to the death of
-one of the two Peripatetics (rdv [lepumarnrixdv olwae rev
-€repov). Each chair carried a stipend of 10,000 drachmas.
-The first appointment in rhetoric (Theodotus) was made by
-the emperor himself; those in philosophy were committed
-to Herodes Atticus, who, however, cannot have made any
-nominations after the first, as the chairs were established in
-November, 176 a.p., and the death of Herodes can hardly be
-dated later than 178 a.p. It is not surprising, therefore,
-that Lucian speaks of selection by a jury of prominent
-Athenians.
-It is not probable that the incident occurred before 179 a.p.,
-and it may easily have been much later. The dialogue was
-undoubtedly written at the time, and at Athens. The names
-given to the competitors are fictitious, and nothing is known
-ae affords any ground for conjecture as to the identity of
-either one.
+
 329
 <pb n="330"/>
 <note type="head">EYNOYXOZ</head>
@@ -11456,7 +11451,35 @@ cav adAjAwy, Kexpayores Kal drepdvarevdopevot ;
 1 xal ri Herwerden: 7 7i MSS.
 33°
 <pb n="331"/>
-<note type="head">THE EUNUCH</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg047">
+<nhead>THE EUNUCH<note><p>A malicously satirical account of a competition for one
+of the chairs in philosophy established at Athens, along with
+a@ chair in rhetoric, by Marcus Aurelius. The chairs in
+pilose hy were apportioned to four sects only—Platonic,
+toic, Epicurean, and Peripatetic. That there were two chairs
+for each of these sects, not merely one, is clear from the
+statement that this vacancy is due (c. 3) to the death of
+one of the two Peripatetics (rdv [lepumarnrixdv olwae rev
+€repov). Each chair carried a stipend of 10,000 drachmas.
+The first appointment in rhetoric (Theodotus) was made by
+the emperor himself; those in philosophy were committed
+to Herodes Atticus, who, however, cannot have made any
+nominations after the first, as the chairs were established in
+November, 176 a.p., and the death of Herodes can hardly be
+dated later than 178 a.p. It is not surprising, therefore,
+that Lucian speaks of selection by a jury of prominent
+Athenians.</p>
+<p>It is not probable that the incident occurred before 179 a.p.,
+and it may easily have been much later. The dialogue was
+undoubtedly written at the time, and at Athens. The names
+given to the competitors are fictitious, and nothing is known
+ae affords any ground for conjecture as to the identity of
+either one.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 PAMPHILUS
 Where have you been, Lycinus, and what are you
 laughing at, I should like to know, as you come?
@@ -11949,9 +11972,40 @@ tools than brain or tongue.
 <note type="head">Digitized by Google</head>
 Original from
 THE OHIO STATE UNIVERSITY
-<pb n="347"/>
-<note type="head">ASTROLOGY</head>
-A Mock eulogy of judicial astrology, put into the mouth of
+
+
+<pb n="348"/>
+<note type="head">NEPI THZ AZTPOAOMIH2?</head>
+1 "Apdgi TE ovpavod appt TE dorépuv H yvpadn,
+ovK altav , dorépwy ovd” avrob mre pe ovpavod,
+add pavreins Kal dAnBeins, * )) 8) éx Touvréwy és
+avOpwrwv Biov | épxerar. 6 S€ prot Adyos ovK
+drroPnpootvny exet ovde didacKadinv emrayyeA-
+Aerat SKws Tavrny THY pavroovny Stevexréov,
+dANd péudopar oxdaot cogol edvres Ta pev aa,
+enackéovat Kal mratol? rots éwurdv amnyéovrat,
+podvay de dorpodoyinv ovre Tipéovow oure
+2 é émackéovaw, kat  pev oogin mradaut ovdé véov
+és wpéas azikerto, an’ éorw _epyov dpxaiiwy
+Bacidéwy Beopurewv. ot Se viv’ dpabin Kal
+pabupin Kat mpoaert _bscorrovin xelvouat TE dvri-
+£0a Ppovéovar Kat «dr dy  dvOpdow emucupéwow
+pevdea pavrevopévots,® dorpwvy Te KaTnyope-
+ovow kal abrny dotpodoyinv pucdovow, odd€ pu
+oure tytéa obre adn béa vopilovow, GAG, Adyov
+pevdea Kat dvepeidtov, ov dixaiws, epol Soxéet,*
+ppovéovres* ovd€ yap TéKTovos didpin TexToowvns
+abrijs auxin ovde avdAnréw dpovotn povoucis
+doogin, add’ ot pev dpabdes tv Texvdv, Exdorn
+8 &v ewurh cody.
+1 dotpodoyias MSS.
+? wasoi du Soul: waa MSS.
+348
+<pb n="349"/>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg048">
+<head>ASTROLOGY<note><p>A mock eulogy of judicial astrology, put into the mouth of
 some ancient worthy who used the Ionic dialect, almost
 certainly Democritus, the peer of Herodotus in Ionic prose
 style and the author, according to Cicero (de Divin., I, 42),
@@ -11985,37 +12039,10 @@ literary exercise of the same nature as the first and second
 Phalaris, in which the fun is incidental—a Lucianic ‘‘ parergy.””
 To get something of the effect, the translation is intended
 to carry a suggestion of Sir Thomas Browne as. he appears
-in the Vulgar Errors.
-347
-<pb n="348"/>
-<note type="head">NEPI THZ AZTPOAOMIH2?</head>
-1 "Apdgi TE ovpavod appt TE dorépuv H yvpadn,
-ovK altav , dorépwy ovd” avrob mre pe ovpavod,
-add pavreins Kal dAnBeins, * )) 8) éx Touvréwy és
-avOpwrwv Biov | épxerar. 6 S€ prot Adyos ovK
-drroPnpootvny exet ovde didacKadinv emrayyeA-
-Aerat SKws Tavrny THY pavroovny Stevexréov,
-dANd péudopar oxdaot cogol edvres Ta pev aa,
-enackéovat Kal mratol? rots éwurdv amnyéovrat,
-podvay de dorpodoyinv ovre Tipéovow oure
-2 é émackéovaw, kat  pev oogin mradaut ovdé véov
-és wpéas azikerto, an’ éorw _epyov dpxaiiwy
-Bacidéwy Beopurewv. ot Se viv’ dpabin Kal
-pabupin Kat mpoaert _bscorrovin xelvouat TE dvri-
-£0a Ppovéovar Kat «dr dy  dvOpdow emucupéwow
-pevdea pavrevopévots,® dorpwvy Te KaTnyope-
-ovow kal abrny dotpodoyinv pucdovow, odd€ pu
-oure tytéa obre adn béa vopilovow, GAG, Adyov
-pevdea Kat dvepeidtov, ov dixaiws, epol Soxéet,*
-ppovéovres* ovd€ yap TéKTovos didpin TexToowvns
-abrijs auxin ovde avdAnréw dpovotn povoucis
-doogin, add’ ot pev dpabdes tv Texvdv, Exdorn
-8 &v ewurh cody.
-1 dotpodoyias MSS.
-? wasoi du Soul: waa MSS.
-348
-<pb n="349"/>
-<note type="head">ASTROLOGY</head>
+in the Vulgar Errors.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 Tuts treatise concerneth heaven and the stars, yet
 not the stars themselves nor heaven itself, but the
 auspiciall verity that from them assuredly entereth
@@ -12776,40 +12803,7 @@ VOL. V. BB
 <note type="head">Digitized by Goc gle</head>
 Original from
 THE OHIO STATE UNIVERSITY
-<pb n="371"/>
-<note type="head">THE MISTAKEN CRITIC</head>
-A PERSONAL attack resembling the Professor of Rhetoric
-and the Ignorant Book-Collector, but outdoing both of them in
-savagery. Its motive was not so much to show up a vicious
-citizen as to avenge a personal insult. In passing the man,
-Lucian had expressed his opinion of him loudly enough to be
-overheard (which was doubtless his intention). He used a
-word that as an epithet was obsolete, and not conspicuously
-sanctioned by good use. Consequently, the man laughed, and
-ridiculed his language, which was a fatal mistake; for Lucian,
-always sensitive about his diction, as witness his On a Slip of the
-Tongue in Salutation (Vol. VI), was thereby provoked to pay
-him back with interest.
-For raw, unsparing satire like this, Lucian had plenty of pre-
-cedent not only in the iambics of Archilochus and Semonides,
-to which, with the scazons of Hipponax, he himself alludes,
-and in Old Comedy, but in melic poetry (not only Timocreon
-of Rhodes, but Anacreon). Of its use in the orators, where
-it conspicuously serves ulterior purposes, Aeschines against
-Timarchus is the classic example. After the orators it was the
-Cynics, particularly the street-corner type, who kept the
-tradition of outspokenness alive; Lucian’s Demonax is full
-of illustrations.
-That the name of Lucian’s victim was Timarchus is, I
-think, an erroneous assumption from the nickname Atimarchus
-that was given him at Athens (§27; see the note there),
-He had been an actor and a teacher, and was then a sophist.
-A Syrian by birth, he had lived in Antioch, Egypt, Italy, and
-Greece. The piece was written soon after the incident
-occurred, apparently in Ephesus, where the sophist was then
-living. There is nothing in its content to fix its date.
-371
-BB2
+
 <pb n="372"/>
 <note type="head">]</head>
 WVEYAOAOPIZTHS H IIEPI THE
@@ -12840,10 +12834,44 @@ called apophras does not in itself justify calling a man a: 1as,
 particularly as the word is of the feminine gender; and that is
 372
 <pb n="373"/>
-<note type="head">THE MISTAKEN CRITIC, OR A</head>
-DISCOURSE ON THE WORD
-NEFANDOUS
-Tuat you did not know the word nefandous is
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg049">
+<head>THE MISTAKEN CRITIC, OR A DISCOURSE ON THE WORD
+NEFANDOUS<note><p>A personal attack resembling the Professor of Rhetoric
+and the Ignorant Book-Collector, but outdoing both of them in
+savagery. Its motive was not so much to show up a vicious
+citizen as to avenge a personal insult. In passing the man,
+Lucian had expressed his opinion of him loudly enough to be
+overheard (which was doubtless his intention). He used a
+word that as an epithet was obsolete, and not conspicuously
+sanctioned by good use. Consequently, the man laughed, and
+ridiculed his language, which was a fatal mistake; for Lucian,
+always sensitive about his diction, as witness his On a Slip of the
+Tongue in Salutation (Vol. VI), was thereby provoked to pay
+him back with interest.</p>
+<p>For raw, unsparing satire like this, Lucian had plenty of pre-
+cedent not only in the iambics of Archilochus and Semonides,
+to which, with the scazons of Hipponax, he himself alludes,
+and in Old Comedy, but in melic poetry (not only Timocreon
+of Rhodes, but Anacreon). Of its use in the orators, where
+it conspicuously serves ulterior purposes, Aeschines against
+Timarchus is the classic example. After the orators it was the
+Cynics, particularly the street-corner type, who kept the
+tradition of outspokenness alive; Lucian’s Demonax is full
+of illustrations.</p>
+<p>That the name of Lucian’s victim was Timarchus is, I
+think, an erroneous assumption from the nickname Atimarchus
+that was given him at Athens (§27; see the note there),
+He had been an actor and a teacher, and was then a sophist.
+A Syrian by birth, he had lived in Antioch, Egypt, Italy, and
+Greece. The piece was written soon after the incident
+occurred, apparently in Ephesus, where the sophist was then
+living. There is nothing in its content to fix its date.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
+That you did not know the word nefandous is
 surely cleartoeveryone. When I had said of you that
 you were like a nefandous day—for I well remember
 comparing your character to a day of that kind !—
@@ -14387,28 +14415,7 @@ oop
 i
 j
 ;
-<pb n="417"/>
-<note type="head">THE PARLIAMENT OF THE GODS</head>
-Tumis brief comic dialogue records the proceedings of an
-assembly on Olympus in which steps are taken to purge the
-celestial roster of aliens and interlopers. It has been called a
-sequel to Zeus Rants because in that dialogue (§ 42: II, 154)
-the caustic remarks of the infidel Damis about the odd gods
-worshipped in various parts of the world force Zeus to admit
-that Momus had been right in expecting all this to cause trouble
-one day, and to promise that he would try to set everything
-straight. It is to be noted, however, that in the Parliament of
-the Gods there is not only no allusion, direct or indirect, to
-Zeus Rants, but no suggestion that this purgation of the
-body politic has any relation to hostile criticism on earth.
-The connection, therefore, is not remarkably close. It is too
-bad that Lucian has left us no record of the subsequent
-proceedings before the committee on credentials. An account
-of ae appearance of Mithras would have been particularly
-welcome.
-417
-VOL. V. EE
-Co gle
+
 <pb n="418"/>
 <note type="head">@EQN EKKAHZIA</head>
 ZET
@@ -14438,8 +14445,28 @@ denoe.2
 2 Seqoe I: Sejon PN.
 418
 <pb n="419"/>
-<note type="head">THE PARLIAMENT OF THE</head>
-GODS
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg050">
+<head>THE PARLIAMENT OF THE GODS<note><p>This brief comic dialogue records the proceedings of an
+assembly on Olympus in which steps are taken to purge the
+celestial roster of aliens and interlopers. It has been called a
+sequel to Zeus Rants because in that dialogue (§ 42: II, 154)
+the caustic remarks of the infidel Damis about the odd gods
+worshipped in various parts of the world force Zeus to admit
+that Momus had been right in expecting all this to cause trouble
+one day, and to promise that he would try to set everything
+straight. It is to be noted, however, that in the Parliament of
+the Gods there is not only no allusion, direct or indirect, to
+Zeus Rants, but no suggestion that this purgation of the
+body politic has any relation to hostile criticism on earth.
+The connection, therefore, is not remarkably close. It is too
+bad that Lucian has left us no record of the subsequent
+proceedings before the committee on credentials. An account
+of ae appearance of Mithras would have been particularly
+welcome.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
 ZEUS
 No more murmuring, Gods, or gathering in corners
 and whispering in each other’s ears because you take
@@ -15229,25 +15256,9 @@ on earth and that men believe him to be a god.
 5 wal of TZ: wal ef of NP.
 <pb n="442"/>
 <note type="head">Original from</head>
-<pb n="443"/>
-<note type="head">THE TYRANNICIDE</head>
-THis piece and the next are typical productions of the
-rhetorical school, where fictitious cases, often highly imagina-
-tive and improbable, were debated. The themes were common
-property, transmitted from one rhetorician to another. The
-one that underlies this declamation, outlined in the argument
-which precedes it, was later employed by Libanius (Or. VII)
-and still later by Choricius (XXV1). Erasmus, who was the
-author of the Latin translation of Tyrannicide and Disowned
-in its original form, wrote in Latin a companion-piece to
-Tyrannicide, a mock pleading in opposition to it, which is to
-be found in several of the old editions of Lucian.
-If Lucian abandoned rhetoric at forty, as he says in the
-Double Indictment (32: III, 142), both these declamations
-should be early works. Of the two, T'yrannicide seems the
-earlier, as Disowned more closely approximates the style of his
-maturity.
-443
+
+
+
 <pb n="444"/>
 <note type="head">TYPANNOKTONOZ</head>
 "AvaADEv Tus és THY axpdmoAW amoKTEvav TOV TUpavvoy’ avrov
@@ -15280,8 +15291,28 @@ maTpokTovncas, ws edvvaro.
 1 Lev Jensius: {avr MSS.
 444
 <pb n="445"/>
-<note type="head">THE TYRANNICIDE</head>
-A MAN went to the Acropolis to slay the tyrant. He did
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg051">
+<head>THE TYRANNICIDE<note><p>This piece and the next are typical productions of the
+rhetorical school, where fictitious cases, often highly imagina-
+tive and improbable, were debated. The themes were common
+property, transmitted from one rhetorician to another. The
+one that underlies this declamation, outlined in the argument
+which precedes it, was later employed by Libanius (Or. VII)
+and still later by Choricius (XXV1). Erasmus, who was the
+author of the Latin translation of Tyrannicide and Disowned
+in its original form, wrote in Latin a companion-piece to
+Tyrannicide, a mock pleading in opposition to it, which is to
+be found in several of the old editions of Lucian.
+If Lucian abandoned rhetoric at forty, as he says in the
+Double Indictment (32: III, 142), both these declamations
+should be early works. Of the two, T'yrannicide seems the
+earlier, as Disowned more closely approximates the style of his
+maturity.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+A man went to the Acropolis to slay the tyrant. He did
 not find him, but slew his son and left his sword in the body.
 When the tyrant came and saw his son already dead, he
 slew himself with the same sword. The man who went up
@@ -16287,15 +16318,8 @@ sword served all.
 473
 <pb n="474"/>
 <note type="head">Original from</head>
-<pb n="475"/>
-<note type="head">DISOWNED</head>
-THE fictitious case which underlies this declamation is
-outlined in the argument that precedes the text. An earlier
-treatment of the same theme is to be found in the Controversiae
-of Seneca Rhetor (IV, 5). In the Lucianic piece, the speaker’s
-references to his stepmother constitute a notable example of
-sustained irony as a rhetorical device.
-475
+
+
 <pb n="476"/>
 <note type="head">AITTOKHPYTTOMENOZ</head>
 *Amroxnpux Bets Ths iarpuyy eéuaber. pavévra Tov wartépa
@@ -16325,7 +16349,18 @@ sense of those lost in the Greek text.
 court before which his complaint had to be presented. No
 476
 <pb n="477"/>
-<note type="head">DISOWNED</head>
+</p></div></div>
+
+<div type="translation" n="tlg0062.tlg052">
+<head>DISOWNED<note><p>The fictitious case which underlies this declamation is
+outlined in the argument that precedes the text. An earlier
+treatment of the same theme is to be found in the Controversiae
+of Seneca Rhetor (IV, 5). In the Lucianic piece, the speaker’s
+references to his stepmother constitute a notable example of
+sustained irony as a rhetorical device.</p></note></head>
+<div type="textpart" subtype="section" n="1"><p>
+
+
 A son who had been disowned studied medicine. When his
 father became insane and had been given up by the other
 doctors, he cured him by administering a remedy, and was again
@@ -18072,4 +18107,6 @@ terrible plight, and yet you strain your lungs shout-
 ing; more than that, you are angry, you take to
 hatred, and you invoke the laws. Ah, father, that
 is the way your former seizure began!
-525
+</p></div>
+</div>
+</body></text></TEI>
