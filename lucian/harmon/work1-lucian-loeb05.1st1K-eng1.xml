@@ -5,20 +5,20 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="lat">The Syrian Goddess, being a translation of Lucian's "De Dea Syria," with a Life of Lucian</title>
- <author>Lucian of Samosata</author>
+<author>Lucian of Samosata</author>
 <editor>Austin Morris Harmon, 1878-1950</editor>
- <funder>National Endowment for the Humanities</funder>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
- </respStmt>
- </titleStmt>
+<funder>National Endowment for the Humanities</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd, tagged and added initial corrections to  the text</resp>
+</respStmt>
+</titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
 <idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
 <availability>
- <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 <date>2023</date>
 <publisher>Harvard College Library</publisher>
@@ -26,33 +26,33 @@
 </publicationStmt>
 <sourceDesc>
 <listBibl>
- <biblStruct>
- <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:1lg0062">Lucian of Samosata</author>
-  <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1936</date>
-  </imprint>
-  <biblScope unit="volume">5</biblScope>
- </monogr>
-  <ref target="https://hdl.handle.net/2027/osu.32435024202111">The Hathi Trust</ref>
- </biblStruct>
+<biblStruct>
+<monogr>
+<title>Lucian</title>
+<editor>
+<persName>
+<name>Austin Morris Harmon</name>
+</persName>
+</editor>
+<author ref="urn:cts:greekLit:1lg0062">Lucian of Samosata</author>
+<imprint>
+<publisher>Harvard University Press</publisher>
+<pubPlace>Cambridge, MA</pubPlace>
+<date>1936</date>
+</imprint>
+<biblScope unit="volume">5</biblScope>
+</monogr>
+<ref target="https://hdl.handle.net/2027/osu.32435024202111">The Hathi Trust</ref>
+</biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:1EI/tei:1ext/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:1EI/tei:1ext/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+<p>Text encoded in accordance with the latest EpiDoc standards</p>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:1EI/tei:1ext/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:1EI/tei:1ext/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -1273,7 +1273,7 @@ time when the old man was burned.
 Fritzsche suggests, they are the Nereae of Pliny (Nat. Hist.,
 VI, 76). The Oxydracae made themselves famous by their
 resolute opposition to the invasion of Alexander; they lived
-in the Punjab. 
+in the Punjab.
 2 A generic name given by the Greeks to the holy men
 of India who lived naked.
 3 Apparently a correction of Peregrinus, where (p. 30) the
@@ -1501,7 +1501,7 @@ are beyond young children ; indeed, they give no little
 amusement to onlookers when their blood boils up in
 
 1 There is here an allusion to “Scarabee’’; see below, § 30.
-2 Paris, 
+2 Paris,
 3 Plato, Republ., V, 459E.
 4 Gluttonous parasites of the New Comedy. Struthias,
 whose name is evidently connected with the greediness of the
@@ -2785,7 +2785,7 @@ crates, so that he is now in full possession of his rights
 <pb n="149"/>
 
 and privileges through employing so tiny an. advocate
-to present his case to the members in session.” 
+to present his case to the members in session.”
 Such are the deeds which, according to the
 Massaliote, Zenothemis performed for his friend ;
 as you see, they are not trivial, or likely to have
@@ -4025,7 +4025,7 @@ just as Homer does: he who has seen this spectacle
 
 <cit>
 <quote>
-    <l>Goes on his way diverted and knowing more than
+<l>Goes on his way diverted and knowing more than
 aforetime.</l>
 </quote>
 <bibl>Odyssey, XII, 188.</bibl>
@@ -4179,7 +4179,7 @@ like this :
 
 <cit>
 <quote>
-    <l>Meriones, in a trice that spear of mine would have stopped you,</l>
+<l>Meriones, in a trice that spear of mine would have stopped you,</l>
 <l>Good as you are at the dance.</l>
 </quote>
 <bibl>Iliad, XVI, 617-618.</bibl>
@@ -4472,7 +4472,7 @@ blame! And again, in another part of his poetry : 1
 
 <cit>
 <quote>
-    <l>One man getteth from God the gift of achievement in warfare,</l>
+<l>One man getteth from God the gift of achievement in warfare,</l>
 <l>One, the art of the dance, and song that stirreth the heart-strings.</l>
 </quote>
 <bibl>The Theogony.</bibl>
@@ -5227,7 +5227,7 @@ once, and that equipment of his, we may see, is
 varied and comprehensive—the flute, the pipes, the
 tapping of feet, the clash of cymbals, the melodious
 voice of the actor,3 the concord of the singers.
-1 The name signifies one who mimics everything. 
+1 The name signifies one who mimics everything.
 2 Pindar, Fr. 43 (173) Schroeder; the reference is to the
 cuttle, which was supposed to take protective colouring to
 match its background. Cf. Theognis, 215-218.
@@ -5392,7 +5392,7 @@ clutch of grief Jeaves the theatre in brighter mood,
 as if he had taken some potion that brings forgetful-
 ness and, in the words of the poet, <cit>
 <quote>
-    <l>surcease from
+<l>surcease from
 sorrow and anger</l>
 </quote>
 <bibl>Odyssey, IV, 221.</bibl>
@@ -5564,7 +5564,7 @@ I shall not need to say to you what Circe said:
 
 <cit>
 <quote>
-    <l>Wonder holds me to see that you drained this
+<l>Wonder holds me to see that you drained this
 draught unenchanted.</l>
 </quote>
 <bibl>Odyssey, X, 326.</bibl>
@@ -5580,7 +5580,7 @@ that he “charmeth the eyes of men” with it,
 
 <cit>
 <quote>
-    <l>Whomsoever he wishes, and others he wakes
+<l>Whomsoever he wishes, and others he wakes
 that are sleeping.</l>
 </quote>
 <bibl>Odyss., V, 47-48.</bibl>
@@ -5891,7 +5891,7 @@ became attached to certain shapes, and even to imitations
 of these shapes in metal, made at Athens and Rhodes (Athen.
 XI, 469 8). Cicero (in Verrem, II, 4, 38) speaks of certain cups
 that are called Thericleian, made by the hand of Mentor with
-supreme craftsmanship. 
+supreme craftsmanship.
 3 By ἀνεμφόρητα Lexiphanes means “light enough to blow
 away,” but might be taken to mean “wind-blown.” Cf.
 ἀφόρητα, p. 307, n. 5.
@@ -6021,7 +6021,7 @@ is so open to misunderstanding that it suggests quite
 opposite—that his aim was rather to undo the unhappy
 subject of his ministrations.
 2 With a punning allusion to Athena Polias.
-3 “Gift-of-God.’ 
+3 “Gift-of-God.’
 4 “Gift-of-Artemis.”
 5 As an “archeress” (but toxotis was also an arrow-window)
 Artemis was not only, like her brother, a Far-darter, but a
@@ -6994,7 +6994,7 @@ duties of each, saying unto Venus,
 
 
 <quote>
-    <l>Nay, be it thine to control the delightsome duties
+<l>Nay, be it thine to control the delightsome duties
 of wedlock,</l>
 </quote>
 
@@ -7003,7 +7003,7 @@ and anent those of warfare,
 
 <cit>
 <quote>
-    <l>These shall all be the care of impetuous Mars and
+<l>These shall all be the care of impetuous Mars and
 Minerva.</l>
 </quote>
 <bibl>Iliad, V, 429, 430.</bibl>
@@ -7453,7 +7453,7 @@ is vile, abominable, inauspicious, useless, and like
 you. There now! I have already taught you in
 passing what they mean by nefandous!
 1 If people of Troy attend tragedies, they are bound to hear
-about the misfortunes of the Trojans. 
+about the misfortunes of the Trojans.
 2 Genetyllis was originally a goddess of childbirth. Hesy-
 chius says that she resembled Hecate, received sacrifices of dogs,
 and was of foreign origin. But in Attica, where she was wor-
@@ -7833,7 +7833,7 @@ emphasis. All that Lucian intends to convey, I think, is that
 the Athenians did not nickname the man Timarchus as they
 might have done, but went a step further and styled him
 Atimarchus.
-. 405
+405
 <pb n="407"/>
 
 Cyclops, because once, over and above your old bag
@@ -7846,7 +7846,7 @@ bar, thoroughly made ready, to put out your eye;
 
 <cit>
 <quote>
-    <l>And that he missed; his shaft was turned aside.</l>
+<l>And that he missed; his shaft was turned aside.</l>
 <l>Its point drove through beside the jawbone’s
 root.</l>
 </quote>
@@ -9608,7 +9608,7 @@ the very benefits that he has received, think whether
 there is any exaggeration of injustice which he has
 overlooked !
 That it is neither possible for him to disown a
-.son after having already once for all exhausted his
+son after having already once for all exhausted his
 paternal right and made use of the laws, nor yet just
 to thrust away one who has shown himself so great
 a benefactor and exclude him from the house has
@@ -9701,7 +9701,7 @@ taught by the gods and exercised by men of learn-
 ing; that it should not be subject to enslavement
 by the law, or to voting and judicial punishment, or
 to fear and a father’s threats and a layman’s wrath.
-. Consequently, if I were to say to you, as clearly and
+Consequently, if I were to say to you, as clearly and
 expressly as this: ‘I am unwilling to give treatment,
 and I do not do so, although Ican; my knowledge of
 the profession is for my benefit alone and my father’s,

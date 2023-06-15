@@ -5,20 +5,20 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="lat">Phalaris</title>
- <author>Lucian of Samosata</author>
+<author>Lucian of Samosata</author>
 <editor>Austin Morris Harmon, 1878-1950</editor>
- <funder>National Endowment for the Humanities</funder>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
- </respStmt>
- </titleStmt>
+<funder>National Endowment for the Humanities</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd, tagged and added initial corrections to  the text</resp>
+</respStmt>
+</titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
 <idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
 <availability>
- <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 <date>2023</date>
 <publisher>Harvard College Library</publisher>
@@ -26,33 +26,33 @@
 </publicationStmt>
 <sourceDesc>
 <listBibl>
- <biblStruct>
- <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
-  <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1915</date>
-  </imprint>
-  <biblScope unit="volume">2</biblScope>
- </monogr>
-  <ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
- </biblStruct>
+<biblStruct>
+<monogr>
+<title>Lucian</title>
+<editor>
+<persName>
+<name>Austin Morris Harmon</name>
+</persName>
+</editor>
+<author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+<imprint>
+<publisher>Harvard University Press</publisher>
+<pubPlace>Cambridge, MA</pubPlace>
+<date>1915</date>
+</imprint>
+<biblScope unit="volume">2</biblScope>
+</monogr>
+<ref target="https://hdl.handle.net/2027/uc1.b000604154">The Hathi Trust</ref>
+</biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+<p>Text encoded in accordance with the latest EpiDoc standards</p>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -295,7 +295,7 @@ together ?
 By all means, and also those lost at sea, for they
 died in the same way. And those who died of the
 fever, bring them in together, too, and their doctor
-Agathocles along with them. 
+Agathocles along with them.
 
 @
 Where is the philosopher Cyniscus, who was to die from eating the
@@ -610,7 +610,7 @@ they turn back and, like unsuccessful lovers, want to
 gaze, even from afar, at things in the world of light.
 That is what yonder poor fool did, who not only ran
 away on the road but heaped you with entreaties
-when he got here. 
+when he got here.
 
 @
 
@@ -663,7 +663,7 @@ more than at him because I had marvelled at such a
 worthless creature, inferring his happiness from the
 savour of his kitchen and counting him lucky because
 of his purple derived from the blood of mussels in
-the Laconian Sea. 
+the Laconian Sea.
 
 @
 
@@ -1299,7 +1299,7 @@ You are very much afraid of them, Zeus, I don’t
 know why. At any rate, you think that everything I
 say is one of their tricks.
 @
- I should like to ask you,
+I should like to ask you,
 though—for from whom can I learn the truth except
 from you ?—what this Providence of yours is, a Fate
 or a goddess, as it were, superior to the Fates, ruling
@@ -1369,7 +1369,7 @@ escape death by shutting himself up? No, it is impossible, for Fate will take hi
 deliver him up to the spear-head, and Adrastus,
 throwing his weapon at the boar, will miss it and
 slay the son of Croesus, as if the javelin were sped
-at the lad by a powerful cast of the Fates.1 
+at the lad by a powerful cast of the Fates.1
 
 @
 
@@ -1405,7 +1405,7 @@ He should not have been angry, being a god.
 However, the very deception of the Lydian was predetermined, I suppose, and in general our lack of
 definite information about the future is due to the
 spindle of Destiny; so even your soothsaying is in
-her province. 
+her province.
 
 @
 
@@ -1430,7 +1430,7 @@ you; for even the thunderbolt itself, I should say,
 would not be the cause of the injury. There is
 another question, however, which I will put to you
 and to Destiny, and you can answer for her. You have
-put me in mind of it by your threat. 
+put me in mind of it by your threat.
 
 @
 
@@ -1624,7 +1624,7 @@ able to play up to you in your tragedy réle.
 
 @
 
- Do you
+Do you
 suppose we don’t know the reason of your. anguish ?
 <label>ZEUS</label>
 <l>You know not: otherwise you ‘Id shriek and</l>
@@ -1809,7 +1809,7 @@ It ought to be that way, but gold must have precedence all the same.
 <label>HERMES</label>
 I understand : you tell me to seat them in order
 of wealth, not in order of merit; by valuation.
-Come to the front seats, then, you of gold. 
+Come to the front seats, then, you of gold.
 
 @
 
@@ -2352,7 +2352,7 @@ the other, making use of a proxy, privately whispers
 his ideas into his ear and the proxy does the speaking,
 perhaps without even understanding what he hears,
 Wouldn’t that be fun for the crowd! No, let’s
-think of some other way to manage this thing. 
+think of some other way to manage this thing.
 
 @
 
@@ -2362,7 +2362,7 @@ be a prophet and have collected large fees for such
 work, even to the extent of getting ingots of gold
 once upon a time, why do you not give us a timely
 display of your skill by foretelling which of the
-. 131
+131
 <pb n="133"/>
 
 sophists will win in the argument? Of course you
@@ -2492,7 +2492,7 @@ have slain.
 Bravo! testimony from the inside, as the saying
 goes. Really you would have done us a great
 service if you had given Damis a hint to say
-that. 
+that.
 
 @
 
@@ -2544,7 +2544,7 @@ open the gates of Heaven.
 
 @
 
- Heracles! what a crowd
+Heracles! what a crowd
 <note n="1">A parody on Euripides; compare Orest. 866, 871, 880.</note>
 141
 <pb n="143"/>
@@ -2585,7 +2585,7 @@ Well then, put your question, Timocles, for you
 <pb n="145"/>
 
 have won with that oath of yours. But no abuse,
-please. 
+please.
 @
 <label>TIMOCLES</label>
 Very well. Tell me then, you scoundrel, don’t
@@ -2697,7 +2697,7 @@ end they enchant them with metres and entrance
 <pb n="151"/>
 
 them with fables and in a word do anything to give
-pleasure. 
+pleasure.
 @
 
 However, I should like to know what it
@@ -2717,7 +2717,7 @@ the suggestion of Athena,3 and how shortly afterwards
 the gods themselves fell to and began duelling
 promiscuously, males and females ;4 Athena defeated
 Ares, already overtaxed, no doubt by the wound he
-had received from Diomed,5 and 
+had received from Diomed,5 and
 
 
 "Leto fought against Hermes, the stalwart god of
@@ -2766,7 +2766,7 @@ frankly then :
 <l>That lappeth earth about in yielding arms ?</l>
 <l>Hold this to be Zeus, and believe it God.!</l></quote>
 <bibl>From a lost play. These verses are translated by Cicero (Nat. Deor. ii, 25, 65).</bibl></cit>
- 
+
 And again :
 <cit><quote><l>'Twas Zeus, whoever Zeus is, for I know
 Him not, except by hearsay.</l></quote>
@@ -2944,7 +2944,7 @@ ship’s underbody is painted while her upper works
 are unsightly.
 
 @
- Among the sailors themselves you
+Among the sailors themselves you
 will see that one who is lazy and lubberly and has
 no heart for his work has a warrant or evena
 commission, while another who is fearless at diving
@@ -3411,7 +3411,7 @@ at last be time to bathe.</p>
 <p>When the time finally came, I scrubbed myself
 with all speed and went off very well dressed, as I
 had turned my cloak inside out so that the garment
-might’ show the cleaner side. 
+might’ show the cleaner side.
 
 @
 
@@ -3559,7 +3559,7 @@ to visit his beloved. Then what is the use of my
 telling you the rest of it—how many uses gold has,
 and how, when people have it, it renders them
 handsome and wise and strong, lending them honour
-and esteem, and not infrequently it makes inconspicuous and contemptible people admired and renowned in a short time? 
+and esteem, and not infrequently it makes inconspicuous and contemptible people admired and renowned in a short time?
 
 @
 
@@ -3778,7 +3778,7 @@ are laughing at me, now.
 Not so much at you as at the people of Croton
 and Metapontum and Tarentum and all the rest who
 followed you dumbly and worshipped the footprints
-that you left in walking. 
+that you left in walking.
 
 @
 
@@ -4381,7 +4381,7 @@ I might prove that Zeus has passed an unjust sentence on me. As you are ready-to
 suppose you plead in his behalf that he was just in
 his decision that I be crucified near the Caspian gates
 here in the Caucasus, a most piteous spectacle for all
-the Scythians. 
+the Scythians.
 <label>HERMES</label>
 Your appeal, Prometheus, will be tardy and of no
 avail, but say your say just the same; for in any case
@@ -4514,7 +4514,7 @@ them nobody was ever crucified on so trivial a
 ground.
 So much for the meat—an unseemly plea for me to
 make, but a far more unseemly accusation for him to
-bring ; 
+bring ;
 
 @
 and now it is time to speak of my handiwork
@@ -4557,7 +4557,7 @@ complete in the absence of its counterpart, comparison with which would show div
 
 happier state. This should be mortal, I thought,
 but highly inventive and intelligent and able to
-appreciate what was better. 
+appreciate what was better.
 
 @
 
@@ -4580,7 +4580,7 @@ did ?</p>
 through me and my works is self-evident; come,
 show me even one wrong of the smallest sort, and I
 will hold my tongue and own that I have had the
-treatment that I deserved at your hahds. 
+treatment that I deserved at your hahds.
 
 @
 On the
@@ -4648,7 +4648,7 @@ in taking care of them. Well, then, on that principle
 the herdsman ought to be vexed over having his herd
 because he has to take care of it. But this toilsome
 task is also sweet, and, in general, business is not devoid of pleasure, for it affords occupation. Why, what
-should we do if we had not them to provide for? 
+should we do if we had not them to provide for?
 @
 Be
 idle and drink our nectar and eat our ambrosia without doing anything! But what sticks in my throat
@@ -4671,11 +4671,11 @@ could they have sacrificed to gods or bestowed all
 the other honours upon you if they were not as
 they are? You gods do not hang back when they
 bring you the hecatombs, even if you have to go to
-the river of Ocean, 
+the river of Ocean,
 <cit><quote><l>to the Ethiopians guileless,</l></quote>
 <bibl>Ilad 1, 423.</bibl></cit>
 
- yet
+yet
 you have crucified him who procured you your
 honours and your sacrifices.
 @
@@ -4696,7 +4696,7 @@ from it. But surely it is downright stinginess to
 prevent things from being shared with those who
 need them when it does you no harm to share them.
 Inasmuch as you are gods, you ought to be kindly
-and 
+and
 <cit><quote><l>bestowers of blessings</l></quote>
 <bibl>Od, 8, 325.</bibl></cit>
 and to stand aloof
@@ -4704,7 +4704,7 @@ from all stinginess. In this case even if I had filched
 all your fire and taken it down to earth without
 leaving a bit of it behind, I should not be guilty
 of any great wrong-doing against you, for you yourselves have no need of it, as you do not get cold and
-do not cook your ambrosia and do not require artificial light. 
+do not cook your ambrosia and do not require artificial light.
 
 @
 
@@ -4714,7 +4714,7 @@ the sacrifices, in order that they may be able “ to fill
 the ways with savour” and to burn incense and consume meat on the altars. Indeed, I notice that you
 all take particular pleasure in the smoke and think it
 the most delightful of banquets when the savour
-comes up to heaven 
+comes up to heaven
 
 <cit><quote><l>curling about the smoke.</l></quote>
 <bibl>Iliad 1, 317.</bibl></cit>
@@ -5073,7 +5073,7 @@ with goodly beards, and yet did not know where to
 turn in order to find a point of doctrine that was unassailable and not in any way subject to refutation
 by someone else. So I went through just what
 Homer speaks of; again and again I was fain to
-believe one of them, 
+believe one of them,
 
 <cit><quote><l>“but other counsel drew me
 back.</l></quote>
@@ -5106,7 +5106,7 @@ jumping up and down, working my arms and doing
 as geese do—lifting myself along the ground and
 running on tiptoe as I flew. When the thing began
 to work well for me, I went in for the experiment
-with greater boldness. 
+with greater boldness.
 
 @
 
@@ -5151,7 +5151,7 @@ things on earth.
 
 @
 
- In the first place, imagine that the
+In the first place, imagine that the
 earth you see is very small, far less than the moon, [
 mean; so that when I suddenly peered down I was
 long uncertain where the big mountains and the
@@ -5265,7 +5265,7 @@ timbers to the straight-edge.”
 
 
 This said, I set about doing as Empedocles advised,
-while he receded little by little and gradually dissolved into smoke. 
+while he receded little by little and gradually dissolved into smoke.
 
 @
 
@@ -5329,7 +5329,7 @@ saw them fighting ; whenever I transferred my gaze to
 the Seythians, they could be seen roving about on their
 wagons: and when I turned my eyes aside slightly,
 I beheld the Egyptians working the land. The Phoenicians were on trading-ventures, the Cilicians were
-engaged in piracy, the Spartans were whipping themselves and the Athenians were attending court. 
+engaged in piracy, the Spartans were whipping themselves and the Athenians were attending court.
 
 @
 
@@ -5510,7 +5510,7 @@ like maine.
 
 @
 
- Zeus, however, looked at me with a
+Zeus, however, looked at me with a
 
 
 <pb n="307"/>
@@ -5713,7 +5713,7 @@ the early morning Zeus got up and ordered procla-:
 315
 <pb n="317"/>
 
-mation for an assembly to be made. 
+mation for an assembly to be made.
 
 @
 
@@ -5773,7 +5773,7 @@ biting phrases and school themselves in novel terms
 of abuse, and then they censure and reproach their
 fellow-men ; and whoever of them is the most noisy
 and impudent and reckless in calling names is held
-to be the champion. 
+to be the champion.
 
 @
 
@@ -5833,8 +5833,8 @@ a wretched death by the horrid thunderbolt.”
 <cit><quote><l>So spake Cronus his son, and he bent black brows to
 confirm it !</l></quote>
 <bibl>Iliad 1, 528.</bibl></cit>
- 
- @
+
+@
 “As to Menippus here," he said, “this is my
 
 
@@ -5901,7 +5901,7 @@ vapour except for the resonance of the names.
 That famous, far-flying, ready weapon of yours has
 been completely quenched in some way or other
 and is cold, not even retaining a tiny spark of
-resentment against wrong doers. 
+resentment against wrong doers.
 
 @
 
@@ -5915,7 +5915,7 @@ and expect the only harm they will get from the
 stroke is to be covered with soot.
 </p>
 <p>
-   
+
 That is why even Salmoneus dared to rival your
 thunder, and he was far from ineffective at it, for
 <note n="1">Cf. Eur. Phoen. 182.</note>
@@ -5932,7 +5932,7 @@ as aman in his dotage.
 
 @
 
- Yet while you were still
+Yet while you were still
 young and quick-tempered and violent in your wrath,
 you were very active against sinners and oppressors
 and you never made truce with them then. No,
@@ -5980,7 +5980,7 @@ When will you punish all this wrong-doing? How
 many conflagrations and deluges will be enough to
 cope with such overwhelming insolence in the world ?
 For instance, let me put aside generalities and speak
-of my own case. 
+of my own case.
 
 @
 
@@ -5998,7 +5998,7 @@ dead which time has overturned, passing by without even a curious glance..-- Ind
 on catching sight of me in the distance, turn off in
 another direction, thinking that the man who not
 long ago showed himself their saviour and benefactor
-will be an unpleasant and repulsive spectacle. 
+will be an unpleasant and repulsive spectacle.
 
 @
 
@@ -6007,7 +6007,7 @@ Therefore
 331
 <pb n="333"/>
 
- my wrongs have driven me to this outlying
+my wrongs have driven me to this outlying
 farm, where, dressed in skins, I till the soil as a
 hired labourer at four obols a day, philosophizing
 with the solitude and with my pick. By so doing, I
@@ -6182,7 +6182,7 @@ a chance you would run away. In short, you thought
 it a terrible thing to lead a virginal life like Danae
 in a chamber of bronze or iron, and to be brought
 up under the care of those precise and unscrupulous
-guardians, Interest and Accounts. 
+guardians, Interest and Accounts.
 
 @
 
@@ -6244,7 +6244,7 @@ go wherever she would by night and by day and
 have to do with anyone who wished, nay more,
 should himself induce her to commit adultery,
 opening his doors and playing the go-between and
-inviting everybody in to her, would such a man appear to love her? 
+inviting everybody in to her, would such a man appear to love her?
 
 @
 
@@ -6254,7 +6254,7 @@ hand, suppose a man should take a woman of gentle
 birth into his house in due form for the procreation of
 children, and then should neither lay a finger on the
 ripe and beautiful maiden himself nor suffer anyone
-. else to look at her, but should lock her up and keep
+else to look at her, but should lock her up and keep
 her a maid, childless and sterile, asserting, however,
 that he loved her and making it plain that he did so by
 his colour and wasted flesh and sunken eyes. Would
@@ -6371,7 +6371,7 @@ opened their mouths in vain are left looking at one
 another and mourning in earnest because such a
 fine fish has made his escape from the inmost
 pocket of their net after swallowing quantities of
-bait.1 
+bait.1
 
 @
 
@@ -6457,7 +6457,7 @@ win you, but cannot bear to live if they fail? In
 fact, I know a good many of them who were so
 desperately in love with you that they went and
 flung themselves “into the deep-bosomed sea” and
-“over the beetling crags"1 
+“over the beetling crags"1
 
 
 
@@ -6695,7 +6695,7 @@ wherein lay my own riches, which could not be
 taken away either by a toady with flattery or by a
 blackmailer with threats, by a mob in a gust of
 passion, a voter with his ballot or a tyrant with his
-intrigues. 
+intrigues.
 
 @
 
@@ -6822,7 +6822,7 @@ Friends, guests, comrades and Altars of Mercy<note>There was such an altar in At
 shall be matter for boundless mockery.
 
 @
- To pity one
+To pity one
 who weeps, to help one who is in need shall be a
 misdemeanour and an infringement of the constitution. My life shall be solitary, like that of wolves;
 Timon shall be my only friend, and all others shall
@@ -6866,7 +6866,7 @@ motion submitted to the assembly by the aforesaid
 Timon.”</p>
 <p>
 Good! Let us pass this resolution and abide by
-it stoutly. 
+it stoutly.
 
 @
 
@@ -7111,7 +7111,7 @@ a dog, bends over his plate as if he expected to find
 virtue in it, carefully wipes out the dishes with his
 forefinger so as not to leave a particle of the sauce,
 and grumbles continually, even if he gets the whole
-cake or the whole boar to himself. 
+cake or the whole boar to himself.
 
 @
 
@@ -7156,7 +7156,7 @@ by all means throw the whole of it into the sea, for it
 is not at all essential to a virtuous man who can discern the riches of philosophy; but don’t throw it into
 the deep water, my dear fellow: just wade in as far
 as your waist and toss it a short distance outside the
-breakers, with none but me to see you. 
+breakers, with none but me to see you.
 
 @
 
@@ -7388,7 +7388,7 @@ if this is enough or we shall have to add to the pile.
 Upon my word, we are still away down among the
 foot-hills of Heaven! Toward the east I can only
 just. see Ionia and Lydia, toward the west not beyond
-Italy and Sicily, toward the north only the country 
+Italy and Sicily, toward the north only the country
 on this side the Danube, and in that direction Crete,
 but not very plainly. Apparently we must move up
 
@@ -7510,7 +7510,7 @@ jettisoned most of his lays, including Scylla and
 
 Charybdis and the Cyclops; so that it wasn’t hard
 for me to get a little salvage out of all that he let
-go.1 
+go.1
 
 @
 Tell me:
@@ -7548,7 +7548,7 @@ Never mind him; he will give us food for laughter
 <pb n="415"/>
 
 before long when he makes his voyage and is no
-longer able to lift a mosquito, let alone a bull! 
+longer able to lift a mosquito, let alone a bull!
 @
 Tell
 me,
@@ -7615,7 +7615,7 @@ the end.
 <label>CHARON</label>
 Thank you kindly, Solon, for not forgetting us,2
 but demanding the decision of such matters to be
-made right at the ferry. 
+made right at the ferry.
 
 @
 
@@ -7829,7 +7829,7 @@ cringe, while Hope, hanging overhead, flies up and
 is off when they are most confident of grasping her,
 leaving them in the lurch with their mouths open,
 exactly as you have seen Tantalus served by the
-water down below. 
+water down below.
 
 @
 
@@ -8103,7 +8103,7 @@ In fact, even the grave of Inachus no longer survives
 in Argos.
 <label>CHARON</label>
 That for your praises, Homer, and your adjectives
-— “hallowed,” “wide-wayed”” Troy and “ well-built” Cleonae! 
+— “hallowed,” “wide-wayed”” Troy and “ well-built” Cleonae!
 
 @
 
@@ -8299,7 +8299,7 @@ and in time thou shalt again migrate into another
 person.
 <label>BUYER</label>
 You mean that I shall be immortal, changing into
-many forms? But enough of this. 
+many forms? But enough of this.
 
 @
 
@@ -8594,7 +8594,7 @@ everything is a hollow mockery, drift of atoms,
 infinitude.
 <label>BUYER</label>
 No indeed, but you yourself are a hollow mockery
-in very truth and an infinite ass. 
+in very truth and an infinite ass.
 
 @
 
@@ -8763,7 +8763,7 @@ I will pay the money later on.
 <label>HERMES</label>
 What is your name?
 <label>BUYER</label>
-Dion of Syracuse.1 
+Dion of Syracuse.1
 <label>HERMES</label>
 He is yours; take him, with good luck to you.
 Epicurean, I want you now. Who will buy him?

@@ -5,20 +5,20 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="lat">Phalaris</title>
- <author>Lucian of Samosata</author>
+<author>Lucian of Samosata</author>
 <editor>Austin Morris Harmon, 1878-1950</editor>
- <funder>National Endowment for the Humanities</funder>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
- </respStmt>
- </titleStmt>
+<funder>National Endowment for the Humanities</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd, tagged and added initial corrections to  the text</resp>
+</respStmt>
+</titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
 <idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
 <availability>
- <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 <date>2023</date>
 <publisher>Harvard College Library</publisher>
@@ -26,33 +26,33 @@
 </publicationStmt>
 <sourceDesc>
 <listBibl>
- <biblStruct>
- <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
-  <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1913</date>
-  </imprint>
-  <biblScope unit="volume">1</biblScope>
- </monogr>
-  <ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
- </biblStruct>
+<biblStruct>
+<monogr>
+<title>Lucian</title>
+<editor>
+<persName>
+<name>Austin Morris Harmon</name>
+</persName>
+</editor>
+<author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+<imprint>
+<publisher>Harvard University Press</publisher>
+<pubPlace>Cambridge, MA</pubPlace>
+<date>1913</date>
+</imprint>
+<biblScope unit="volume">1</biblScope>
+</monogr>
+<ref target="https://hdl.handle.net/2027/uc1.b000604153">The Hathi Trust</ref>
+</biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+<p>Text encoded in accordance with the latest EpiDoc standards</p>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -467,7 +467,7 @@ just punishment.
 </p></div>
 
 <div type="textpart" subtype="section" n="2"><p>
- for you to hesitate about
+for you to hesitate about
 this matter at all and to submit us the question
 whether we should receive the gift or send it back
 again—even this I, for my part, consider impious ;
@@ -541,7 +541,7 @@ which we have no knowledge.
 
 <div type="textpart" subtype="section" n="7"><p>
 
- But even if something of the sort has actually taken place in Sicily,
+But even if something of the sort has actually taken place in Sicily,
 we of Delphi need not trouble ourselves about it,
 unless we now want to be judges instead of priests,
 and when we should be sacrificing and performing
@@ -658,7 +658,7 @@ god than their means warrant.
 </p></div>
 
 <div type="textpart" subtype="section" n="13"><p>
- But if you make
+But if you make
 yourselves examiners and inquisitors upon gifts, I
 doubt we shall be in want of people to examine
 hereafter, for nobody has the courage to put himself
@@ -755,7 +755,7 @@ mirrors, or in astronomy, in which he made his predecessors appear’ children,
 
 <div type="textpart" subtype="section" n="4"><p>
 
- but I shall not hesitate
+but I shall not hesitate
 to speak of one of his achievements which I recently
 looked upon with wonder. Though the undertaking
 is a commonplace, and in our days a very frequent
@@ -848,7 +848,7 @@ that require abundant heat.
 
 <div type="textpart" subtype="section" n="9"><p>
 
- Why should I go on
+Why should I go on
 and tell you of the exercising-floors and of the cloakrooms, which have quick and direct communication
 with the hall containing the basin, so as to be convenient and to do away with all risk?
 Let no one suppose that I have taken an insignificant achievement as my theme, and purpose to ennoble it by my eloquence. It requires more than a
@@ -1144,7 +1144,7 @@ nations in his quest-of the herds of Geryon.
 
 <div type="textpart" subtype="section" n="3"><p>
 
- But
+But
 I have not yet mentioned the most surprising thing
 
 
@@ -1178,7 +1178,7 @@ toward his captives, and is smiling.
 <div type="textpart" subtype="section" n="4"><p>
 
 I had stood for a long time, looking, wondering,
-. puzzling and fuming, when a Celt at my elbow, not
+puzzling and fuming, when a Celt at my elbow, not
 unversed in Greek lore, as he showed by his excellent
 use of our language, and who had, apparently,
 studied local traditions, said: “I will read you the
@@ -1264,12 +1264,12 @@ bold, since I am no older than the picture.
 
 <div type="textpart" subtype="section" n="8"><p>
 
- Goodbye,
+Goodbye,
 then, to strength, speed, beauty and all manner of
 physical excellence! Let your god of love, O Tean
 poet,
 <note n="2">Anacreon (frg. 23 Bergk): the poem is lost.</note>
- glance at my grizzled chin and flit by me if he
+glance at my grizzled chin and flit by me if he
 will on his gold-gleaming pinions: Hippoclides will
 not mind!
 <note n="3">Hippoclides of Athens, one of many suitors for the hand
@@ -1278,7 +1278,7 @@ above them all. But at the feast which was to have announced his engagement he d
 Tisander, you have danced yourself out of the match!”
 “Hippoclides does not mind !” was the answer he received.
 “Hence the proverb,” as Herodotus says (6, 126-131).</note>
- Now should certainly be the time for
+Now should certainly be the time for
 eloquence to flourish and flower and reach its fulness,
 to drag as many as it can by the ears and to let fly
 many arrows. At least there is no fear that its
@@ -1457,7 +1457,7 @@ than they as she is smaller than the bee. wy
 provided with feathers like the birds,
 <note n="1">Lit. “like the rest (of the ὄρνεα),” which is illogical.
 Perhaps ἀετοῖς should be written.</note>
- so as to have
+so as to have
 some for plumage all over her body, and others to fly
 with, but like grasshoppers, locusts and bees, she has
 membranous wings, as much thinner’ than theirs as
@@ -1536,7 +1536,7 @@ sing, but hides away and is still.
 </p></div>
 
 <div type="textpart" subtype="section" n="5"><p>
- I can also mention
+I can also mention
 her great intelligence in escaping her designing foe,
 the spider. She watches for him lurking in ambush,
 and is wary of him, turning aside from his attack,
@@ -1547,14 +1547,14 @@ the most mighty-mouthed of the poets ; for when he ,
 seeks to praise the foremost of the heroes,
 <note n="1">(Iliad 17, 570, Menelaus), into whose heart Athena
 "puts the boldness of the fly.”</note>
- he does -
+he does -
 not compare his bravery to a lion’s or a leopard’s or
 a wild boar’s, but to the fearlessness of the fly and
 the daring and insistency of her attack. He does
 not say that she is reckless, but fearless :
 <note n="2">The distinction (unknown to Homer) is between thrasos
 and tharsos.</note>
- that even
+that even
 if she is kept away she does not desist but is eager
 to bite. So outspoken is he in his praise and fondness for the fly that he mentions her net merely
 once or twice but often; in consequence, references
@@ -1580,7 +1580,7 @@ Athena turns the arrow aside from Menelaus in order
 that it may not strike a vital spot, he likens her to a
 mother tending a sleeping child, and again introduces
 the fly into the comparison.<note n="1">Iliad 4, 130.</note>
- Moreover, he has adorned
+Moreover, he has adorned
 them with fine epithets in calling them “ clustering”
 and their swarms “ hordes.”
 
@@ -1663,7 +1663,7 @@ became vexed at her, and Selene in anger turned
 her into the fly we know.
 <note n="1">The story explains the word μυῖα, “fly,” as having been
 originally the name of a girl.</note>
- So, in remembrance of
+So, in remembrance of
 Endymion, she begrudges all sleepers their repose,
 especially those of tender years; and even her
 biting and bloodthirstiness is not a sign of savagery,
@@ -1757,7 +1757,7 @@ of the charge contained in Thucydides’ saying<note n="1">2, 40, 3.</note> that
 ignorance makes men bold, but discourse
 <note n="2">To bring out the play on words, "discourse ” is used here
 in the obsolete sense of "consideration, reflection.”</note>
- cautious,
+cautious,
 for clearly this great hardihood of mine is not due to
 ignorance alone, but also to fondness for discourse !
 Good health to you !
@@ -1849,7 +1849,7 @@ his position, my dear fellow, he poured enough
 ambrosial speech over me to put out of date the
 famous Sirens
 <note n="1">Odyss. 12, 39 ; 167.</note>
- (if there ever were any) and the
+(if there ever were any) and the
 nightingales
 <note n="2">Odyss. 19, 518.</note> and the lotus of Homer.
 <note n="3">Odyss. 9, 94. The lotus is mentioned because of its
@@ -1892,7 +1892,7 @@ condition till then.
 
 <div type="textpart" subtype="section" n="5"><p>
 
- I went on and on, and so
+I went on and on, and so
 got into the state with which you just reproached
 me: what he said has made me proud and exalted,
 and in a word, I take no more notice of trifles. I
@@ -1921,7 +1921,7 @@ same interests.</p>
 <p><label>B</label> Cheer up, good soul! you spur a willing horse,
 as Homer says,
 <note n="1">Iliad 8, 293.</note>
- and if you hadn’t got ahead of me,
+and if you hadn’t got ahead of me,
 I myself should have begged you to listen to my
 tale, for I want to have you bear witness before the
 world that my madness has reason in it. Then, too,
@@ -2180,7 +2180,7 @@ the things they cherish most,
 <note n="1">A reminiscence of Aratus (Phaenom. 2): ‘ And every
 human-street and every square is full of the presence of
 God.”</note>
- and they can admit
+and they can admit
 pleasure by every gate—by the eyes, by the ears
 and nostrils, by the throat and reins, Its everflowing, turbid stream widens every street; it
 brings in adultery, avarice, perjury and the whole
@@ -2201,7 +2201,7 @@ Greece, on getting into the neighbourhood of Rome
 I stopped and asked myself why I had come here,
 repeating the well-known words of Homer:
 <note n="2">Odyss. 11, 93.</note>
- ‘Why
+‘Why
 left you, luckless man, the light of day’—Greece,
 to wit, and all that happiness and freedom— and
 came to see’ the hurly-burly here—informers,
@@ -2287,7 +2287,7 @@ believe it ?>—they make use of another man’s
 <note n="1">The nomenclator : his proper office was merely to present
 the guests to his master, but in reality he often received
 them in his master’s stead.</note>
- voice
+voice
 in greeting people they meet, expecting them to be
 thankful for a glance and nothing more, while some,
 lordlier than the rest, even require obeisance to be
@@ -2439,7 +2439,7 @@ condemnation of the sort of philosophers who think it
 a course in virtue if. they train the young to enduré
 “full many pains and toils,"
 <note n="1">Evidently a quotation: the source is unknown.</note>
- the majority
+the majority
 recommending cold baths, though some whip them,
 and still others, the more refined. of their sort, scrape
 ” the surface of their skin with a knife-blade.
@@ -2532,7 +2532,7 @@ As Greek houses were generally of sun-dried brick, it was
 not difficult to dig through the wall, but only an inveterate
 ‘wall-digger’ (housebreaker) would choose that method of
 entry when the door was unlocked.</note>
- These he called
+These he called
 unidiomatic pleasures.
 
 </p></div>
@@ -2543,7 +2543,7 @@ From the same standpoint he made a comment
 exactly like that of Momus. Just as the latter found
 fault with the god
 <note n="2">Poseidon: see Hermotimus, 20.</note>
- who made the bull for not
+who made the bull for not
 putting the horns in front of the eyes, so he censured
 those who wear garlands for not knowing where
 they should go. “If it is the scent of their violets
@@ -2649,7 +2649,7 @@ to the target as a rule, but often fall spent at half
 the distance ; and if ever they do carry, they strike
 “ with a mere fret o’ the skin,”
 <note n="1">Iliad 17, 599.</note>
- and do not make a
+and do not make a
 deep wound, as they were not sped with a strong
 pull.
 
@@ -2757,7 +2757,7 @@ saw with wonderment: and under one of them,
 Demonax, I was long a student. I have written
 about ‘Sostratus elsewhere,
 <note n="1">The treatise is lost.</note>
- and have described his
+and have described his
 size and excessive strength, his open-air life on
 Parnassus, his bed that was no bed of ease, his
 mountain fare and his deeds (not inconsistent with
@@ -2769,7 +2769,7 @@ places hard to pass.
 
 <div type="textpart" subtype="section" n="2"><p>
 
- It is now fitting to tell of
+It is now fitting to tell of
 Demonax for two reasons—that he may be retained
 in memory by men of culture as far as I can bring it
 about, and that young men of good instincts who
@@ -2835,7 +2835,7 @@ VOL. f. L
 would quite reveal which one he favoured. Probably
 he had most in common with Socrates, although he
 seemed to follow the man of Sinope<note n="1">Diogenes.</note>
- in dress and in
+in dress and in
 easy-going ways. He did not, however, alter the
 details of his life in order to excite the wonder
 and attract the gaze of men he met, but led the
@@ -2924,7 +2924,7 @@ enormously and always viewed him as a superior
 being. Yet in office he ran counter to public opinion
 and won from the masses quite as much hatred as
 his prototype<note n="2">Socrates.</note>
- by his freedom of speech and action.
+by his freedom of speech and action.
 He too had his Anytus and his Meletus who combined
 against him and brought the same charges that their
 predecessors brought against Socrates, asserting that
@@ -3002,7 +3002,7 @@ be told by his beard when you yourself have none.”
 <div type="textpart" subtype="section" n="14"><p>
 When the Sidonian sophist
 <note n="1">Otherwise unknown.</note>
- was once showing.
+was once showing.
 his powers at Athens, and was voicing his own
 praise to the effect that he was acquainted with all
 philosophy—but I may as well cite his very words :
@@ -3121,7 +3121,7 @@ I am in the same business: follow me to the breadwoman’s, if you like, and you
 her to give me bread with a single spell and a tiny
 charm ”’—implying that a coin is as good as a spell.
 When Herodes,<note n="2">Herodes Atticus. “Bolydeuces was a favourite slave.</note>
- the superlative, was mourning
+the superlative, was mourning
 the premature death of Polydeuces and wanted a
 chariot regularly made ready and horses put to it
 just. as if the boy were going for a drive, and dinner
@@ -3230,7 +3230,7 @@ Touching Herodes he remarked that Plato was
 right in saying that we have more than one soul,
 for a man with only one could not feast Regilla
 <note n="2">Wife of Herodes.</note>
- and
+and
 Polydeuces as if they were still alive and say what
 he did in his lectures.
 
@@ -3460,7 +3460,7 @@ late in the day for the Athenians to be honouring
 Cynegirus
 <note n="1">Brother of Aeschylus, who lost his hand at Marathon,
 and the Painted Porch was so called from a fresco by Polygnotus representing the battle.</note>
- with a bronze statue.
+with a bronze statue.
 
 </p></div>
 
@@ -3588,7 +3588,7 @@ always saw him in.
 </p></div>
 
 <div type="textpart" subtype="section" n="66"><p>
- A short time before the end
+A short time before the end
 he was asked: “What orders have you to give
 about your burial?” and replied: “ Don’t borrow
 trouble! The stench will get me buried!” The
@@ -3692,7 +3692,7 @@ simply in praising the hall. No doubt it was fitting -
 for Homer's island boy
 <note n="1">Telemachus (Odyss. 4, 71): he compares the house of
 Menelaus to the palaces of the gods.</note>
- to be astounded at the house
+to be astounded at the house
 of Menelaus and to compare its ivory and gold to the
 beautiful things in heaven because he had never seen
 anything else on earth that was beautiful. But to
@@ -3730,7 +3730,7 @@ case of Achilles, the sight of his armour enhanced
 his anger at the Trojans, and when he put it on to
 try it, he was inspired and transported with the lust
 of battle.<note n="1">Iliad, 19, 16; 384.</note>
- Then are we to believe that the passion
+Then are we to believe that the passion
 for speech is not enhanced by beautiful surroundings? Socrates was satisfied with a fine plane-tree
 and lush grass and a spring of clear water.not far from
 the Ilissus: sitting there, he plied his irony at the
@@ -3742,7 +3742,7 @@ love, and thinking no shame, old as he was, to invite
 maids to join him in amorous ditties.
 
 <note n="3">Herod. 7, 27.</note>
- May we not
+May we not
 suppose that they would come to a place as beautiful
 as this, even without an invitation ?
 
@@ -3766,7 +3766,7 @@ grace wrought into the gold or combined with it.
 The thing was barbarous, nothing but money, a
 source of envy to those who saw it, and of felicitation to those who owned it. There was nothing
 praiseworthy about it. The Arsacids<note n="1">Anachronism ; the possessors of the tree were the Achaemenid princes.</note>
- neither cared
+neither cared
 for beauty nor aimed at attractiveness in making
 their display nor minded whether the spectators
 praised or not,as long as they were astounded.
@@ -3854,11 +3854,11 @@ Such is the top, the summit of the hall: it
 needs a Homer to praise it by calling it “highceiled” like the chamber of Helen
 <note n="1">Il. 3, 423; Od. 4. 121.</note><note n="1">Il. 3, 423; Od. 4. 121.</note>
 
- or “dazzling” like
+or “dazzling” like
 Olympus.
 
 <note n="2">Il. 1, 253; 13, 243; Od. 20, 103.</note>
- The rest of the decoration, the frescoes
+The rest of the decoration, the frescoes
 on the walls, the beauty of their colours, and the
 vividness, exactitude, and truth of each detail might
 well be compared with the face of spring and with a
@@ -4273,7 +4273,7 @@ sons of Atreus. The ambassadors are there to
 summon him, All the details of his pretence are
 true to life—the wagon, the ill-matched team,
 <note n="1">He yoked an ass and an ox together.</note>
- the
+the
 folly of his actions. He is shown up, however, by
 means of his child. Palamedes, son of Nauplius,
 comprehending the situation, seizes Telemachus and
@@ -4336,7 +4336,7 @@ to him.</note></head>
 <cit><quote><l>“Nothing sweeter than one’s native land”</l>
 </quote>
 <bibl>Odyss. 9, 34</bibl></cit>
- is
+is
 already a commonplace. If nothing is sweeter, then
 is anything more holy and divine? Truly of all that
 men count holy and divine their native land is cause
@@ -4615,11 +4615,11 @@ Nestor, you know,
 the wisest of the Achaeans, outlasted three genera-
 tions, Homer says:
 <note n="1">Il, 1, 250; Odyss. 3, 245.</note>
- and he tells us that he was
+and he tells us that he was
 splendidly trained. in mind and in body. ‘Likewise
 Teiresias the seer outlasted six generations, tragedy
 says:<note n="2">The source is unknown.</note>
- and one may well believe that a man
+and one may well believe that a man
 consecrated to the gods, following a simpler diet,
 lives very long.
 
@@ -4641,7 +4641,7 @@ account of practising magic, for they diet very scrupulously.
 </p></div>
 
 <div type="textpart" subtype="section" n="5"><p>
- Indeed, there are even whole nations that
+Indeed, there are even whole nations that
 are very long-lived, like the Seres, who are said to live
 three hundred years: some attribute their old age to
 the climate, others to the soil and still others to their
@@ -4684,7 +4684,7 @@ the emperor’s world.
 to be Antoninus Pius, Caracalla, and many another. The
 language, which suggests a period much later than Lucian,
 is so obscure that the meaning is doubtful.</note>
- In this way it will be possible
+In this way it will be possible
 for you, observing your similarity to these octogenarians in condition and fortune, to have better
 expectations of a healthy and protracted old age,
 and by imitating them in your way of living to
@@ -4712,7 +4712,7 @@ ninety years in the most sturdy health.
 </p></div>
 
 <div type="textpart" subtype="section" n="9"><p>
- These are
+These are
 the kings of Rome, to whom I shall join such other
 kings as have attained great age, and after them
 others arranged according to their various walks of life.
@@ -4734,7 +4734,7 @@ historian and Anacreon the song-writer,
 <note n="1">Our author did not verify his references. Herodotus
 (1, 163) says one hundred and twenty, Anacreon (frg. 8) one
 hundred and fifty.</note>
- but some
+but some
 consider this a fable. Agathocles, tyrant of Sicily,
 died at ninety, as Demochares and Timaeus
 <note n="2">Timaeus, as quoted in Diodorus (21, 16, 5) said seventy-two.</note> tell us.
@@ -4790,7 +4790,7 @@ of the Greek text. Schwartz would read ἀδελφὴν γαμῶν
 Justinus 16, 27: is (i.e. Ptolemy Soter) contra ius gentium
 minimo natu ex filiis ante infirmitatem regnum tradiderat,
 eiusque rei rationem populo reddiderat.</note>
- Philetaerus, an eunuch, secured and
+Philetaerus, an eunuch, secured and
 kept the throne of Pergamus, and closed his life at
 
 
@@ -4909,7 +4909,7 @@ he cried out: “ Why do you call me?”
 7, 28 he said ἔρχομι· τί μ' αὔεις (“I come: why din it in my
 ears?”), a quotation from a play called Niobe (Nauck,
 Trag. Gr. Fragm. p. 51).</note>
- and then,
+and then,
 returning home, starved himself to death. Cleanthes,
 the pupil and successor of Zeno, was ninety-nine’
 when he got a tumour on his lip. He was fasting
@@ -5036,7 +5036,7 @@ along with a great and hearty laugh, to give the
 donkey also a sup of wine, he choked with his laughter
 and died.
 <note n="1">The same story is told of Chrysippus (Diog. Laert. 7.185).</note>
- Epicharmus, the comic poet, is also said
+Epicharmus, the comic poet, is also said
 to have lived ninety-seven years.
 </p></div>
 
@@ -5057,7 +5057,7 @@ geometrician, lived eighty-two years.
 </p></div>
 
 <div type="textpart" subtype="section" n="28"><p>
- Lycurgus,
+Lycurgus,
 the Spartan lawgiver, is said to have lived eighty-five
 years.
 
@@ -5257,7 +5257,7 @@ went on, but had not gone far when we came upon a
 river of wine, just as like as could be to Chian.
 <note n="3">Cf. Ctesias (Phot. cod. 72, 46 a).</note>
 
- The
+The
 stream was large and full, so that in places it was
 actually navigable. Thus we could not help having
 much greater faith in.the inscription on the slab,
@@ -5303,7 +5303,7 @@ became reeling drunk. They did not suffer us, however, to gather any of the frui
 when it was plucked. Some of them actually wanted
 us to embrace them, and two of my comrades complied, but could not get away again. They were
 ‘held fast by the part which had touched them, for it
-. 257
+257
 VOL. I. 8
 <pb n="259"/>
 
@@ -5335,7 +5335,7 @@ sails and drove her ahead with bellying canvas.
 
 <div type="textpart" subtype="section" n="10"><p>
 
- For
+For
 seven days and seven nights we sailed the air, and on
 the eighth day we saw a great country in it, resembling an island, bright and round and shining with
 a great light. Running in there and anchoring, we
@@ -5363,7 +5363,7 @@ fact that the mast of a large merchantman is not
 so long or so thick as the smallest of the quills they
 have.
 <note n="1">Cf. Odyss. 9, 322f.</note>
- The Vulture Dragoons are commissioned to
+The Vulture Dragoons are commissioned to
 fly about the country and bring before the king any
 stranger they may find, so of course they arrested us
 and brought us before him.
@@ -5384,7 +5384,7 @@ on us.
 <note n="2">The story of Antonius Diogenes included a description of
 a trip to the moon (Phot. 1lla). Compare also Tucian’s
 own Icaromenippus.</note>
- He urged us to take heart, however, and
+He urged us to take heart, however, and
 suspect no danger, for we should have everything
 that we required.
 
@@ -5505,7 +5505,7 @@ large beasts with wings, like the ants that we have,
 except in size: the largest one was two hundred feet
 long.
 <note n="1">Herodotus (3, 102) tells of ants bigger than foxes.</note>
- They themselves fought, as well as their
+They themselves fought, as well as their
 riders, and made especially good use of their feelers.
 They were said to number about fifty thousand. On
 their right were posted the Sky-mosquitoes,
@@ -5674,13 +5674,13 @@ Burns</p>
 <p> (For the Moonites)</p>
 
 <p>
- Darkling</p>
+Darkling</p>
 
 <p>
- Moony</p>
+Moony</p>
 
 <p>
- Allbright
+Allbright
 
 
 
@@ -5804,7 +5804,7 @@ cold.
 The clothing of the rich is malleable glass
 <note n="1">Lucian’s glass clothing (ὑαλίνη) is a punning parody on
 wooden clothing (ξυλίνη), i.e. cotton (Herod. 7, 65).</note>
- and
+and
 that of the poor, spun bronze; for that region is
 rich in bronze, which they work like wool by
 wetting it with water. I am reluctant to tell you
@@ -5822,7 +5822,7 @@ people’s to see with, and the rich folk keep a quantity
 
 stored up.
 <note n="1">Compare the story of the Graeae.</note>
- For ears they have plane-leaves, except
+For ears they have plane-leaves, except
 only the acorn-men, who have wocden ones. In
 the royal purlieus I saw another marvel.
 
@@ -5910,7 +5910,7 @@ we set sail and continued our voyage. By this time
 we were near the clouds. There we saw the city
 of Cloudcuckootown,
 <note n="1">The capital of Birdland in Aristophanes’ play, The Birds.</note>
- and wondered at it, but did
+and wondered at it, but did
 not visit it, as the wind did not permit. The king,
 however, was said to be Crow Dawson. It made me
 think of Aristophanes the poet, a wise and truthful man whose writings are distrusted without
@@ -6099,7 +6099,7 @@ live the Mergoats,
 <note n="1">According to Herodotus (2, 46), uévdns was Egyptian for
 goat ; but there is nothing goatish in the Tritonomendetes as
 Lucian describes them.</note>
- like men above and catfish below :
+like men above and catfish below :
 they are not so wicked as the others. To port
 there are the Crabclaws and the Codheads, who are
 friends and allies with each other. The interior
@@ -6211,7 +6211,7 @@ second opening, as I said, much shouting and commotion suddenly made itself hear
 to be commands and oar-beats.
 <note n="1">Compare the description of the sea-fight between Corinth
 and Corcyra in Thucydides 1. 48.</note>
- Excitedly we crept
+Excitedly we crept
 up to the very mouth of the animal, and standing
 
 
@@ -6294,7 +6294,7 @@ him ; for they had anchors, large and strong, made
 of glass.
 <note n="1">Very likely a punning reference to some traveller’s
 account of wooden (ξυλίναις) anchors.</note>
- On the following day they performed
+On the following day they performed
 
 
 
@@ -6503,7 +6503,7 @@ and danger on account of his marriage: then too,
 <pb n="313"/>
 
 Theseus had other wives, the. Amazon<note n="1">Hippolyta.</note>
- and the
+and the
 daughters of Minos.<note n="2">Ariadne and Phaedra.</note>
 
 </p></div>
@@ -6719,7 +6719,7 @@ Chrysippus, we heard tell that he is not permitted
 to set foot on the island until he submits himself to
 the hellebore treatment for the fourth time.
 <note n="1">See the Philosophers for Sale for another jest at Chrysippus’ insanity.</note>
- They
+They
 said that the Academicians wanted to come but were
 still holding off and debating, for they could not
 arrive at a conclusion even on the question whether
@@ -6868,7 +6868,7 @@ heroes in battle !</l></quote>
 <pb n="329"/>
 
 But to return—they cooked beans,<note n="1">An allusion to the Pyanepsia, the Athenian Beanfeast.</note>
- as is their
+as is their
 custom when they are successful at war, hdd a feast
 in honour of the victory and made a great holiday.
 Pythagoras was the only one who did not take part
@@ -7181,7 +7181,7 @@ On going a short way from the
 sea I found the cave, which was as Homer described
 it,
 <note n="1">Odyss. 5, 55 ff.</note>
- and found Calypso herself working wool. When
+and found Calypso herself working wool. When
 
 
 
@@ -7291,7 +7291,7 @@ the summit! The fruit consisted of figs and black
 raisin-grapes, which were not yet ripe.
 <note n="2">A parody on the experience of the Pirates who carried
 off Dionysus (Hymn. Hom. 7, 38).</note>
- On seeing
+On seeing
 this, we were disturbed, as well we might be, and
 offered a prayer to the gods on account of the
 strangeness of the manifestation.
@@ -7558,7 +7558,7 @@ in Phoenicia.
 <note n="1">The story is apocryphal, as Apelles must have been in
 his grave nearly a hundred years when Theodotus (not
 Theodotas) betrayed Ptolemy Philopator (219 3.c.).</note>
- Nevertheless, one of his rivals named
+Nevertheless, one of his rivals named
 Antiphilus, through envy of his favour at court
 and professional jealousy, maligned him by telling
 Ptolemy that he had taken part in the whole enterprise, and that someone had seen him dining with
@@ -7615,7 +7615,7 @@ On the right
 of it sits a man with very large ears, almost like
 those of Midas, extending his hand to Slander while
 she is still at some distance from him. Near him,
-.on one side, stand two women—Ignorance, I think,
+on one side, stand two women—Ignorance, I think,
 and Suspicion. On the other side, Slander is coming
 up, a woman beautiful beyond measure, but full of
 passion and excitement, evincing as she does fury
@@ -7822,7 +7822,7 @@ the same sort happens in the athletic games, in footraces. A good runner fram th
 barrier falls
 <note n="1">Races were started in antiquity by the dropping of a
 rope or bar.</note>
- thinks only of getting forward, sets
+thinks only of getting forward, sets
 his mind on the finish and counts on his legs to
 win for him; he therefore does not molest the man
 next to him in any way or trouble himself at ail
@@ -7943,7 +7943,7 @@ and accrediting him with prophecies; and at last
 
 they began to sacrifice to him as “‘ Coadjutor” and
 "Saviour.”<note n="1">In this way they made him out the associate of Apollo.</note>
- Alexander liked to hear all this, and
+Alexander liked to hear all this, and
 at length believed it, and was very proud of himself for being, as he thought, not only the son of
 a god but also able to make gods. Well, how many
 of Alexander's friends, do you suppose, reaped the
@@ -8138,7 +8138,7 @@ Phaedra, she too made a similar charge against her
 stepson and so brought it about that Hippolytus was
 cursed by his father
 <note n="1">Theseus: the story is told in the Hippolytus of Euripides.</note>
- when he had done nothing
+when he had done nothing
 impious—good Heavens, nothing !
 </p></div>
 
@@ -8221,7 +8221,7 @@ then, put faith in another's judgment, or rather
 judgment,
 <note n="1">Literally, "in the accuser’s hatred.” To secure something like the word-play in the Greek, the sense had to
 suffer slightly.</note>
- but should reserve to yourself the province
+but should reserve to yourself the province
 of investigating the truth, accrediting the slanderer
 with his envy and conducting an open examination
 into the sentiments of both men; and you should
@@ -8446,7 +8446,7 @@ can testify, for I never brought Zeta to book for
 taking my emerald (σμάραγδος—ζὡμάραγδος) and robbing me utterly of Smyrna,
 <note n="1">Pronounced, as it is to-day, Zmyrna, but written usually
 with s.</note>
- nor Xi for overstepping
+nor Xi for overstepping
 every treaty (συνθήκη—ξυνθήκη) with Thucydides
 the historian (συγγραφεύς—ξυγγραφεύς) as his ally
 (ύμμαχος—ξύμμαχος): And when my neighbour
@@ -8621,7 +8621,7 @@ saying from the poets: “I hate to drink with him
 that hath a memory.”
 <note n="1">Author unknown : quoted also by Plutarch (Prooemium to
 Quaest. Sympos.). See also Index to Corpus Paroemiogr. Gr.</note>
- And Dionicus did not do
+And Dionicus did not do
 right, either, to blab it all to Charinus and besprinkle philosophers with the copious dregs of their
 stale cups. As for me—get out with you! I shan’t
 tell you anything of the kind !</p>
@@ -8838,7 +8838,7 @@ they could think of, one growling under his breath,
 <quote>
 <l>But Agamemnon, Atreus’ son, was sorely vexed,</l></quote> <bibl>Iliad 1, 24.</bibl></cit>
 
- and others
+and others
 other remarks that, in the circumstances, were to the
 point and witty. But nobody dared to speak out,
 for they all feared Alcidamas, who was really “ good
@@ -9276,7 +9276,7 @@ of the Twin Brethren because it was gold?<note n="1">Antique statues with golden
 mentioned not infrequently. In the  "Timon” (4) Lucian
 alludes to the theft of the hair from the head of the famous
 statue of Zeus in Olympia.</note>
- You'll
+You'll
 suffer for it, too, when the executioner gets you!
 And as for you, Cleodemus, you had an affair with
 the wife of your pupil Sostratus, and were found out
@@ -9364,7 +9364,7 @@ Troy.
 <note n="1">The golden apple, for the fairest of the goddesses, was
 awarded to Aphrodite by Paris, who was paid for his
 decision by being given the love of Helen.</note>
- Well, to my thinking ‘Hetoemocles by
+Well, to my thinking ‘Hetoemocles by
 throwing his. letter into the midst of us like an
 Apple of Discord had brought on woes quite as great
 as those of the Iliad.
@@ -9405,7 +9405,7 @@ did not let him.
 
 <div type="textpart" subtype="section" n="28"><p>
 
- “Bravo, Cleodemus,” said Hermon;
+“Bravo, Cleodemus,” said Hermon;
 “let them tell why they inveigh against pleasure
 when they themselves want to have more of it than
 the rest of mankind.” “No,” said Zenothemis, “but
@@ -9554,7 +9554,7 @@ with one, and some with the other, except Ion alone.
 <div type="textpart" subtype="section" n="33"><p>
 
 That man
- kept himself neutral, and they pitched in
+kept himself neutral, and they pitched in
 and fought. Zenothemis picked up a bowl that was
 on the table in front of Aristaenetus and threw it at
 Hermon,

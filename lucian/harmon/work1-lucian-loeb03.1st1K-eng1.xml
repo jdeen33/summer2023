@@ -5,20 +5,20 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="lat">Phalaris</title>
- <author>Lucian of Samosata</author>
+<author>Lucian of Samosata</author>
 <editor>Austin Morris Harmon, 1878-1950</editor>
- <funder>National Endowment for the Humanities</funder>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
- </respStmt>
- </titleStmt>
+<funder>National Endowment for the Humanities</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd, tagged and added initial corrections to  the text</resp>
+</respStmt>
+</titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
 <idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
 <availability>
- <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 <date>2023</date>
 <publisher>Harvard College Library</publisher>
@@ -26,33 +26,33 @@
 </publicationStmt>
 <sourceDesc>
 <listBibl>
- <biblStruct>
- <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
-  <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1921</date>
-  </imprint>
-  <biblScope unit="volume">3</biblScope>
- </monogr>
-  <ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
- </biblStruct>
+<biblStruct>
+<monogr>
+<title>Lucian</title>
+<editor>
+<persName>
+<name>Austin Morris Harmon</name>
+</persName>
+</editor>
+<author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+<imprint>
+<publisher>Harvard University Press</publisher>
+<pubPlace>Cambridge, MA</pubPlace>
+<date>1921</date>
+</imprint>
+<biblScope unit="volume">3</biblScope>
+</monogr>
+<ref target="https://hdl.handle.net/2027/osu.32435024202137">The Hathi Trust</ref>
+</biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+<p>Text encoded in accordance with the latest EpiDoc standards</p>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -121,7 +121,7 @@ Aristotle, make haste! Still faster! That’s well; the
 game is bagged. We have you, villain! you shall
 soon find out what sort of men you have been
 1 <cit> <quote>    <l>κρῖν᾽ ἄνδρας κατὰ φῦλα, κατὰ φρήτρας, ᾿Ἀγάμεμνον,</l>    <l>ὡς φρήτρη φρήτρηφιν ἀρήγῃ, φῦλα δὲ φύλοις.</l> </quote><bibl>Iliad 2, 363</bibl>
-</cit> 
+</cit>
 
 2 Iliad 6, 112; Homer has ‘‘ friends,”’ not ‘‘ sages.”
 <pb n="5"/>
@@ -153,10 +153,10 @@ so that each of us might have gone off with a scrap
 of him. |
 FRANKNESS
 No, no! In the name of Him who hears the suppliant,’ spare me!
-1 Aetna, into which Eimpedocles is said to have leapt. 
+1 Aetna, into which Eimpedocles is said to have leapt.
 2 Both Pentheus and Orpheus were torn to ieces by
 Maenads. The verse is from a lost tragedy (Nauck, Fr
-Fragm. p. 895). 
+Fragm. p. 895).
 3 Zeus.
 
 <pb n="7"/>
@@ -190,7 +190,7 @@ save me :
 PLATO
 Ah, but is not this by Euripides, too?
 “No harm for them that wrought to suffer harm.” 5
-1 Iliad 22, 262. 
+1 Iliad 22, 262.
 2 A cento; Iliad 6, 46, 48; 20, 65.
 3 Iliad 10, 447-8, with alterations.
 4 Nauck, p. 663. Cf. Ion 1553. 5
@@ -211,7 +211,7 @@ kill me and there is no possibility of my escaping,
 do tell me at least who you are and what irreparable
 injuries you have received from me that you’ are
 irreconcilably angry and have seized me for execution.
-PLATO ;
+PLATO
 What dreadful wrongs you have done us you may
 ask yourself, you rascal, 'and those precious dialogues
 of yours in which you not only spoke abusively of
@@ -256,7 +256,7 @@ for your abuse, into the bargain? Are you so convinced that you are truly talkin
 actually set yourself down as our benefactor, on top
 of all your insolent and intemperate language ?
 FRANKNESS
-. Where, pray, and when have I insulted you? I have
+Where, pray, and when have I insulted you? I have
 always consistently admired philosophy and extolled
 you and lived on intimate terms with the writings
 that you have left behind. These very phrases that
@@ -318,7 +318,7 @@ investigation I am found innocent and irreproachable, —
 the jury will discharge me, and you will turn your
 anger against those who nave misled you and set
 you against me.
-PLATO |
+PLATO
 There we have it! “Cavalry into the open,” so that
 you may give the slip to the jury and get away.) At
 any rate, they say that you are an orator and a
@@ -367,7 +367,7 @@ Philosophy. She shall judge, and we shall be content
 with her decision, whatever it may be.
 1 Literally, "without getting any water at all"; i.e. any
 of the time ordinarily allowed for court speeches, which was
-apportioned with a water-clock. 
+apportioned with a water-clock.
 
 <pb n="19"/>
 
@@ -477,9 +477,9 @@ is certainly clear that he wants to make.a statement.
 PLATO
 No: we have referred the whole matter to you,
 and you are to conclude the trial as you think best.
-PHILOSOPHY ,
+PHILOSOPHY
 You, there, what do you say?
-FRANKNESS _
+FRANKNESS
 Precisely what they do, my Lady Philosophy ; for.
 you, even without aid, could discover the truth. In
 fact, it was only with difficulty, after a deal of
@@ -527,7 +527,7 @@ I can just see her now. But why not bring them
 also, in order that the meeting may be full and
 perfect? As to Truth, indeed, I wish to introduce
 her into the trial as an advocate.
-PHILOSOPHY :
+PHILOSOPHY
 To be sure. (To the others) Come with us also.
 It is not a hard matter to try a single case,
 particularly one that will involve our own interests.
@@ -561,7 +561,7 @@ Proof along too. :
 TRUTH
 Come, all of you, since you appear to be necessary
 to the case.
-PLATO .
+PLATO
 Do you see that? He is suborning Truth against
 us, Philosophy.
 PHILOSOPHY
@@ -594,13 +594,13 @@ way of thinking were manifestly right and just.
 PHILOSOPHY
 True: it was a needless question, tobe sure. But
 what is your calling? That at least is worth
-. knowing. |
+knowing. |
 FRANKNESS
 Iam a bluff-hater, cheat-hater, liar-hater, vanityhater, and hate all that sort of scoundrels, who are
 very numerous, as you know. ,
-PHILOSOPHY | :
+PHILOSOPHY
 Heracles! You follow a hateful calling !
-} Although they were born there: Chrysippus in Soli,
+Although they were born there: Chrysippus in Soli,
 Aristotle in Stageira. No philosopher. mentioned: by name
 in this piece came from Cyprus or from Babylon, and these
 allusions are not clear. Perhaps Lucian has in mind Zeno
@@ -729,7 +729,7 @@ their votes with your company, and let Diogenes be
 the only prosecutor.
 PHILOSOPHY
 Then are you not afraid they may find you guilty ?
-FRANKNESS .
+FRANKNESS
 Not at all. In fact, I wish to win by a larger
 majority.
 PHILOSOPHY
@@ -812,12 +812,12 @@ present laughed!
 On account of this, we ourselves have come up
 here in a rage, and we think it right that you for
 your part should avenge us because we have been
-insulted to the limit. 
+insulted to the limit.
 1 The Cynic, of Gadara: Lucian’s chief predecessor in satirical prose.
 43
 <pb n="45"/>
 
-PLATO _
+PLATO
 Good, Diogenes! You have splendidly said all
 that you ought on behalf of us all.
 PHILOSOPHY
@@ -1047,7 +1047,7 @@ man; so-and-so does that.’’ In short, he portrayed
 the gentlemen to the life, as in a painting, accurate
 likenesses in every respect, depicting not only their
 persons, but their very souls‘as faithfully as could be.
-VIRTUE 
+VIRTUE
 I, Virtue, also had to blush for shame.
 PHILOSOPHY
 And what say you ?
@@ -1065,7 +1065,7 @@ we have brought down upon ourselves an actor of
 tragedies to hold forth about the woes of the Trojans !
 Let him hold forth, then, and make tragedies out
 of these miscreants.
-DIOGENES °
+DIOGENES
 I, too, Philosophy, commend the man highly, take
 back my complaint and count him a friend, for he is
 a gallant fellow.
@@ -1121,7 +1121,7 @@ each bring with him five syllogisms by all means, for
 without these it is impossible to be wise.
 <cit>
 <quote>
-    <l>Lo, we have set up as prize two talents of gold for the contest ;</l>
+<l>Lo, we have set up as prize two talents of gold for the contest ;</l>
 <l>These shall we give unto him who prevails over all in debating!</l>
 </quote>
 <bibl>Cf. Iliad 18, 507-8.</bibl>
@@ -1148,7 +1148,7 @@ flattery, beards and shamelessness, staves and gluttony,
 syllogisms and avarice. The few that came up in
 answer to the first summons are obscure and inconspicuous, intermingled with the crowd of others, and
 they escape the eye in the general similarity of garb.
-FRANKNESS _
+FRANKNESS
 In fact, that is the worst feature of it all, Philosophy, and the one for which you could be most
 criticized, that you have set no mark and token upon
 them. These cheats are often more convincing than
@@ -1190,7 +1190,7 @@ show you how much better debaters we are than
 the rest ! |
 STOIC
 Not while we Stoics are here!
-PHILOSOPHY.
+PHILOSOPHY
 Stop your bickering! You Cynics, do not jostle
 one another or strike each other with your staves.
 You were asked here for a different purpose, let me
@@ -1338,7 +1338,7 @@ till it breaks.
 FRANKNESS
 Have no fear, Diogenes. They are light, and pull
 no harder than weakfish.!
-DIOGENES ©
+DIOGENES
 Aye, they are mighty weak, for certain ; pull them
 up, however.
 FRANKNESS
@@ -1572,7 +1572,7 @@ will be rife. For that reason, like the master of
 a ship, I stand by myself high up on the stern with
 the tiller in my hands, and everybody else aboard
 gets drunk, perhaps, and goes to sleep, whereas I,
-1 Argus. 
+1 Argus.
 2 Partial paraphrase of Iliad 2, 1-2
 89
 <pb n="91"/>
@@ -1718,7 +1718,7 @@ I did not tell you, since you are my sister. Most of
 Sunium is the most conspicuous landmark because Hermes
 and Justice are coming down from above, and from seaward
 (cf. below, ἐν δεξιᾷ). Lucian’s gods live in Heaven, not on
-Olympus or Ida. 
+Olympus or Ida.
 
 <pb n="99"/>
 
@@ -1881,7 +1881,7 @@ sick of trials and speeches, for I hear the pleaders on
 the Areopagus every day.
 HERMES
 Come, Justice, let’s call them to the bar.
-JUSTICE >
+JUSTICE
 Quite right. Indeed they are approaching incrowds, as you see, with a great noise, buzzing about
 the hilltop like wasps.
 ATHENIAN
@@ -2001,13 +2001,13 @@ Hermes.
 HERMES
 She says that she cannot plead her case because her
 tongue is tied with drink and she is afraid of getting
-113
-VOL. III. I
+
+
 <pb n="115"/>
 
 laughed at in court. She can hardly stand, as you
-see. ,
-JUSTICE °
+see.
+JUSTICE
 Then let her have an advocate appear, one of these
 public pleaders. There are plenty of them ready to
 split their lungs for three obols !
@@ -2340,7 +2340,7 @@ ways; don’t be angry, you shall serve another day.
 HERMES
 It is time for Diogenes of Sinope to appear. Make
 your complaint, Banking.
-DIOGENES ,
+DIOGENES
 I protest, if she does not stop bothering me,
 Justice, it will not be running away that she will
 have me up for, but aggravated assault and battery,
@@ -2478,7 +2478,7 @@ of speaking, do not permit that, for it -would be
 unkind to turn my own weapon against me; let
 him defend himself, if he can, in the style of his
 favourite, Dialogue.
-HERMES *
+HERMES
 That is unreasonable. It is not possible, Oratory,
 for him, all by himself, to make his defence after
 Dialogue’s manner. Let him make a speech as
@@ -2533,7 +2533,7 @@ of the jury rest in peace, refraining from accusations
 of tyrants and laudations of princes, and should
 betake myself to the Academy or the Lyceum to
 walk about with this excellent person . Dialogue
-. while we converse quietly without feeling any need
+while we converse quietly without feeling any need
 of praise and applause.
 Though I have much to say, I will stop now.
 Cast your vote in accordance with your oath.
@@ -2542,7 +2542,7 @@ JUSTICE
 Who is the winner?
 HERMES
 The Syrian, with every vote but one.
-JUSTICE |
+JUSTICE
 Very likely it was a public speaker who cast the
 vote against him. Let Dialogue plead before the
 same jury. (Zo the Jurors) Wait, and you shall get
@@ -2592,7 +2592,7 @@ What are you going to say to this, Master Syrian?
 THE SYRIAN
 Gentlemen of the jury, the suit that I am contesting now before you is unexpected. In fact, I should
 1 Plato, Phuedrus 246 ¥.
-2 Plato, Phaedrus 247 B. 
+2 Plato, Phaedrus 247 B.
 3 Cynic.
 4 This refers to the practice of mingling verse and prose,
 borrowed by Lucian from Menippus. For good illustrations
@@ -2866,7 +2866,7 @@ the Argives Hera, the Mygdonians Rhea, the
 Paphians Aphrodite. As for the Cretans, they not
 only say that Zeus was born and brought up among
 them, but even point out his tomb. We were mistaken all this while, then, in thinking that thunder
-1 Iliad 4, 1. 
+1 Iliad 4, 1.
 2 Iliad 1, 317.
 165
 <pb n="167"/>
@@ -2963,7 +2963,7 @@ handsome and majestic than the run of cattle !
 Actions and beliefs like these on the part of the
 public seem to me to require, not someone to censure them, but a Heracleitus or a Democritus, the
 one to laugh at their ignorance, the other to bewail
-their folly. 
+their folly.
 1 Nisus, king of Megara, had something in common with
 Samson, for as long as the purple tress remained where it
 belonged, his city was safe. Ovid (Metam. 8, 1-151) tells
@@ -3122,7 +3122,7 @@ riding ; if the one should take the helm of a fine
 vessel, finely constructed in every detail both for
 beauty and for seaworthiness, and the other should
 1 Famous Theban flute-players of the fourth century B.c. ;
-for Timotheus, see also Lucian’s Harmonides. 
+for Timotheus, see also Lucian’s Harmonides.
 
 <pb n="183"/>
 
@@ -3299,7 +3299,7 @@ skill and the singing of Orpheus, the only distinctive
 gifts that he had from his mother; while the lyre
 was just a piece of property, no better than any
 other stringed instrument.
-IQ!
+
 <pb n="193"/>
 
 But why do I talk to you of Orpheus and Neanthus, when even in our own time there was and still
@@ -3838,7 +3838,7 @@ enemies nor envied by your fellow-citizens—nothing
 but just a labourer, one of the swarming rabble, ever
 cringing to the man above you and courting the man
 who can use his tongue, leading a hare’s life, and
-. counting as a godsend to anyone stronger. Even
+counting as a godsend to anyone stronger. Even
 if you should become a Phidias or a Polycleitus and
 should create many marvellous works, everyone
 would praise your craftsmanship, to be sure, but
@@ -4003,15 +4003,15 @@ highly thought of as any sculptor.
 
 <pb n="237"/>
 
-PARASITIC AN ART
-TY CHIADES
+
+TYCHIADES
 Why in the world is it, Simon, that while other
 men, both slave and free, each know some art by
 which they are of use to themselves and to someone
 else, you apparently have no work which would
 enable you to make any profit yourself or give away
 anything to anybody else?
-SIMON :
+SIMON
 What do you mean by that question, Tychiades ?
 I do not understand. Try to put it more clearly.
 TYCHIADES
@@ -4138,10 +4138,10 @@ SIMON
 That was a cruel thrust, Tychiades !
 TYCHIADES
 But do not you blush to call yourself a parasite ?
-SIMON .
+SIMON
 Not at all; I should be ashamed not to speak it out.
 TYCHIADES
-- Then, by Zeus, when we wish to tell about you to
+Then, by Zeus, when we wish to tell about you to
 someone who does not know you, when he wants to
 find out about you, of course we shall be correct in
 referring to you as “ the parasite ”’?
@@ -4209,7 +4209,7 @@ your recollection of it.
 SIMON
 If Parasitic satisfies this definition completely, what
 other conclusion could there be than that it is an art?
-TYCHIADES |
+TYCHIADES
 It would be an art, of course, if it should really be
 like that.
 SIMON
@@ -4297,13 +4297,13 @@ TYCHIADES
 You are right.
 SIMON
 But on the other hand, it is not want of art; for
-want of art never achieves anything for its possessor.!
+want of art never achieves anything for its possessor.1
 For example, if you should put yourself in command
 of a ship at sea in a storm without knowing how to
 steer, should you come safely through ?
 TYCHIADES
-Not by any means. ©
-SIMON :
+Not by any means.
+SIMON
 How about a man who should take horses in hand
 without knowing how to drive?
 TYCHIADES
@@ -4318,7 +4318,7 @@ Then the parasite would not be saved by Parasitic
 if it were want of art?
 TY CHIADES
 True.
-SIMON , ,
+SIMON
 Then it is art that saves him, and not want of art ?
 TYCHIADES
 Quite so.
@@ -4390,7 +4390,7 @@ he brought Philoctetes back from Lemnos, when he
 sacked Troy, when he checked the Greeks in their
 flight, when he entered Troy after flogging himself
 and putting on wretched Stoic rags; but on those
-1 Odyssey 9, 5 ff. 
+1 Odyssey 9, 5 ff.
 2 Odyssey 9, 11.
 257
 VOL. IIT. 8
@@ -4671,7 +4671,7 @@ in strange lands, yet we see many different philosophies, all of them out of tun
 TYCHIADES
 You are right: they say philosophy is one, but
 they themselves make it many
-SIMON ,
+SIMON
 As far as the other arts are concerned, if there
 should be some discord in them, one might pass it
 over, thinking it excusable, since they are subordinate and their knowledges are not exempt from
@@ -4885,7 +4885,7 @@ one could never even buy a decent slave!” 2 he did
 1 Every schoolboy knew—such was the interest in rhetoric—
 that Isocrates did not practise in the courts because his voice
 was too weak. The author pretends to think that its weakness must have been due to fright, and that therefore he was
-a terrible coward. 
+a terrible coward.
 2 Demosthenes, Third Philippic 31.
 287
 <pb n="289"/>
@@ -4897,7 +4897,7 @@ nobody ever told you that before? It is very well
 known, not only to the Athenians, but to the people
 of Thrace and Scythia, where that vagabond came
 from.2
-TYCHIADES 
+TYCHIADES
 I know all that. They were orators, however, who
 cultivated speech-making, not virtue. What have
 you to say about the philosophers? Surely you are
@@ -4927,7 +4927,7 @@ in the retreat from Delium. (Plato, Laches 181 B). The
 allusion to the gymnasium of Taureas rests upon a hazy recollection of the opening of the Charmides, where Socrates
 says that he visited it on the morning after his return from
 Pole Furthermore, there were no Spartan troops at
-Delium. 
+Delium.
 289
 VOL, III. . U
 <pb n="291"/>
@@ -4966,7 +4966,7 @@ Nestor, Menelaus. Alsothe beginnings of philosophy (Philod.
 
 <pb n="293"/>
 
-TYCHIADES .
+TYCHIADES
 Of course I myself know all this, but I do not
 think that I yet see how the two men were parasites
 to Agamemnon.
@@ -4995,7 +4995,7 @@ dined with the king daily, as he himself says.
 Nestor, indeed, in my opinion was the most workmanlike and efficient parasite among the kings; he
 began the art, not in the time of Agamemnon, but
 away back in the time of Caeneus and Exadius,®
-1 Iliad 4, 262-263.  
+1 Iliad 4, 262-263.
 2 Iliad 7, 312.
 3 Two generations earlier ; Iliad 1, 250, 264.
 293
@@ -5097,7 +5097,7 @@ quaking in sheer anticipation of the horrors of war,
 the parasite eats with a very cheerful visage; and
 directly after marching out he begins to fight in the first line. The man who supports him is posted in
 the second line, behind the parasite, who covers
-1 Iliad 13, 246. 
+1 Iliad 13, 246.
 2 Iliad 13, 295.
 3 Thucydides 6, 54,2. 4 Ilad 19, 160-163.
 299
@@ -5125,12 +5125,12 @@ Parasitic excels philosophy as greatly as peace itself
 excels war.
 First, if you please, let us consider the strongholds
 of peace.
-TYCHIADES |
+TYCHIADES
 I do not understand what that means, but let us
 consider it all the same.
 SIMON
 Well, I should say that market-places, law-courts,
-_ athletic fields, gymnasia, hunting-parties and dinners
+athletic fields, gymnasia, hunting-parties and dinners
 were a city’s strongholds.
 301
 <pb n="303"/>
@@ -5231,7 +5231,7 @@ be denied him, we shall be studying some other sort
 of man instead of a parasite.
 TYCHIADES
 Then a parasite will never lack food ?
-SIMON .
+SIMON
 So it appears ; therefore he cannot be distressed,
 either by that or by anything else whatsoever.
 3°97
@@ -5292,7 +5292,7 @@ You have satisfactorily championed the cause of
 the parasite against the philosophers. Next try to
 explain whether he is a good and useful acquisition to
 his supporter ; for to me it seems that the rich play
-the part of benefactors and philanthropists in supporting them, and that this is dishonourable to the 
+the part of benefactors and philanthropists in supporting them, and that this is dishonourable to the
 man who receives support.
 SIMON
 How silly df you, Tychiades, not to be able to
@@ -5374,7 +5374,7 @@ To ride with someone else.
 SIMON
 To throw the javelin, or to throw it with someone
 else ?
-TYCHIADES |
+TYCHIADES
 To throw it with someone else.
 SIMON
 Then, in like manner, should you not choose to eat
@@ -5474,7 +5474,7 @@ in every way, yet delight in deceiving themselves
 and their associates. Those of olden time should be
 known to you before I mention them— Herodotus,
 and Ctesias of Cnidus, and before them the poets,
-. including Homer himself—men of renown, who made
+including Homer himself—men of renown, who made
 use of the written lie, so that they not only deceived
 those who listened to them then, but transmitted the
 falsehood from generation to generation even down
@@ -5753,7 +5753,7 @@ on the water and go through fire slowly on foot?’’
 flying, or stepping on the water?” “Certainly,”
 said he, “ with brogues on his feet such as people of
 that country commonly wear. As for the trivial
-. 339
+339
 <pb n="341"/>
 
 feats, what is the use of telling all that he performed,
@@ -6304,7 +6304,7 @@ verses for you. But on the voyage up, there
 chanced to be sailing with us a man from Memphis,
 one of the scribes ot the temple, wonderfully
 371
-BB 2
+
 <pb n="373"/>
 
 learned, familiar with all the culture of the
@@ -6551,7 +6551,7 @@ I say, you are betraying your trust in talking to
 her privately all this while.
 HERMES
 It was nothing alarming, Athena, or against you
-. and Hera; she asked me whether Paris is unmarried. ATHENA
+and Hera; she asked me whether Paris is unmarried. ATHENA
 Why was she inquisitive about that?
 HERMES
 I don’t know; she says, however, that she asked
@@ -6715,7 +6715,7 @@ her girdle, for she is an enchantress; otherwise
 she may bewitch you with it.2, And indeed she ought
 not to appear before you made up to that extent and
 bedaubed with all those colours, as if she were a
-. courtesan in earnest: she ought to show her beauty
+courtesan in earnest: she ought to show her beauty
 unadorned.
 PARIS
 They are right about the girdle, so lay it aside.
@@ -6746,7 +6746,7 @@ Latin ; cf. Lucretius 4, 1161.
 399
 <pb n="401"/>
 
-HERA 
+HERA
 Come, let us undress.
 PARIS
 O Zeus, god of miracles! What a spectacle! What
@@ -6755,10 +6755,10 @@ How royal and majestic and truly worthy of Zeus is
 the matron’s splendour! How sweet and delicious
 is the other’s gaze, and how seductively she smiled!
 But I have more than enough of bliss already ; and if
-‘you please, I should like to examine each of you
+you please, I should like to examine each of you
 separately, for at present I am all at sea and do not
 know what to look at; my eyes are ravished in every
-direction. |
+direction. 
 APHRODITE
 Let us do that.
 PARIS
@@ -6810,8 +6810,8 @@ you, I know very well that, abandoning everything
 and surrendering without conditions, she would
 follow you and make her home with you. No doubt
 you yourself have heard something of her.
-403
-ppb2
+
+
 <pb n="405"/>
 
 PARIS
@@ -7049,8 +7049,8 @@ As to those who make up the rest of the mob, such
 as athletic instructors and parasites, ignorant, pettyminded, naturally abject fellows, it is not worth while
 to try to turn them away from such household positions, for they would not heed, nor indeed is it proper
 to blame them for not leaving their paymasters,
-419
-EE 2
+
+
 <pb n="421"/>
 
 however much they may be insulted by them, for
@@ -7089,7 +7089,7 @@ again we hear :
 <l>καὶ γὰρ ἀνὴρ πενίῃ δεδμημένος οὔτε τι εἰπεῖν</l>
 <l>οὐθ᾽ ἕρξαι δύναται, γλῶσσα δέ οἱ δέδεται.</l></quote>
 <bibl>Theognis 173 ff.</bibl>
-</cit> 
+</cit>
 
 421
 <pb n="423"/>
@@ -7335,9 +7335,9 @@ household. Consider for yourself, as you hear a list
 of them, whether anyone could put up with them
 who is even to the slightest degree cultured. I shall
 begin, if you like, with the first dinner which will be
-lA proverbial expression for ‘“ taking it easy.”
-435
-FF 2
+1 A proverbial expression for ‘“ taking it easy.”
+
+
 <pb n="437"/>
 
 given you, no doubt, as a formal prelude to your
@@ -7610,7 +7610,7 @@ Ah, scurvy outcast (that would be my language,
 above all to a self-styled philosopher), if a wrecker
 or a pirate had taken you at sea and were offering
 you for sale, would you not pity yourself for being
-. ill-fated beyond your deserts; or if someone had
+ill-fated beyond your deserts; or if someone had
 laid hands upon you and were haling you off,
 saying that you were a slave, would you not invoke
 the law and make a great stir and be wrathful and
@@ -7632,7 +7632,7 @@ not ashamed to undergo comparison with flatterers
 and loafers and buffoons; to be the only person
 in all that Roman throng who wears the incongruous cloak of a scholar and talks Latin with a
 villainous accent; to take part, moreover, in uproarious dinners, packed with human flotsam that
-. is mostly vile? At these dinners you are vulgar
+is mostly vile? At these dinners you are vulgar
 in your compliments, and you drink more than is
 discreet. Then in the morning, roused by a bell,
 you shake off the sweetest of your sleep and run
@@ -7667,7 +7667,7 @@ as the proverb says, “What has a jackass to do
 with a lyre?’’ Ah, yes, can’t you see? they
 are mightily consumed .with longing for the
 wisdom of Homer or the eloquence of Demosthenes
-. or the sublimity of Plato, when, if their gold and
+or the sublimity of Plato, when, if their gold and
 ’ their silver and their worries about them should be
 taken out of their souls, all that remains is pride
 and softness and self-indulgence and sensuality and

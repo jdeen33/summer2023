@@ -5,20 +5,20 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="lat">Phalaris</title>
- <author>Lucian of Samosata</author>
+<author>Lucian of Samosata</author>
 <editor>Austin Morris Harmon, 1878-1950</editor>
- <funder>National Endowment for the Humanities</funder>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
- </respStmt>
- </titleStmt>
+<funder>National Endowment for the Humanities</funder>
+<principal>Gregory Crane</principal>
+<respStmt>
+<persName>Gregory Crane</persName>
+<resp>OCRd, tagged and added initial corrections to  the text</resp>
+</respStmt>
+</titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
 <idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
 <availability>
- <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 <date>2023</date>
 <publisher>Harvard College Library</publisher>
@@ -26,33 +26,33 @@
 </publicationStmt>
 <sourceDesc>
 <listBibl>
- <biblStruct>
- <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
-  <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1925</date>
-  </imprint>
-  <biblScope unit="volume">4</biblScope>
- </monogr>
-  <ref target="https://hdl.handle.net/2027/osu.32435024202129">The Hathi Trust</ref>
- </biblStruct>
+<biblStruct>
+<monogr>
+<title>Lucian</title>
+<editor>
+<persName>
+<name>Austin Morris Harmon</name>
+</persName>
+</editor>
+<author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+<imprint>
+<publisher>Harvard University Press</publisher>
+<pubPlace>Cambridge, MA</pubPlace>
+<date>1925</date>
+</imprint>
+<biblScope unit="volume">4</biblScope>
+</monogr>
+<ref target="https://hdl.handle.net/2027/osu.32435024202129">The Hathi Trust</ref>
+</biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+<p>Text encoded in accordance with the latest EpiDoc standards</p>
+<refsDecl n="CTS">
+<cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+<cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -1351,7 +1351,7 @@ MENIPPUS
 Friend, ’twas necessity drew me below to the
 kingdom of Hades,
 There to obtain, from the spirit of Theban
-. Teiresias, counsel.?
+Teiresias, counsel.
 FRIEND
 Man, you are surely out of your mind, or you
 would not recite verse in that way to your friends!
@@ -1613,7 +1613,7 @@ touched my lyre he was at once bewitched by the
 music. When we reached the lake, however, we
 came near not getting across, for the ferry was
 already crowded and full of groaning. Only
-1 Source of the verse unknown. 
+1 Source of the verse unknown.
 2 Iliad, 20, 61.
 <pb n="91"/>
 
@@ -2333,8 +2333,8 @@ certainly quoting this from Bion, it seems likely that Lucian
 drew from that source. But he had also read Herodotus, 2, 136.
 2 Compare Teles (Hense, p. 31, 1. 8): ‘‘ But it seems to me
 that this (closing the eyes of the dead) is just child’s play
-on our part.” 
-3 The “ Di Manes” ? 
+on our part.”
+3 The “ Di Manes” ?
 4 Iliad, 24, 602.
 5 Iliad, 19, 225; it is impossible, argues Odysseus, for the
 Greek army to fast (for Patroclus) and fight at the same
@@ -2424,7 +2424,7 @@ Certainly the object of your quest is not trivial,
 nor one that calls for little effort, but rather one
 for which it is worth while to work hard, to scant
 your sleep, and to put up with anything whatsoever.
-1 Like Pericles (Thuc. 2, 60). 
+1 Like Pericles (Thuc. 2, 60).
 135
 <pb n="137"/>
 
@@ -3548,7 +3548,7 @@ was not Coronis,? by Zeus, nor yet a crow, but a
 goose! And the whole population followed, all full
 of religious fervour and crazed with expectations.
 1 Cf. Odyssey, 12, 22: ‘‘Men of two deaths, when other
-men die but once.” 
+men die but once.”
 2 "Some say that the mother of Asclepius was not Arsinoe,
 daughter of Leucippus, but Coronis, daughter of Phlegyas”
 (Apollodorus, 3, 10, 3).
@@ -4804,7 +4804,7 @@ walls, on the bank of the Ilissos, opposite the Stadium.
 
 if I had neglected the most beautiful of the sculptures
 of Alcamenes.
-LYCINUS 
+LYCINUS
 One question, at all events, I shall not ask you,
 Polystratus—whether you have often gone up to the
 Acropolis to look at the Sosandra of Calamis ?1
@@ -5384,7 +5384,7 @@ colours but portrayed with inspirations from the
 Muses; and this will be found the most accurate
 kind of portrait, since it simultaneously discloses
 beauty of body and nobility of soul.
-1 Iliad 9, 389-90. 
+1 Iliad 9, 389-90.
 2 Iliad 1, 115.
 295
 <pb n="299"/>
@@ -5571,7 +5571,7 @@ scrutiny of the statues is more strict than the exam-
 ination of the athletes. So be on your guard for
 fear we incur the imputation of falsifying in the
 matter of height, and then the Hellanodicae over-
-turn our statue.” 
+turn our statue.”
 That is what she said; and now it is for you,
 Lycinus, to see how you can refurbish the book
 
@@ -6027,7 +6027,7 @@ with gods, but likens the long hair of Euphorbus to
 1 Respectively Zoilus the Homeromastix and Aristarchus of Alexandria, the grammarian.
 2 Iliad 2, 478-479.
 3 Notably Hector, Iliad 11, 295; 13, 802.
-4 Paris, Iliad 3, 16. 
+4 Paris, Iliad 3, 16.
 5 Achilles, Iliad 1, 131.
 6 Odyssey 17, 37 (19, 54), of Penelope.
 7 Odyssey 6, 102, of Nausicaa,
@@ -6180,11 +6180,11 @@ p 500) and still attaches to the ruins, on which see Hogarth,
 Annual of the British School at Athens, 1907-8, p. 186 sqq ;
 Cumont, Beudes Syriennes, p. 22 sqq., p. 35 sgq. Lucian does
 not identify the city with ‘‘ancient Ninus,” as do Philo-
-stratus and Ammianus. 
-2 Confusion between Assyrian and Syrian is not peculiar 
-to this piece nor to Lucian. It goes back to Herodotus, 
+stratus and Ammianus.
+2 Confusion between Assyrian and Syrian is not peculiar
+to this piece nor to Lucian. It goes back to Herodotus,
 who says that ‘‘Syrian” is the Greek equivalent of the
-barbarian ‘‘Assyrian” (7,63 ; see Macan’s note, and cf. 140). 
+barbarian ‘‘Assyrian” (7,63 ; see Macan’s note, and cf. 140).
 339
 <pb n="341"/>
 
@@ -6477,8 +6477,8 @@ likely to be due to Lucian or to his informant as to a scribe.
 
 lyven on erthe, two and two. And he resceyvede as
 hem alle, and thei diden him non harm, but betwene
-hem was great charitee fro the goddes, and in oon; 
-arke thei alle seyleden whyl the water prevayled. 
+hem was great charitee fro the goddes, and in oon;
+arke thei alle seyleden whyl the water prevayled.
 So seyn Grekes of Deucalioun.1
 But of that that sewede, men of the Holy Cytee sotiowed
 tellen a tale that is worthy of gret merveylle, how
