@@ -544,7 +544,7 @@ this fellow, ferryman, and see here—mind you make
 sure—
 <label>CHARON</label>
 No fear! he shall be lashed to the mast.
-: MEGAPENTHES
+<label>MEGAPENTHES</label>
 But I ought to sit on the quarter-deck !
 <label>CLOTHO</label>
 For what reason ?
@@ -1106,7 +1106,7 @@ house in Hell1</l></quote>
 
 and that sort of thing, of course we are to assume
 that he is talking nonsense ?
-; ZEUS
+<label>ZEUS</label>
 Certainly, for nothing can come to pass outside
 the control of the Fates, nor beyond the thread
 they spin. As for the poets, all that they sing
@@ -1445,7 +1445,7 @@ Zeus? Isn’t it permitted me to know this, either ?
 No, Cyniseus. You are a meddler, and I can’t
 conceive where you got together all this stuff that
 you bring me.
-, CYNISCUS
+<label>CYNISCUS</label>
 Then I am not to put my other question to you
 and to Providence and Destiny, why in the world is
 it that honest Phocion and Aristides before him died
@@ -2811,7 +2811,7 @@ But, you god-hater, how about the oracles and pre-
 
 dictions of coming events? whose work can you call
 them except that of the gods and their providence ?
-‘DAMIS.
+<label>DAMIS</label>
 Don’t say a word about the oracles, my worthy
 friend, or else I'l ask you which of them you want
 to cite. The one that Apollo gave the Lydian, which
