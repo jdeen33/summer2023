@@ -1,0 +1,2683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="lat">Dialogues of Courtesans</title>
+ <author>Lucian of Samosata</author>
+<editor role="translator">A. J. Pons, 1829-1884</editor>
+<editor role="translator">Unknown</editor>
+ <funder>National Endowment for the Humanities</funder>
+ <principal>Gregory Crane</principal>
+ <respStmt>
+  <persName>Gregory Crane</persName>
+  <resp>OCRd, tagged and added initial corrections to  the text</resp>
+ </respStmt>
+ </titleStmt>
+<publicationStmt>
+<authority>Perseus Digital Library</authority>
+<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<availability>
+ <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+<date>2023</date>
+<publisher>Harvard College Library</publisher>
+<pubPlace>United States</pubPlace>
+</publicationStmt>
+<sourceDesc>
+<listBibl>
+ <biblStruct>
+ <monogr>
+  <title>Lucian</title>
+  <editor>
+	<persName>
+	 <name>Austin Morris Harmon</name>
+	</persName>
+  </editor>
+  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+  <imprint>
+   <publisher>G. Barrie and Son</publisher>
+	<pubPlace>Philadelphia, PA</pubPlace>
+	<date>1902</date>
+  </imprint>
+ </monogr>
+  <ref target="https://catalog.hathitrust.org/Record/009797199">The Hathi Trust</ref>
+ </biblStruct>
+</listBibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+ <p>Text encoded in accordance with the latest EpiDoc standards</p>
+ <refsDecl n="CTS">
+  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+ </refsDecl>
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="eng">English</language>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change/>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div type="translation" n="tlg0062.tlg069">
+<div type="textpart" subtype="book" n="1">
+<head>I. GLYCERA AND THAIS</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+<pb n="3"/>
+
+
+
+
+GLYCERA.-Tell me, Thais, do you
+remember the Acarnanian soldier
+who used to keep Abrotonum, and
+
+
+<pb n="5"/>
+
+who was afterward my lover-the
+man in the gorgeous chlamys,-or
+have you forgotten him?</p>
+
+<p><label>THAIS</label> No, Glycera; I remember
+him well. He drank with us last
+year at the Cerealia. But why do
+you ask? You seem to have some-
+thing to say to me about him.</p>
+
+<p><label>GLYCERA</label> That hussy, Gorgona,
+has stolen him, whisked him away
+from me; and I thought she was my
+friend!</p>
+
+<p><label>THAIS</label> Ah! is he no longer with
+you? So he has taken up with Gor-
+gona, has he?</p>
+
+<p><label>GLYCERA</label> Alas! yes, Thais; and
+it makes me very unhappy.</p>
+
+<p><label>THAIS</label> That is a wretched trick,
+Glycera; but you should have
+
+
+<pb n="7"/>
+
+expected it. Such things are done
+among us courtesans. So don't be
+downcast, and don't blame Gorgona.
+Abrotonum bore you no grudge for
+the same trick, and you were good
+friends too. What surprises me is
+that the soldier can find anything
+beautiful in Gorgona. Unless he is
+blind, he can't help seeing that she
+is almost bald, with only a few stray
+hairs about her forehead; that her
+lips are withered, her mouth like a
+mummy's, her neck all skin and
+bone, her veins swollen, and her
+nose long and pointed. I can see
+nothing fine about her but her
+figure, which is not so very bad,
+and her smile, which is very win-
+ning.
+
+
+<pb n="9"/>
+
+GLYCERA.-Do you suppose, pray,
+that it's her beauty the Acarnanian
+is in love with? Don't you know that
+her mother is Chrysarium the witch,
+skilled in the charms of the Thes-
+salians, and able to bring the moon
+down to the earth? Why, they say
+she flies about at night. It is she
+who has made the man love-mad by
+giving him some philter to drink;
+and now they are reaping a harvest
+from him.</p>
+
+<p><label>THAIS</label> Oh! well, Glycera; do you
+reap a harvest from some one else,
+and let him go to the devil!
+
+
+<pb n="11"/>
+
+
+</p></div></div>
+<div type="textpart" subtype="book" n="2">
+<head>II. MYRTIUM, PAMPHILUS, AND DORIS</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+
+
+<label>MYRTIUM</label> So you are going to
+marry Phido the fisherman's daugh-
+ter, are you, Pamphilus; indeed,
+some say you have done so already.
+And so all your oaths and tears are
+Se
+II
+
+
+<pb n="13"/>
+
+gone in an instant, and you have
+forgotten your Myrtium; and that
+too, Pamphilus, when I am eight
+months gone with child! All that
+your love has been worth to me is a
+shapeless figure, and soon I shall
+have a child to nurse-a pretty task
+for a courtesan! Don't imagine that
+I will abandon it, especially if it's a
+boy. I will bring him up, and call
+him Pamphilus; he will console me
+for my wasted love. Some day, he
+will reproach you to your face
+for deserting his unhappy mother.
+However, your future spouse is no
+beauty. I saw her not long ago at
+the Thesmophoria, but little did I
+suspect then that she would be
+the cause of my seeing no more of
+
+
+<pb n="15"/>
+
+Pamphilus. Do at least, I beg you,
+look her over carefully before you
+marry her, so that you will not some
+day have to regret taking a wife
+with green eyes which look at each
+other. However, you must have
+seen Phido, the father of your lovely
+inamorata; that is enough, without
+looking at the daughter.</p>
+
+<p><label>PAMPHILUS</label> How long, O Myr-
+tium, do you propose to deafen me
+with your nonsense about a fine
+marriage and fishermen's daugh-
+ters? As if I knew whether the girl
+is pretty or snub-nosed! or whether
+Phido of Alopece-for I suppose you
+mean him-has a daughter old
+enough to be married! Besides, he
+isn't on friendly terms with my
+
+
+<pb n="17"/>
+
+father; they have had a lawsuit
+lately about something or other. He
+owed my father a talent, I believe,
+and wouldn't pay him; so my father
+haled him before the marine court.
+It came terribly hard to Phido to
+part with his money, and, indeed,
+he didn't pay the whole, so far
+as I know. If my heart were in
+such haste to marry, would I take
+Phido's daughter, when I refused
+Demeas's daughter, my cousin on
+my mother's side, whose father com-
+manded our army last year? Who
+told you this? did you invent this
+absurd cause of jealousy yourself,
+Myrtium?</p>
+
+<p><label>MYRTIUM</label> Then you are not
+going to marry, Pamphilus?
+
+
+<pb n="19"/>
+
+PAMPHILUS.-You are either mad
+or tipsy, Myrtium, and yet we did
+not drink to excess yesterday.</p>
+
+<p><label>MYRTIUM</label> It was Doris who
+caused all this unhappiness. I sent
+her yesterday to buy some woollen
+for my lying-in, and at the same
+time to offer prayers for me in the
+temple of Lucina. When she came
+back, she told me that she met
+Lesbia-but do you tell him, Doris,
+what she told you, unless you made
+up the story yourself.</p>
+
+<p><label>DORIS</label> May I die, mistress, if I
+lied to you.
+When I was near the
+prytaneum, I met Lesbia, who said
+to me with a laugh: "Oho! so
+Pamphilus, your lover, is going to
+marry Phido's daughter. If you
+
+
+<pb n="21"/>
+
+don't believe it," she added, “you
+have only to stoop and look through
+the cracks of the door; you can
+see the garlands with which the
+house is hung; you can hear the
+musicians, the noisy preparations,
+and the wedding songs."</p>
+
+<p><label>PAMPHILUS</label> Well, did you stoop,
+Doris ?</p>
+
+<p><label>DORIS</label> Why, yes, and I saw
+what she told me.</p>
+
+<p><label>PAMPHILUS</label> Ah! now I under-
+stand your mistake.
+Lesbia didn't
+tell you a downright
+lie; what you
+told Myrtium is true.
+But you were
+wrong to be alarmed; I'm not the
+one who's to be married. I remem-
+ber that my mother said to me last
+night when I went home from you:
+
+
+<pb n="23"/>
+
+
+"Pamphilus, you know Charmides,
+the son of our neighbor Aristaenetus;
+he is about your age, and here he is
+going to marry and reform. When
+do you propose to cease to live with
+a harlot ?"-I paid no heed, and went
+to bed. This morning I came here
+at daybreak, so that is why I saw
+nothing of the preparation of which
+Doris speaks. If you still doubt,
+go back, Doris, look carefully, not
+inside the house, but at the door
+itself; you will see that it is our
+neighbor's door which is hung with
+flowers.</p>
+
+<p><label>MYRTIUM</label> Ah! Pamphilus, you
+restore my life. I should have
+hanged myself if you had played
+me that trick.
+
+
+<pb n="25"/>
+
+PAMPHILUS.-But I never dreamed
+of such a thing. Could I be so mad
+as to forget my dear Myrtium, espe-
+cially when she bears in her womb
+the fruit of our love?
+
+
+
+<pb n="27"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="3">
+<head>III. PHILINNA AND HER MOTHER</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+
+
+
+<label>THE MOTHER</label> Are you mad,
+Philinna? What was the matter
+with you yesterday at supper? This
+morning, Diphilus came to me, with
+tears in his eyes, and told me how
+you had tormented him. You drank
+
+
+<pb n="29"/>
+
+too much; you got up and danced, in
+spite of his remonstrances, and you
+kissed his friend Lamprias. Then
+you left Diphilus, who was in a
+frenzy, and went and sat beside
+Lamprias and put your arms around
+his neck. Last night, you refused
+to sleep with him; despite his tears,
+you preferred to lie in bed all alone,
+and began to sing just to tease him.</p>
+
+<p><label>PHILINNA</label> He cannot have told
+you, mother, what he did himself;
+if he had, you would not stand up
+for him, when it is he who has in-
+sulted me. He went and flirted with
+Thais, Lamprias's friend, before
+Lamprias arrived. He saw plainly
+enough from my actions that that
+behavior annoyed me; whereupon,
+
+
+<pb n="31"/>
+
+
+he took Thais by the ear, threw her
+head back, and kissed her as if he
+would suck her lips away. I wept;
+but he began to laugh, and whispered
+a thousand things about me to Thais,
+which made her laugh. Lamprias
+arrived at last, when they had had
+their fill of kisses. I went, all the
+same, and sat on Diphilus's couch
+at the table, so that he might have
+no excuse for blaming me. Thais
+was the first to rise and dance,
+ostentatiously showing her leg as if
+nobody else had a fine one. When
+she had finished, Lamprias said not
+a word; but Diphilus began to extol
+Thais, her grace, her lightness of
+foot, her movements and her steps,
+always in rhythm with the cithara,
+
+
+<pb n="33"/>
+
+and her lovely leg, and so forth and
+so on, as if he were singing the
+praises of Sosandra of Calamis, in-
+stead of Thais, whom you have seen
+at the bath, mother, and you know
+what a figure she has! But she
+herself began to flout me. "If,"
+she said, "a certain person isn't
+afraid to show her scrawny legs,
+why doesn't she get up and dance?"
+I at once stood up and danced. What
+else could I do? Should I have put
+up with her insults, and have acted
+as if they were deserved? Should I
+have acknowledged her the queen of
+the banquet?</p>
+
+<p><label>THE MOTHER</label> You are too
+proud, my child; you should not
+notice such trifles. What next?
+
+
+<pb n="35"/>
+
+PHILINNA. Every one present
+overwhelmed me with applause;
+Diphilus alone lay flat on his back,
+counting the beams in the ceiling,
+while I danced; and he didn't change
+his position until fatigue compelled
+me to stop.</p>
+
+<p><label>THE MOTHER</label> But did you kiss
+Lamprias? did you leave your seat
+to go and embrace him? You do not
+answer. That was inexcusable.</p>
+
+<p><label>PHILINNA</label> I wanted to pay him
+in his own coin.</p>
+
+<p><label>THE MOTHER</label> Was that a rea-
+son for refusing to lie with him?
+You sang all night, while he wept.
+Don't you know how poor we are,
+child? Have you forgotten what
+we have had from him? What a
+
+
+<pb n="37"/>
+
+winter we should have passed, had
+not Venus sent us this good cus-
+tomer!</p>
+
+<p><label>PHILINNA</label> Must I endure his in-
+sults, pray?</p>
+
+<p><label>THE MOTHER</label> Lose your temper,
+but don't treat him with contempt.
+Don't you know that love, if one
+spurns it, soon fades away and kills
+itself? You do wrong to be harsh to
+your lover. You know the proverb:
+"Beware and not break the cord by
+pulling too hard upon it."
+
+
+<pb n="39"/>
+
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="4">
+<head>IV. MELISSA AND BACCHIS</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+<label>MELISSA</label> If you happen to know,
+Bacchis, any old woman who, like
+the hags of Thessaly, possesses the
+art of making people lovable by her
+enchantments, even though she hap-
+pen to be a thoroughly detestable
+
+
+<pb n="41"/>
+
+person, you would do me a very great
+favor by bringing her to me. I would
+gladly give her all my dresses and
+my jewels, if her art would bring
+Charinus back to me, and make him
+abhor Simicha instead of me.</p>
+
+<p><label>BACCHIS</label> What! Charinus is
+no longer with you, Melissa? He
+is keeping Simicha? So it was for
+love of her that he defied the wrath
+of his parents, and refused to marry
+a rich heiress with a dowry of
+five talents? For that is what you
+told me.</p>
+
+<p><label>MELISSA</label> Yes, Bacchis, all is lost
+for me. For five whole days I have
+not seen him. He is carousing now
+with Simicha, at the house of his
+boon-companion Pammenes.
+
+
+<pb n="43"/>
+
+BACCHIS.-I am sorry for you,
+Melissa. But what can have made
+this trouble between you? He must
+have had some reason for throwing
+you over.</p>
+
+<p><label>MELISSA</label> I have no idea. Yes-
+terday, on returning from Piraeus,
+whither his father had sent him, I
+believe, to collect some money that
+was owing them, he came into the
+house without even looking at me;
+and when I ran forward to embrace
+him as usual, "Leave me," he said,
+pushing me away; "go to your
+sailor Hermotimus, go and read
+your name and his carved on the
+walls of the Ceramicus, on a pil-
+lar where every one can see them."
+"What Hermotimus?" I asked;
+
+
+<pb n="45"/>
+
+"what pillar?"-But he made no
+reply, refused to eat and drink, and
+went to bed with his face to the wall.
+What means did I not try to pacify
+him! What an outlay of unavailing
+caresses! I put my arms about him
+gently, I kissed his back, the in-
+grate! cold as marble, hard as
+stone." Leave me," he said; "if
+you continue to annoy me, I will go
+elsewhere to sleep, although it is
+past midnight."</p>
+
+<p><label>BACCHIS</label> Do you know this
+Hermotimus?</p>
+
+<p><label>MELISSA</label> May I be more woe-
+begone than I am now, if I know
+the man! However, Charinus woke
+at cock-crow and went away at
+daybreak. As I was determined to
+
+
+
+<pb n="47"/>
+
+find out whether, as he had alleged,
+my name was carved on the walls
+of the Ceramicus, I sent Acis there
+to see. She found only these words,
+written at the right of the gate:
+Melissa loves Hermotimus, and, be-
+low: The sailor Hermotimus loves
+Melissa.</p>
+
+<p><label>BACCHIS</label> A wretched jest of
+some mischievous youth! I see
+what it means. Some one put that
+inscription there to tease Charinus,
+knowing that he is jealous, and he
+swallowed it at once. I will speak
+to him the first time I see him. He's
+an inexperienced youth.</p>
+
+<p><label>MELISSA</label> Where can you see
+him? He is shut up with Simicha
+all day. His parents have sent here
+
+
+<pb n="49"/>
+
+to inquire for him, to no purpose.
+O Bacchis, if I could find the old
+woman I have described to you, it
+would save my life.</p>
+
+<p><label>BACCHIS</label> There is an old girl, a
+Syrian by birth, and a very clever
+magician, who once reconciled me
+with Phanias when he broke with
+me for a mere nothing, like your
+Charinus. She brought my faithless
+lover back to me by her enchant-
+ments, after he had been away four
+months, and just as I was beginning
+to lose hope.</p>
+
+<p><label>MELISSA</label> How much does she
+want, do you remember?</p>
+
+<p><label>BACCHIS</label> She doesn't require
+very much. I got out of it for a
+loaf and a drachma.
+You must also
+
+
+<pb n="51"/>
+
+take her some salt, seven obols, sul-
+phur, and a torch. The old woman
+takes them, then pours wine into a
+jar, and drinks it all by herself. She
+must also have something that be-
+longed to the man, a coat, a shoe,
+or a lock of hair.</p>
+
+<p><label>MELISSA</label> Good! I have his san-
+dals.</p>
+
+<p><label>BACCHIS</label> She will hang them
+on a peg, burn sulphur underneath,
+sprinkle salt on the chafing-dish,
+muttering your name and your
+lover's; then, taking a wheel from
+her bosom, she will whirl it about
+and rapidly mumble her spell, made
+up of a lot of outlandish words that
+I make you shudder. That is what
+she did in my case.
+Soon after,
+
+
+<pb n="53"/>
+
+ત્યાર
+Phanias, despite his companions, and
+despite the entreaties of Phobis,
+with whom he was living, yielded
+to the power of the spell and came
+back to me. In addition, the old
+woman taught me the secret of
+making him hate Phobis bitterly; it
+consisted in following her footprints
+and rubbing them out by putting
+my right foot where she had put her
+left, and my left where she had put
+her right, saying: "I am walking on
+you, I am on your heels." I did just
+as she told me.</p>
+
+<p><label>MELISSA</label> Hasten, hasten, O Bac-
+chis, and bring this Syrian to me.
+And do you, Acis, prepare sulphur,
+a loaf, and all that she needs to cast
+her spell.
+
+
+<pb n="55"/>
+
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="5">
+<head>V. CLONARIUM AND LEANA</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+<label>CLONARIUM</label>
+
+ hear strange sto-
+ries about you, Leana: that Me-
+gilla, the wealthy Lesbian dame,
+treats you as a man would do; and
+that you lie in bed, doing I don't
+ge
+
+
+<pb n="57"/>
+
+know what. Ah! you blush? Tell
+me if it is true?</p>
+
+<p><label>LEANA</label> There is some truth in
+it, and I am ashamed of it. It is
+shocking.</p>
+
+<p><label>CLONARIUM</label> - By Ceres, what
+does it mean? What does the
+woman want of you? What do you
+do when you are together? If you
+love me, you will tell me.</p>
+
+<p><label>LEAENA</label> I love you more than
+any one; but that woman is strangely
+like a man.</p>
+
+<p><label>CLONARIUM</label> If I understand
+you, she is one of those women, of
+whom there are so many in Lesbos,
+who do not like men, but enjoy the
+society of women, as if they were
+men themselves.
+
+
+<pb n="59"/>
+
+LEANA. That's about it.</p>
+
+<p><label>CLONARIUM</label> Tell me all, Le-
+aena; how she approached you,
+how she seduced you, and all the
+rest.</p>
+
+<p><label>LEAENA</label> As she and Demonassa
+of Corinth, who has the same tastes,
+were on a carouse together, they
+sent for me to entertain them with
+my cithara. When I finished sing-
+ing, it was late, and time to retire to
+bed; they were warm with wine, and
+detained me.-"Come, Leana," said
+Megilla; "it is time to sleep; you
+shall lie between us."</p>
+
+<p><label>CLONARIUM</label> And then? went
+you to bed with them?</p>
+
+<p><label>LEAENA</label> At first, they kissed me
+like men; not simply putting their
+
+
+<pb n="61"/>
+
+lips to mine, but kissing me open-
+mouthed. Then they embraced me
+and pressed my bosom; Demonassa
+became so excited that she even bit
+me, between her kisses. I did not
+know what they purposed doing. At
+last, Megilla, waxing warmer, took
+off her wig, which was wonderfully
+well made and fitted her snugly,
+and appeared with her head bare and
+shaven like an athlete's, which
+alarmed me.-"
+"Leaena," she said,
+"did you ever see such a fine young
+man?"-"I see none, Megilla," I re-
+plied. "Don't insult me by calling
+me that; I am Megillus, and there is
+my wife"-pointing to Demonassa.
+At that, Clonarium, I began to laugh.
+-"What, O Megillus," I said, "you
+
+
+<pb n="63"/>
+
+were a man all the time, without
+knowing it, like Achilles hidden
+among the maidens in his purple
+vestments? In that case, do you play
+the husband with Demonassa ?”-
+"No," she said; "for I do not need
+to. If you choose, you shall see
+that my ways are much better."-
+'Then," said I, "you must be a
+hermaphrodite, partaking of a dual
+nature;"-for, Clonarium, I did not,
+up to that time, comprehend the
+matter. "No," she replied; "I
+am entirely a man."-"I have
+heard that the famous soothsayer
+of Thebes, Tiresias, I think, whose
+story Ismenodora, the Boeotian flute-
+player, once told me, was changed
+from a woman to a man. Has
+
+
+<pb n="65"/>
+
+
+
+anything of that sort happened to
+you?" "No," she said; "I am like
+other women, Leana; but I have
+all the passions and desires of a
+man."-"Do you mean that the
+desire is enough for you?"-" Let
+me show you, Leaena, if you don't
+credit it, and you will see that I am
+not inferior to a man; that I possess
+equal attractions to his. But try,
+and be convinced."—I yielded, Clo-
+narium, to her urgent entreaties; for
+she had given me a beautiful neck-
+lace and a linen gown of the finest
+fabric. She embraced me, just as
+if she had been a man, and kissed
+me, and the fulfilment of her desire
+made her pant; I saw that she vastly
+enjoyed herself.
+
+
+<pb n="67"/>
+
+CLONARIUM.-But what did she
+do? How did she go about it? That
+is what you must tell me.</p>
+
+<p><label>LEAENA</label> No, you are too inquisi-
+tive; that is quite enough. No, by
+Venus, I will tell you nothing more.
+
+
+<pb n="69"/>
+
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="6">
+<head>VI. CROBYLE AND CORINNA</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+
+
+
+<label>CROBYLE</label> Well, Corinna, you
+see now that it is not such a terrible
+thing to cease to be a virgin, and to
+live with a handsome youth who
+gives you a mina at the outset, with
+
+
+<pb n="71"/>
+
+which I propose to buy you a neck-
+lace.</p>
+
+<p><label>CORINNA</label> Yes, mamma; and get
+one with beautiful flame-colored
+stones, like Philaenis's.</p>
+
+<p><label>CROBYLE</label> It shall be just like
+hers. But that isn't all; listen, my
+child, while I tell you what you have
+to do, and how you must act with
+the men. You know that we have
+nothing else to live on. For two
+years past, since your father went
+to a better world, you have seen
+how hard it has been for us to live.
+While he was alive, we wanted
+nothing; he was the best smith in
+Piraeus; everybody agrees that such
+another smith as Philinus will never
+be seen.</p>
+<p>After his death, I was
+
+
+<pb n="73"/>
+
+obliged to sell his tongs, hammers,
+and anvil, the whole for two minae,
+on which we lived for a little while.
+Then, by weaving and spinning I
+was barely able to earn our bread.
+I have supported you until now, my
+girl, with but one hope.</p>
+
+<p><label>CORINNA</label> You mean the mina I
+have earned?</p>
+
+<p><label>CROBYLE</label> - No;
+but I have
+thought that you are old enough
+now to support me in your turn, to
+obtain fine dresses for yourself,
+splendid jewels, and servants.</p>
+
+<p><label>CORINNA</label> How so, mother? what
+do you mean?</p>
+
+<p><label>CROBYLE</label> By leading a merry
+life with the young men, and lying
+with them, for money.
+
+
+<pb n="75"/>
+
+CORINNA.-Like Lyra, Daphnis's
+daughter?</p>
+
+<p><label>CROBYLE</label> Yes.</p>
+
+<p><label>CORINNA</label> But she's a strumpet!</p>
+
+<p><label>CROBYLE</label> What harm is there
+in that? You will be as rich as she,
+with many lovers. Why are you
+crying, Corinna? Don't you see
+how many such women there are,
+how they are run after, how much
+money they earn! I knew Daphnis
+before her daughter grew up, O
+blessed Adrastia! and how ragged
+she was! Just see how she dresses
+now! Gold, embroidered dresses,
+four servants!</p>
+
+<p><label>CORINNA</label> How did she get it
+all?
+
+
+<pb n="77"/>
+
+CROBYLE.-In the first place, by
+her refined dress, by her graceful
+bearing, by being affable to every-
+body. She doesn't laugh every
+minute as you do, but smiles in
+a gracious, captivating way; she
+treats all the men courteously, and
+neither deceives those who come
+to see her or who send for her,
+nor herself lays hold of them. If
+she is invited to a banquet with
+some gift, instead of getting tipsy,
+which makes a woman ridiculous,
+and which men detest; instead of
+eating greedily like an ill-bred miss,
+she lifts her food daintily with the
+tips of her fingers, eats each mouth-
+ful noiselessly and without filling
+her mouth, and drinks quietly, not
+
+
+<pb n="79"/>
+
+emptying her glass at a single gulp,
+but sipping it slowly.</p>
+
+<p><label>CORINNA</label> But when she's very thirsty?</p>
+
+<p><label>CROBYLE</label> All the more when
+she's thirsty, my child. She talks
+no more than is becoming, doesn't
+laugh at the guests, has no eyes
+except for the man who has paid
+for her. So that everybody likes
+her. When it is time to go to bed,
+she shows neither too great haste,
+nor indifference; she thinks only
+of pleasing her lover and making
+herself attractive to him. That is
+what the men particularly like in
+her. If you copy her ways, we shall
+be as fortunate as she; for you
+are better looking. But, O blessed
+
+
+<pb n="81"/>
+
+Adrastia! I say only this: may you
+live alone!</p>
+
+<p><label>CORINNA</label> Tell me, mother, are
+all lovers like Eucritus, who was
+with me yesterday?</p>
+
+<p><label>CROBYLE</label> There are some hand-
+somer; others are more stoutly
+built; there are some, too, who are
+less handsome.</p>
+
+<p><label>CORINNA</label> And must I lie with all
+such?</p>
+
+<p><label>CROBYLE</label> Why, yes, my child.
+They are the ones who pay best;
+the handsome ones pay with their
+good looks only. Think before all
+else of procuring open-handed lovers,
+if you want to hear people say in a
+little while: "Look at Corinna, Cro-
+byle's daughter; how rich she is,
+
+
+<pb n="83"/>
+
+and how lucky her mother is!"-
+What do you say? Will you do
+what I tell you?
+Yes, you will do it,
+I am sure; and
+you will soon out-
+shine them all. Now, go and take
+your bath. Eucritus may come again
+to-day; he promised me that he
+would.
+
+
+<pb n="85"/>
+
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="7">
+<head>VII. MUSARIUM AND HER MOTHER</head>
+<div type="textpart" subtype="section" n="1">
+<p>
+
+
+<label>THE MOTHER</label> If we happen upon
+another lover like Chaereas, O Mu-
+sarium, we must sacrifice a white
+goat to Venus Pandemos, a heifer to
+Venus Urania and to the goddess of
+the gardens, and offer a crown to the
+
+
+<pb n="87"/>
+
+goddess of wealth; for we shall be
+truly fortunate, oh! thrice fortunate.
+See all that the young man has
+given us! you have not had from
+him as yet a single obol, nor a dress,
+nor a pair of sandals, nor a jar of
+perfume! Only promises and hopes,
+with a long time to run! Every
+day, it's the same old story: "If my
+father-When I come into my prop-
+erty, everything shall be yours."—
+And you say he has sworn to marry
+you?</p>
+
+<p><label>MUSARIUM</label> Yes, mother; he has
+sworn it by the two goddesses and
+by the protectress of the city.</p>
+
+<p><label>THE MOTHER</label> And you, like a
+fool, believe him? Perhaps that is
+why, as he had nothing to pay his
+
+
+<pb n="89"/>
+
+scot with, you gave him your ring
+the other day, without telling me;
+he went and sold it, and spent the
+money for drink. And you gave
+him the two Ionian necklaces too,
+each of them weighing two darics,
+which Praxias of Chios, the sea-captain, brought you from Ephesus,
+where he had them made for you.
+Of course, Chaereas must have the
+wherewithal to pay his scot, in his
+carousings with his friends. I say
+nothing of your tunics which you
+gave him. On my word, the fellow
+is a perfect treasure, sent to us by
+Mercury!</p>
+
+<p><label>MUSARIUM</label> But he is handsome,
+mother; he has no beard. He tells
+me he adores me, and his tears are
+re
+
+
+<pb n="91"/>
+
+so affecting! Besides, he is the son
+of Deinomache and Laches, the Are-
+opagite, and he promises to marry
+me; we have everything to hope
+from him, as soon as his old father
+dies.</p>
+
+<p><label>THE MOTHER</label> And so, when we
+need shoes, and the shoemaker wants
+two drachmae for them, we'll say to
+him: "There's no money, but what
+do you say to a few hopes?" and
+we must say the same to the baker.
+When we are asked for our rent, it
+will be: "Wait till Laches of Colyt-
+tus is dead; we'll pay you after the
+wedding."-Aren't you ashamed to
+be the only one among your compan-
+ions without ear-rings or necklaces,
+or Tarentine dresses?
+
+
+<pb n="93"/>
+
+MUSARIUM.-But are they any
+happier or prettier than I am, mother?</p>
+
+<p><label>THE MOTHER</label> No, but they are
+more cunning; they know their trade,
+and don't trust fine words and young
+popinjays who always have promises
+on their lips. You pride yourself on
+your fidelity, you love Chaereas as
+if he were your husband, and you
+don't receive anybody else. Why,
+only the other day, when that farmer
+from Acarnania came and offered
+you two minae, the price of the wine
+which his father had sent him to
+sell, you refused him with a con-
+temptuous air. And yet he, too, is
+young and beardless; but you had
+promised the night to your Adonis
+Chaereas.
+
+
+<pb n="95"/>
+
+MUSARIUM.-What! ought I to
+have left Chaereas in the lurch,
+to receive a clown who stinks like a
+goat? Chaereas has a soft skin at
+all events, while that pig of an
+Acarnanian-
+THE MOTHER.-I admit that he's
+a clodhopper and doesn't smell sweet.
+But why didn't you take up with
+Antiphon the son of Menecrates,
+who offered you a mina? He is
+handsome, gallant, and about Chae-
+reas's age.</p>
+
+<p><label>MUSARIUM</label> Chaereas threatened
+to kill us both if he found us to-
+gether.</p>
+
+<p><label>THE MOTHER</label> Many other men
+have made the same threat. If you
+mind such things, you'll have no
+
+
+<pb n="97"/>
+
+lovers. Instead of leading the life
+of a courtesan, you will live chastely
+like a priestess of Ceres. By the
+way, to-day is her festival; what
+has he given you for your pleasure?
+MUSARIUM.He has nothing,
+mamma.</p>
+
+<p><label>THE MOTHER</label> Then he's the
+only young fellow who can't get
+something out of his father. Can't
+he send some rascally servant to
+him, or apply to his mother for
+money, threatening to set sail for the
+army if she refuses? No; he prefers
+to stay here in our house, ruin-
+ing us, giving us nothing himself,
+and preventing others from giving.
+Do you suppose, pray, Musarium,
+that you will always be eighteen
+
+
+<pb n="99"/>
+
+years old, that Chaereas will still be
+as mad after you when he's rolling in
+gold and his mother has found a rich
+wife for him? As if the sight of a
+dowry of five talents wouldn't make
+him forget everything,-his oaths,
+his tears, and your kisses!</p>
+
+<p><label>MUSARIUM</label> He forgets nothing.
+To prove it, I have his refusal to
+marry thus far. In spite of per-
+sistent urging and constraint, he
+has never consented.</p>
+
+<p><label>THE MOTHER</label> Heaven grant
+that he doesn't deceive you! But
+if he does, I will remind you of what
+I have just said, O Musarium.
+
+
+<pb n="101"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="8">
+<head>VIII. AMPELIS AND CHRYSIS</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>AMPELIS</label> If a man is not jeal-
+ous, Chrysis, if he doesn't fly into
+a rage, strike you, tear your hair or
+your dress, why, then he is not in
+love.
+ΙΟΙ
+V
+Se
+we love the
+
+
+<pb n="103"/>
+
+CHRYSIS.-Do you mean that
+those are the only proofs of affec-
+tion?</p>
+
+<p><label>AMPELIS</label> Yes, there are no surer
+signs of a heart truly in love. All the
+rest-kisses, tears, oaths, frequent
+visits-simply indicate a dawning
+love which aspires to grow. But
+real ardor manifests itself in jeal-
+ousy. So that, if Gorgias has struck
+you, as you say, if he is violently
+jealous, be of good cheer, and pray
+that he may always do the same.</p>
+
+<p><label>CHRYSIS</label> Always the same!
+What do you say? Pray that he
+may always beat me?</p>
+
+<p><label>AMPELIS</label> No, not just that. But
+that he may always be angry when
+you look at another man. If he
+
+
+<pb n="105"/>
+
+were not in love with you, it wouldn't
+anger him to know that you had
+another lover.</p>
+
+<p><label>CHRYSIS</label> But I haven't. He has
+no reason to suspect me of loving
+that young Croesus whom I hap-
+pened heedlessly to mention in his
+presence the other day.</p>
+
+<p><label>AMPELIS</label> It's a good thing for
+you that he suspects you of being
+sought after by the rich. Your
+lover will be the more uneasy; he
+will consider his honor involved,
+and will be afraid of being outdone
+by his rivals.</p>
+
+<p><label>CHRYSIS</label> Yes, but meanwhile
+he does nothing but fly into a rage
+and beat me; that's all I get from
+him.
+
+
+<pb n="107"/>
+
+AMPELIS.-He will give you some-
+thing else later. Jealous lovers
+become generous at last.</p>
+
+<p><label>CHRYSIS</label> But I don't see, Ampe-
+lis, why you want me to be beaten.</p>
+
+<p><label>AMPELIS</label> I do not. I simply tell
+you that they fall deeper in love
+when they believe that they are
+scorned. On the other hand, when
+a lover believes that he alone is
+loved, his ardor fades away. I am
+speaking from twenty years' expe-
+rience, and you are barely eighteen
+yet. Shall I tell you what happened
+to me some time ago? I had for my
+lover Demophantus the usurer, who
+lives behind the Pocile. He had
+never given me more than five
+drachmae, but he tried to domineer
+
+
+<pb n="109"/>
+
+over me. His love was only skin-
+deep; he didn't sigh, or weep, or
+stand guard over my door at night.
+He just passed the night with me
+now and again. One day he ap-
+peared, and I shut the door in his
+face. I had the painter Callides with
+me, who had sent me ten drachmae.
+At first, my old usurer went away,
+after calling me all manner of names.
+Two or three days later, as I had
+not sent for him, and Callides was
+still with me, he began to feel the
+fire of love, and came to my house
+in a ferment. The door was open;
+he rushed in, wept, beat me, threat-
+ened to kill me, to tear my dress off
+my back, acted like a madman, and
+ended by giving me a talent, which
+
+
+<pb n="111"/>
+
+assured my fidelity for eight months.
+His wife told everybody I had be-
+witched him; but jealousy did it all.
+Try it with your Gorgias, Chrysis.
+He will be a rich man when' his
+father dies.
+
+
+<pb n="113"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="9">
+<head>IX. DORCAS, PANNYCHIS, PHILOSTRATUS, AND POLEMO</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>DORCAS</label> We are undone, mis-
+tress, we are undone! Polemo has
+come back from the army, so they
+say, rolling in gold. I saw him go
+by, wearing a purple cloak fastened
+S
+Se
+
+
+<pb n="115"/>
+
+by a gold clasp, and followed by
+a crowd of servants. As soon as
+his friends saw him, they hastened
+to salute him; just then, I saw be-
+hind him the fellow he had before
+he went away. I went up to him,
+and began: "Well, Parmeno, what
+luck have you had? what fine
+things have you brought back from
+the war?"</p>
+
+<p><label>PANNYCHIS</label> You shouldn't have
+thrown that question at him so soon;
+you should have said: "Thank the
+gods, you are at home again, safe
+and well; thanks to Zeus, the god of
+hospitality, and to Athene, goddess
+of war! My mistress speaks of you
+every day, asking me where you are,
+what you are doing."-And it would
+
+
+<pb n="117"/>
+
+have been even better if you had
+added: "She does nothing but weep,
+thinking of Polemo."</p>
+
+<p><label>DORCAS</label> That is how I did be-
+gin. I didn't want to say it all over
+again to you; I was so impatient to
+tell you what I found out. When
+I first accosted Parmeno, I said to
+him: "Your ears must often have
+burned, for my mistress has done
+nothing but talk about you, and has
+wept from morning till night, espe-
+cially when she heard of a battle in
+which many were said to have been
+killed; then she would tear her hair,
+beat her breast, and burst into tears
+at every report."</p>
+
+<p><label>PANNYCHIS</label> Excellent, Dorcas;
+that was the way to talk.
+
+
+<pb n="119"/>
+
+DORCAS.-Then I asked him what
+I told you first.-"We have come
+back rich," he said.</p>
+
+<p><label>PANNYCHIS</label> What!
+Didn't he
+say first that Polemo hadn't forgotten
+me, and hoped to find me still alive?</p>
+
+<p><label>DORCAS</label> He did say something
+like that; but the greater part of
+his talk was of vast wealth, gold,
+fine clothes, slaves, and ivory; as
+for their silver, they don't pretend
+to count it; they have bushels of it.
+Parmeno himself had an enormous
+ring on his finger, many-sided, with
+a stone of three colors. He began
+to tell me how they crossed the
+Halys and defeated Tiridates, and
+how gallantly Polemo fought against
+the Pisidians; but I left him, and
+
+
+<pb n="121"/>
+
+hurried home to tell you the news,
+so that you might decide what was
+to be done. For if Polemo comes,-
+and he is sure to come as soon as
+he gets rid of his friends,-when he
+sees what he has come back to, and
+finds Philostratus here, what will
+happen?</p>
+
+<p><label>PANNYCHIS</label> Dorcas, we must
+try to get out of the scrape. It
+wouldn't be fair to turn Philostratus
+out of doors, when he has just given
+me a talent. Besides, he is a rich
+tradesman, and has promised won-
+ders. On the other hand, it wouldn't
+be well to refuse to receive Polemo,
+who has come back so prosperous.
+And you know how jealous he is.
+His temper was unendurable even
+
+
+<pb n="123"/>
+
+ཐ་བ་
+when he had nothing; what will it
+be now that he's rich?</p>
+
+<p><label>DORCAS</label> Here he comes!</p>
+
+<p><label>PANNYCHIS</label> O Dorcas, I shall
+faint. What shall I do? I am trem-
+bling with fright.</p>
+
+<p><label>DORCAS</label> And here's Philostra-
+tus, too!</p>
+
+<p><label>PANNYCHIS</label> What will become
+of me? Oh! if only the earth would
+open!</p>
+
+<p><label>PHILOSTRATUS</label> Well, Panny-
+chis, when do we sup?</p>
+
+<p><label>PANNYCHIS</label> Oh! you wretch,
+you have ruined me.-Good-morn-
+ing, Polemo! it's a long while since
+we have seen you.</p>
+
+<p><label>POLEMO</label> Who is this fellow?
+You don't answer? This is the end,
+
+
+<pb n="125"/>
+
+Pannychis! To think that I have
+made the journey hither from Pylae
+in five days for such a woman!
+Why, I almost flew. Thanks; you'll
+get nothing from me henceforth.</p>
+
+<p><label>PHILOSTRATUS</label> Who may you
+be, my good man?</p>
+
+<p><label>POLEMO</label> Do you happen to
+know Polemo of Styria, of the tribe
+of Pandion, formerly commander of
+a thousand men, now of five thou-
+sand, and Pannychis's lover before
+she went mad?</p>
+
+<p><label>PHILOSTRATUS</label> But Pannychis
+is mine now, O captain. I have
+given her a talent, and I will double
+the amount as soon as I have sold
+my wares. Come, Pannychis, and
+let this fellow go to the Odrysians,
+
+
+<pb n="127"/>
+
+or wherever else he chooses, to fight
+battles.
+DORCAS (to Philostratus).—She
+is free; I suppose she can go with
+whom she likes.</p>
+
+<p><label>PANNYCHIS</label> What shall I do,
+Dorcas?</p>
+
+<p><label>DORCAS</label> Go inside; that is the
+better way. Polemo is in too great
+a rage to run the risk of staying
+with him. His jealousy might carry
+him to any length.
+PANNYCHIS (to Philostratus).—
+Come in, if you choose.</p>
+
+<p><label>POLEMO</label> 'Tis well. But I swear
+that you drink together to-day for
+the last time. We will see whether
+I have forgotten how to draw blood.
+Ho! Parmeno, my Thracians! Let
+
+
+<pb n="129"/>
+
+them come with their arms; draw
+up the phalanx at the door: men-
+at-arms in front, slingmen and bow-
+men on each wing, the others in the
+rear.</p>
+
+<p><label>PHILOSTRATUS</label> -
+-
+Your threats
+may serve to frighten children;
+but do you expect to frighten
+me, O captain of mercenaries?
+You never killed so much as a
+chicken. If you ever saw a battle,
+I doubt not it was from the top of
+a rampart. You may have com-
+manded a squad; that's the most I
+can allow.</p>
+
+<p><label>POLEMO</label> You will find out pres-
+ently, when you see us marching
+upon you, encased in glittering
+armor.
+
+
+<pb n="131"/>
+
+PHILOSTRATUS.-Come on. Tib-
+ias, my only servant, and I will make
+you turn tail with stones and oyster-
+shells, and you won't know where
+to hide.
+
+
+<pb n="133"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="10">
+<head>X. CHELIDONIUM AND DROSIS</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>CHELIDONIUM</label> Doesn't young
+Clinias come to see you now, Drosis?
+It's a long while since I saw him at
+your house.
+
+
+<pb n="135"/>
+
+DROSIS.-Alas, no! his master
+won't let him come.</p>
+
+<p><label>CHELIDONIUM</label> -
+What master?
+do you mean Diotimus, the school-
+master? He is a friend of mine.</p>
+
+<p><label>DROSIS</label> No; I mean Aristane-
+tus, the most hateful of philosophers.</p>
+
+<p><label>CHELIDONIUM</label> What! you mean
+that monkey-faced creature with the
+long beard, who walks every day
+in the Pocile, surrounded by young
+men?</p>
+
+<p><label>DROSIS</label> Yes, that estimable in-
+dividual. I should delight to see the
+hangman drag him to the gallows
+by his beard.
+-
+CHELIDONIUM. Whatever in-
+duced him to give Clinias such
+advice?
+
+
+<pb n="137"/>
+
+DROSIS.-I have no idea, Cheli-
+donium. That young man has never,
+since he knew what women were,
+passed a single night out of my arms,
+for I first initiated him in the mys-
+teries of love; and now he hasn't
+appeared for three days, hasn't even
+passed my door. As I was worried
+by his absence, as if by a presenti-
+ment of what was coming, I decided
+to send Nebris to the places he
+frequents, to try to find him in the
+market-place or in the Pocile. When
+she returned, she said that she saw
+him walking with Aristaenetus, and
+made signs to him at a distance;
+but Clinias blushed and looked down
+when he saw her, and wouldn't turn
+his face in her direction again. Then
+re
+
+
+<pb n="139"/>
+
+they returned to the city, and Nebris
+followed them to the Sacred Gate.
+But, as Clinias didn't turn, she came
+back with no certain news for me.
+Imagine my state of mind from that
+moment. I could not conceive what
+he could have against me. I said
+to myself: "Have I done anything to
+hurt him? Is he in love with some
+other woman? Does he hate me
+now? Doubtless his father has for-
+bidden him to come."-Such were my
+thoughts when, last night, after sup-
+per, Dromo came with a letter from
+him. Here it is; read it to me, Cheli-
+donium; for you can read, can't you?</p>
+
+<p><label>CHELIDONIUM</label> Let me see it.
+The handwriting is very bad, and the
+words are written over one another,
+
+
+<pb n="141"/>
+
+which shows that he was in a hurry.
+This is what he says: "The gods
+are my witnesses, how I loved you,
+O Drosis!"</p>
+
+<p><label>DROSIS</label> Alas! woe's me! he
+doesn't even begin with words of
+greeting!
+CHELIDONIUM (reading)." My
+sentiments are still the same, but I am
+compelled to part from you. My father
+has put me in the hands of Aristane-
+tus, to learn philosophy. Aristaenetus
+knew of our intimacy, and reproached
+me bitterly. 'It is a shame,' he said,
+'for the son of Architeles and Erasi-
+clea to live with a harlot; virtue
+should be preferred to debauchery.""</p>
+
+<p><label>DROSIS</label> A plague on the old fool
+for giving such advice to a youth!
+*
+
+
+<pb n="143"/>
+
+CHELIDONIUM (reading).—"I am
+obliged to obey him, for he follows
+me everywhere, watches me all the
+time, and doesn't allow me to look at
+anybody but him. He promises that,
+if I am good and obey him in every-
+thing, he will make me happy, and
+lead me on to virtue through long
+and trying labors. I have found it
+difficult to write this secretly. Be
+happy, and remember Clinias."</p>
+
+<p><label>DROSIS</label> Well, what do you think
+of that letter?</p>
+
+<p><label>CHELIDONIUM</label> It is after the
+Scythian style, very harsh; but
+the last words, "remember Clinias,"
+leave a little room for hope.</p>
+
+<p><label>DROSIS</label> So it seemed to me. But
+I am dying of love for him. Dromo told
+
+
+<pb n="145"/>
+
+me that Aristaenetus is a pederast, and
+that, under the pretext of teaching
+them philosophy, he debauches the
+handsomest youths. He has already
+talked privately with Clinias; he
+makes the finest promises, and says
+that he will make him equal to the
+gods. He gives him the erotic dia-
+logues between the philosophers of
+old times and their disciples to read; in
+fact, he never lets him alone. Dromo
+threatens to tell Clinias's father.</p>
+
+<p><label>CHELIDONIUM</label> Dromo deserves
+a royal feast.</p>
+
+<p><label>DROSIS</label> I have given it to him,
+but there was no need of it; he's in
+love with Nebris.</p>
+
+<p><label>CHELIDONIUM</label> In that case, all
+will go well. My advice is that we
+
+
+<pb n="147"/>
+
+write on the wall of the Ceramicus,
+near where Architeles walks every
+day: Aristaenetus defiles Clinias.
+That would help amazingly to con-
+firm what Dromo says.</p>
+
+<p><label>DROSIS</label> But how can we do it
+without being seen?</p>
+
+<p><label>CHELIDONIUM</label> I will go at night,
+and write it with a piece of charcoal.</p>
+
+<p><label>DROSIS</label> Excellent! I pray you,
+help me to contend against that
+overbearing Aristaenetus.
+
+
+<pb n="149"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="11">
+<head>XI. TRYPHAENA AND CHARMIDES</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>TRYPHAENA</label> Did any one ever
+hear of such a thing as giving a
+woman five drachmae to possess
+her, and then lying with his back
+turned toward her, and crying and
+sobbing all night? Last night, at
+
+
+
+<pb n="151"/>
+
+supper, you alone of all the guests
+refused to eat or drink. I watched
+you. And since then you have not
+ceased to cry like a baby. What
+can be the cause of such behavior,
+O Charmides? Tell me; I shall gain
+that much at least by passing the
+night with you, even if I have had
+no sleep.</p>
+
+<p><label>CHARMIDES</label> I am dying with
+love, Tryphaena; I am sinking be-
+neath a frantic passion.</p>
+
+<p><label>TRYPHAENA</label> It evidently isn't
+for me, or you wouldn't treat me so
+disdainfully and spurn my caresses;
+you wouldn't make a rampart of
+your clothes, for fear that I may
+touch you. Tell me, who is the
+woman who has succeeded in setting
+
+
+<pb n="153"/>
+
+you on fire? I may be able to help
+you; I know how to go about such
+matters.</p>
+
+<p><label>CHARMIDES</label> You must know
+her well, and she you. She is one
+of the most famous courtesans.</p>
+
+<p><label>TRYPHAENA</label> Tell me her name.</p>
+
+<p><label>CHARMIDES</label> Philematium.</p>
+
+<p><label>TRYPHAENA</label> Which one? There
+are two of them: one, who has re-
+cently joined the sisterhood, lives
+at Piraeus, and is the mistress of
+Damyllus, the general's son; the
+other is called the Trap.</p>
+
+<p><label>CHARMIDES</label> She is the one;
+she has trapped me, and I can't
+escape.</p>
+
+<p><label>TRYPHAENA</label> And is that why
+you are crying so?
+
+
+<pb n="155"/>
+
+CHARMIDES.-Alas! yes.</p>
+
+<p><label>TRYPHAENA</label> Have you been in
+love with her long, or is it something
+new?</p>
+
+<p><label>CHARMIDES</label> A long while; it will
+be seven months at the Dionysia.</p>
+
+<p><label>TRYPHAENA</label> Have you seen the
+whole of her, or only her face? As
+for the rest! if you knew! How-
+ever, every one knows what to
+expect in a woman of forty-five.</p>
+
+<p><label>CHARMIDES</label> She swears that
+she will be only twenty-two next
+spring.</p>
+
+<p><label>TRYPHAENA</label> Do you trust her
+oaths rather than your own eyes?
+Examine her carefully; look at her
+temples, with their few scattered
+hairs, for she wears a wig on top of
+se
+
+
+<pb n="157"/>
+
+her head; when the dye she uses on
+them has worn off, you will see how
+But why do you not
+gray they are.
+insist upon her allowing you to view
+her charms unveiled?</p>
+
+<p><label>CHARMIDES</label> She has always re-
+fused.</p>
+
+<p><label>TRYPHAENA</label> I can quite believe
+it. She knows that you would be
+disgusted by the blotches with which
+she is covered; from her neck to her
+knees, she is spotted like a panther.
+And you mourn because you cannot
+enjoy such beauty? Is she always
+cruel to you, pray?</p>
+
+<p><label>CHARMIDES</label> Even so, Tryphaena;
+and yet I have loaded her with gifts.
+To-day, as I was unable to give
+her a thousand drachmae which she
+
+
+<pb n="159"/>
+
+wanted, you know how short of
+money my father keeps me,-she
+shut her door in my face and opened
+it to Moschius; so I took you for
+my mistress, to repay her in kind.</p>
+
+<p><label>TRYPHAENA</label> By Venus, I would
+never have come to you if I had
+been told that you sent for me to
+spite somebody else, and that some-
+body an old mummy like Phile-
+matium. But it's time for me to
+go; the cock has already crowed
+thrice.</p>
+
+<p><label>CHARMIDES</label> Don't be in such a
+hurry, Tryphaena. If what you tell
+me about Philematium is true, if she
+wears a wig, if she dyes the hair on
+her temples, and has pimples, I never
+want to see her again.
+
+
+<pb n="161"/>
+
+TRYPHAENA.-Ask your mother
+whether she has been to the bath
+with her. As for her age, your
+grandfather can tell you that, if
+he's still alive.</p>
+
+<p><label>CHARMIDES</label>  That being the
+case, let us remove the rampart
+separating us, and be lover and mis-
+tress in very truth.
+To the devil with Philematium !
+
+
+
+
+<pb n="163"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="12">
+<head>XII. IOESSA, PYTHIAS, AND LYSIAS</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>IOESSA</label> You despise me, O Lys-
+ias, and it's my own fault. I have
+never asked you for money, never
+closed my door to you, saying:
+"Some one is here"; never urged
+you to deceive your father or rob
+30e
+
+
+<pb n="165"/>
+
+your mother of jewels to bring to
+me, as all other courtesans do. The
+first day I ever saw you, I welcomed
+you, never asking you for anything,
+or making you pay for what you
+consumed. You know how many
+lovers I have refused for you: Etho-
+cles, now one of the Prytanes, Pasion
+the sea-captain, and Melissus, who
+is as young as you, and whose father
+has just died leaving a handsome
+fortune. You alone have been my
+Phaon, I have had eyes for none but
+you, have opened my door to none
+but you, for I was mad enough to
+believe in the genuineness of your
+oaths; I loved you so that I have
+lived like the chaste Penelope, de-
+spite my mother's lamentations and
+
+
+<pb n="167"/>
+
+her constant reproaches, and in the
+sight of my companions, who called
+my chastity a crime. You, on the
+contrary, since you have seen that
+you have conquered me, that I am
+withering away with love, have
+done nothing but torture me, either
+by toying with Lycana before my
+eyes, or by praising Magidium the
+harp-player to the skies when you
+were lying with me. I have an-
+swered these insults, bitterly as I
+have felt them, with tears alone.
+Only the other day, when you and
+Thraso and Diphilus were carousing
+together, you sent for Cymbalium
+the flute-player, and Pyrallis, with
+whom I am not on good terms, as
+you know. Although you kissed
+
+
+<pb n="169"/>
+
+Cymbalium five times, I said noth-
+ing; you insulted no one but your-
+self by kissing such a creature; but
+your nods and winks at Pyrallis!
+you did not drink once that you did
+not raise the cup to her, and when
+you handed it to your servant you
+whispered to him to fill it only for
+her! After taking a bite from an
+apple, you seized the opportunity,
+when Diphilus was talking to Thraso,
+to toss it adroitly into her bosom,
+without even trying to conceal your
+actions from me. Pyrallis instantly
+kissed it and replaced it in her
+bosom. Why do you treat me
+so? Have I failed you in any re-
+spect? Have I offended you in the
+least degree? Have I so much as
+
+
+<pb n="171"/>
+
+looked at another man? Do I not
+live for you alone? Ah! Lysias,
+how little store you set by my
+affection! What does it matter to
+you that you torture a poor creature
+who is mad with love? But there
+is a goddess who sees the wrongs of
+lovers. Some day, perhaps, you will
+weep for loessa, when you learn that
+she has strangled herself, or jumped
+into a well, that she has ceased to
+live, in order not to annoy you by
+her presence. You will be at liberty
+to boast of such a glorious triumph.
+But why do you scowl at me? Why
+gnash your teeth? Have you any-
+thing to reproach me for? Speak!
+Pythias here will judge between us.
+What! you are going away without
+
+
+<pb n="173"/>
+
+a word? Ah! Pythias, you see what
+suffering the ungrateful man inflicts
+upon me.</p>
+
+<p><label>PYTHIAS</label> How cruel! He must
+be made of stone, not to be moved
+by your tears. It is in very truth
+your fault, loessa; your excessive
+love reveals your weakness to him.
+You must not show your love so
+plainly. Men become puffed up as
+soon as they see that we love them.
+Dry your tears, and close your door
+to the ingrate; he will very soon dote
+as madly on you, and be all flame.</p>
+
+<p><label>IOESSA</label> Nay, do not give me
+such counsel. I, close my door to
+Lysias! May the gods grant that
+he do not leave me first!</p>
+
+<p><label>PYTHIAS</label> Here he comes again.
+
+
+<pb n="175"/>
+
+IOESSA.-O Pythias, I am undone!
+He must have heard you tell me to
+close my door to him.</p>
+
+<p><label>LYSIAS</label> I have come back, Pyth-
+ias, not for her sake, whom I never-
+more want to see, but so that you
+cannot say again that I am heart-
+less.</p>
+
+<p><label>PYTHIAS</label> I did say so, Lysias, I
+admit.</p>
+
+<p><label>LYSIAS</label> And you expect me to
+put up with this loessa just because
+she whimpers, when I know that she
+is false to me? I surprised her not
+long ago sleeping in a young man's
+arms.</p>
+
+<p><label>PYTHIAS</label> Well, what of it? isn't
+she a courtesan? When did you
+surprise them?
+
+
+<pb n="177"/>
+
+LYSIAS. About six days ago;
+yes, six days, for it was the second
+of the month, and to-day is the
+seventh. My father, being aware
+of my craze for this paragon of
+virtue, had locked me in and ordered
+the porter not to let me out. But I,
+in my impatience to see her, resorted
+to stratagem: I bade Dromo stand
+against the wall where it is quite
+low, and to let me stand on his back
+and climb over. I succeeded in doing
+it; I reached her house; I found the
+courtyard door tightly closed; it
+was late; instead of knocking, I
+softly opened the door, as I had done
+so many times, turned it noiselessly
+on its hinges, and entered. Every-
+body was asleep; I felt my way
+
+
+<pb n="179"/>
+
+along the wall, and reached my faith-
+less one's bed.</p>
+
+<p><label>IOESSA</label> What will he say next,
+O Ceres? How I tremble!</p>
+
+<p><label>LYSIAS</label> Hearing the sound of
+two persons breathing, I thought at
+first that Lyde was with her. But I
+felt a smooth, beardless chin, and a
+head closely shaven and perfumed,
+O Pythias! If I had had a sword at
+that moment, be sure that I would
+without hesitation have but what
+are you laughing at? is it at what I
+am saying?</p>
+
+<p><label>IOESSA</label> So that is the cause of
+all your ill-feeling, is it, Lysias? It
+was Pythias who was in bed with me.</p>
+
+<p><label>PYTHIAS</label> Oh! don't tell him,
+loessa.
+se
+
+
+<pb n="181"/>
+
+IOESSA.-Why not, pray? It was
+Pythias, my love. I asked her to
+pass the night with me, to lighten
+the tedium of your absence.</p>
+
+<p><label>LYSIAS</label> Do you mean that Pyth-
+ias had a shaven head? Has she
+grown such a head of hair as hers
+in six days?</p>
+
+<p><label>IOESSA</label> She had to have her
+head shaved as the result of an
+illness, because the hair was falling
+off. Show him, Pythias, so that he
+may be convinced. See! there's the
+young spark you were jealous of.</p>
+
+<p><label>LYSIAS</label> How could I help it,
+loving you as I do, when I felt that
+head?</p>
+
+<p><label>IOESSA</label> But now you are satis-
+fied; would you like me to take my
+
+
+
+<pb n="183"/>
+
+turn now and pay you off in your
+own coin, by being angry with you,
+and with more reason?</p>
+
+<p><label>LYSIAS</label> No, my dear; let us sup
+instead. Pythias shall join us, and
+witness our reconciliation.</p>
+
+<p><label>IOESSA</label> She shall remain. O
+Pythias, handsomest of youths, how
+I have suffered on your account!</p>
+
+<p><label>PYTHIAS</label> True; but this same
+handsome youth has brought you
+together. So bear me no grudge.
+And do you, Lysias, be sure to tell
+no one what you know about my
+fleece.
+
+
+<pb n="185"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="13">
+<head>XIII. LEONTICHUS, CHENIDAS, AND HYMNIS</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>LEONTICHUS</label> Tell her, Cheni-
+das, how, in the battle against the
+Galatians, I darted bravely forth
+I from the ranks, mounted on a white
+charger, and how the foe, at sight
+
+
+<pb n="187"/>
+
+of me, terror-stricken despite their
+courage, turned and fled, and no one
+dared to face me. With a single cast
+of the spear, I transfixed their leader
+and his horse; then, sword in hand,
+rushed upon the barbarians who
+resisted, the shattered remnant of
+the phalanx had formed a square,—
+charged furiously upon them, and
+seven in the foremost rank fell be-
+fore my impetuous onset. With a
+stroke of the sword, I clove the cap-
+tain's skull, despite the thickness
+of his helmet; and when you came
+up, O Chenidas, the foe had fled.</p>
+
+<p><label>CHENIDAS</label> And how you covered
+yourself with glory, O Leontichus,
+in Paphlagonia, in single combat
+with the great satrap there!
+
+
+<pb n="189"/>
+
+LEONTICHUS.-You do well to re-
+mind me of it. Yes, that was one
+of my greatest feats. What a giant
+that satrap was! he was said to be
+one of the most expert in the game
+of arms. Proud of his prowess, and
+most contemptuous of everything
+Greek, he came forth between the
+two armies and challenged to single
+combat whosoever should dare to
+measure swords with him. All were
+terrified, captains, colonels, even the
+general himself, Aristaechmus the
+AEtolian, the best javelin-thrower
+in the army. Although I was only
+a chiliarch, I accepted the challenge;
+I tore myself from the arms of my
+friends, who trembled for my life at
+sight of that mammoth barbarian
+
+
+<pb n="191"/>
+
+covered with dazzling weapons,
+shaking his plume and brandishing
+his terrible spear to frighten us.</p>
+
+<p><label>CHENIDAS</label> I trembled for you,
+Leontichus. You remember that I
+begged you not to expose your-
+self to the danger, swearing that I
+would not survive your death by
+one instant.
+A
+LEONTICHUS.-I listened only to
+my courage; encased in armor as
+glittering as the Paphlagonian's, I
+rushed forth to the battle-field.
+shout of surprise arose from both
+camps. Greeks and barbarians rec-
+ognized me at once by my shield
+and the crest on my helmet. Tell
+us, O Chenidas, to whom I was
+likened at that moment.
+
+
+<pb n="193"/>
+
+CHENIDAS.-By all the gods! to
+whom, if not to Achilles, valiant son
+of Thetis and Peleus? The same
+proud bearing beneath the helmet;
+your cloak was gorgeous, and your
+shield dazzled the eyes.</p>
+
+<p><label>LEONTICHUS</label> As soon as we
+stood face to face, the barbarian
+struck the first blow, and wounded
+me slightly; the point of his spear
+grazed my skin above the knee. And
+I, with a thrust of my spear, pierced
+his shield and entered his breast. He
+fell, I leaped upon him and cut off his
+head with a backhanded blow of my
+sword. Having stripped him of his
+arms, I returned in triumph to the
+camp, covered with his blood, and with
+his head on the point of my spear.
+
+
+<pb n="195"/>
+
+HYMNIS.-O Leontichus, how hor-
+rible! all that you have told me is
+shocking, execrable. I cannot look
+at you without shuddering, when
+you boast of such horrible blood-
+shed. I will not drink or lie with
+you again. I am going.</p>
+
+<p><label>LEONTICHUS</label> I will give you
+twice what I agreed.</p>
+
+<p><label>HYMNIS</label> Oh! I shall never have
+the heart to embrace a man who
+kills other men !</p>
+
+<p><label>LEONTICHUS</label> You are in no
+danger, Hymnis. That happened in
+Paphlagonia. I don't fight here.</p>
+
+<p><label>HYMNIS</label> But you are a horrible
+man. Think of the blood flowing
+from that head on the end of your
+spear! How can I embrace such a
+
+
+<pb n="197"/>
+
+man! I never will, I swear. Such
+a man is as heartless as a hangman.</p>
+
+<p><label>LEONTICHUS</label> Ah! I am sure that
+you would love me, if you had seen
+me under arms.</p>
+
+<p><label>HYMNIS</label> No; I tremble and am
+sick at heart simply from hearing
+the story of your cruel deeds. I
+fancy that I see about you the
+ghosts of the unfortunate creatures
+you have killed, and especially that
+of the poor captain whose head
+you cut in two. What would it
+be if I had actually seen such a
+ghastly spectacle, blood flowing and
+dead bodies lying on the battle-
+field? I should have died of fright,
+I think, I who never saw a chicken
+bleed.
+
+
+<pb n="199"/>
+
+LEONTICHUS.-Oh! how weak
+and faint-hearted you are, Hymnis!
+I thought to please you by telling
+you of my exploits.
+amuse the
+HYMNIS.-Go and
+women of Lemnos-who killed their
+husbands-or the daughters of Da-
+naus with your horrid stories. I am
+going to hurry home to my mother,
+while it is light. Come with me,
+Grammis. Farewell, most valiant of
+chiliarchs; you may do murder now
+at your pleasure.</p>
+
+<p><label>LEONTICHUS</label> Stay, O Hymnis,
+stay! She has gone!</p>
+
+<p><label>CHENIDAS</label> It's your own fault;
+you frightened the simple-hearted
+child with your nodding crest and the
+roaring of your incredible exploits.
+
+
+<pb n="201"/>
+
+I saw her turn pale at the beginning,
+and while you were splitting the
+captain's head open, her expression
+changed, and she shuddered from
+head to foot.</p>
+
+<p><label>LEONTICHUS</label> I thought thus to
+make myself more agreeable in her
+eyes. But you contributed to my
+undoing by suggesting the idea of
+that duel.</p>
+
+<p><label>CHENIDAS</label> Was I not bound
+to bolster up your lies? I saw
+through your swashbuckling, but
+you made the battle too bloody. It
+was enough to cut off the un-
+happy Paphlagonian's head, without
+sticking it on the end of a spear
+and drenching yourself with his
+blood.
+
+
+<pb n="203"/>
+
+LEONTICHUS.-That was rather
+a disgusting touch, Chenidas; but
+the rest of the battle was well con-
+ceived. Run after her now, and try
+to persuade her to come back and
+pass the night with me.</p>
+
+<p><label>CHENIDAS</label> Shall I tell her that
+all your stories were mere fables,
+invented as you went along, in
+order to make yourself out a hero
+in her eyes?</p>
+
+<p><label>LEONTICHUS</label> That would be too
+humiliating, Chenidas.</p>
+
+<p><label>CHENIDAS</label> It's the only way to
+induce her to come back. You can
+take your choice: either retain your
+reputation for great valor and be
+I detested, or confess that you lied
+and lie with Hymnis.
+
+
+<pb n="205"/>
+
+LEONTICHUS.-Either alternative
+is painful; but I prefer to possess
+Hymnis, Go quickly; tell her that
+we have been telling fairy tales-
+but not in every case.
+
+
+<pb n="207"/>
+
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="14">
+<head>XIV. DORIO AND MYRTALE</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>DORIO</label> You turn me out of doors,
+Myrtale, now that I am poor. When
+I loaded you with gifts, I was your
+darling, your little husband, your lord
+and master, your all-in-all. Now
+that I am ruined, penniless, you
+
+
+<pb n="209"/>
+
+send me away! You have taken
+for your lover that fat merchant
+from Bithynia. In vain do I come
+to your door and drench it with my
+tears; he is the favored one now; he
+alone enters your house and passes
+whole nights there. They even say
+that you are with child by him.</p>
+
+<p><label>MYRTALE</label> Really, Dorio, I am
+terribly tired of hearing you talk
+about the handsome presents you
+have made me, and about ruining
+yourself for me. Count up what you
+have given me during our intimacy,
+and we will see.</p>
+
+<p><label>DORIO</label> Very well, Myrtale; let
+us count up. First, a pair of shoes
+from Sicyonia, for which I paid two
+drachmae; put down two drachmae.
+
+
+<pb n="211"/>
+
+MYRTALE.-True; but you passed
+two nights with me.</p>
+
+<p><label>DORIO</label> On my return from
+Syria, an alabaster jar full of Pho-
+nician perfumes; that, too, was worth
+two drachmae, by Neptune!</p>
+
+<p><label>MYRTALE</label> And when you sailed,
+didn't I give you a tunic which came
+to your knees, which Epiurus left at
+my house? You were to wear it
+when you had to row.</p>
+
+<p><label>DORIO</label> Epiurus recognized it on
+me not long ago in Samos, and took
+it away from me in spite of all I
+could do. I also brought you onions
+from Cyprus, and five large fish and
+four perch on my return from the
+Bosphorus. What else?-Ah! yes,
+eight ship-biscuits in their basket,
+
+
+<pb n="213"/>
+
+and a jar of Carian figs; and, a very
+short time ago, a pair of gilded san-
+dals from Patara, ungrateful woman!
+and a huge cheese from Gythium.</p>
+
+<p><label>MYRTALE</label> The worth of five
+drachmae in all.</p>
+
+<p><label>DORIO</label> What more could a poor
+sailor do, who spends his life at
+the oar? And you despise me still,
+although I command one side of the
+vessel. Didn't I lay a silver drachma
+at the goddess's feet for you, at the
+festival of Venus? And what about
+the shoes worth two drachmae which
+I gave your mother? And your maid
+Lyde, whose fingers I grease some-
+times with two obols, sometimes
+with four? All these things together
+would make a sailor's fortune.
+
+
+<pb n="215"/>
+
+MYRTALE.-The onions and the
+fish, I suppose, Dorio?</p>
+
+<p><label>DORIO</label> To be sure; I had noth-
+ing else to give you. As if I should
+be a rower, if I had any money! And
+in all this time I've brought my own
+mother nothing, not even a sprig of
+garlic. I would like right well to
+know what presents you have had
+from your Bithynian.</p>
+
+<p><label>MYRTALE</label> In the first place, this
+frock; and then, this heavy necklace.</p>
+
+<p><label>DORIO</label> That necklace? why, you
+have had it an age, to my knowledge.</p>
+
+<p><label>MYRTALE</label> No; that was a lighter
+one,
+without emeralds. Also, these
+ear-rings and this rug; he has just
+given me two minae too, and has paid
+our rent. That's better than sandals
+
+
+<pb n="217"/>
+
+from Patara, Gythium cheese, and
+Carian figs, eh?</p>
+
+<p><label>DORIO</label> But you say nothing
+about the physique of this gallant
+lover whom you embrace every
+night, this married man, fifty years
+old at least, bald as your knee, and
+green as a crab! And such teeth!
+You should see him when he sings,
+and tries to play the dandy! a jackass
+playing the lyre! Take your fill of
+him; you are a worthy mate for him.
+May you have a brat who looks
+like his father! I shall soon find a
+Delphis or Cymbalium, or my neigh-
+bor the flute-player, or somebody
+else. Every one can't supply rugs
+and necklaces and sums of two
+minae.
+
+
+<pb n="219"/>
+
+MYRTALE.-Lucky the fair one
+who has you for her lover! She
+will have plenty of Cyprus onions
+and cheese when you return from a
+voyage to Gythium.
+
+
+<pb n="221"/>
+</p></div></div>
+
+
+<div type="textpart" subtype="book" n="15">
+<head>XV. COCHLIS AND PARTHENIS</head>
+<div type="textpart" subtype="section" n="1">
+<p><label>COCHLIS</label> Why do you weep,
+Parthenis? Whence come you with
+your broken pipes?</p>
+
+<p><label>PARTHENIS</label> It was that tall sol-
+dier, the AEtolian, Crocale's lover,
+who beat me because he found me
+
+
+<pb n="223"/>
+
+playing at his mistress's house by
+order of his rival Gorgos, who had
+hired me. He broke my flute, and
+overturned the supper-table and the
+wine-cups; then, taking that coun-
+tryman Gorgos by the hair, he and
+another soldier, a friend of his,
+dragged the poor fellow from the
+room, all covered with blood. Dino-
+machus-I believe that is the sol-
+dier's name-beat him so savagely
+that I don't know whether he is dead
+or alive. The blood flowed from his
+nose in rivers, his face was swollen
+and all bruised with blows.</p>
+
+<p><label>COCHLIS</label> Was it an attack of
+madness, or the effect of drink?</p>
+
+<p><label>PARTHENIS</label> Jealousy pure and
+simple, Cochlis, and excessive love.
+se
+
+
+<pb n="225"/>
+
+Crocale, I believe, had asked him for
+two talents as the price of having
+her to himself; when Dinomachus
+refused, she shut the door in his
+face, sent for Gorgos of OEnoe,—a
+wealthy farmer, who has been in
+love with her for a long time,-began
+to drink with him, and sent for
+me to play the flute for them. The
+carousing was at its height; I struck
+up a Lydian air, and our farmer
+left the table and began to dance;
+Crocale applauded, and everything
+was very pleasant. Suddenly, we
+heard a great noise and outcries;
+the door was broken in, and eight
+sturdy fellows rushed into the room
+with the Megarian at their head.
+They overturned everything, threw
+
+
+<pb n="227"/>
+
+themselves on Gorgos, as I have
+told you, knocked him down, and
+trampled on him. Crocale escaped,
+I don't know how, and took refuge
+with her neighbor Thespias. Dino-
+machus, after cuffing me and break-
+ing my pipes, threw them at my
+head and bade me go to the devil.
+I am going to tell the whole story
+to my master, while the farmer has
+gone to some friends in the city in
+order to have the Megarian arrested.</p>
+
+<p><label>COCHLIS</label> That's what one gets
+for having a soldier for a lover-
+constant quarrels and blows! To
+hear them talk, you would say they
+were all colonels or captains. But
+if you try to touch their pockets-
+"Wait," they say, "till we meet
+
+
+<pb n="229"/>
+
+again, and I have received my pay;
+then you'll have no fault to find."—
+The deuce take the braggarts! I
+have good reasons for receiving none
+of them. Fishermen, sailors, farm-
+ers-they are good fellows! Few
+fine words, but plenty of presents.
+But I tell you, Parthenis, all these
+beplumed blusterers, these describers
+of battles, are mere vaporers, noisy
+praters, nothing more!
+</p>
+</div>
+</div></div>
+</body>
+</text>
+</TEI>
