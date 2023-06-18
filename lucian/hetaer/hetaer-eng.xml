@@ -66,17 +66,12 @@
 </teiHeader>
 <text>
 <body>
+<pb n="3"/>
 <div type="translation" n="tlg0062.tlg069">
 <div type="textpart" subtype="book" n="1">
 <head>I. GLYCERA AND THAIS</head>
 <div type="textpart" subtype="section" n="1">
-<p>
-<pb n="3"/>
-
-
-
-
-GLYCERA.-Tell me, Thais, do you
+<p><label>GLYCERA</label> Tell me, Thais, do you
 remember the Acarnanian soldier
 who used to keep Abrotonum, and
 
@@ -132,9 +127,11 @@ and her smile, which is very win-
 ning.
 
 
+</p>
+
 <pb n="9"/>
 
-GLYCERA.-Do you suppose, pray,
+<p><label>GLYCERA</label> Do you suppose, pray,
 that it's her beauty the Acarnanian
 is in love with? Don't you know that
 her mother is Chrysarium the witch,
@@ -152,10 +149,9 @@ reap a harvest from some one else,
 and let him go to the devil!
 
 
-<pb n="11"/>
+</p>
 
-
-</p></div></div>
+<pb n="11"/></div></div>
 <div type="textpart" subtype="book" n="2">
 <head>II. MYRTIUM, PAMPHILUS, AND DORIS</head>
 <div type="textpart" subtype="section" n="1">
@@ -167,8 +163,6 @@ marry Phido the fisherman's daugh-
 ter, are you, Pamphilus; indeed,
 some say you have done so already.
 And so all your oaths and tears are
-Se
-II
 
 
 <pb n="13"/>
@@ -242,9 +236,11 @@ Myrtium?</p>
 going to marry, Pamphilus?
 
 
+</p>
+
 <pb n="19"/>
 
-PAMPHILUS.-You are either mad
+<p><label>PAMPHILUS</label> You are either mad
 or tipsy, Myrtium, and yet we did
 not drink to excess yesterday.</p>
 
@@ -322,9 +318,11 @@ hanged myself if you had played
 me that trick.
 
 
+</p>
+
 <pb n="25"/>
 
-PAMPHILUS.-But I never dreamed
+<p><label>PAMPHILUS</label> But I never dreamed
 of such a thing. Could I be so mad
 as to forget my dear Myrtium, espe-
 cially when she bears in her womb
@@ -332,8 +330,9 @@ the fruit of our love?
 
 
 
-<pb n="27"/>
-</p></div></div>
+</p>
+
+<pb n="27"/></div></div>
 
 
 <div type="textpart" subtype="book" n="3">
@@ -423,9 +422,11 @@ proud, my child; you should not
 notice such trifles. What next?
 
 
+</p>
+
 <pb n="35"/>
 
-PHILINNA. Every one present
+<p><label>PHILINNA</label> Every one present
 overwhelmed me with applause;
 Diphilus alone lay flat on his back,
 counting the beams in the ceiling,
@@ -468,9 +469,9 @@ your lover. You know the proverb:
 pulling too hard upon it."
 
 
-<pb n="39"/>
+</p>
 
-</p></div></div>
+<pb n="39"/></div></div>
 
 
 <div type="textpart" subtype="book" n="4">
@@ -510,9 +511,11 @@ with Simicha, at the house of his
 boon-companion Pammenes.
 
 
+</p>
+
 <pb n="43"/>
 
-BACCHIS.-I am sorry for you,
+<p><label>BACCHIS</label> I am sorry for you,
 Melissa. But what can have made
 this trouble between you? He must
 have had some reason for throwing
@@ -663,9 +666,9 @@ a loaf, and all that she needs to cast
 her spell.
 
 
-<pb n="55"/>
+</p>
 
-</p></div></div>
+<pb n="55"/></div></div>
 
 
 <div type="textpart" subtype="book" n="5">
@@ -709,9 +712,11 @@ society of women, as if they were
 men themselves.
 
 
+</p>
+
 <pb n="59"/>
 
-LEANA. That's about it.</p>
+<p><label>LEANA</label> That's about it.</p>
 
 <p><label>CLONARIUM</label> Tell me all, Le-
 aena; how she approached you,
@@ -808,9 +813,11 @@ made her pant; I saw that she vastly
 enjoyed herself.
 
 
+</p>
+
 <pb n="67"/>
 
-CLONARIUM.-But what did she
+<p><label>CLONARIUM</label> But what did she
 do? How did she go about it? That
 is what you must tell me.</p>
 
@@ -819,9 +826,9 @@ tive; that is quite enough. No, by
 Venus, I will tell you nothing more.
 
 
-<pb n="69"/>
+</p>
 
-</p></div></div>
+<pb n="69"/></div></div>
 
 
 <div type="textpart" subtype="book" n="6">
@@ -892,9 +899,11 @@ life with the young men, and lying
 with them, for money.
 
 
+</p>
+
 <pb n="75"/>
 
-CORINNA.-Like Lyra, Daphnis's
+<p><label>CORINNA</label> Like Lyra, Daphnis's
 daughter?</p>
 
 <p><label>CROBYLE</label> Yes.</p>
@@ -918,9 +927,11 @@ four servants!</p>
 all?
 
 
+</p>
+
 <pb n="77"/>
 
-CROBYLE.-In the first place, by
+<p><label>CROBYLE</label> In the first place, by
 her refined dress, by her graceful
 bearing, by being affable to every-
 body. She doesn't laugh every
@@ -1006,9 +1017,9 @@ to-day; he promised me that he
 would.
 
 
-<pb n="85"/>
+</p>
 
-</p></div></div>
+<pb n="85"/></div></div>
 
 
 <div type="textpart" subtype="book" n="7">
@@ -1098,9 +1109,11 @@ ions without ear-rings or necklaces,
 or Tarentine dresses?
 
 
+</p>
+
 <pb n="93"/>
 
-MUSARIUM.-But are they any
+<p><label>MUSARIUM</label> But are they any
 happier or prettier than I am, mother?</p>
 
 <p><label>THE MOTHER</label> No, but they are
@@ -1122,15 +1135,19 @@ promised the night to your Adonis
 Chaereas.
 
 
+</p>
+
 <pb n="95"/>
 
-MUSARIUM.-What! ought I to
+<p><label>MUSARIUM</label> What! ought I to
 have left Chaereas in the lurch,
 to receive a clown who stinks like a
 goat? Chaereas has a soft skin at
 all events, while that pig of an
 Acarnanian-
-THE MOTHER.-I admit that he's
+</p>
+
+<p><label>THE</label> MOTHER.-I admit that he's
 a clodhopper and doesn't smell sweet.
 But why didn't you take up with
 Antiphon the son of Menecrates,
@@ -1154,7 +1171,9 @@ of a courtesan, you will live chastely
 like a priestess of Ceres. By the
 way, to-day is her festival; what
 has he given you for your pleasure?
-MUSARIUM.He has nothing,
+</p>
+
+<p><label>MUSARIUM</label> He has nothing,
 mamma.</p>
 
 <p><label>THE MOTHER</label> Then he's the
@@ -1193,8 +1212,9 @@ if he does, I will remind you of what
 I have just said, O Musarium.
 
 
-<pb n="101"/>
-</p></div></div>
+</p>
+
+<pb n="101"/></div></div>
 
 
 <div type="textpart" subtype="book" n="8">
@@ -1211,9 +1231,11 @@ Se
 we love the
 
 
+</p>
+
 <pb n="103"/>
 
-CHRYSIS.-Do you mean that
+<p><label>CHRYSIS</label> Do you mean that
 those are the only proofs of affec-
 tion?</p>
 
@@ -1263,9 +1285,11 @@ and beat me; that's all I get from
 him.
 
 
+</p>
+
 <pb n="107"/>
 
-AMPELIS.-He will give you some-
+<p><label>AMPELIS</label> He will give you some-
 thing else later. Jealous lovers
 become generous at last.</p>
 
@@ -1321,8 +1345,9 @@ He will be a rich man when' his
 father dies.
 
 
-<pb n="113"/>
-</p></div></div>
+</p>
+
+<pb n="113"/></div></div>
 
 
 <div type="textpart" subtype="book" n="9">
@@ -1386,9 +1411,11 @@ at every report."</p>
 that was the way to talk.
 
 
+</p>
+
 <pb n="119"/>
 
-DORCAS.-Then I asked him what
+<p><label>DORCAS</label> Then I asked him what
 I told you first.-"We have come
 back rich," he said.</p>
 
@@ -1497,7 +1524,9 @@ let this fellow go to the Odrysians,
 
 or wherever else he chooses, to fight
 battles.
-DORCAS (to Philostratus).—She
+</p>
+
+<p><label>DORCAS</label> (to Philostratus).—She
 is free; I suppose she can go with
 whom she likes.</p>
 
@@ -1509,7 +1538,9 @@ better way. Polemo is in too great
 a rage to run the risk of staying
 with him. His jealousy might carry
 him to any length.
-PANNYCHIS (to Philostratus).—
+</p>
+
+<p><label>PANNYCHIS</label> (to Philostratus).—
 Come in, if you choose.</p>
 
 <p><label>POLEMO</label> 'Tis well. But I swear
@@ -1546,17 +1577,20 @@ upon you, encased in glittering
 armor.
 
 
+</p>
+
 <pb n="131"/>
 
-PHILOSTRATUS.-Come on. Tib-
+<p><label>PHILOSTRATUS</label> Come on. Tib-
 ias, my only servant, and I will make
 you turn tail with stones and oyster-
 shells, and you won't know where
 to hide.
 
 
-<pb n="133"/>
-</p></div></div>
+</p>
+
+<pb n="133"/></div></div>
 
 
 <div type="textpart" subtype="book" n="10">
@@ -1568,9 +1602,11 @@ It's a long while since I saw him at
 your house.
 
 
+</p>
+
 <pb n="135"/>
 
-DROSIS.-Alas, no! his master
+<p><label>DROSIS</label> Alas, no! his master
 won't let him come.</p>
 
 <p><label>CHELIDONIUM</label> -
@@ -1591,15 +1627,19 @@ men?</p>
 dividual. I should delight to see the
 hangman drag him to the gallows
 by his beard.
--
-CHELIDONIUM. Whatever in-
+
+</p>
+
+<p><label>CHELIDONIUM</label> Whatever in-
 duced him to give Clinias such
 advice?
 
 
+</p>
+
 <pb n="137"/>
 
-DROSIS.-I have no idea, Cheli-
+<p><label>DROSIS</label> I have no idea, Cheli-
 donium. That young man has never,
 since he knew what women were,
 passed a single night out of my arms,
@@ -1655,7 +1695,9 @@ O Drosis!"</p>
 <p><label>DROSIS</label> Alas! woe's me! he
 doesn't even begin with words of
 greeting!
-CHELIDONIUM (reading)." My
+</p>
+
+<p><label>CHELIDONIUM</label> (reading)." My
 sentiments are still the same, but I am
 compelled to part from you. My father
 has put me in the hands of Aristane-
@@ -1668,12 +1710,14 @@ should be preferred to debauchery.""</p>
 
 <p><label>DROSIS</label> A plague on the old fool
 for giving such advice to a youth!
-*
 
+
+
+</p>
 
 <pb n="143"/>
 
-CHELIDONIUM (reading).—"I am
+<p><label>CHELIDONIUM</label> (reading).—"I am
 obliged to obey him, for he follows
 me everywhere, watches me all the
 time, and doesn't allow me to look at
@@ -1742,8 +1786,9 @@ help me to contend against that
 overbearing Aristaenetus.
 
 
-<pb n="149"/>
-</p></div></div>
+</p>
+
+<pb n="149"/></div></div>
 
 
 <div type="textpart" subtype="book" n="11">
@@ -1812,9 +1857,11 @@ escape.</p>
 you are crying so?
 
 
+</p>
+
 <pb n="155"/>
 
-CHARMIDES.-Alas! yes.</p>
+<p><label>CHARMIDES</label> Alas! yes.</p>
 
 <p><label>TRYPHAENA</label> Have you been in
 love with her long, or is it something
@@ -1893,9 +1940,11 @@ her temples, and has pimples, I never
 want to see her again.
 
 
+</p>
+
 <pb n="161"/>
 
-TRYPHAENA.-Ask your mother
+<p><label>TRYPHAENA</label> Ask your mother
 whether she has been to the bath
 with her. As for her age, your
 grandfather can tell you that, if
@@ -1910,8 +1959,9 @@ To the devil with Philematium !
 
 
 
-<pb n="163"/>
-</p></div></div>
+</p>
+
+<pb n="163"/></div></div>
 
 
 <div type="textpart" subtype="book" n="12">
@@ -2044,9 +2094,11 @@ he do not leave me first!</p>
 <p><label>PYTHIAS</label> Here he comes again.
 
 
+</p>
+
 <pb n="175"/>
 
-IOESSA.-O Pythias, I am undone!
+<p><label>IOESSA</label> O Pythias, I am undone!
 He must have heard you tell me to
 close my door to him.</p>
 
@@ -2071,9 +2123,11 @@ she a courtesan? When did you
 surprise them?
 
 
+</p>
+
 <pb n="177"/>
 
-LYSIAS. About six days ago;
+<p><label>LYSIAS</label> About six days ago;
 yes, six days, for it was the second
 of the month, and to-day is the
 seventh. My father, being aware
@@ -2122,9 +2176,11 @@ loessa.
 se
 
 
+</p>
+
 <pb n="181"/>
 
-IOESSA.-Why not, pray? It was
+<p><label>IOESSA</label> Why not, pray? It was
 Pythias, my love. I asked her to
 pass the night with me, to lighten
 the tedium of your absence.</p>
@@ -2172,8 +2228,9 @@ no one what you know about my
 fleece.
 
 
-<pb n="185"/>
-</p></div></div>
+</p>
+
+<pb n="185"/></div></div>
 
 
 <div type="textpart" subtype="book" n="13">
@@ -2210,9 +2267,11 @@ in Paphlagonia, in single combat
 with the great satrap there!
 
 
+</p>
+
 <pb n="189"/>
 
-LEONTICHUS.-You do well to re-
+<p><label>LEONTICHUS</label> You do well to re-
 mind me of it. Yes, that was one
 of my greatest feats. What a giant
 that satrap was! he was said to be
@@ -2245,8 +2304,10 @@ begged you not to expose your-
 self to the danger, swearing that I
 would not survive your death by
 one instant.
-A
-LEONTICHUS.-I listened only to
+
+</p>
+
+<p><label>LEONTICHUS</label> I listened only to
 my courage; encased in armor as
 glittering as the Paphlagonian's, I
 rushed forth to the battle-field.
@@ -2258,9 +2319,11 @@ us, O Chenidas, to whom I was
 likened at that moment.
 
 
+</p>
+
 <pb n="193"/>
 
-CHENIDAS.-By all the gods! to
+<p><label>CHENIDAS</label> By all the gods! to
 whom, if not to Achilles, valiant son
 of Thetis and Peleus? The same
 proud bearing beneath the helmet;
@@ -2282,9 +2345,11 @@ camp, covered with his blood, and with
 his head on the point of my spear.
 
 
+</p>
+
 <pb n="195"/>
 
-HYMNIS.-O Leontichus, how hor-
+<p><label>HYMNIS</label> O Leontichus, how hor-
 rible! all that you have told me is
 shocking, execrable. I cannot look
 at you without shuddering, when
@@ -2334,14 +2399,18 @@ I think, I who never saw a chicken
 bleed.
 
 
+</p>
+
 <pb n="199"/>
 
-LEONTICHUS.-Oh! how weak
+<p><label>LEONTICHUS</label> Oh! how weak
 and faint-hearted you are, Hymnis!
 I thought to please you by telling
 you of my exploits.
 amuse the
-HYMNIS.-Go and
+</p>
+
+<p><label>HYMNIS</label> Go and
 women of Lemnos-who killed their
 husbands-or the daughters of Da-
 naus with your horrid stories. I am
@@ -2385,9 +2454,11 @@ and drenching yourself with his
 blood.
 
 
+</p>
+
 <pb n="203"/>
 
-LEONTICHUS.-That was rather
+<p><label>LEONTICHUS</label> That was rather
 a disgusting touch, Chenidas; but
 the rest of the battle was well con-
 ceived. Run after her now, and try
@@ -2411,18 +2482,20 @@ I detested, or confess that you lied
 and lie with Hymnis.
 
 
+</p>
+
 <pb n="205"/>
 
-LEONTICHUS.-Either alternative
+<p><label>LEONTICHUS</label> Either alternative
 is painful; but I prefer to possess
 Hymnis, Go quickly; tell her that
 we have been telling fairy tales-
 but not in every case.
 
 
-<pb n="207"/>
+</p>
 
-</p></div></div>
+<pb n="207"/></div></div>
 
 
 <div type="textpart" subtype="book" n="14">
@@ -2461,9 +2534,11 @@ from Sicyonia, for which I paid two
 drachmae; put down two drachmae.
 
 
+</p>
+
 <pb n="211"/>
 
-MYRTALE.-True; but you passed
+<p><label>MYRTALE</label> True; but you passed
 two nights with me.</p>
 
 <p><label>DORIO</label> On my return from
@@ -2512,9 +2587,11 @@ with four? All these things together
 would make a sailor's fortune.
 
 
+</p>
+
 <pb n="215"/>
 
-MYRTALE.-The onions and the
+<p><label>MYRTALE</label> The onions and the
 fish, I suppose, Dorio?</p>
 
 <p><label>DORIO</label> To be sure; I had noth-
@@ -2564,17 +2641,20 @@ and necklaces and sums of two
 minae.
 
 
+</p>
+
 <pb n="219"/>
 
-MYRTALE.-Lucky the fair one
+<p><label>MYRTALE</label> Lucky the fair one
 who has you for her lover! She
 will have plenty of Cyprus onions
 and cheese when you return from a
 voyage to Gythium.
 
 
-<pb n="221"/>
-</p></div></div>
+</p>
+
+<pb n="221"/></div></div>
 
 
 <div type="textpart" subtype="book" n="15">
