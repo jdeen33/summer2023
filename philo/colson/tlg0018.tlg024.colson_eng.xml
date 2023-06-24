@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title>On the Special Laws</title>
-<author>Philo of Alexandria</author>
+ <author ref="urn:cts:greekLit:tlg0018">Philo Judaeus</author>
 <editor>Francis Henry Colson (1857-1943)</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
@@ -59,11 +59,9 @@
 </correction>
 </editorialDecl>
     <refsDecl n="CTS">
-        <cRefPattern matchPattern="(\w+)"
-            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-            <p>This pointer pattern extracts section.</p>
-        </cRefPattern>
-    </refsDecl>
+        <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+        <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+      </refsDecl>
 <!-- <refsDecl doctype="TEI.2">
 <state unit="section" n="chunk"/>å
 </refsDecl>-->

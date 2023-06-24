@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title xml:lang="grc">περὶ τῶν ἀναφερομένων ἐν εἴδει νόμων </title>
-<author>Philo of Alexandria</author>
+ <author ref="urn:cts:greekLit:tlg0018">Philo Judaeus</author>
 <editor>Francis Henry Colson (1857-1943)</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
@@ -58,11 +58,9 @@
 </correction>
 </editorialDecl>
     <refsDecl n="CTS">
-        <cRefPattern matchPattern="(\w+)"
-            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-            <p>This pointer pattern extracts section.</p>
-        </cRefPattern>
-    </refsDecl>
+        <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
+        <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+      </refsDecl>
 <!-- <refsDecl doctype="TEI.2">
 <state unit="section" n="chunk"/>å
 </refsDecl>-->
@@ -765,7 +763,7 @@
 ἑξῆς ὑπογράφει.
 </p></div>
 
-<div type="textpart" subtype="section" n="66"><p><milestone unit="altchapter" n="12"/><ref target="7-137-1"/> Τὸμὲν ἀνωτάτω καὶ πρὸς ἀλήθειαν ἱερὸν θεοῦ
+<div type="textpart" subtype="section" n="66"><p><milestone unit="altchapter" n="12"/><ref target="7-137-1"/> Τὸ μὲν ἀνωτάτω καὶ πρὸς ἀλήθειαν ἱερὸν θεοῦ
 νομίζειν τὸν σύμπαντα χρὴ κόσμον εἶναι, νεὼ μὲν
 ἔχοντα τὸ ἁγιώτατον τῆς τῶν ὄντων οὐσίας μέρος,
 οὐρανόν, ἀναθήματα δὲ τοὺς ἀστέρας, ἱερέας δὲ τοὺς
