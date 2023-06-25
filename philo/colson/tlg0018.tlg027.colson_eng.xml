@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="grc">περὶ τοῦ πάντα σπουδαῖον ἐλεύθερον εἶναι </title>
+<title>Every good man is free.</title>
+<author>Philo of Alexandria</author>
+<editor>Francis Henry Colson (1857-1943)</editor>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Gregory Crane</name>
+<name>Lisa Cerrato</name>
+
+</respStmt>
+<funder n="org:NEH">The National Endowment for the Humanities</funder>
+</titleStmt>
+<extent/>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+    <date type="release" when="2023-06-23">Perseus 5.0</date>
+    <idno type="filename">tlg0018.tlg027.perseus-grc3.xml</idno>
+    <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+    </availability>
+</publicationStmt>
+
+    <sourceDesc>
+        <listBibl>
+            <biblStruct>
+                <monogr>
+                    <author>Philo of Alexandria</author>
+                    <title>Philo Volume VII</title>
+                    <editor>Francis Henry Colson (1857-1943)</editor>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>William Heinemann Ltd.</publisher>
+                        <pubPlace>Cambridge, MA</pubPlace>
+                        <publisher>Harvard University Press</publisher>
+                        <date>1934</date>
+                    </imprint>
+                    <biblScope unit="volume">6</biblScope>
+                </monogr>
+                <ref target="https://ryanfb.github.io/loebolus-data/L320.pdf">Github</ref>
+            </biblStruct>
+        </listBibl>
+    </sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction method="silent">
+<p>optical character recognition</p>
+</correction>
+</editorialDecl>
+    <refsDecl n="CTS">
+        <cRefPattern matchPattern="(\w+)"
+            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+            <p>This pointer pattern extracts section.</p>
+        </cRefPattern>
+    </refsDecl>
+<!-- <refsDecl doctype="TEI.2">
+<state unit="section" n="chunk"/>å
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="edition" n="urn:cts:greekLit:tlg0018.tlg023.colson_eng" xml:lang="grc">
+<pb n="11"/>
+<head>Every Good Man is Free</head>
+<div type="textpart" subtype="section" n="1"><p><milestone unit="para"/><milestone unit="altchapter" n="1"/> Our former treatise, Theodotus, had for its theme
+
+“every bad man is a slave” and established it by many reasonable and indisputable arguments.
+<note n="9.11.a">See Introd. p. 4.</note>
+  The present treatise is closely akin to that, its full brother, indeed, we may say its twin, and in it we shall show that every man of worth is free.</p></div>
+
+<div type="textpart" subtype="section" n="2"><p>
+<note n="9.11.b">On this and the Stoic “paradoxes” in general see Introd. pp. 2 ff.</note>
+  Now we are told
+
+that the saintly company of the Pythagoreans teaches among other excellent doctrines this also, “walk not on the highways.”
+<note n="9.11.c">See Diog. Laert. viii. 17, where this occurs in a list of allegorical watchwords or precepts (σύμβολα) put forth by Pythagoras, others being “Don’t stir a fire with a knife,” “Don’t eat your heart,” and “Don’t keep birds with crooked claws.” Diogenes Laertius explains a few of them. On the exact form of the one quoted here see App. p. 509.</note>
+  This does not mean that we should climb steep hills—the school was not prescribing foot-weariness—but it indicates by this figure that in our words and deeds we should not follow popular and beaten tracks.</p></div>
+
+<div type="textpart" subtype="section" n="3"><p> All genuine votaries of
+
+philosophy have obeyed the injunction, divining in it a law, or rather super-law,
+<note n="9.11.d">See App. p. 509.</note>
+  equivalent to an oracle. Rising above the opinions of the common herd they have opened up a new pathway, in which the outside world can never tread, for studying and discerning
+
+<pb n="13"/>
+truths, and have brought to light the ideal forms
+<note n="9.13.a">ἰδέα here in the Platonic sense equivalent to νοητὸν φῶς below.</note>
+  which none of the unclean may touch. |
+</p></div>
+
+<div type="textpart" subtype="section" n="4"><p>By unclean I mean all those who without ever tasting
+
+education at all, or else having received it in a crooked and distorted form, have changed the stamp of wisdom’s beauty into the ugliness of sophistry.</p></div>
+
+<div type="textpart" subtype="section" n="5"><p> These,
+<note n="9.13.b">This section is clearly a reminiscence of the opening of Plato, <hi rend="italic">Rep.</hi> vii. 514 ff. where mankind are compared to prisoners chained in a cave with their backs to a fire and unable to see more than the shadows cast by the passers-by, who even if released will be so dazzled by the daylight that they will still believe that the shadows are the reality.</note>
+  unable to discern the conceptual light through
+
+the weakness of the soul’s eye, which cannot but be beclouded by the flashing rays,
+<note n="9.13.c">So Plato 515 c διὰ τὰς μαρμαρυγὰς ἀδυνατοῖ καθορᾶν ἐκεῖνα ὧν τότε τὰς σκιὰς ἑώρα.</note>
+  as dwellers in perpetual night disbelieve those who live in the daylight, and think that all their tales of what they have seen around them, shown clearly by the unalloyed radiance of the sunbeams, are wild phantom-like inventions no better than the illusions of the puppet show.
+<note n="9.13.d">Philo is perhaps thinking of <hi rend="italic">ibid.</hi> 514 B ὥσπερ τοῖς θαυματοποιοῖς πρὸ τῶν ἀνθρώπων πρόκειται τὰ παραφράγματα, ὑπὲρ ὧν τὰ θαύματα δεικνύασιν. But see App. p. 509.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="6"><p>| “Surely it is an absurdity,” they think,
+<note n="9.13.e">While the sense requires beyond all question that the next four sections represent the views of the unphilosophical common man and in particular explain the word θαύματα (“puppet show” or “conjurer’s trick”) as applied just above to the paradoxes of the philosophers, it seems strange to find no word to indicate this. And anyone who reads the translations of Yonge or Mangey, where no such word is inserted, naturally starts off by taking these sections to be Philo’s opinion, until he realizes that they will make hopeless nonsense. It is possible that φασί or some such word has fallen out, but not necessary. A somewhat similar air of approbation in stating opinions which are finally condemned may be found in <hi rend="italic">Spec. Leg,</hi> i. 335–338.</note>
+
+
+“a mere showman’s trick, to apply names in this way, to give the name of exile to men who not only spend their days in the heart of the city, but also sit as councillors, jurymen, and members of assembly, and sometimes undertake the burden of administering the market, or managing the gymnasium and the
+
+<pb n="15"/>
+other public services:</p></div>
+
+<div type="textpart" subtype="section" n="7"><p> to call those citizens
+<note n="9.15.a">The paradox of good man citizen <hi rend="italic">v.</hi> bad man exile does not seem to be quoted so often as some of the others, and the only examples cited by Arnim are from Philo himself, <hi rend="italic">e.g. Leg. All.</hi> iii. 1. But cf. Cicero, <hi rend="italic">Acad. Pri.</hi> ii. 136 Sapientem . . . solum civem . . . insipientes omnes peregrinos, exsules.</note>
+  who have
+
+either never been placed on the burgess rolls or have been condemned to disfranchisement or banishment, men chased beyond the frontiers, unable not only to set foot in the country but even to get a distant view of their ancestral soil, unless hounded thither by some kind of avenging furies they come courting death. For when they return there are numberless ministers of punishment waiting for them, spurred to vengeance by their personal feelings and also ready to do service to the commands of the law.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="8"><p><milestone unit="para"/><milestone unit="altchapter" n="2"/> “Surely
+
+
+your other statements too,” they continue, “are contrary to reason, brimful of shameless effrontery and madness or one knows not
+<note n="9.15.b">Lit. “I know not.” This use of the 1st person sing. in a statement of other people’s opinions seems strange, but is paralleled in <hi rend="italic">De Aet.</hi> 119, and <hi rend="italic">Flacc.</hi> 50.</note>
+  what to call them, for even names are difficult to find appropriate to such extravagance. You call those rich
+<note n="9.15.c">The paradox good man rich <hi rend="italic">v</hi>. bad man poor is very common, see examples in <hi rend="italic">S.V.F.</hi> iii. 589–603. Philo’s constant insistence on the contrast between blind wealth and seeing wealth is substantially the same.</note>
+  who are utterly destitute, lacking the very necessaries, who drag on their sorry, miserable life, scarcely providing their daily subsistence, starving exceptions to the general prosperity, feeding on the empty breath of virtue as grasshoppers are said to feed on air.</p></div>
+
+<div type="textpart" subtype="section" n="9"><p>
+<note n="9.15.d">See on <hi rend="italic">De Vit. Cont</hi>. 35.</note>
+  You call those
+
+poor who are lapped round by silver and gold and a multitude of landed possessions and revenues and numberless other good things in unstinted abundance, whose wealth not only benefits their kinsfolk and friends but steps outside the household to do the same to multitudes of fellow tribesmen and wardsmen, and taking a still wider sweep endows the state with all that either peace or war demands.</p></div>
+
+<div type="textpart" subtype="section" n="10"><p> It is part of the
+
+
+
+<pb n="17"/>
+same fantastic dream when you dare to ascribe slavery to the highly connected,
+<note n="9.17.a">See App. p. 510.</note>
+  the indisputably nobly born, who have not only parents but grandparents and ancestors right down to the founders of the family greatly distinguished both in the male and the female line: freedom to those who are heirs in the third generation to the branding iron, the fetter, and immemorial thraldom.”
+</p></div>
+
+<div type="textpart" subtype="section" n="11"><p><milestone unit="para"/>So they think, but all this is as I have said, the
+
+
+shallow talk of men with minds bedimmed, slaves to opinion, basing themselves on the senses, whose unstable council is always open to bribes from its suitors.</p></div>
+
+<div type="textpart" subtype="section" n="12"><p> If they whole-heartedly sought for truth, they ought
+
+not to let themselves be outdone in prudence by the sick in body. They in their desire for health commit themselves to physicians, but these people show no willingness to cast off the soul-sickness of their untrained grossness by resorting to wise men from whom they can not only unlearn their ignorance but gain that knowledge which is mankind’s peculiar property.</p></div>
+
+<div type="textpart" subtype="section" n="13"><p> But since we have it on the sacred authority
+
+
+of Plato that envy has no place in the divine choir,
+<note n="9.17.b"><hi rend="italic">Phaedrus</hi> 247 A. Quoted also with βαίνει for ἵσταται <hi rend="italic">Spec. Leg.</hi> ii. 249, and with many echoes elsewhere. See note on <hi rend="italic">De Fuga</hi> 62 (vol. v. pp. 583 f.).</note>
+  and wisdom is most divine and most freehanded, she never closes her school of thought but always opens her doors to those who thirst for the sweet water of discourse,
+<note n="9.17.c"><hi rend="italic">Cf. Phaedrus</hi> 243 A. ἐπιθυμῶ ποτίμῳ λόγῳ οἷον ἁλμυρὰν ἀκοὴν ἀποκλύσασθαι. The phrase has been used several times by Philo.</note>
+  and pouring on them an unstinted stream of undiluted doctrine, persuades them to be drunken with the drunkenness which is
+
+<pb n="19"/>
+soberness itself.</p></div>
+
+<div type="textpart" subtype="section" n="14"><p> Then when like initiates in the
+
+mysteries they have taken their fill of the revelations, they reproach themselves greatly for their former neglect and feel that they have wasted their time and that their life while they lacked wisdom was not worth the living.</p></div>
+
+<div type="textpart" subtype="section" n="15"><p> It is well then that the young, all
+
+of them and everywhere, should dedicate the first fruits of the flower of their prime above all else to culture, wherein it is good for both youth and old age to dwell. For just as new vessels are said to retain the scents of the substances first poured into them,
+<note n="9.19.a">See App. p. 511. no moral issues are involved. It is an accident which does not tell us anything about character or conduct.</note>
+  so, too, the souls of the young take indelible impressions
+of the ideas first presented to them and do not have them washed away by the stream of the later influx, and so they preserve the original form for all to see.
+
+<milestone unit="para"/><milestone unit="altchapter" n="3"/> So much for these matters.</p></div>
+
+<div type="textpart" subtype="section" n="16"><p> Let us proceed
+
+to the subject of our discourse and give it careful consideration, that we may not go astray, misled by the vagueness in the terms employed, but apprehend what we are talking about, adjust our arguments to it, and so prove our point.</p></div>
+
+<div type="textpart" subtype="section" n="17"><p> Slavery then is applied
+
+in one sense to bodies, in another to souls; bodies have men for their masters, souls their vices and passions. The same is true of freedom; one freedom produces security of the body from men of superior strength, the other sets the mind at liberty from the domination of the passions.</p></div>
+
+<div type="textpart" subtype="section" n="18"><p> No one makes the first
+
+kind the subject of investigation.
+<note n="9.19.b">The meaning presumably is that ἐλευθερία in the literal sense cannot be the subject of a philosophical ζήτημα because</note>
+  For the vicissitudes
+of men are numberless and in many instances and at many times persons of the highest virtue have through adverse blows of fortune lost the
+
+<pb n="21"/>
+freedom to which they were born. Our inquiry is concerned with characters which have never fallen under the yoke of desire, or fear, or pleasure, or grief; characters which have as it were escaped from prison and thrown off the chains which bound them so tightly.</p></div>
+
+<div type="textpart" subtype="section" n="19"><p> Casting aside, therefore, specious
+
+quibblings and the terms which have no basis in nature but depend upon convention, such as “homebred,”
+“purchased” or “captured in war,” let us examine the veritable free man, who alone possesses independence, even though a host of people claim to be his masters. Let us hear the voice of Sophocles in words which are as true as any Delphic oracle
+<quote>
+<l>God and no mortal is my Sovereign.
+<note n="9.21.a">This line is quoted in Arist. <hi rend="italic">Eth. Eud.</hi> 1242 a 37 with Ζεύς for θεός, as the anapaestic metre requires, and is paraphrased by Ambrose “Jupiter mihi praeest, nullus autem hominum.” As Ambros is not likely to have known the line from any other source, there is certainly some reason to suppose that he found Ζεὺς in his text of Philo.</note>
+</l>
+</quote>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="20"><p>For in very truth he who has God alone for his leader,
+
+he alone is free, though to my thinking he is also the leader of all others, having received the charge of earthly things from the great, the immortal King, whom he, the mortal, serves as viceroy. But the subject of the wise man’s sovereignty
+<note n="9.21.b"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 122 οὐ μόνον δὲ ἐλευθέρους εἶναι τοὺς σοφοὺς ἀλλὰ καὶ βασιλέας. This is probably the most common of the paradoxes, and is given by Philo several times, <hi rend="italic">e.g. De Mut.</hi> 15.2 (vol. v. p. 591), where see note.</note>
+  must be postponed
+to a more suitable occasion and we have now to examine his freedom carefully.</p></div>
+
+<div type="textpart" subtype="section" n="21"><p> If one looks with
+
+a penetrating eye into the facts, he will clearly perceive
+that no two things are so closely akin as independence
+of action and freedom, because the bad man has a multitude of incumbrances, such as love of money or reputation and pleasure, while the good man has none at all. He stands defiant and triumphant
+
+<pb n="23"/>
+over love, fear, cowardice, grief and all that sort, as the victor over the fallen in the wrestling bout.</p></div>
+
+<div type="textpart" subtype="section" n="22"><p> For he has learnt to set at nought the injunctions
+
+
+laid upon him by those most lawless rulers of the soul, inspired as he is by his ardent yearning for the freedom whose peculiar heritage it is that it obeys no orders and works no will but its own. Some people praise the author of the line
+<quote>
+<l>What slave is there who takes no thought of death?
+<note n="9.23.a">Quoted also by Plut. <hi rend="italic">De Poet. Aud.</hi> 13 as from Euripides. Plutarch makes the same point as Philo, that it applies to other seeming evils besides death.</note>
+</l></quote>
+
+
+and think that he well understood the thought that it involves. For he meant that nothing is so calculated to enslave the mind as fearing death through desire to live.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="23"><p><milestone unit="para"/><milestone unit="altchapter" n="4"/> But we must reflect that
+
+
+exemption from slavery belongs to him who takes no thought not only of death but also of poverty, disrepute
+and pain and all the other things which the mass of men count as evil, though the evil lies in themselves and in their judgement, which makes them test the slave by the tasks he performs and fix their eyes on the services he renders instead of on his unenslaved character.</p></div>
+
+<div type="textpart" subtype="section" n="24"><p> For he who with a
+
+mean and slavish spirit puts his hand to mean and slavish actions contrary to his own proper judgement is a slave indeed. But he who adjusts himself and his to fit the present occasion and willingly and also patiently endures the blows of fortune, who holds that there is nothing new in human circumstances, who has by diligent thought convinced himself that, while what is God’s has the honour of possessing eternal order and happiness, all mortal things are carried about in the tossing surge of circumstance
+and sway unevenly on the balance, who nobly endures
+whatever befalls him—he indeed needs no more to
+
+<pb n="25"/>
+make him a philosopher and a free man.</p></div>
+
+<div type="textpart" subtype="section" n="25"><p> And, therefore,
+
+
+he will not obey just anyone who gives him orders, even though he menaces him with outrage and tortures and threats however dreadful, but will openly and boldly defy him thus:
+
+<quote>
+<l>Roast and consume my flesh, and drink thy fill</l>
+<l>Of my dark blood; for sooner shall the stars</l>
+<l>Go ’neath the earth and earth go up to heaven</l>
+<l>Than thou shalt from my lips meet fawning word.
+<note n="9.25.a">See on § 99.</note>
+</l>
+</quote>
+
+
+
+</p></div>
+
+<div type="textpart" subtype="section" n="26"><p><milestone unit="para"/><milestone unit="altchapter" n="5"/> I have observed in a contest of pancratiasts how
+
+one of the combatants will strike blow after blow both with hands and feet, every one of them well aimed, and leave nothing undone that might secure his victory, and yet he will finally quit the arena without a crown in a state of exhaustion and collapse, while the object of his attack, a mass of closely packed flesh, rigid and solid, full of the wiriness
+<note n="9.25.b">Or “elasticity”—or perhaps “with the well-knit frame of the true athlete.” That is to say I conceive the word to be used in the semi-physical Stoic sense of the force or current which holds bodies together and is otherwise known as ἕξις. Thus “walking” is said by Seneca to be a “spiritus a principali usque ad pedes permissus” (Arnold, <hi rend="italic">Roman Stoicism</hi>, pp. 89, 250). See on ἕξεως πνευματικῆς (<hi rend="italic">De Aet.</hi> 86). It can hardly here mean “athletic spirit” in the sense that we use the phrase, nor yet the “good wind” of the athlete, though Leisegang perhaps took it so, when he couples this passage with <hi rend="italic">Leg. All.</hi> iii. 14 ἀθλητοῦ τρόπον διαπνέοντος καὶ συλλεγομένου τὸ πνεῦμα</note>
+  of the true athlete, his sinews taut from end to end, firm as a piece of rock or iron, will yield not a whit to the blows, but by his stark and stubborn endurance will break down utterly the strength of his adversary and end by winning a complete victory.</p></div>
+
+<div type="textpart" subtype="section" n="27"><p> Much the same
+
+as it seems to me is the case of the virtuous man; his soul strongly fortified with a resolution firmly founded on reason, he compels the employer of violence to give up in exhaustion, sooner than himself
+
+<pb n="27"/>
+submit to do anything contrary to his judgement. This statement may perhaps seem incredible to those who have had no experience of virtue
+<note n="9.27.a">i.e. in themselves, but πάσχειν ἀρετήν in this sense, or even in the sense of having experience of virtue in others is more than doubtful Greek. No satisfactory emendation however has been proposed. See note 1.</note>
+  (so would the other just mentioned to those who do not know the pancratiast), but none the less it is an actual fact.</p></div>
+
+<div type="textpart" subtype="section" n="28"><p> It
+
+is this which Antisthenes had in view when he said that a virtuous man is heavy to carry,
+<note n="9.27.b">Zeller, <hi rend="italic">Socrates</hi> (Eng. trans.), p. 334 takes the saying to mean that the virtuous man is hard to bear or makes himself a nuisance by telling unpleasant truths and quotes in support other similar sayings of the Cynics. Philo takes it in a quite different sense, though the last words of § 31 suggest something of the thought which Zeller assigns to it.</note>
+  for as want of sense is a light thing, never stationary, so good sense is firmly based, never swerves and has a weight that cannot be shaken.</p></div>
+
+<div type="textpart" subtype="section" n="29"><p> The law-giver of the Jews describes
+
+
+the wise man’s hands as heavy,
+<note n="9.27.c">Ex. xvii. 12. The same interpretation is given with some additions in <hi rend="italic">Leg. All.</hi> iii. 45.</note>
+  indicating by this figure that his actions are not superficial but firmly based, the outcome of a mind that never wavers.</p></div>
+
+<div type="textpart" subtype="section" n="30"><p> No one then can compel him, since he has
+
+come to despise both pain and death, and by the law of nature has all fools in subjection. For just as goats and oxen and sheep are led by goatherds and ox-herds
+and shepherds, and flocks and herds cannot possibly give orders to herdsmen, so too the multitude,
+who are like cattle, require a master and a ruler and have for their leaders men of virtue, appointed to the office of governing the herd.</p></div>
+
+<div type="textpart" subtype="section" n="31"><p> Homer
+
+often calls kings “shepherds of the people,”
+<note n="9.27.d"><hi rend="italic">e.g. Il.</hi> ii. 243.</note>
+  but nature more accurately applies the title to the good,
+
+<pb n="29"/>
+since kings are more often in the position of the sheep than of the shepherd. They are led by strong drink and good looks and by baked meats and savoury dishes and the dainties produced by cooks and confectioners,
+to say nothing of their craving for silver and gold and grander ambitions. But the good nothing can ensnare, and it is theirs also to admonish those whom they see caught in the toils of pleasure.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="32"><p><milestone unit="para"/><milestone unit="altchapter" n="6"/>
+<note n="9.29.a">§§ 32–40. These sections, except in § 40, where the casual illustration from the lions leads Philo to revert to his main theme, do not seem to bear upon the argument that the good man alone is free. They may perhaps be regarded as arguing that, independently of the main philosophical contention, the common tests of slavery and freedom are not consistently held. So with ὑπηρεσίαι, which as Cohn points out has been stated in § 23 to be the ordinary test, no one calls the soldier a slave, nor yet that other soldier, the freeman driven by poverty to do menial tasks. On the other hand (§ 34) persons who are admittedly slaves in the ordinary sense have functions which are not ὑπηρεσίαι. A second test (obedience) begins in § 36. This breaks down because children and pupils obey but are not slaves; a third test, purchase (§ 37), because ransomed captives are not slaves, and purchase also does not prevent the complete subjection of the purchaser to the purchased (§§ 38–39).</note>
+ That services rendered are no proof of enslavement
+
+
+is very clearly shown in war-time. We see soldiers in the field all working on their own account, not only carrying all their weapons, but also laden like beasts with every necessary requirement, and then making expeditions to get water or firewood or fodder for the animals.</p></div>
+
+<div type="textpart" subtype="section" n="33"><p> As for labours required in
+
+defence against the enemy, such as cutting trenches or building walls or constructing triremes, and all other skilled or subsidiary operations in which the hands and the rest of the body are employed, there is no need to recount them at length.</p></div>
+
+<div type="textpart" subtype="section" n="34"><p> On the other hand,
+
+there is a peace-time war, no less grave than those fought with arms, a war set on foot by disrepute and poverty and dire lack of the necessaries of life, a war by which men are forced under duress to undertake the most servile tasks, digging and toiling on the land and practising menial crafts, labouring unceasingly
+
+<pb n="31"/>
+to earn a meagre
+<note n="9.31.a">Stephanus says of παρατρέφεσθαι “Plutarchus dicitur usurpasse de pauperibus qui misere aluntur,” but no examples are quoted, and the words may simply mean “get their rations,” the point of the prefix being that like slaves they are dependent on others.</note>
+  subsistence; often too carrying burdens in the midst of the market place before the eyes of their fellows in age who were their associates in boyhood and in youth. |
+</p></div>
+
+<div type="textpart" subtype="section" n="35"><p>There are others born in slavery, who by a happy dispensation
+
+
+of fortune pursue the occupations of the free. They receive the stewardship of houses and landed estates and great properties; sometimes too they become the rulers of their fellow slaves. Many too have the wives and orphan children of their masters committed to their charge, being preferred for trustworthiness
+to friends and members of the family. Still all the same they are slaves though they lend, purchase, collect revenues and are much courted. Why then should we wonder when the opposite occurs and a man whose good luck has taken a bad turn performs the offices of a slave?</p></div>
+
+<div type="textpart" subtype="section" n="36"><p> But you say, “by
+
+obedience to another he loses his liberty.” How then is it that children suffer the orders of their father or mother, and pupils the injunctions of their instructors?
+For no one is willing to be a slave
+<note n="9.31.b">This may be taken in two ways, (1) as in the translation with what follows: the parents’ interests are identical with those of the children, and they cannot wish them to be slaves; (2) taking it with the previous sentence, no one who acts voluntarily is a slave, and the children do act voluntarily.</note>
+ ; and surely parents will not show such an extreme hatred of their offspring as to compel their own children to submit to render services which according to you are the sole distinctive marks of slavery.</p></div>
+
+<div type="textpart" subtype="section" n="37"><p> Again, anyone who
+
+thinks that people put up for sale
+<note n="9.31.c">Perhaps “sold cheap” as apparently in § 121. On the other hand neither here nor in <hi rend="italic">Flaccus</hi> 132 is there much point in cheapness. See my note on <hi rend="italic">De Cher.</hi> 123, vol. ii. p. 486, where it is suggested that the word merely conveys some measure of contempt like our “peddling.”</note>
+  by kidnappers thereby become slaves goes utterly astray from the truth. Selling does not make the purchaser a master,
+
+<pb n="33"/>
+nor the purchased a slave. Fathers pay a price for their sons and sons often for their fathers if they have been carried off in raids or taken prisoners in war, and that such persons are free men is asserted by the laws of nature which have a more solid foundation
+than those of our lower world. |
+</p></div>
+
+<div type="textpart" subtype="section" n="38"><p>Indeed, some of those thus bought and sold reverse
+
+the situation to such an extreme extent that they become the masters of their purchasers instead of their slaves. I have often myself seen pretty little slave girls with a natural gift for wheedling words, who with these two sources of strength, beauty of face and charm of speech, stormed the hearts of their owners. For these two are engines of attack against souls with no ballast or stability, engines mightier than all the machines constructed to demolish walls.</p></div>
+
+<div type="textpart" subtype="section" n="39"><p> This is shown by the way in which their owners court
+
+them, supplicate them, eagerly beg their favours, as though they were praying to fortune or some good genius. If they are scouted they go into fits of despair and if they just see a kindly glance they dance for joy.</p></div>
+
+<div type="textpart" subtype="section" n="40"><p> If selling constitutes slavery we
+
+should have to assert that a person who had bought some lions is master of the lions,
+<note n="9.33.a">εἰ μὴ refers back to § 37. Philo is no doubt thinking of the story told of Diogenes (Diog. Laert. vi. 75): when his friends offered to ransom him from the pirates, he refused, “for lions are not slaves of those who keep them, but they are the slaves of the lions. For fear is the mark of the slave, but wild beasts make men fear them.”</note>
+  whereas if the beasts do but turn menacing eyes upon him, the poor man will learn at once by experience the cruel and ferocious lordship of those whom he has purchased. Well then must we not suppose that if lions cannot, still less can the wise man be enslaved, who has in his free and unscathed soul a greater power of resistance
+
+<pb n="35"/>
+to the yoke than any he could make with the naturally
+slavish body and all the vigour of its physical strength?
+
+</p></div>
+
+<div type="textpart" subtype="section" n="41"><p><milestone unit="para"/><milestone unit="altchapter" n="7"/> The freedom of the good man may be learnt
+
+in other ways. No slave is really happy. For what greater misery is there than to live with no power over anything, including oneself? But the wise man is happy, ballasted and freighted
+<note n="9.35.a">See on § 128.</note>
+  by his high morality, which confers power over everything, and so beyond all doubt and of sheer necessity, the good man is free.</p></div>
+
+<div type="textpart" subtype="section" n="42"><p> Furthermore no one would deny that the friends
+
+of God are free. Surely when we agree that the familiars of kings enjoy not only freedom but authority,
+because they take part in their management and administration as leaders, we must not give the name of slaves to those who stand in the same relation to the celestial gods, who are god-lovers and thereby necessarily god-beloved, rewarded with the same affection as they have shown, and in the judgement of truth are as the poets say,
+<note n="9.35.b">No poetical reference is quoted either for the thought or the language, and I understand the reference to be to the word πανάρχων, which is not cited from elsewhere.</note>
+  rulers of all and kings of kings.</p></div>
+
+<div type="textpart" subtype="section" n="43"><p> The legislator of the Jews in a bolder spirit
+
+went to a further extreme and in the practice of his “naked” philosophy,
+<note n="9.35.c">By “naked philosophy” he perhaps means “frank” or “outspoken.” <hi rend="italic">Cf.</hi> γυμνοῖς ἤθεσι προσαγορεύοντες “their manner of address was unreserved” <hi rend="italic">De Abr.</hi> 117, and γυμνοῖς ὀνόμασι <hi rend="italic">Spec. Leg.</hi> ii. 131. But this does not quite account for ὡς λόγος, and still less does the γνησίας which Mangey proposed. Possibly there may be some allusion to the gymnosophists (see § 93), but more probably to something which we cannot now recover.</note>
+  as they call it, ventured to speak of him who was possessed by love of the divine and worshipped the Self-existent only, as having
+
+<pb n="37"/>
+passed from a man into a god, though, indeed, a god to men, not to the different parts of nature, thus leaving to the Father of all the place of King and God of gods.</p></div>
+
+<div type="textpart" subtype="section" n="44"><p>
+<note n="9.37.a">text cited elsewhere several times. <hi rend="italic">Cf.</hi> in particular <hi rend="italic">Quod Det.</hi> 161 ff,</note>
+  Does one who has obtained so great a
+
+preferment deserve to be considered a slave and not rather the solely free? Though he was not deemed worthy of divine rank in his own right, yet because he had God for a friend, he was bound to have absolute felicity, for he had no feeble champion, nor one neglectful of the rights of friendship in Him who is the comrade’s god and keeps watch over the claims of comradeship.</p></div>
+
+<div type="textpart" subtype="section" n="45"><p> Further again, just as with cities,
+
+those which lie under an oligarchy or tyranny suffer enslavement, because they have cruel and severe masters, who keep them in subjection under their sway, while those which have laws to care for and protect them are free, so, too, with men. Those in whom anger or desire or any other passion, or again any insidious vice holds sway, are entirely enslaved, while all whose life is regulated by law are free.</p></div>
+
+<div type="textpart" subtype="section" n="46"><p> And right reason is an infallible law engraved not by
+
+this mortal or that and, therefore, perishable as he, nor on parchment or slabs, and, therefore, soulless as they, but by immortal nature on the immortal mind, never to perish.</p></div>
+
+<div type="textpart" subtype="section" n="47"><p> So, one may well wonder at the
+
+short-sightedness of those who ignore the characteristics
+which so clearly distinguish different things and declare that the laws of Solon and Lycurgus are all-sufficient
+to secure the freedom of the greatest of republics, Athens and Sparta, because their sovereign authority is loyally accepted by those who enjoy that citizenship, yet deny that right reason, which is the
+
+<pb n="39"/>
+fountain head of all other law, can impart freedom to the wise, who obey all that it prescribes or forbids.
+</p></div>
+
+<div type="textpart" subtype="section" n="48"><p>Further, besides these just mentioned,
+
+we have a very clear evidence of freedom in the equality recognized by all the good in addressing each other. Thus it is argued that the following iambic verses contain sound philosophy:
+<quote><l>No part or lot in law has any slave</l></quote>
+and again
+<quote><l>A slave thou art, no right of speech hast thou.
+<note n="9.39.a">The source of these two quotations is unknown. The second is quoted by Marcus Aurelius xi. 80.</note>
+ </l></quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="49"><p>Just as the laws of music put all adepts in music on
+
+an equal footing in discussing that art and the laws of grammar and geometry do the same for their respective professionals, so, too, the laws of human life and conduct create a similar equality between those who are proficient in life-matters.</p></div>
+
+<div type="textpart" subtype="section" n="50"><p> But the
+
+good are all proficient in such matters, because their proficiency embraces the whole of nature. Some of the good are admittedly free,
+<note n="9.39.b">The point of the words “some . . . free” is obscure both here and below and their expunction has been suggested. I think they are defensible here, but not below, where I suggest that they may have been inserted in mistaken analogy. The argument, as I understand it, is, ἰσηγορία between persons implies that they are of the same status, both free or both slaves. All good men, being proficient in the laws or art of conduct, have ἰσηγ. with each other, therefore they are all either free or slaves. And as no one denies that some good men are free, they must all be free.<span class="linebreak"></span> The negative argument is, the bad man, being unproficient in the said laws or art, has no ἰσηγ. with the proficient, and as all free men have ἰσηγ. with each other the bad cannot be free. I do not see how one can fit “some of the good are free” into this.</note>
+  and, therefore, all who enjoy the right to address them on an equal footing are free also. Consequently none of the good is a slave but all are free.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="51"><p><milestone unit="para"/><milestone unit="altchapter" n="8"/> By the same line of
+
+argument it will appear that the fool is a slave. The laws of music, of grammar, of art in general, do not put the unmusical, the illiterate, the inartistic in
+
+<pb n="41"/>
+general on an equal footing in discussion with the musical, the literary and the artistic. In the same way the laws of life and conduct do not put the un-proficient
+in life matters on an equal footing in discussion
+with the proficient.</p></div>
+
+<div type="textpart" subtype="section" n="52"><p> But this right of equal
+
+discussion, which these laws give, is given to all the free [and some of the good are free]. And in life-matters
+the bad are unproficient, while the wise are most proficient and consequently none of the bad is free but all are slaves.</p></div>
+
+<div type="textpart" subtype="section" n="53"><p> Zeno, who lived under the
+
+direction of virtue to an unsurpassed degree, proves still more forcibly that the bad are not on equal terms in addressing the virtuous. “Shall not the bad rue it if he gainsay the good?” he says. The bad man, therefore, has no right to speak to a good man as his equal.</p></div>
+
+<div type="textpart" subtype="section" n="54"><p>
+<note n="9.41.a">Cohn and Arnim in <hi rend="italic">S.V.F.</hi> i. 228 take this sentence as part of the quotation from Zeno. It seems to me better to take it as Philo’s inference from Zeno’s dictum. To include it in Zeno’s words would imply that he made a point of ἰσηγορία, and one might expect to hear more of it, but the term does not appear elsewhere in <hi rend="italic">S. V.F.</hi> Also § 54 deals entirely with Zeno’s question and not with the inference drawn from it.</note>
+  I am aware that many people
+
+will pour abuse on such words and hold that Zeno’s question
+<note n="9.41.b">Or perhaps “the argument,” see note on <hi rend="italic">De Aet,</hi> 143.</note>
+  shows presumption rather than good sense. But when they have had their jeering and stopped laughing, if they are willing to look closely and seek for a clear understanding of the saying, they will to their utter confusion recognize its absolute truth and that nothing will a man rue more than refusal to listen to the wise.</p></div>
+
+<div type="textpart" subtype="section" n="55"><p> For confiscation of money or disfranchisement
+
+
+or banishment or the cruel disgrace of the lash, or
+anything else of the same kind, are small things and of no account when set against vices and the results which vices produce. But the majority, who through the blindness of their reason do not discern the damages which the soul has sustained,
+
+<pb n="43"/>
+only feel the pain of external injuries, because the faculty of judgement, which alone can enable them to apprehend the damage to the mind, is taken from them.</p></div>
+
+<div type="textpart" subtype="section" n="56"><p> But if they could recover their sight, observing
+
+
+the delusions which folly brings and the outrages wrought by cowardice and all that the sottishness of incontinence and the lawlessness of injustice has done, they will be filled with ceaseless sorrow at the calamitous plight of the best thing they possess, and even refuse to listen to consolation, so vast are the evils which have befallen them.</p></div>
+
+<div type="textpart" subtype="section" n="57"><p>  We may
+
+
+well suppose that the fountain from which Zeno drew this thought was the law-book of the Jews, which tells of two brothers, one wise and temperate, the other incontinent, how the father of them both prayed in pity for him who had not attained to virtue that he should be his brother’s slave.
+<note n="9.43.a">Gen. xxvii. 40 “Thou shalt serve (δουλεύσεις) thy brother.” <hi rend="italic">Cf. De Cong.</hi> 176. For the idea that Zeno drew from Moses cf. the ascription of Heracleitus’s doctrine of the opposites to him, <hi rend="italic">Quis Rerum</hi> 214.</note>
+  He held that slavery, which men think the worst of evils, was the best possible boon to the fool, because the loss of independence would prevent him from transgressing without fear of punishment, and his character would be improved under the control of the authority set above him.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="58"><p><milestone unit="para"/><milestone unit="altchapter" n="9"/> I have now said all that appeared to me necessary
+
+
+to prove the proposition, but just as physicians regularly use a greater multiformity of treatment to cure multiform diseases, so when statements regarded as paradoxical are put forward, their unfamiliarity renders it necessary to apply
+<note n="9.43.b">The word perhaps carries on the idea of medical treat- ment, i.e. ointment or liniment, but more probably, as suggested by πληττόμενοι, friction, “rubbing it in.”</note>
+  a succession of proofs to bear upon the subject. For some can only be brought to understand under the impact of a continued
+series of demonstrations.</p></div>
+
+<div type="textpart" subtype="section" n="59"><p> Thus the following
+
+
+
+<pb n="45"/>
+argument is well to the point. He who always acts sensibly, always acts well: he who always acts well, always acts rightly: he who always acts rightly, also acts impeccably, blamelessly, faultlessly, irreproachably,
+harmlessly, and, therefore, will have the power to do anything, and to live as he wishes, and he who has this power must be free. But the good man always acts sensibly, and, therefore, he alone is free.</p></div>
+
+<div type="textpart" subtype="section" n="60"><p> Again, one who cannot be compelled to do anything
+
+or prevented from doing anything, cannot be a slave. But the good man cannot be compelled or prevented: the good man, therefore, cannot be a slave. That he is not compelled nor prevented is evident. One is prevented when he does not get what he desires, but the wise man desires things which have their origin in virtue, and these, being what he is, he cannot fail to obtain. Further, if one is compelled he clearly acts against his will. But where there are actions,
+<note n="9.45.a">Literally “things in which there are actions are righteous actions,” etc., which is hardly sense. Arnim’s correction to ἀνθρώποις δὲ (see note 1) is very probable.</note>
+  they are either righteous actions born of virtue or wrong actions born of vice or neutral and indifferent.</p></div>
+
+<div type="textpart" subtype="section" n="61"><p> The virtuous actions he performs not under constraint
+
+but willingly, since all that he does are what he holds to be desirable. The vicious are to be eschewed and therefore he never dreams of doing them. Naturally too in matters indifferent he does not act under compulsion.
+<note n="9.45.b">Philo cannot of course mean “that he does not do indifferent actions,” and we must understand βιασθέντα πράττειν. Ambrose’s paraphrase “indifferentibus ita non movetur ut nullis momentis . . . inclinetur” looks as if he read something else (? εἰκῆ).</note>
+
+To these, as on a balance his mind preserves its equipoise,
+trained neither to surrender to them in acknowledgement of
+their superior weight, nor yet to regard them with hostility,
+as deserving aversion. Whence it is clear that he does nothing
+
+<pb n="47"/>
+unwillingly and is never compelled, whereas if he were a slave he would be compelled, and therefore the good man will be a free man.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="62"><p><milestone unit="para"/><milestone unit="altchapter" n="10"/> But among those who have kept little company
+
+with the Muses, there are some who have no understanding
+of the methods of logical deduction, but make general statements based on appearances.
+<note n="9.47.a">Lit. “set forth the general appearances of things,” meaning I suppose the impressions they produce as a whole when we do not examine them in detail.</note>
+  These people often ask “who have there been in the past, and who are there living now of the kind that you imagine?” An excellent answer is that in the past there have been those who surpassed their contemporaries
+in virtue, who took God for their sole guide and lived according to a law of nature’s right reason, not only free themselves, but communicating
+<note n="9.47.b">ἀναπιμπλάντες perhaps has the common meaning of “infect,” though here used in a good sense. <hi rend="italic">Cf. De Prov.</hi> 71.</note>
+
+to their neighbours the spirit of freedom: also in our own time there are still men formed as it were in the likeness of the original picture supplied by the high excellence of sages.</p></div>
+
+<div type="textpart" subtype="section" n="63"><p> For it does not
+
+follow that if the souls of the gainsayers have been bereft of freedom, held in bondage to folly and the other vices, the same is true of the human race. Nor is it a matter for wonder that the good do not appear herded in great throngs. First because specimens of great goodness are rare, secondly, because they avoid the great crowd of the more thoughtless and keep themselves at leisure for the contemplation of what nature has to show.
+<note n="9.47.c">For this thought of the rarity and retiring nature of the good <hi rend="italic">cf. De Mut.</hi> 34–38, where it is associated with the text “Enoch was not found.”</note>
+  Their prayer is that if possible they may work a reformation in the lives of the others, for virtue serves the common weal. But as this is made impossible through the atrocious doings which flood the cities, gathering strength from the passions and vices of the soul, they flee right away
+
+<pb n="49"/>
+lest they should be swept down by the force of their onrush, as by the violence of a torrent.</p></div>
+
+<div type="textpart" subtype="section" n="64"><p> But we, if
+
+we had any zeal for betterment should track them to their hiding places, and sitting as suppliants before them, exhort them to join us and humanize our bestial life, in place of war and slavery and a host of ills proclaiming peace, liberty and the overflowing abundance
+of all other blessings.</p></div>
+
+<div type="textpart" subtype="section" n="65"><p> As it is, for the sake of
+
+money we ransack every corner and open up rough and rocky veins of earth, and much of the low land and no small part of the high land is mined in the quest of gold and silver, copper and iron, and the other like substances.</p></div>
+
+<div type="textpart" subtype="section" n="66"><p> The empty-headed way of
+
+thinking, deifying vanity, dives to the depths of the sea, searching whether some fair treasure to delight the senses lies hidden there.
+<note n="9.49.a">Mangey translates “numquid pretiosum adhuc fugiens sensum ibi reponatur.” But this, which is certainly simpler, would require the omission of τῶν.</note>
+  And when it has found different kinds of many-coloured precious stones, some adhering to rocks, others, the more highly prized, to shells, it gives every honour to the beguiling spectacle.</p></div>
+
+<div type="textpart" subtype="section" n="67"><p> But for wisdom or temperance or courage or justice,
+
+no journey is taken by land, even though it gives easy travelling, no seas are navigated, though the skippers sail them every summer season.</p></div>
+
+<div type="textpart" subtype="section" n="68"><p> Yet what need is
+
+there of long journeying on the land or voyaging on the seas to seek and search for virtue, whose roots have been set by their Maker ever so near us, as the wise legislator of the Jews also says, “in thy mouth, in thy heart and in thy hand,” thereby indicating in
+
+<pb n="51"/>
+a figure, words, thoughts and actions?
+<note n="9.51.a">The whole section is founded on Deut. xxx. 11–14, part of which is actually quoted, a passage often used by Philo, <hi rend="italic">e.g. De Virt.</hi> 183, and with the same interpretation of <hi rend="italic">v.</hi> 14.</note>
+  All these, indeed, need the cultivator’s skill.</p></div>
+
+<div type="textpart" subtype="section" n="69"><p> Those who prefer
+
+idleness to labour, not only prevent the growths but also wither and destroy the roots. But those who consider inaction mischievous and are willing to labour, do as the husbandman does with fine young shoots. By constant care they rear the virtues into stems rising up to heaven, saplings everblooming and immortal, bearing and never ceasing to bear the fruits of happiness, or as some hold, not so much bearing as being in themselves that happiness.
+These Moses often calls by the compound name of wholefruits.</p></div>
+
+<div type="textpart" subtype="section" n="70"><p>
+<note n="9.51.b">See App. p. 511.</note>
+  In the case of growths which
+
+spring from the earth, neither are the trees the fruit nor the fruit the trees, but in the soul’s plantation the saplings of wisdom, of justice, of temperance, have their whole being transformed completely into fruits.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="71"><p><milestone unit="para"/><milestone unit="altchapter" n="11"/> Having then in us such
+
+potentialities, should we not blush to denounce the human race as lacking in wisdom, wisdom which the bellows could kindle into a blaze like the spark which smoulders in the firewood? And yet these things for which we should strive eagerly, things so closely akin to ourselves, so truly our own, we treat with great slackness and constant indifference and thus destroy the germs of excellence, while those things in which deficiency were a merit we desire with an insatiable yearning.</p></div>
+
+<div type="textpart" subtype="section" n="72"><p> Consequently land and
+
+sea are full of the rich, the distinguished and the men of pleasure, but of the wise and just and virtuous, the number is small. But this small body though scanty
+
+<pb n="53"/>
+is not absolutely non-existent.</p></div>
+
+<div type="textpart" subtype="section" n="73"><p>
+<note n="9.53.a">a So too in <hi rend="italic">De Mut.</hi> 35–37, though some say that σοφία and ὁ σοφός are ἀνύπαρκτος, the conclusion is that each of them is ὑπαρκτὸν πρᾶγμα.</note>
+  For this we have
+
+the testimony, both of Greece and the world outside Greece. In Greece there flourished the sages known also by the appropriate
+<note n="9.53.b">“Appropriate,” because ἑπτά is supposed to be derived from σεμνός and σεβασμός, <hi rend="italic">cf. De Op.</hi> 127. But see App. p. 512.</note>
+  name of the Seven, and we might expect that both before them and after them, others had their day, though the memory of the more ancient has vanished in the lapse of many years, and is dimmed in the case of those whose lives are still recent through the widespread neglect of their contemporaries.
+</p></div>
+
+<div type="textpart" subtype="section" n="74"><p><milestone unit="para"/>In the outside world where are those who spread
+
+the message by words and deeds,
+<note n="9.53.c">This translation of the only translatable reading found in any one <hi rend="italic">ms</hi>. is given in despair, for I do not believe that “ambassadors of words and deeds” is a possible expression. Cohn, <hi rend="italic">Hermes,</hi> 1916, p. 174, thinks that πρεσβευταί here = “cultores.” But no example for such a sense of the noun is cited. For what I believe to be the true reading see note 1.</note>
+  we find large associations of men of the highest excellence. Among the Persians there is the order of the Magi, who silently make research into the facts of nature to gain knowledge of the truth and through visions clearer than speech, give and receive the revelations
+of divine excellency.
+<note n="9.53.d"><hi rend="italic">Cf.</hi> the very similar remarks in <hi rend="italic">Spec. Leg.</hi> iii. 100 and note vol. vii. pp. G35 f.</note>
+  In India, too, there is the order of the Gymnosophists, who study ethical as well as physical philosophy and make the whole of their lives an exhibition of virtue.
+<note n="9.53.e">On the Gymnosophists see App. p. 513.</note>
+
+
+</p></div>
+
+<div type="textpart" subtype="section" n="75"><p><milestone unit="para"/><milestone unit="altchapter" n="12"/> Palestinian Syria, too, has not
+
+
+
+<pb n="55"/>
+failed to produce high moral excellence. In this country live a considerable part of the very populous
+nation of the Jews, including as it is said, certain persons, more than four thousand in number, called Essenes.
+<note n="9.55.a">For observations on the relation of this description of the Essenes (§§ 75–91) to those in the <hi rend="italic">Hypothetica</hi> (pp. 437 ff. of this volume) and in Josephus see App. p. 514.</note>
+  Their name which is, I think, a variation, though the form of the Greek is inexact, of ὁσιότης
+(holiness), is given them, because they have shown themselves especially devout in the service of God, not by offering sacrifices of animals, but by resolving to sanctify their minds.</p></div>
+
+<div type="textpart" subtype="section" n="76"><p> The first thing about these
+
+people is that they live in villages and avoid the cities because of the iniquities which have become inveterate among city dwellers, for they know that their company would have a deadly effect upon their own souls, like a disease brought by a pestilential atmosphere. Some of them labour on the land and others pursue such crafts as co-operate with peace and so benefit themselves and their neighbours. They do not hoard gold and silver or acquire great slices of land because they desire the revenues therefrom, but provide what is needed for the necessary requirements
+of life.</p></div>
+
+<div type="textpart" subtype="section" n="77"><p> For while they stand almost alone in
+
+the whole of mankind in that they have become moneyless and landless by deliberate action rather than by lack of good fortune, they are esteemed exceedingly rich, because they judge frugality with contentment to be, as indeed it is, an abundance of wealth.</p></div>
+
+<div type="textpart" subtype="section" n="78"><p> As for darts, javelins, daggers, or the helmet,
+
+breastplate or shield, you could not find a single manufacturer of them, nor, in general, any person making weapons or engines or plying any industry concerned with war, nor, indeed, any of the peaceful kind, which easily lapse into vice, for they have not the vaguest idea of commerce either wholesale or
+
+<pb n="57"/>
+retail or marine, but pack the inducements to covetousness
+off in disgrace.</p></div>
+
+<div type="textpart" subtype="section" n="79"><p> Not a single slave is to be
+
+found among them, but all are free, exchanging services with each other, and they denounce the owners of slaves, not merely for their injustice in outraging the law of equality, but also for their impiety in annulling the statute of Nature, who mother-like has born and reared all men alike, and created them genuine brothers, not in mere name, but in very reality, though this kinship has been put to confusion by the triumph of malignant covetousness,
+which has wrought estrangement instead of affinity and enmity instead of friendship.</p></div>
+
+<div type="textpart" subtype="section" n="80"><p> As for
+
+philosophy they abandon the logical part to quibbling verbalists as unnecessary for the acquisition of virtue, and the physical to visionary praters as beyond the grasp of human nature, only retaining that part which treats philosophically of the existence of God and the creation of the universe.
+<note n="9.57.a">The triple division of philosophy has been frequently mentioned by Philo. For the fullest account of it see <hi rend="italic">De</hi> <hi rend="italic">Agr.</hi> 14 ff. For the Stoic view by which natural theology is included in physic see notes on <hi rend="italic">De Abr.</hi> 99 (vol. vi. pp. 52 and 597).</note>
+  But the ethical part they study very industriously, taking for their trainers the laws of their fathers, which could not possibly have been conceived by the human soul without divine inspiration.</p></div>
+
+<div type="textpart" subtype="section" n="81"><p>  In these they are instructed
+
+
+at all other times, but particularly on the seventh days. For that day has been set apart to be kept holy and on it they abstain from all other work and proceed to sacred spots which they call synagogues. There, arranged in rows according to their ages, the younger below the elder, they sit decorously as befits the occasion with attentive ears.</p></div>
+
+<div type="textpart" subtype="section" n="82"><p> Then one takes the
+
+books and reads aloud and another of especial proficiency
+
+<pb n="59"/>
+comes forward and expounds what is not understood. For most of their philosophical study takes
+the form of allegory, and in this they emulate the tradition of the past.</p></div>
+
+<div type="textpart" subtype="section" n="83"><p>
+<note n="9.59.a">Or “with ardour worthy of the men of old.” The same phrase occurs in <hi rend="italic">De Plant.</hi> 158 and <hi rend="italic">De Mig.</hi> 201, where also the exact meaning is somewhat uncertain.</note>
+  They are trained in
+
+piety, holiness, justice, domestic and civic conduct, knowledge of what is truly good, or evil, or indifferent,
+and how to choose what they should and avoid the opposite, taking for their defining standards these three, love of God, love of virtue, love of men.</p></div>
+
+<div type="textpart" subtype="section" n="84"><p> Their love of God they show by
+
+a multitude of proofs, by religious purity
+<note n="9.59.b">i.e. ceremonial purity and avoidance of defilement. So rather than general purity of life, which would come under τὸ φιλάρετον. For this use of ἁγνεία cf. Plato, <hi rend="italic">Legg.</hi> 917 B καθαρότητός τε καὶ ἁγνείας τὰ περὶ τοὺς θεούς. Though this kind of purity is not mentioned elsewhere in this narrative, it is in other accounts, see App. p. 514.</note>
+  constant and unbroken throughout their lives, by abstinence from oaths, by veracity, by their belief that the Godhead is the cause of all good things and nothing bad; their love of virtue, by their freedom from the love of either money or reputation or pleasure, by self-mastery and endurance, again by frugality, simple living, contentment, humility, respect
+for law, steadiness and all similar qualities; their love of men by benevolence and sense of equality, and their spirit of fellowship, which defies description, though a few words on it will not be out of place.</p></div>
+
+<div type="textpart" subtype="section" n="85"><p> First of all then no one’s house is his own
+
+in the sense that it is not shared by all, for besides the fact that they dwell together in communities, the door is open to visitors from elsewhere who share their convictions.</p></div>
+
+<div type="textpart" subtype="section" n="86"><p>  Again they all have
+
+
+a single treasury and common disbursements; their clothes are held in common and also their food through their institution of public meals. In no other community can we find the custom of sharing
+
+<pb n="61"/>
+roof, life and board more firmly established in actual practice. And that is no more than one would expect. For all the wages which they earn in the day’s work they do not keep as their private property, but throw them into the common stock and allow the benefit thus accruing to be shared by those who wish to use it.</p></div>
+
+<div type="textpart" subtype="section" n="87"><p> The sick are not neglected because
+
+they cannot provide anything, but have the cost of their treatment lying ready in the common stock, so that they can meet expenses out of the greater wealth in full security. To the elder men too is given the respect and care which real
+<note n="9.61.a">γνήσιος is here used of children, not as usual in antithesis to νόθος, but in the literal as opposed to the figurative sense. So too in <hi rend="italic">Legatio</hi> 62, 71, the behaviour of a father-in-law to his son-in-law is as good as if he were the γνήσιος πατήρ. So too in <hi rend="italic">Spec. Leg.</hi> iv. 184 of the behaviour of a ruler to his subjects.</note>
+  children give to their parents, and they receive from countless hands and minds a full and generous maintenance for their latter years.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="88"><p><milestone unit="para"/><milestone unit="altchapter" n="13"/> Such are the athletes
+
+
+of virtue produced by a philosophy free from the pedantry of Greek wordiness, a philosophy which sets its pupils to practise themselves in laudable actions, by which the liberty which can never be enslaved is firmly established. Here we have a proof.</p></div>
+
+<div type="textpart" subtype="section" n="89"><p>
+
+Many are the potentates who at various occasions have raised themselves to power over the country. They differed both in nature and the line of conduct which they followed. Some of them carried their zest for outdoing wild beasts in ferocity to the point of savagery. They left no form of cruelty untried. They slaughtered their subjects wholesale, or like cooks carved them piecemeal and limb by limb whilst still alive, and did not stay their hands till justice who surveys human affairs visited them with the same calamities.</p></div>
+
+<div type="textpart" subtype="section" n="90"><p> Others transformed this wild frenzy into
+
+another kind of viciousness. Their conduct showed
+
+<pb n="63"/>
+intense bitterness, but they talked with calmness, though the mask of their milder language failed to conceal their rancorous disposition. They fawned like venomous hounds yet wrought evils irremediable and left behind them throughout the cities the unforgettable sufferings of their victims as monuments of their impiety and inhumanity.</p></div>
+
+<div type="textpart" subtype="section" n="91"><p> Yet none of these,
+
+neither the extremely ferocious nor the deep-dyed treacherous dissemblers, were able to lay a charge against this congregation of Essenes or holy ones here described. Unable to resist the high excellence of these people, they all treated them as self-governing
+and freemen by nature and extolled their communal meals and that ineffable sense of fellowship,
+which is the clearest evidence of a perfect and supremely happy life.
+<note n="9.63.a">On §§ 89–91 see App. p. 515.</note>
+
+
+</p></div>
+
+<div type="textpart" subtype="section" n="92"><p><milestone unit="para"/><milestone unit="altchapter" n="14"/> But since some consider that the virtues of
+
+large bodies are never perfect, but merely grow and improve and then come to a halt, we must cite as evidence the lives of good individual men, which are the clearest proof of the existence of liberty.</p></div>
+
+<div type="textpart" subtype="section" n="93"><p> Calanus
+
+was an Indian by birth of the school of the gymnosophists.
+Regarded as possessed of endurance more than any of his contemporaries, by combining virtuous actions with laudable words he gained the admiration, not only of his fellow countrymen, but of men of other races, and, what is most singular of all, of enemy sovereigns.</p></div>
+
+<div type="textpart" subtype="section" n="94"><p> Thus Alexander of Macedon, wishing to
+
+exhibit to the Grecian world a specimen of the barbarians’
+wisdom, like a copy reproducing the original picture, began by urging Calanus to travel with him from India with the prospect of winning high fame in the whole of Asia and the whole of Europe;</p></div>
+
+<div type="textpart" subtype="section" n="95"><p> and
+
+
+
+<pb n="65"/>
+when he failed to persuade him declared that he would compel him to follow him. Calanus’s reply was as noble as it was apposite. “What shall I be worth to you, Alexander, for exhibiting to the Greeks if I am compelled to do what I do not wish to do?” What a wealth of frankness there is in the words and far more of freedom in the thought. But more durable than his spoken are his written words and in these he set on record clear signs of a spirit which could not be enslaved.</p></div>
+
+<div type="textpart" subtype="section" n="96"><p> The letter he sent to Alexander
+
+
+runs thus:—</p>
+<p>
+“<hi rend="italic">Calanus to Alexander</hi>
+<milestone unit="para"/>Your friends urge you to apply violence and compulsion to the philosophers of India. These friends, however, have never even in their dreams seen what we do. Bodies you will transport from place to place, but souls you will not compel to do what they will not do, any more than force bricks or sticks to talk. Fire causes the greatest trouble and ruin to living bodies: we are superior to this: we burn ourselves alive.
+<note n="9.65.a"><hi rend="italic">Cf. De Abr.</hi> 182, where it is stated that the gymnosophists bum themselves at the outset of old age. Calanus is said to have ended his life in this way. See App. p. 516.</note>
+  There is no king, no ruler, who will compel us to do what we do not freely wish to do. We are not like those philosophers of the Greeks, who practise words for a festal assembly. With us deeds accord with words and words with deeds. Deeds pass swiftly and words have short-lived power:
+
+<pb n="67"/>
+virtues secure to us blessedness and freedom.”
+<note n="9.67.a">Or if Cohn’s reconstruction (see note 2, pp. 64–66) is pre- ferred, “Our deeds are swift and our words short; but they have power, securing for us blessedness and freedom.” For the suggested reconstruction translated above see same note.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="97"><p>Protestations and judgements like these
+
+may well bring to our lips the saying of Zeno: “Sooner will you sink an inflated bladder than compel
+any virtuous man to do against his will anything that he does not wish.” For never will that soul surrender or suffer defeat which right reason has braced with principles firmly held.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="98"><p><milestone unit="para"/><milestone unit="altchapter" n="15"/> The freedom of the virtuous is also vouched
+
+for by the poets and prose writers, in whose thoughts Greeks and barbarians alike are reared almost from the cradle, and so gain improvement of character and restamp into sterling coin every bit of metal in their souls which has been debased by a faulty upbringing and mode of life.</p></div>
+
+<div type="textpart" subtype="section" n="99"><p> See, for instance, what Heracles
+
+says in Euripides:
+<quote><l>Burn me, consume my flesh, and drink thy fill</l>
+<l>Of my dark blood; for sooner shall the stars</l>
+<l>Go ’neath the earth and earth go up to sky</l>
+<l>Ere thou shalt from my lips meet fawning word.
+<note n="9.67.b">This is the fourth time that this passage is quoted by Philo, the other three being <hi rend="italic">Leg. All</hi> iii. 202, <hi rend="italic">De Ios.</hi> 78, and § 25 above. On the source of the quotation see App. p. 516.</note>
+ </l></quote>
+For in very truth, fawning and flattery and dissembling,
+in which the words are at war with the thought, are utterly slavish. But freedom of speech, genuine without taint of bastardy, and proceeding from a pure conscience, befits the nobly born.
+</p></div>
+
+<div type="textpart" subtype="section" n="100"><p>Again, observe how this same man of
+
+worth, even when put up for sale, seems to be no menial, but strikes awe into the beholders, who feel
+
+<pb n="69"/>
+that he is not only free, but will become the master of his purchaser.</p></div>
+
+<div type="textpart" subtype="section" n="101"><p>
+<note n="9.69.a">This passage from a Satyric drama of Euripides evidently gives a different version from that in Apollodorus ii. 6. 2, in which Heracles having murdered Iphitus has to expiate his crime by three years servitude and accordingly is sold by Hermes to Omphale. During this servitude he kills Syleus, who used to compel strangers to dig in his vineyard. See further App. p. 516.</note>
+  Hermes, for example, in answer
+
+to the question whether Heracles is worthless says:
+<quote><milestone unit="para"/>
+<l>Worthless? far from it, quite the contrary:</l>
+<l>His bearing’s dignified, no meanness here,</l>
+<l>Not slave-like overstocked with fat, and look</l>
+<l>How smart his dress—and he can wield a club.</l>
+</quote>
+To which the other replies:
+<quote><milestone unit="para"/>
+<l>Who wants to buy a stronger than himself,</l>
+<l>And bring him home as master of the house?</l>
+<l>It fairly frightens one to look at you,</l>
+<l>Eyes full of fire—you look just like a bull</l>
+<l>Watching a lion’s onset.</l>
+</quote>
+Then he continues:
+<quote><milestone unit="para"/>
+<l>Your looks alone are evidence enough,</l>
+<l>Though you say nothing, that you won’t obey—</l>
+<l>Giving, not taking, orders is your line.</l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="102"><p>And when Syleus after buying him, sent him into his
+
+estate, he showed by his actions that there was nothing of the slave in his nature. For he killed the finest bull in the stud, nominally as a sacrifice to Zeus, and feasted on it, and then brought out a great quantity of wine and lying there very comfortably drank it in huge draughts.</p></div>
+
+<div type="textpart" subtype="section" n="103"><p> When Syleus arrived,
+
+very indignant both at the loss of his property, and at his servant’s easy-going and excessively disdainful
+
+<pb n="71"/>
+behaviour, Heracles did not change colour a whit, nor make any difference in what he was doing, but said with the utmost boldness:
+<quote><milestone unit="para"/>
+<l>Lie down and let us drink and have a try</l>
+<l>At once, who’ll do it better, you or <milestone unit="altchapter" n="1"/></l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="104"><p>How then must we describe his standing with his
+
+master? Is he slave or lord, he who dares not only to take these liberties, but even to issue orders to his owner, ready to beat him and knock him about if he shows resistance, or if he calls others to his aid to annihilate them altogether! Surely then these title-deeds, which record the so-called purchases, are just a laughing-stock and a mass of nonsense, when they are put out of court by the superior force of those against whom they are drawn up, less valid even than blank sheets of paper and destined to perish utterly, through moths, or time, or mildew.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="105"><p><milestone unit="para"/><milestone unit="altchapter" n="16"/> But it is not fair, an objector will say, to cite
+
+the achievements of the heroes as evidence. They have a greatness above human nature; they vie with the Olympians and as inheritors of a mixed parentage, a blend of mortal and immortal seed, are rightly called demigods, because the mortal ingredient is overpowered by the immortal part, so that there is nothing extraordinary in their contempt for those who plan to enslave them. Be it so!</p></div>
+
+<div type="textpart" subtype="section" n="106"><p> But what of
+
+Anaxarchus or Zeno the Eleatic? Are they heroes or the offspring of gods? Nevertheless in the hands of cruel-hearted tyrants, naturally bitter and stirred to still greater ferocity by anger with them, though racked with strange and ingeniously invented tortures, they behaved as though the bodies in which they lay belonged to strangers or enemies, and with high disdain set the terrors of the tormentors at
+
+<pb n="73"/>
+nought.</p></div>
+
+<div type="textpart" subtype="section" n="107"><p> For having inured the soul from the first to
+
+hold aloof through love of knowledge from association with the passions, and to cleave to culture and wisdom, they set it wandering away from the body and brought it to make its home with wisdom and courage and the other virtues.</p></div>
+
+<div type="textpart" subtype="section" n="108"><p> So it was that Zeno
+
+when suspended and stretched on the wheel, to make him tell something which should not be disclosed, showed himself mightier than the strongest things in nature, fire and iron. He gnawed off his tongue and shot it at the torturer, lest under violence he should involuntarily utter what honour would leave unspoken.</p></div>
+
+<div type="textpart" subtype="section" n="109"><p>
+<note n="9.73.a">The same story is told of Zeno in Diogenes Laertius ix. 27, and also of Anaxarchus, <hi rend="italic">ibid.</hi> 59.</note>
+  Anaxarchus’s speech showed the staunchest
+
+endurance. “Pound Anaxarchus’s skin,” he said,
+“Anaxarchus you cannot pound.”
+<note n="9.73.b">For this story see Diogenes Laertius ix. 59, where the word for the thing pounded is θύλακος (“bag” or “pouch”). By this is meant the body as being the bag containing the soul and ἀσκός here may mean the same rather than the skin in the literal sense.</note>
+  These examples of true courage, full of the spirit of defiance, have a value far exceeding the inherited nobleness of the heroes. Their glory belongs to their parentage and is not of their own volition. The glory of the philosophers rests upon achievements of virtue, freely willed by themselves, and these being what they are, immortalize those who practise them in sincerity.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="110"><p><milestone unit="para"/><milestone unit="altchapter" n="17"/> I know many cases of wrestlers and pancratiasts
+
+so full of ambition and eagerness for victory that though their bodies have lost their strength, they renew their vigour and continue their athletic efforts with nothing to help them but the soul, which they have inured to despise terrors, and in this they persevere to their last gasp.</p></div>
+
+<div type="textpart" subtype="section" n="111"><p> Then, if those who exercise
+
+their bodily vigour have surmounted the fear of death whether in the hope of victory or to avoid seeing themselves defeated, can we suppose that those
+
+<pb n="75"/>
+who drill the invisible mind within them, the veritable man, housed within the form which the senses perceive,—those who train it with words of philosophy and deeds of virtue will not be willing to die for their freedom and so complete their appointed pilgrimage with a spirit that defies enslavement!</p></div>
+
+<div type="textpart" subtype="section" n="112"><p> It is told of
+
+two athletes in a sacred contest how possessed of equal strength, each offensive taken by the one returned in equal measure by the other, they never flagged until both fell dead. “Ah! then thy own prowess will destroy thee,”
+<note n="9.75.a"><hi rend="italic">Il.</hi> vi. 407.</note>
+  are words which will apply to such as these.</p></div>
+
+<div type="textpart" subtype="section" n="113"><p> Surely then if to die for a
+
+garland of wild olive or parsley is a glory to the rivals in the arena, a far greater glory is it to the wise to die for freedom, the love of which stands in very truth implanted in the soul like nothing else, not as a casual adjunct but an essential part of its unity, and cannot be amputated without the whole system being destroyed as the result.</p></div>
+
+<div type="textpart" subtype="section" n="114"><p> Students who investigate
+
+examples of high excellence sing the praises of the Laconian boy, to whom race or his own nature gave a spirit which would not brook enslavement. Carried into captivity by one of Antigonus’s
+<note n="9.75.b">i.e. Antigonus Doson, who conquered Sparta 221 B.C.</note>
+  people, he submitted to such tasks as became a freeman, but stood out against those of a slavish kind, declaring that he would not be a slave. And although by reason of his tender years he had not received the solid nutrition of the laws of Lycurgus, yet from his mere taste of them, he judged that death was a happier lot than his present valueless life, and despairing of ransom gladly put an end to himself.</p></div>
+
+<div type="textpart" subtype="section" n="115"><p>
+<note n="9.75.c">The same story is told by Sen. <hi rend="italic">Ep.</hi> 77 with the same moral. According to Seneca he killed himself by knocking his head against the wall.</note>
+  There is also the story
+
+
+
+<pb n="77"/>
+of the Dardanian women taken prisoners by the Macedonians, how holding slavery to be the worst disgrace they threw the children which they were nurturing into the deepest part of the river, exclaiming, “You at least shall not be slaves but ere you have begun your life of misery shall cut short your destined span and pass still free along the final road which all must tread.”</p></div>
+
+<div type="textpart" subtype="section" n="116"><p>
+<note n="9.77.a">No reference is given for this story. Dardania is apparently a vague term for part of Mysia (<hi rend="italic">Dictionary of Geography</hi>).</note>
+  Polyxena, too, is described
+
+by the tragedian Euripides as thinking little of death but much of her freedom when she says:
+<quote><milestone unit="para"/>
+<l>Willing I die, that none may touch my flesh—</l>
+<l>For I will give my throat with all my heart.</l>
+<l>In heaven’s name let me go free, then slay me</l>
+<l>That I may die still free.
+<note n="9.77.b"><hi rend="italic">Hecuba</hi> 548 ff.</note>
+ </l>
+</quote>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="117"><p><milestone unit="para"/><milestone unit="altchapter" n="18"/> Then can we suppose that while
+
+women and lads, the former endowed by nature with little sense, the latter at so insecure an age, are imbued with so profound a love of liberty, that to save themselves from losing it they seek death as eagerly as if it were immortality—can we suppose, I say, that those who have drunk deep of wisdom undiluted can be anything but free—those who bear within them a well-spring of happiness in the high courage which no malignant force has ever yet subdued because sovereignty and kingship is its everlasting heritage?
+</p></div>
+
+<div type="textpart" subtype="section" n="118"><p>Indeed we hear of whole populations
+
+voluntarily suffering annihilation to safeguard their liberty and at the same time their good faith to dead benefactors. Such is the story told of the Xanthians in recent years. When one of the assassins of Julius Caesar, namely Brutus, marched with an army
+
+<pb n="79"/>
+against them, what they feared was not the sack of their city, but enslavement to a murderer, who had killed his own leader and benefactor, for Caesar had been both to him.</p></div>
+
+<div type="textpart" subtype="section" n="119"><p> As long as they could they fought
+
+on and at first made a powerful defence, and while their numbers were gradually wasting away they still held out. But when their whole strength was spent, they drove their women and parents and children each to their several homes and there slaughtered them, and after piling the bodies in a heap fired it and slew themselves upon it, thus completing their allotted term as free men inspired by a free and noble resolution.</p></div>
+
+<div type="textpart" subtype="section" n="120"><p>
+<note n="9.79.a">The story is told at length by Appian, <hi rend="italic">Bell. Civ.</hi> iv. 76–80.</note>
+  Now these to escape the merciless cruelty of
+
+tyrannical enemies chose death with honour in preference to an inglorious life, but others whom the circumstances of their lot permitted to live, endured in patience, imitating the courage of Heracles, who proved himself superior to the tasks imposed by Eurystheus.</p></div>
+
+<div type="textpart" subtype="section" n="121"><p>
+<note n="9.79.b">The first of these stories about Diogenes, §§ 121 and 122, does not appear to be referred to elsewhere. Of the re- partees in § 123 the first is given in Diogenes Laertius vi. 29 and in another setting <hi rend="italic">ibid.</hi> 74. The second repartee seems to be another form of that recorded in Diogenes Laertius vi. 74, where speaking of a certain Xeniades (elsewhere described as a profligate), he said to the auctioneer “sell me to him, for he needs a master.”</note>
+ Thus it was with the cynic
+
+
+philosopher Diogenes. So great and lofty was his spirit, that when captured by robbers, who grudgingly provided him with the barest minimum of food, still remained unmoved by his present position and had no fear of the cruelty of those who held him in their power. “It is surely very preposterous,” he said, “that while sucking pigs and sheep when they are going to be sold are fed up with greater care to make them fat and well favoured, man the best of animals should be reduced to a skeleton by want of food and
+
+<pb n="81"/>
+constant privations and so fetch a lower price.”</p></div>
+
+<div type="textpart" subtype="section" n="122"><p>
+<note n="9.81.a">See on § 37.</note>
+  He
+
+then received adequate allowances of food and when he was about to be brought to market with the other captives, he first sat down and took his dinner in the highest spirits, and gave some of it to those near him. To one of them who could not resign himself,
+<note n="9.81.b">Or perhaps “could not bring himself to accept the food,” which fits in better with the Homeric quotation. <hi rend="italic">Cf</hi>. οὐχ ὑπέμειναν τὰς δωρέας “they scorned to accept the gifts” (quoted by L. &amp; S. rev. from Isoc. iv. 94).</note>
+  and, indeed, was exceedingly dejected, he said, “Stop this repining and make the best of things, for
+<quote><milestone unit="para"/>
+<l>E’en fair-haired Niobe took thought for food</l>
+<l>Though she had lost twelve children in the halls—</l>
+<l>Six daughters and six sons in prime of youth.”
+<note n="9.81.c"><hi rend="italic">Il</hi>. xxiv. 602 ff.</note>
+ </l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="123"><p>Then when one of the prospective purchasers asked
+
+him what he was skilled at, he said with all boldness “at ruling men,” a reply which, showing freedom, nobility, and natural kingliness, was clearly dictated by the soul within him. Again we find him with his wonted licence making witticisms out of a situation which filled the others with melancholy and dejection.</p></div>
+
+<div type="textpart" subtype="section" n="124"><p> It is said, for instance, that looking at one of
+
+the purchasers, an addict to effeminacy, whose face showed that he had nothing of the male about him, he went up to him and said, “You should buy me, for
+
+<pb n="83"/>
+you seem to me to need a husband,” whereat the person concerned conscience-stricken into shame subsided, and the others were amazed at the courage and the aptness of the sally. Must we apply the term slavery to such as him, or any other word but liberty, over which irresponsible domination has no power?
+<note n="9.83.a">This phrase is difficult. The sense given to δίχα in the translation, by which “without” is extended to mean “not subject to,” s not natural, δίχα is often used by Philo to introduce some additional statement and possibly that may be the meaning here, i.e. “not to say absolute sovereignty,” referring of course to the sovereignty of the sage described by Diogenes Laertius vii. 122 as ἀρχὴ ἀνυπεύθυνος. The natural translation “freedom but not irresponsible sovereignty” (so Mangey “nudam libertatem imperio pleno destitutam”) seems impossibly pointless.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="125"><p>His freedom of speech was emulated by
+
+Chaereas, a man of culture. When he was living in Alexandria by Egypt, he once incurred the anger of Ptolemy, who threatened him in no mild terms. Chaereas considering that his own natural freedom was not a whit inferior to the other’s kingship replied:
+<quote><milestone unit="para"/>
+<l>Be King of Egypt; I care not for you—</l>
+<l>A fig for all your anger.
+<note n="9.83.b"><hi rend="italic">Il</hi>. i. 180 f. (Μυρμιδόυεσσιν for Αἰγυπτίοισιν in the original).</note>
+ </l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="126"><p>For noble souls, whose brightness the greed of fortune
+
+cannot dim, have a kingly something, which urges them to contend on an equal footing with persons of the most massive dignity and pits freedom of speech against arrogance.</p></div>
+
+<div type="textpart" subtype="section" n="127"><p>  A story is told of
+
+
+Theodorus
+<note n="9.83.c">For Theodorus see App. p. 517.</note>
+  surnamed the atheist, that when he had been banished from Athens and had joined Lysimachus, his flight was brought up against him by a person of authority, who recited the circumstances which caused it and declared that he had been ejected after being condemned as an atheist and corrupter of
+
+<pb n="85"/>
+youth.</p></div>
+
+<div type="textpart" subtype="section" n="128"><p> “I was ejected,” he answered, “but I shared that fortune with the son of Zeus Heracles, for he was thrown overboard by the Argonauts, not
+
+for any wrongdoing, but because he himself alone was freight
+<note n="9.85.a"><hi rend="italic">Cf.</hi> § 41. The general meaning of πλήρωμα as a nautical term is “the crew, i.e. not a dead-weight, but the human “complement” as in § 142, but this does not suit the context here, and not very well in § 41, and as the two passages cannot be dissociated, it seems better to assume that in both cases the meaning is “freight” or “cargo.”</note>
+  and ballast enough to overload the vessel, and made his fellow sailors afraid that it would be water-logged. And I, too, changed my residence
+<note n="9.85.b">Or perhaps “was made to leave my home,” μετανέστην having the passive sense which the uncompounded verb often has.</note>
+  for this reason, because the politicians at Athens were unable to keep pace with the loftiness and magnitude of my intellect; also I was the object of envy.”</p></div>
+
+<div type="textpart" subtype="section" n="129"><p> When
+
+Lysimachus put the further question, “Was it then for envy that you were ejected?” he answered, “No, not through envy but because of the transcendence of my natural gifts which the country could not hold.</p></div>
+
+<div type="textpart" subtype="section" n="130"><p> For just as when Semele, while carrying Dionysus,
+
+was unable to bear the weight till the time appointed for her delivery, and Zeus in consternation pulled out the fruit of her womb in a premature stage of being and made it rank equal to the celestial gods, so it was with me: my country was too small to hold such a mass of philosophical thinking, and some lower or higher deity dislodged me and resolved to transplant me to a place more favoured by fortune than Athens.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="131"><p><milestone unit="para"/><milestone unit="altchapter" n="19"/> The freedom of the wise like all other human
+
+good gifts may be seen exemplified also in the irrational
+
+<pb n="87"/>
+animals. Thus cocks are wont to fight with such intrepidity that rather than yield and withdraw, though outdone in strength yet not outdone in courage they continue fighting until they die.</p></div>
+
+<div type="textpart" subtype="section" n="132"><p> This
+
+Miltiades, the general of the Athenians, had observed, and when the Persian king having pressed into the ranks all the flower of Asia crossed into Europe with many myriads, thinking to seize Greece without a struggle, Miltiades collected his fellow soldiers at the Panathenaea and showed them some cocks fighting, holding that the spectacle would speak with a persuasion which no words could have.</p></div>
+
+<div type="textpart" subtype="section" n="133"><p> His judgement did not err, for when they saw this invincible
+
+gallantry and endurance asserting itself even to death in irrational creatures, they seized their arms and rushed to war, where the rivals against whom they were matched would be the bodies of the foes, and recked not of the wounds nor of the slaughter in their hope to secure that if they fell at least their native soil in which they lay would still be free. For nothing so creates an impulse to do better, as that those of less repute than ourselves should rise to heights of achievement beyond our expectation. Cock-fighting is also mentioned by the Tragedian Ion
+<note n="9.87.a">See App. p. 517.</note>
+  134 in these words:
+<quote><l>Battered his body and blind each eye</l>
+<l>He rallies his courage, and faint, still crows,</l>
+<l>For death he prefers to slavery.</l></quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="135"><p>Why then should we suppose that the wise would not
+
+most gladly choose death rather than slavery? Is it not against all reason that the souls of the young and highly gifted should be worsted in the contests of
+
+<pb n="89"/>
+virtue by birds and take only the second place and that barely?
+</p></div>
+
+<div type="textpart" subtype="section" n="136"><p><milestone unit="para"/>This too is a truth well known to everyone who
+
+has taken even a slight hold of culture, that freedom is an honourable thing, and slavery a disgraceful thing, and that honourable things are associated with good men and disgraceful things with bad men. Hence, it clearly follows that no person of true worth is a slave, though threatened by a host of claimants who produce contracts to prove their ownership, nor is any fool a free man, even though he be a Croesus or a Midas or the Great King himself.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="137"><p><milestone unit="para"/><milestone unit="altchapter" n="20"/>
+<note n="9.89.a">§§ 137–143. In these sections Philo seems to abandon his theory and to accept the common conception of freedom and slavery. The slavery which the generals declare to be the worst of evils, which incapacitated for admission to the religious functions at Athens, and for sevice in the <hi rend="italic">Argo,</hi> is according to the doctrine which the treatise preaches not slavery to the wise. It may perhaps be said that if freedom is admitted to be exellent, freedom in the philosophical sense is still more excellent—that the exclusion of slaves in the ordinary sense from the Athenian celebrations and from the <hi rend="italic">Argo</hi> did incidentally teach the lesson that the “free” might carry out menial duties without loss of true freedom. But those ideas are only just hinted at. The real argument is resumed in § 144.</note>
+ And this doctrine that freedom is glorious and
+
+honourable, slavery execrable and disgraceful, is attested by cities and nations, which are more ancient, more permanent, and, as far as mortals may be, immortal, and for immortals it is a law of their being that their every word is true.</p></div>
+
+<div type="textpart" subtype="section" n="138"><p> The senates and
+
+national assemblies meet almost every day to discuss more than anything else how to confirm their freedom if they have it, or to acquire it if they have it not. The Greek and the outside world are perpetually engaged in feuds and wars, nation against nation, and with what object save to escape from slavery and to win freedom?</p></div>
+
+<div type="textpart" subtype="section" n="139"><p> And so on the battlefield,
+
+the commanders of armies and regiments and companies couch their exhortations to their men mainly in this form. “Fellow soldiers, slavery is the most grievous of evils. Let us repel its assault.
+
+<pb n="91"/>
+Freedom is the noblest of human blessings; let us not suffer it to be lost. Freedom is the source and fountain of happiness and from it flow all particular benefits.”</p></div>
+
+<div type="textpart" subtype="section" n="140"><p>  This I think is the reason why
+
+
+the Athenians, the keenest in intelligence among the Greeks—for Athens is in Greece what the pupil is in the eye and the reason in the soul—when they celebrate the procession in honour of the Venerable Goddesses,
+<note n="9.91.a">According to Cohn, Demeter and Persephone, but see App. p. 517.</note>
+  admit no slave to the company, but employ free men and women to carry out all the solemnities, and these not chosen at haphazard, but such as have earnestly pursued a blameless life. On the same principle, the cakes for the feast are made by the youths who have best passed their test, and they consider this service to be an honour and glory as indeed it is.</p></div>
+
+<div type="textpart" subtype="section" n="141"><p> A short time ago, when some players
+
+were acting a tragedy, and reciting those lines of Euripides,
+<quote><milestone unit="para"/>
+<l>The name of freedom is worth all the world;</l>
+<l>If one has little, let him think that much,
+<note n="9.91.b">Part of four lines quoted by Stobaeus from the <hi rend="italic">Auge</hi> of Euripides.</note>
+ </l>
+</quote>
+I saw the whole audience so carried away by enthusiasm that they stood upright to their full height, and raising their voices above the actors, burst into shout after shout of applause, combining praise of the maxim with praise of the poet, who glorified not only freedom for what it does, but even its name.</p></div>
+
+<div type="textpart" subtype="section" n="142"><p> I also admire the Argonauts, who
+
+made their crew consist entirely of the free and admitted no slave, not even those who would do the necessary menial labours, welcoming personal service in these circumstances as the sister of
+
+<pb n="93"/>
+freedom.</p></div>
+
+<div type="textpart" subtype="section" n="143"><p> And if we are justified in listening to
+
+the poets,—and why should we not, since they are our educators through all our days, and as parents in private life teach wisdom to their children, so do they in public life to their cities—if I say we believe them, even the <hi rend="italic">Argo,</hi> which captained by Jason was endowed with soul and reason, a sentient being filled with love of freedom, would not let bond servants board her. So Aeschylus says of her:
+<quote><milestone unit="para"/>
+<l>Where is the sacred bark of <hi rend="italic">Argo</hi>? Speak.
+<note n="9.93.a">This refers to the legend that Athena fitted into the prow of the <hi rend="italic">Argo</hi> a speaking (φωνῆεν) timber from the oak at Dodona. See Apollodorus i. 9. 19 who mentions two of its utterances, one being the complaint that Heracles overloaded it referred to in § 128. The quotation from Aeschylus, at any rate as punctuated by Cohn and translated above, does not seem very apposite. As αὔδασον has no MS. authority (see note 1), the correction αὐδῆεν or αὐδᾶεν seems probable unless Nauck’s objection that the word would not be used in iambics precludes it. If αὔδασον is retained I should prefer to translate “Where is it (or he)? Speak, holy bark of <hi rend="italic">Argo</hi>.”</note>
+ </l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="144"><p>The menacing gestures and speeches with which
+
+some people threaten the wise should be treated with little respect and meet with a reply like that of Antigenidas, the flute-player. When a rival professional said to him in anger, “I’ll buy you,” he answered him with great irony,
+<note n="9.93.b">Or “very wittily” or “very good-naturedly.” I have discussed the meaning of this phrase in a note on <hi rend="italic">De Ios.</hi> 168, vol. vi. p. 602. Antigenidas was a famous Theban musician, about the beginning of the fourth century MS.</note>
+  “Then I’ll teach you to play.”</p></div>
+
+<div type="textpart" subtype="section" n="145"><p> So then, too, the man of worth may say
+
+to his prospective purchaser, “Then you will have lessons in self-control.”</p></div>
+
+<div type="textpart" subtype="section" n="146"><p> If one threatens him with banishment, he can say, “Every land is my native country”
+<note n="9.93.c">Perhaps a reminiscence of the line by an unknown author<span class="linebreak"></span> <blockquote><p><span class="line indent5">τῷ γὰρ καλῶς πράσσοντι πᾶσα γῆ πατρίς,</span><span class="linebreak"></span> <span class="line">though the meaning of this is not what is intended here.</span><span class="linebreak"></span></p></blockquote></note>
+ ; if with loss of money, “A moderate
+
+livelihood suffices me
+<note n="9.93.d">A fragment of Euripides (lyrical, whence the form βιοτά for -ή), and continuing σώφρονος τραπέζης.</note>
+ ; if the threat takes the
+
+<pb n="95"/>
+form of blows or death, he can say, “These bugbears do not scare me; I am not inferior to boxers or pancratiasts, who though they see but dim shadows of true excellence, since they only cultivate robustness of body, yet endure both bravely. For the mind within me which rules the body is by courage so well-braced and nerved, that it can stand superior to any kind of pain.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="147"><p><milestone unit="para"/><milestone unit="altchapter" n="21"/> [We must be careful, therefore, not to take a wild
+
+beast of this kind, which displays not only strength, but by the terrors of its appearance, its invincible and formidable nature.]
+<note n="9.95.a">That this section makes impossible nonsense here is obvious. Massebieau propounded the theory that §§ 32–40 should be transferred to after § 146 and followed by § 147. While the relevance of §§ 32–40 as it stands is not very clear, it seems to me they would be still more intrusive here. And what connexion has § 147 with § 40? In § 40 lions are said to be really the masters of their owners and the moral deduced is that still more is the wise man master in the true sense. To follow by a warning against buying lions would be utterly inept. By what accident it got inserted here, it is useless guessing. But probably it belongs to some disquisition in which harbouring passions is compared to keeping wild beasts (<hi rend="italic">cf. De Praem.</hi> 88). Such a disquisition might well have found a place in the twin treatise “that every fool is a slave.”</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="148"><p><milestone unit="para"/>Places which serve as sanctuaries often provide the
+
+bond servants who take refuge in them with the same security and licence of speech as if they enjoyed equal rights and privileges with the rest. And one may see those whose servitude is immemorial handed down from their great-grandfathers and earlier ancestors by a kind of family succession, talking freely with complete fearlessness, when sitting in temples as suppliants.</p></div>
+
+<div type="textpart" subtype="section" n="149"><p> Some even show not mere equality but
+
+great superiority in the energy and disdain with which they dispute questions of justice with their owners. For while the owners however highly born may well become as slaves through the conscience which convicts them, the suppliants, who are provided with bodily security by the inviolability of the place, exhibit in the soul, which God created proof against all that could subdue it, characteristics of freedom
+
+<pb n="97"/>
+and high nobility.</p></div>
+
+<div type="textpart" subtype="section" n="150"><p>
+<note n="9.97.a">The argument seems to be “bodily immunity may put the philosophical slave on an equal footing, but only spiritual freedom would give the superiority in discussion.” It would be clearer if πόσῳ μᾶλλον ἐλευθεροστομήσει ὁ σοφὸς (a suggestion mentioned by Cohn) was inserted before εἰ μὴ, but it is not necessary.</note>
+  It must be so, for who could be
+
+so exceedingly unreasonable as to think that while places produce courage and free speaking, this does not extend to the most God-like thing existing, virtue, through which both places and everything else which participates in wisdom
+<note n="9.97.b">φρονήσεως has not been questioned, but seems to me hardly possible, at any rate if τοῖς ἄλλοις is retained. What is wanted is something to indicate the sacrosanctity which altars, vessels and the like share with sanctuaries (? ὅσ᾿ ἀφιερώσεως).</note>
+  acquires sanctity?</p></div>
+
+<div type="textpart" subtype="section" n="151"><p> And indeed those who take refuge in sacrosanct
+
+localities and owe their security to the localities only, turn out to be in bondage to numberless other considerations, such as a wife seduced by gifts,
+<note n="9.97.c">If this is the meaning. So Mangey “uxore corrupta,” but the phrase seems strange.</note>
+  children fallen into disgrace, betrayal in love matters. But those who take refuge in virtue, as in an indestructible and impregnable fortress, disregard the darts and arrows aimed at them by the passions which stalk them.</p></div>
+
+<div type="textpart" subtype="section" n="152"><p> Fortified by this power, a man may say
+
+freely and boldly, “While all others are the victims of chance circumstances, I can say with the tragic poet:
+<quote><milestone unit="para"/>
+<l>Myself I can obey and can command.</l>
+<l>I measure all things by the rule of virtue.”
+<note n="9.97.d">Source unknown, thought by Nauck to be Euripides.</note>
+ </l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="153"><p>Thus Bias of Priene is said to have retorted very disdainfully
+
+to the threats of Croesus,
+<note n="9.97.e">According to Diog. Laert. i. 83 it was said to Halyattes the father of Croesus.</note>
+  by bidding him eat onions, a phrase which means “go weep,” because eating onions sets the tears running.</p></div>
+
+<div type="textpart" subtype="section" n="154"><p> In this spirit
+
+the wise who hold that nothing is more royal than virtue, the captain whom they serve as soldiers
+
+<pb n="99"/>
+throughout their lives, do not fear the orders of others whom they regard as subordinates.
+<note n="9.99.a">The logical connexion demanded by παρ᾿ ὃ is not clear and Mangey may be right in supposing that something has been lost before this sentence.</note>
+  And so double-faced and shifty people are universally called servile and slavish.</p></div>
+
+<div type="textpart" subtype="section" n="155"><p> This same thought is well
+
+expressed in another couplet:
+<quote><milestone unit="para"/>
+<l>A slave’s head ne’er sits straight upon his shoulder</l>
+<l>But always crooked on a twisted neck.
+<note n="9.99.b">Theognis, <hi rend="italic">El.</hi> v. 535 f.</note>
+ </l>
+</quote>
+For the crooked, artificial, deceitful character is utterly ignoble, while the straight, simple and ingenuous, in which thoughts agree with words and words with thoughts, is noble.</p></div>
+
+<div type="textpart" subtype="section" n="156"><p>  We may
+
+
+well deride the folly of those who think that when they are released from the ownership of their masters they become free. Servants, indeed, they are no longer now that they have been dismissed, but slaves they are and of the vilest kind, not to men, which would not be so grievous, but to the least reputable of inanimate things, to strong drink, to pot-herbs, to baked meats and all the other preparations made by the elaborate skill of cooks and confectioners, to afflict the miserable belly.</p></div>
+
+<div type="textpart" subtype="section" n="157"><p> Thus Diogenes the cynic,
+
+seeing one of the so-called freedmen pluming himself, while many heartily congratulated him, marvelled at the absence of reason and discernment. “A man might as well,” he said, “proclaim that one of his servants became from this day a grammarian, a geometrician, or musician, when he has no idea whatever of the art.” For as the proclamation cannot
+
+<pb n="101"/>
+make them men of knowledge, so neither can it make them free, for that is a state of blessedness. It can only make them no longer servants.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="158"><p><milestone unit="para"/><milestone unit="altchapter" n="22"/> Let us then do away with the idle fancy, to
+
+which the great mass of men feebly cling, and fixing our affections on that holiest of possessions, truth, refuse to ascribe citizenship or freedom to possessors of so-called civic rights, or slavery to servants, whether homebred or purchased, but dismissing questions of race and certificates of ownership and bodily matters in general, study the nature of the soul.</p></div>
+
+<div type="textpart" subtype="section" n="159"><p> For if the
+
+soul is driven by desire, or enticed by pleasure, or diverted
+<note n="9.101.a">This again like στέλλεται (see note 1) is a Stoic definition, φόβος ἄλογος ἔκκλισις <hi rend="italic">S. V.F.</hi> iii. 391, 393.</note>
+  from its course by fear, or shrunken by grief, or helpless in the grip of anger, it enslaves itself and makes him whose soul it is a slave to a host of masters. But if it vanquishes ignorance with good sense, incontinence with self-control, cowardice with courage and covetousness with justice, it gains not only freedom from slavery but the gift of ruling as well.</p></div>
+
+<div type="textpart" subtype="section" n="160"><p> But souls
+
+which have as yet got nothing of either kind, neither that which enslaves, nor that which establishes freedom, souls still naked like those of mere infants, must be tended and nursed by instilling first, in place of milk, the soft food of instruction given in the school subjects, later, the harder, stronger meat, which philosophy produces.
+<note n="9.101.b">For this view of the part played by the Encyclia and Philosophy in education see <hi rend="italic">De Congressu, passim</hi> and Gen. Introd. to vol, i. pp. xvi f,</note>
+  Reared by these to manhood and robustness, they will reach the happy consummation which Zeno, or rather an oracle higher than Zeno, bids us seek, a life led agreeably to nature.
+
+</p></div></div></body></text></TEI>
