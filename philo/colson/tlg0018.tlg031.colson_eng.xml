@@ -42,11 +42,11 @@
                         <publisher>William Heinemann Ltd.</publisher>
                         <pubPlace>Cambridge, MA</pubPlace>
                         <publisher>Harvard University Press</publisher>
-                        <date>1934</date>
+                        <date>1962</date>
                     </imprint>
-                    <biblScope unit="volume">6</biblScope>
+                    <biblScope unit="volume">10</biblScope>
                 </monogr>
-                <ref target="https://ryanfb.github.io/loebolus-data/L320.pdf">Github</ref>
+                <ref target="https://ryanfb.github.io/loebolus-data/L379.pdf">Github</ref>
             </biblStruct>
         </listBibl>
     </sourceDesc>
