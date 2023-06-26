@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="grc">Περὶ βίου θεωρητικοῦ ἢ ἱκετῶν</title>
+<title>On the Contemplative Life or Suppliants</title>
+<author>Philo of Alexandria</author>
+<editor>Francis Henry Colson (1857-1943)</editor>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Gregory Crane</name>
+<name>Lisa Cerrato</name>
+
+</respStmt>
+<funder n="org:NEH">The National Endowment for the Humanities</funder>
+</titleStmt>
+<extent/>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+    <date type="release" when="2023-06-23">Perseus 5.0</date>
+    <idno type="filename">tlg0018.tlg021.perseus-grc3.xml</idno>
+    <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+    </availability>
+</publicationStmt>
+
+    <sourceDesc>
+        <listBibl>
+            <biblStruct>
+                <monogr>
+                    <author>Philo of Alexandria</author>
+                    <title>Philo Volume VII</title>
+                    <editor>Francis Henry Colson (1857-1943)</editor>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>William Heinemann Ltd.</publisher>
+                        <pubPlace>Cambridge, MA</pubPlace>
+                        <publisher>Harvard University Press</publisher>
+                        <date>1934</date>
+                    </imprint>
+                    <biblScope unit="volume">6</biblScope>
+                </monogr>
+                <ref target="https://ryanfb.github.io/loebolus-data/L320.pdf">Github</ref>
+            </biblStruct>
+        </listBibl>
+    </sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction method="silent">
+<p>optical character recognition</p>
+</correction>
+</editorialDecl>
+    <refsDecl n="CTS">
+        <cRefPattern matchPattern="(\w+)"
+            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+            <p>This pointer pattern extracts section.</p>
+        </cRefPattern>
+    </refsDecl>
+<!-- <refsDecl doctype="TEI.2">
+<state unit="section" n="chunk"/>å
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="edition" n="urn:cts:greekLit:tlg0018.tlg023.colson_eng" xml:lang="grc">
+<pb n="113"/>
+<head>On the Contemplative Life or Suppliants</head>
+<head>(the fourth part concerning the virtues)
+<note n="9.113.a">On the title and subtitle see App. p. 518.</note>
+</head>
+<div type="textpart" subtype="section" n="1"><p><milestone unit="para"/><milestone unit="altchapter" n="1"/> I have discussed the Essenes, who persistently
+
+pursued the active life and excelled in all or, to put it more moderately, in most of its departments. I will now proceed at once in accordance with the sequence required by the subject to say what is needed about those who embraced the life of contemplation. In doing so I will not add anything of my own procuring to improve upon the facts as is constantly done by poets and historians through lack of excellence in the lives and practices which they record, but shall adhere absolutely to the actual truth. Though I know that in this case it is such as to unnerve the greatest master of oratory, still we must persevere and not decline the conflict, for the magnitude of virtue shown by these men must not be allowed to tie the tongues of those who hold that nothing excellent should be passed over in silence.</p></div>
+
+<div type="textpart" subtype="section" n="2"><p>  The vocation
+<note n="9.113.b">On προαίρεσις see App. p. 518.</note>
+  of these philosophers
+
+
+is at once made clear from their title of
+
+<pb n="115"/>
+Therapeutae and Therapeutrides, a name derived
+<note n="9.115.a">ἐτύμως=“in accordance with the meaning of the word from which the name is derived,” in this case θεραπεύω. See on <hi rend="italic">Quod Omn. Prob.</hi> 73 (App. p. 512).</note>
+  from θεραπεύω, either in the sense of “cure”
+because they profess an art of healing better than that current in the cities which cures only the bodies, while theirs treats also souls oppressed with grievous and well-nigh incurable diseases, inflicted by pleasures and desires and griefs and fears, by acts of covetousness,
+folly and injustice and the countless host of the other passions and vices: or else in the sense of
+“worship,” because nature and the sacred laws have schooled them to worship the Self-existent who is better than the good, purer than the One and more primordial than the Monad.</p></div>
+
+<div type="textpart" subtype="section" n="3"><p>
+<note n="9.115.b">For the distinction between the Monad and the One in Pythagoreanism see Zeller, <hi rend="italic">Presocratics</hi> (Eng. trans.), vol. i. pp. 309 f. The upshot seems to be that generally speaking, while the Monad is opposed to the Dyad, being the “father” of numbers as the Dyad is the “mother,” the One stands above all as representing Deity. Others however rank the Monad above the One, as perhaps Philo does here and in <hi rend="italic">De Praem.</hi> 40, where he uses identical language.</note>
+  Who among those who
+
+profess piety deserve to be compared with these?
+Can we compare those who revere the elements, earth, water, air, fire, which have received different names from different peoples who call fire Hephaestus because it is kindled (ἐξάπτω), air Hera because it is lifted up (αἴρω) and exalted on high, water Poseidon perhaps because it is drunk (ποτός), and earth Demeter because it appears to be the mother of all plants and animals?</p></div>
+
+<div type="textpart" subtype="section" n="4"><p>
+<note n="9.115.c">See note on <hi rend="italic">De Dec.</hi> 54, vol. vii. p. 610, and further App. p. 519.</note>
+  Sophists have invented
+
+these names for the elements but the elements themselves are lifeless matter incapable of movement of itself and laid by the Artificer as a substratum for every kind of shape and quality.
+</p></div>
+
+<div type="textpart" subtype="section" n="5"><p>What of the worshippers of the bodies
+
+
+
+<pb n="117"/>
+framed from the elements,
+<note n="9.117.a">For the antithesis between the στοιχεῖα and ἀποτελέσματα <hi rend="italic">cf. Quis Rerum</hi> 209 (among a series of opposite pairs στοιχεῖα ἀποτελέσματα), so also <hi rend="italic">ibid</hi>. 226 and <hi rend="italic">Mos.</hi> i. 96 τὰ στοιχεῖα . . . οἷς ἀπετελέσθη ὁ κόσμος.</note>
+  sun, moon or the other stars fixed or wandering, or the whole heaven and universe? But these too were not brought into being self-made, but through an architect of most perfect knowledge.</p></div>
+
+<div type="textpart" subtype="section" n="6"><p>  What of the worship of the
+
+
+demi-gods? Surely this is quite ridiculous. How could one and the same person be both mortal and immortal, to say nothing of the reproach attaching to the original source of their birth, tainted as it is with the licentiousness of wanton youth which they impiously dare to ascribe to the blissful and divine powers by supposing that the thrice blessed and exempt from every passion in their infatuation had intercourse with mortal women.</p></div>
+
+<div type="textpart" subtype="section" n="7"><p>  What
+
+
+of the worshippers of the different kinds of images? Their substance is wood and stone, till a short time ago completely shapeless, hewn away from their congenital structure by quarrymen and woodcutters while their brethren, pieces from the same original source, have become urns and foot-basins or some others of the less honourable vessels which serve the purposes of darkness rather than of light.
+</p></div>
+
+<div type="textpart" subtype="section" n="8"><p>For as for the gods of the Egyptians
+
+it is hardly decent even to mention them. The Egyptians have promoted to divine honours irrational animals, not only of the tame sort but also beasts of the utmost savagery, drawn from each of the kinds found below the moon, from the creatures of the land the lion, from those of the water their indigenous crocodile, from the rangers of the air
+
+<pb n="119"/>
+the hawk and the Egyptian ibis.</p></div>
+
+<div type="textpart" subtype="section" n="9"><p>
+<note n="9.119.a">See note on “Egyptian animal worship” to <hi rend="italic">De Dec.</hi> 77 (vol. vii. p. 610).</note>
+  And though they
+
+see these creatures brought to their birth, requiring food, eating voraciously, full of ordure, venomous too and man-eating, the prey of every sort of disease, and perishing not only by a natural but often by a violent death, they render worship to them, they the civilized to the uncivilized and untamed, the reasonable to the irrational, the kinsfolk of the Godhead to ugliness unmatched even by a Thersites,
+<note n="9.119.b"><hi rend="italic">Il.</hi> ii. 216 ff. Other examples of Thersites as a type of ugliness are cited by Conybeare and Cohn from Plutarch, Clement and Hippocrates.</note>
+  the rulers and masters to the naturally subservient and slavish.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="10"><p><milestone unit="para"/><milestone unit="altchapter" n="2"/> These indeed, since they infect not only their
+
+own compatriots but the peoples in their neighbourhood with their folly, must remain incurable, for they have lost the use of the most vital of the senses, sight. And by this I do not mean the sight of the body but of the soul, the sight which alone gives a knowledge of truth and falsehood.</p></div>
+
+<div type="textpart" subtype="section" n="11"><p> But it is well
+
+that the Therapeutae, a people always taught from the first to use their sight, should desire the vision of the Existent and soar above the sun of our senses and never leave their place in this company which carries them on to perfect happiness.</p></div>
+
+<div type="textpart" subtype="section" n="12"><p>
+<note n="9.119.c">τάξις here seems to combine the common meaning of the post which the soldier holds with the idea of the company which he makes. <hi rend="italic">Cf. Quis Rerum</hi> 46 ὑπὸ τῆς ἀμείνονος ἀγόμενον τάξεως.</note>
+  And those
+
+who set themselves to this service, not just following custom nor on the advice and admonition of others but carried away by a heaven-sent passion of love, remain rapt and possessed like bacchanals or cory-bants until they see the object of their yearning.
+</p></div>
+
+<div type="textpart" subtype="section" n="13"><p>Then such is their longing for the deathless
+
+
+
+<pb n="121"/>
+and blessed life that thinking their mortal life already ended they abandon their property to their sons or daughters or to other kinsfolk, thus voluntarily advancing the time of their inheritance, while those who have no kinsfolk give them to comrades and friends. For it was right that those who have received ready to their hand the wealth that has eyes to see should surrender the blind wealth to those who are still blind in mind.</p></div>
+
+<div type="textpart" subtype="section" n="14"><p> The Greeks extol
+
+Anaxagoras and Democritus because smitten with the desire for philosophy they left their fields to be devoured by sheep.
+<note n="9.121.a">The same story is told of Anaxagoras by Philo, <hi rend="italic">De Prov.</hi>, Aucher, p. 52, and so Plut. <hi rend="italic">Pericles</hi> 16 (τὴν χώραν ἀφῆκεν ἀργὸν καὶ μηλόβοτον). Plato more vaguely says (<hi rend="italic">Hipp. Mai.</hi> 283 A) that he wasted all his property. Diogenes Laertius on the other hand (ii. 6) that he gave it all over to his relations. Democritus is coupled with Anaxagoras in Cic. <hi rend="italic">Tusc. Disp.</hi> v. 114 as abandoning his lands and patrimony, and so Hor. <hi rend="italic">Ep.</hi> i. 12. 12 (pecus edit agellos). μηλόβοτος does not mean that they turned their cornland into pasturage, but that they allowed it to be overrun. In fact μηλ. is almost a synonym for ἀργός, with which it is coupled in the passage of Plutarch quoted here.</note>
+  I too myself admire them for showing themselves superior to wealth, but how much better are these who did not let their estates serve as feeding-ground for cattle but made good the needs of men, their kinsfolk and friends, and so turned their indigence into affluence. Of the two actions the first was thoughtless, I might say mad, but that the persons concerned have the admiration of Greece, the second showed soberness and careful consideration and remarkable good sense.</p></div>
+
+<div type="textpart" subtype="section" n="15"><p> What
+
+more does a hostile army do than cut the crops and hew the trees of their opponents’ country to force them to surrender through lack of necessaries? This is what a Democritus did to his own blood-relations, inflicting on them poverty and indigence artificially created, not perhaps with mischievous intent but through lack of foresight and consideration for the interest of the others.</p></div>
+
+<div type="textpart" subtype="section" n="16"><p> How much better and
+
+
+
+<pb n="123"/>
+more admirable are these who with no less ardour for the study of wisdom preferred magnanimity to negligence and gave away their possessions instead of wasting them, in this way
+<note n="9.123.a">ἵνα here is perhaps as often in Philo consecutive rather than final.</note>
+  benefiting both others and themselves, others through supplying them with abundant resources, themselves through furthering the study of philosophy?, For taking care of wealth and possessions consumes time and to economize time is an excellent thing since according to the physician Hippocrates “life is short but art is long.”</p></div>
+
+<div type="textpart" subtype="section" n="17"><p>
+<note n="9.123.b">The well-known opening aphorism of Hippocrates, though there ἡ τέχνη is <hi rend="italic">the</hi> art, i.e. of medicine.</note>
+  The
+
+same idea is suggested I think by Homer in the <hi rend="italic">Iliad</hi> at the beginning of the thirteenth book in the lines
+<note n="9.123.c">It is certainly strange to find this exact reference. In the great majority of his references to Homer (of which the index, probably not exhaustively, gives over fifty) he does not indicate the source at all. Sometimes the quotation is definitely ascribed to ὁ δοκιμώτατος τῶν ποιητῶν, and thrice at least elsewhere (<hi rend="italic">De Conf.</hi> 4, <hi rend="italic">Quod Omn. Prob.</hi> 31, <hi rend="italic">Legatio</hi> 80) he mentions him by name. Perhaps this departure from the usual course is due to the nature of the quotation. It is not like most of them a notable or familiar phrase, but comes from a passage which would not in itself attract attention, and only serves to bring out a connexion (ἄβιος with δίκαιος) which would not occur to most people. On the use of ῥαψῳδία see App. p. 519.</note>
+
+<quote>
+<l>The Mysians fighting hand to hand, and noble Mare’s-milk-drinkers—</l>
+<l>Nought else but milk sustains their life,
+<note n="9.123.d"><hi rend="italic">Il.</hi> xiii. 5, 6. Ἀβίων is by some taken to be a proper name, by others as = “having no fixed means of subsistence,” <hi rend="italic">i.e</hi>. nomads. Philo evidently takes it as an adjective meaning without βίος in the sense of means of life.</note>
+  these men of perfect justice.</l></quote>
+The idea conveyed is that injustice is bred by anxious thought for the means of life and for money-making, justice by holding and following the opposite creed. The first entails inequality, the second equality, the principle by which nature’s wealth is regulated and so stands superior to the wealth of vain opinion.
+<note n="9.123.e">See note on <hi rend="italic">De Virt.</hi> 6, where “the wealth of nature,” i.e. the simple means of living, bread and water, which are equally available to all, is distinguished from the “seeing wealth,” i.e. the spiritual wealth of virtue and wisdom, though it is superior to the “blind wealth,” here called the “wealth of vain opinion.”</note>
+
+
+<pb n="125"/>
+</p></div>
+
+<div type="textpart" subtype="section" n="18"><p>So when they have divested themselves
+
+of their possessions and have no longer aught to ensnare them they flee without a backward glance and leave their brothers, their children, their wives, their parents, the wide circle of their kinsfolk, the groups of friends around them, the fatherlands in which they were born and reared, since strong is the attraction of familiarity and very great its power to ensnare.</p></div>
+
+<div type="textpart" subtype="section" n="19"><p> And they do not migrate into another
+
+city like the unfortunate or worthless slaves who demand to be sold by their owners and so procure a change of masters but not freedom. For every city, even the best governed, is full of turmoils and disturbances innumerable which no one could endure who has ever been even once under the guidance of wisdom.</p></div>
+
+<div type="textpart" subtype="section" n="20"><p> Instead of this they pass their days outside
+
+the walls pursuing solitude in gardens or lonely bits of country, not from any acquired habit of misanthropical bitterness but because they know how unprofitable and mischievous are associations with persons of dissimilar character.
+<note n="9.125.a">Or as Conybeare translates it “the intercourse with and influence from persons,” etc., to express the curious preposition instead of the usual πρός with accusative as <hi rend="italic">e.g. De</hi> <hi rend="italic">Dec.</hi> 127. He suggests that ἐπιμιξία may carry with it the idea of contagion.</note>
+
+
+</p></div>
+
+<div type="textpart" subtype="section" n="21"><p><milestone unit="para"/><milestone unit="altchapter" n="3"/> This kind exists in many places in the inhabited
+
+world, for perfect goodness must needs be shared both by Greeks and the world outside Greece, but it abounds in Egypt in each of the nomes as they are called and especially round Alexandria.</p></div>
+
+<div type="textpart" subtype="section" n="22"><p> But the
+
+best of these votaries journey from every side to settle in a certain very suitable place which they regard as their fatherland. This place is situated above the Mareotic Lake on a somewhat low-lying hill very happily placed both because of its security and the pleasantly tempered air.</p></div>
+
+<div type="textpart" subtype="section" n="23"><p> The safety is
+
+
+
+<pb n="127"/>
+secured by the farm buildings and villages round about and the pleasantness of the air by the continuous breezes which arise both from the lake which debouches into the sea and from the open sea hard by. For the sea breezes are light, the lake breezes close and the two combining together produce a most healthy condition of climate.</p></div>
+
+<div type="textpart" subtype="section" n="24"><p>  The
+
+
+houses of the society thus collected are exceedingly simple, providing protection against two of the most pressing dangers, the fiery heat of the sun and the icy cold of the air. They are neither near together as in towns, since living at close quarters is troublesome and displeasing to people who are seeking to satisfy their desire for solitude, nor yet at a great distance because of the sense of fellowship which they cherish, and to render help to each other if robbers attack them.</p></div>
+
+<div type="textpart" subtype="section" n="25"><p> In each house there is a consecrated room
+
+which is called a sanctuary or closet
+<note n="9.127.a">For the word μοναστήριον see App. p. 519.</note>
+  and closeted in this they are initiated into the mysteries of the sanctified life. They take nothing into it, either drink or food or any other of the things necessary for the needs of the body, but laws and oracles delivered through the mouth of prophets, and psalms and anything
+<note n="9.127.b">Or “the other books” (of the O.T.). See App. p. 520.</note>
+  else which fosters and perfects knowledge and piety.</p></div>
+
+<div type="textpart" subtype="section" n="26"><p> They keep the memory of God alive and
+
+never forget it, so that even in their dreams the picture is nothing else but the loveliness of divine excellences and powers. Indeed many when asleep and dreaming give utterance to the glorious verities of their holy philosophy.</p></div>
+
+<div type="textpart" subtype="section" n="27"><p> Twice every day they
+
+pray, at dawn and at eventide; at sunrise they pray for a fine bright day, fine and bright in the true sense
+
+<pb n="129"/>
+of the heavenly daylight which they pray may fill their minds. At sunset they ask that the soul may be wholly relieved from the press of the senses and the objects of sense and sitting where she is consistory and council chamber to herself pursue the quest of truth.</p></div>
+
+<div type="textpart" subtype="section" n="28"><p> The interval between early morning
+
+and evening is spent entirely in spiritual exercise. They read the Holy Scriptures and seek wisdom from their ancestral philosophy by taking it as an allegory,
+<note n="9.129.a">The translation takes φιλοσοφίαν as cognate accusative after φιλοσοφοῦσι as in <hi rend="italic">Mos.</hi> ii. 216. <hi rend="italic">Cf. De Som.</hi> i. 55 φιλοσόφησον ἀναγκαιοτάτην . . . φιλοσοφίαν. But it may be governed by ἀλληγοροῦντες, <hi rend="italic">cf. Spec. Leg.</hi> ii. 29.</note>
+  since they think that the words of the literal text are symbols of something whose hidden nature is revealed by studying the underlying meaning.
+<note n="9.129.b">I understand ἑρμηνεία to be here used as elsewhere, <hi rend="italic">e.g. Quis Rerum</hi> 108, in the technical rhetorical sense of the language in which the thought is expressed as opposed to the thought itself, and so with the synonymous λέξις or φράσις corresponding to the Latin elocutio. Conybeare gives “literal meaning.” Lake (translating Euseb. <hi rend="italic">Hist. Eccl.</hi> where this passage is quoted) “literal interpretation.” ἀποκεκρυμμένης φύσεως may perhaps mean “a hidden natural (i.e. theological) truth,” cf. again <hi rend="italic">Mos</hi>. ii. 216 and note there and <hi rend="italic">De Abr.</hi> 99.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="29"><p>They have also writings of men of
+
+old, the founders of their way of thinking, who left many memorials of the form
+<note n="9.129.c">Conybeare “of the idea involved in allegory.” But I do not think that Philo except when he is speaking Platonically used ἰδέα thus. Lake’s “of the meaning allegorically expressed” is still farther away. ἰδέα is, I think, simply the form or kind of treatment which we find in allegory.</note>
+  used in allegorical interpretation and these they take as a kind of archetype and imitate the method in which this principle is carried out.
+<note n="9.129.d">The phrase τῆς προαιρέσεως τὸν τρόπον is obscure. Lake has “treatment” for προαιρ. But the word must suggest a motive or purpose. Conybeare “emulating the ideal of character traced out in them.” I understand προαιρ. to mean the belief which inspired the allegorists that the scriptures were to be interpreted allegorically. Their successors emulated the method in which this principle was carried out.</note>
+  And so they do not confine themselves to contemplation but also compose hymns and psalms
+
+<pb n="131"/>
+to God in all sorts of metres and melodies which they write down with the rhythms necessarily made more solemn.
+<note n="9.131.a">Here again we have a doubtful phrase. Conybeare translates “which they write down in solemn rhythms as best they can,” a meaning which ἀναγκαίως certainly bears in Philo and elsewhere. His explanation is that they could not engrave them on stone (hymns for worship seem to have been thus cut in stone) and so were fain to use papyrus. Lake quite impossibly gives “arrange” for χαράττουσι. Philo is clearly referring to the accepted division of music into metre, melody and rhythm, see note on <hi rend="italic">De Som.</hi> i. 205 (vol. v. pp. 603 f.), and the suggestion made very tentatively in the translation is that it is the rhythm which gives the solemnity necessary for sacred music and that this was indicated by some notation.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="30"><p><milestone unit="para"/>For six days they seek wisdom by themselves in
+
+solitude in the closets mentioned above, never passing the outside door of the house or even getting a distant view of it. But every seventh day they meet together as for a general assembly and sit in order according to their age in the proper attitude, with their hands inside the robe, the right hand between the breast and the chin and the left withdrawn along the flank.</p></div>
+
+<div type="textpart" subtype="section" n="31"><p> Then the senior among them who
+
+also has the fullest knowledge of the doctrines which they profess comes forward and with visage and voice alike quiet and composed gives a well-reasoned and wise discourse. He does not make an exhibition of clever rhetoric like the orators or sophists of to-day but follows careful examination by careful expression of the exact meaning of the thoughts, and this does not lodge just outside the ears of the audience but passes through the hearing into the soul and there stays securely. All the others sit still and listen showing their approval merely by their looks or nods.</p></div>
+
+<div type="textpart" subtype="section" n="32"><p>  This common sanctuary in which
+
+
+they meet every seventh day is a double enclosure, one portion set apart for the use of the men, the other for the women. For women too regularly make part of the audience with the same ardour and the
+
+<pb n="133"/>
+same sense of their calling.</p></div>
+
+<div type="textpart" subtype="section" n="33"><p> The wall between the
+
+two chambers rises up from the ground to three or four cubits built in the form of a breast work, while the space above up to the roof is left open. This arrangement serves two purposes; the modesty becoming to the female sex is preserved, while the women sitting within ear-shot can easily follow what is said since there is nothing to obstruct the voice of the speaker.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="34"><p><milestone unit="para"/><milestone unit="altchapter" n="4"/> They lay self-control to be as it were the foundation
+
+of their soul and on it build the other virtues. None of them would put food or drink to his lips before sunset since they hold that philosophy finds its right place in the light, the needs of the body in the darkness, and therefore they assign the day to the one and some small part of the night to the other. Some in whom the desire for studying wisdom is more deeply implanted even only after three days remember to take food.</p></div>
+
+<div type="textpart" subtype="section" n="35"><p> Others so luxuriate and
+
+delight in the banquet of truths which wisdom richly and lavishly supplies that they hold out for twice that time and only after six days do they bring themselves to taste such sustenance as is absolutely necessary. They have become habituated to abstinence like the grasshoppers
+<note n="9.133.a"><hi rend="italic">Cf. Quod Omn. Prob.</hi> 8. Here Philo follows Plato more definitely. See <hi rend="italic">Phaedrus</hi> 259 C τὸ τεττίγων γένος . . . γέρας τοῦτο παρὰ Μουσῶν λαβόν, μηδὲν τροφῆς δεῖσθαι, ἀλλ᾿ ἄσιτὸν τε καὶ ἄποτον εὐθὺς γενόμενον ᾄδειν, ἕως ἂν τελευτήσῃ. The idea that the grasshopper needs no food except air (or more frequently dew) goes back to Hesiod, <hi rend="italic">Shield</hi> 395 if. τέττιξ . . . ᾧτε πόσις καὶ βρῶσις θηλῦς ἐέρση.</note>
+  who are said to live on air because, I suppose, their singing makes their lack of food a light matter.</p></div>
+
+<div type="textpart" subtype="section" n="36"><p> But to the seventh day as
+
+they consider it to be sacred and festal in the highest degree they have awarded special privileges as its due, and on it after providing for the soul refresh
+
+<pb n="135"/>
+the body also, which they do as a matter of course with the cattle too by releasing them from their continuous labour.</p></div>
+
+<div type="textpart" subtype="section" n="37"><p>
+<note n="9.135.a">Conybeare translates “they anoint the body, releasing it just as you might the lower animals from the long spell of toil.” But neither anointing in the literal sense nor rest from labour for the Therapeutae themselves suits the context, which is concerned with the general abstemiousness in food and mild relaxation on the sabbath. The sense I have given to λιπαίνω is much the same as in <hi rend="italic">Spec. Leg.</hi> iv. 74, where it is applied to relieving the hard condition of the needy by charity. The point of ἀμέλει, as I have taken it, is that the release of the cattle from labour on the sabbath is a duty recognized by everybody. But see App. p. 520.</note>
+  Still they eat nothing costly,
+
+only common bread with salt for a relish flavoured further by the daintier with hyssop, and their drink is spring water. For as nature has set hunger and thirst as mistresses over mortal kind they propitiate them without using anything to curry favour but only such things as are actually needed and without which life cannot be maintained. Therefore they eat enough to keep from hunger and drink enough to keep from thirst but abhor surfeiting as a malignant enemy both to soul and body.</p></div>
+
+<div type="textpart" subtype="section" n="38"><p>  As for
+
+
+the two forms of shelter, clothes and housing, we have already said that the house is unembellished and a makeshift constructed for utility only. Their clothing likewise is the most inexpensive, enough to protect them against extreme cold and heat, a thick coat of shaggy skin
+<note n="9.135.b">Conybeare’s reading, ἀντὶ for ἀπὸ which certainly seems to have the better MS. authority, is based by him, as stated in a long and interesting note, on the general belief that linen was more sacred than any substance which was the produce of animals—an idea stated by Philo himself in several places, <hi rend="italic">e.g. Spec. Leg.</hi> i. 84. The chief objection seems to be that χλαῖνα would have to be understood as = “linen garment,” whereas such evidence as I have seen goes to show that it was frequently, if not usually, made of wool, and wool was as unclean as skin.</note>
+  in winter and in summer a vest or linen shirt.</p></div>
+
+<div type="textpart" subtype="section" n="39"><p>
+<note n="9.135.c">Conybeare, reading ἡ for ἢ, translates “a smock without sleeves, the linen coat namely.” He says that ἢ does not make sense, meaning apparently that as any garment made of linen would be an ὀθόνη, it could not be an alternative to the ἐξωμίς. In <hi rend="italic">Spec. Leg.</hi> ii. 20, the χλαῖνα is coupled with the ὀθόνη, and in <hi rend="italic">Hyp.</hi> 11. 12 with the ἐξωμίς as simple garments for winter and summer respectively. This perhaps supports his view.</note>
+  For they practise an all-round
+
+
+
+<pb n="137"/>
+simplicity knowing that its opposite, vanity,
+<note n="9.137.a">In the sense of the disposition to follow vain things, rather than as Conybeare (pride?). See note on <hi rend="italic">De Virt.</hi> 17 (vol. viii. pp. 440 f.).</note>
+  is the source of falsehood as simplicity is of truth, and that both play the part of a fountain head of other things, since from falsehood flow the manifold forms of evil and from truth abundant streams of goodness both human and divine.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="40"><p><milestone unit="para"/><milestone unit="altchapter" n="5"/> I wish also to speak of their common assemblages
+
+and the cheerfulness of their convivial meals as contrasted with those of other people. Some people when they have filled themselves with strong drink behave as though they had drunk not wine but some witch’s potion
+<note n="9.137.b">This must be the meaning if the word is right. But there is no really parallel use of the word at any rate without some explanatory noun, τὰ φυσικὰ found in the <hi rend="italic">Geoponica</hi> (? date) is stated by Stephanus not to bear this meaning. φυσικὸν φάρμακον, to which the Armenian is said to point, is quoted from Alexander Trallianus (? sixth century A.D.).</note>
+  charged with frenzy and madness and anything more fatal that can be imagined to overthrow their reason. They bellow and rave like wild dogs, attack and bite each other and gnaw off noses, ears, fingers and some other parts of the body,
+<note n="9.137.c">For this and other points in this description <hi rend="italic">cf. De Plant.</hi> 160.</note>
+  so that they make good the story of the comrades of Odysseus and the Cyclops by eating “gobbets”
+<note n="9.137.d"><hi rend="italic">Od</hi>. ix. 373— <quote> <l>φάρυγος δ᾿ ἐζέσσυτο οἶνος</l> <l>ψωμοί τ᾿ ἀνδρόμεοι.</l> </quote></note>
+  of men, as the poet says, and with greater cruelty than the Cyclops.</p></div>
+
+<div type="textpart" subtype="section" n="41"><p> For he avenged himself on men whom
+
+he suspected to be enemies, they on their familiars and friends and sometimes even on their kin over the salt and across the board, and as they pour the
+
+<pb n="139"/>
+libation of peace they commit deeds of war
+<note n="9.139.a">Or as Conybeare “whom in the midst of peace they treat implacably.” But σπονδαί carries with it the sense of “libation” as well as “truce.” <hi rend="italic">Cf.</hi> the same phrase though in a different connexion in <hi rend="italic">Spec. Leg.</hi> iii. 96, where see note.</note>
+  like those of the gymnastic contests, counterfeiting the genuine coin of manly exercise, no wrestlers but wretches, for that is the right name to give them.</p></div>
+
+<div type="textpart" subtype="section" n="42"><p> For what
+
+the athletes do in the arena while sober, in the daylight, with the eyes of all Greece upon them, in the hope of victory and the crown and in the exercise of their skill, are debased by the revellers who ply their activities in convivial gatherings by night and in darkness, drink-besotted, ignorant and skilful only for mischief to inflict dishonour, insult and grievous outrage on the objects of their assault.</p></div>
+
+<div type="textpart" subtype="section" n="43"><p> And if no
+
+one plays the umpire and comes forward to intervene and separate them they carry on the bout with increased licence to the finish, ready both to kill and to be killed. For they suffer no less than what they mete to others though they know it not, so infatuated are these who shrink not from drinking wine, as the comic poet says, to mar not only their neighbours but themselves.</p></div>
+
+<div type="textpart" subtype="section" n="44"><p>
+<note n="9.139.b">Source unknown.</note>
+  And so those who but
+
+now came to the party sound in body and friendly at heart leave soon afterwards in enmity and with bodily mutilation,—enmity in some cases calling for advocates and judges, mutilation in others requiring the apothecary and physician and the help that they can bring.</p></div>
+
+<div type="textpart" subtype="section" n="45"><p> Others belonging to what we may
+
+suppose is the more moderate part of the company are in a state of overflow. Draughts of strong wine act upon them like mandragora, they throw the left
+
+<pb n="141"/>
+elbow forward, turn the neck at a right angle, belch into the cups and sink into a profound sleep, seeing nothing and hearing nothing, having apparently only one sense and that the most slavish, taste.</p></div>
+
+<div type="textpart" subtype="section" n="46"><p> I know
+
+of some who when they are half-seas-over and before they have completely gone under arrange donations and subscriptions in preparation for to-morrow’s bout, considering that one factor in their present exhilaration is the hope of future intoxication.</p></div>
+
+<div type="textpart" subtype="section" n="47"><p> In this way
+
+they spend their whole life ever hearthless and homeless, enemies to their parents, their wives and their children, enemies too to their country and at war with themselves. For a loose and a dissolute life is a menace to all.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="48"><p><milestone unit="para"/><milestone unit="altchapter" n="6"/> Some perhaps may approve the method of
+
+banqueting now prevalent everywhere through hankering for the Italian expensiveness and luxury emulated both by Greek and non-Greeks who make their arrangements for ostentation rather than festivity.</p></div>
+
+<div type="textpart" subtype="section" n="49"><p> Sets of three or many couches
+<note n="9.141.a">For τρίκλινα see App. p. 521. The MSS. περίκλινα would mean “couches round the table.”</note>
+  made of
+
+tortoise shell or ivory or even more valuable material, most of them inlaid with precious stones; coverlets purple-dyed with gold interwoven, others brocaded with flower patterns of all sorts of colours to allure the eye; a host of drinking cups set out in their several kinds, beakers, stoops, tankards, other goblets of many shapes, very artistically and elaborately chased by scientific craftsmen.</p></div>
+
+<div type="textpart" subtype="section" n="50"><p> For waiting there are slaves
+
+of the utmost comeliness and beauty, giving the idea that they have come not so much to render service as to give pleasure to the eyes of the beholders by
+
+<pb n="143"/>
+appearing on the scene. Some of them who are still boys pour the wine, while the water is carried by full-grown lads fresh from the bath and smooth shaven, with their faces smeared with cosmetics and paint under the eyelids and the hair of the head prettily plaited and tightly bound.</p></div>
+
+<div type="textpart" subtype="section" n="51"><p> For they have
+
+long thick hair which is not cut at all or else the forelocks only are cut at the tips to make them level and take exactly the figure of a circular line.
+<note n="9.143.a">Conybeare translates “trimmed off equally all round, in a neatly bevelled curved line.”</note>
+  They wear tunics fine as cobwebs and of dazzling white girt high up; the front part hangs below the under knee, the back part a little below the back of the knee and they draw together each part with curly bows of ribbon along the line of join of the tunics and then let the folds dangle down obliquely, broadening out the hollows along the sides.</p></div>
+
+<div type="textpart" subtype="section" n="52"><p>
+<note n="9.143.b">This sentence has been transcribed bodily from Conybeare’s “provisional rendering” in his commentary. I do not profess to understand clearly either the Greek or the English. The revision given in his translation somewhat later does not differ materially except that οὐλοτέραις ταῖς σειραίαις ἐπιδιπλώσεσι is rendered “with bows of twisted ribbons doubled over.”</note>
+  In the
+
+background
+<note n="9.143.c">Or “waiting in relays.”</note>
+  are others, grown lads newly bearded with the down just blooming on their cheeks, recently pets of the pederasts, elaborately
+<note n="9.143.d">Or perhaps “over elaborately” (considering the kind of work they have to do).</note>
+  dressed up for the heavier services, a proof of the opulence of the hosts as those who employ them know, but in reality of their bad taste.</p></div>
+
+<div type="textpart" subtype="section" n="53"><p>
+<note n="9.143.e">φασιν or νομίζουσιν (as Mangey) would certainly be more natural, but perhaps no alteration is required, or if any, ἀληθέστερον for ἀληθές. It is not denied that opulence is displayed. What the guests do not know is that it is bad taste.</note>
+   Besides there are the varieties
+
+
+
+<pb n="145"/>
+of baked meats, savoury dishes and seasonings produced by the labour of cooks and confectioners who are careful to please not merely the taste as they are bound to do but also the sight by the elegance of the viands. (The assembled guests) turn their necks round and round, greedily eyeing the richness and abundance of the meat and nosing the steamy odour which arises from it. When they have had their fill of both seeing and smelling they give the word to fall to with many a compliment to the entertainment and the munificence of the entertainer.</p></div>
+
+<div type="textpart" subtype="section" n="54"><p> Seven tables at the least and even more are brought
+
+in covered with the flesh of every creature that land, sea and rivers or air produce, beast, fish or bird, all choice and in fine condition, each table differing in the dishes served and the method of seasoning. And, that nothing to be found in nature should be unrepresented, the last tables brought in are loaded with fruits, not including those reserved for the drinking bouts and the after-dinners as they call them.</p></div>
+
+<div type="textpart" subtype="section" n="55"><p> Then while some tables are taken out
+
+emptied by the gluttony of the company who gorge themselves like cormorants,
+<note n="9.145.a">See note on <hi rend="italic">Spec. Leg.</hi> iv. 113 (vol. viii. p. 434).</note>
+  so voraciously that they nibble even at the bones, other tables have their dishes mangled and torn and left half eaten.</p></div>
+
+<div type="textpart" subtype="section" n="56"><p> And when they are quite exhausted, their bellies crammed up to the gullets, but their lust still ravenous, impotent for eating (they turn to the drink). But
+
+
+
+<pb n="147"/>
+why dilate on these doings which are now condemned by many of the more sober minded as giving further vent to the lusts which might profitably be curtailed? For one may well pray for what men most pray to escape, hunger and thirst, rather than for the lavish profusion of food and drink found in festivities of this kind.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="57"><p><milestone unit="para"/><milestone unit="altchapter" n="7"/> Among the banquets held in Greece there
+
+are two celebrated and highly notable examples, namely those in which Socrates took part, one held in the house of Callias and given by him in honour of the victory in which Autolycus won the crown, the other in the house of Agathon. That these deserve to be remembered was the judgement of men whose character and discourses showed them to be philosophers, Xenophon and Plato, who described them as worthy to be recorded, surmising that they would serve to posterity as models of the happily conducted banquet.</p></div>
+
+<div type="textpart" subtype="section" n="58"><p> Yet even these if compared
+
+with those of our people who embrace the contemplative life will appear as matters for derision. Pleasure is an element in both, but Xenophon’s banquet is more concerned with ordinary humanity. There are flute girls, dancers, jugglers, fun-makers, proud of their gift of jesting and facetiousness, and other accompaniments of more unrestrained merrymaking.</p></div>
+
+<div type="textpart" subtype="section" n="59"><p>
+<note n="9.147.a">See Xen. <hi rend="italic">Symp</hi>. ii. 1 ff. See App. p. 521.</note>
+   In Plato’s banquet the talk is
+
+
+
+<pb n="149"/>
+almost entirely concerned with love, not merely with the love-sickness of men for women, or women for men, passions recognized
+<note n="9.149.a">Lit. “paying tribute to,” and therefore under their protection.</note>
+  by the laws of nature, but of men for other males differing from them only in age. For, if we find some clever subtlety dealing apparently with the heavenly Love and Aphrodite, it is brought in to give a touch of humour.</p></div>
+
+<div type="textpart" subtype="section" n="60"><p> The
+
+chief part is taken up by the common vulgar love
+<note n="9.149.b">Philo here identifies Plato’s πάνδημος ἔρως with pederasty. On that and other points in his estimate of the <hi rend="italic">Symposium</hi> see App. p. 521. For similar denunciations of the evil <hi rend="italic">cf. Spec. Leg.</hi> iii. 37 ff. and <hi rend="italic">De Abr.</hi> 135 ff.</note>
+  which robs men of the courage which is the virtue most valuable for the life both of peace and war, sets up the disease of effeminacy in their souls and turns into a hybrid of man and woman those who should have been disciplined in all the practices which make for valour.</p></div>
+
+<div type="textpart" subtype="section" n="61"><p> And having wrought havoc
+
+with the years of boyhood and reduced the boy to the grade and condition of a girl besieged by a lover it inflicts damage on the lovers also in three most essential respects, their bodies, their souls and their property. For the mind of the lover is necessarily set towards his darling and its sight is keen for him only, blind to all other interests, private and public; his body wastes away through desire, particularly if his suit is unsuccessful, while his property is diminished by two causes, neglect and expenditure on his beloved.</p></div>
+
+<div type="textpart" subtype="section" n="62"><p> As a side growth we have another greater
+
+evil of national importance. Cities are desolated, the best kind of men become scarce, sterility and childlessness ensue through the devices of these who imitate men who have no knowledge of husbandry by sowing not in the deep soil of the lowland but in briny fields and stony and stubborn places, which
+
+
+<pb n="151"/>
+
+not only give no possibility for anything to grow but even destroy the seed deposited within them.
+<note n="9.151.a">Philo is perhaps thinking of Plato, <hi rend="italic">Laws</hi> 838 E, where the same practice is described as sowing in rocks and stones. He has used much the same language of mating with barren women in <hi rend="italic">Spec. Leg.</hi> iii. 34.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="63"><p>I pass over the mythical stories of the
+
+double-bodied men who were originally brought by unifying forces into cohesion with each other and afterwards came asunder, as an assemblage of separate parts might do when the bond of union which brought them together was loosened.
+<note n="9.151.b">The allusion is to the combination of men and women, the original third sex, set forth by Aristophanes in <hi rend="italic">Symp.</hi> 189 E–190.</note>
+  All these are seductive enough, calculated by the novelty of the notion to beguile the ear, but the disciples of Moses trained from their earliest years to love the truth regard them with supreme
+<note n="9.151.c">Conybeare “from a lofty vantage ground.” The phrase is a favourite of Philo’s for equalling “with plenty to spare.” Sometimes it is contrasted with ἴσος as in <hi rend="italic">Quod Omn. Prob.</hi> 149 and <hi rend="italic">Flacc.</hi> 126, or is coupled with κρατεῖν or νικᾶν as in <hi rend="italic">De Agr.</hi> 112 and <hi rend="italic">De Post.</hi> 161 (so in <hi rend="italic">De Aet.</hi> 80 πολλῇ τινι περιουσίᾳ). In other cases it seems to intensify an action or create a superlative. So <hi rend="italic">Mos.</hi> i. 93 and ii. 75 and so, I think, here.</note>
+  contempt and continue undeceived.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="64"><p><milestone unit="para"/><milestone unit="altchapter" n="8"/> But since the story of these well-known
+
+banquets is full of such follies and they stand self-convicted
+in the eyes of any who do not regard conventional opinions and the widely circulated report which declares them to have been all that they should be, I will describe in contrast the festal meetings of those who have dedicated their own life
+<note n="9.151.d">So, I think, rather than “means of livelihood” (Conybeare).</note>
+  and themselves to knowledge and the contemplation of the verities of nature, following the truly sacred instructions of the prophet Moses.</p></div>
+
+<div type="textpart" subtype="section" n="65"><p> First of all these
+
+
+
+<pb n="153"/>
+people assemble after seven sets of seven days
+<note n="9.153.a">I believe with Conybeare that this refers to the feast of Pentecost. But Philo writes carelessly when he omits to tell us from what time the seven weeks are calculated. In <hi rend="italic">Spec. Leg.</hi> ii. 176 he has stated that they are calculated from the “Sheaf,” the festival on the second (?) day after the passover, and presumably he means the same here. But Conybeare is too severe when he scolds Lucius for supposing δι᾿ ἑπτὰ ἑβδ. to mean “every seven weeks.” Since at present we have only heard of minor meetings every week, that would be the natural meaning. Wendland indeed takes it so. See App. p. 522 on this and the meaning of πρῶτον μέν, which Conybeare translates “for the first time.”</note>
+  have passed, for they revere not only the simple seven but its square also, since they know its chastity and perpetual virginity. This is the eve of the chief
+<note n="9.153.b">We are naturally surprised to see Pentecost rather than the Passover called the chief feast, but see App. p. 523.</note>
+  feast which Fifty takes for its own, Fifty the most sacred of numbers and the most deeply rooted in nature, being formed from the square of the right-angled triangle which is the source from which the universe springs.</p></div>
+
+<div type="textpart" subtype="section" n="66"><p>
+<note n="9.153.c">i.e. 3, 4, 5 are the sides of the primal right-angled triangle     and 3^2 + 4^2 + 5^2 = 50. See the full explanation in <hi rend="italic">Spec. Leg.</hi> ii. 176 and <hi rend="italic">Mos.</hi> ii. 80, and the notes thereon.</note>
+   So then they assemble, white-robed
+
+
+and with faces in which cheerfulness is combined with the utmost seriousness, but before they recline, at a signal from a member of the Rota,
+<note n="9.153.d">Conybeare considers that these ἐφημερευταί are the same as the πρόεδροι mentioned later and quotes an inscription of A.D. 174 ἐφημερεύοντος Παυσανίου προέδρου in minutes of a βουλή in Tyre. But the word in itself merely suggests duties performed in rotation, and ὑπηρεσίαις points to what we should describe as a sidesman rather than an officiating minister.</note>
+  which is the name commonly given to those who perform these services, they take their stand in a regular line in an orderly way, their eyes and hands lifted up to Heaven, eyes because they have been trained to fix their gaze on things worthy of contemplation, hands in token that they are clean from gain-taking and not defiled through any cause
+<note n="9.153.e">Conybeare “pretence.” But Philo often uses the word in a way hardly distinguishable from “cause.” So e.g. the eyesight is damaged μικρᾶς ἕνεκα προφάσεως <hi rend="italic">Spec. Leg.</hi> iv. 200 and the firstborn in Egypt suddenly perish ἀπ᾿ οὐδεμιᾶς προφάσεως <hi rend="italic">Mos.</hi> i. 135. If the word differs at all from αἰτία, it is that it indicates not the absolute cause, but what people may consider to be the cause. So perhaps here “anything that might be regarded as a money-making business.”</note>
+  of the profit-making kind. So standing they pray to God that their feasting may be acceptable and proceed
+
+<pb n="155"/>
+as He would have it.</p></div>
+
+<div type="textpart" subtype="section" n="67"><p>  After the
+
+
+prayers the seniors recline according to the order of their admission, since by senior they do not understand the aged and grey headed who are regarded as still mere children if they have only in late years come to love this rule of life, but those who from their earliest years have grown to manhood and spent their prime in pursuing the contemplative branch of philosophy, which indeed is the noblest and most god-like part.</p></div>
+
+<div type="textpart" subtype="section" n="68"><p> The feast is shared by women also,
+
+most of them aged virgins, who have kept their chastity not under compulsion, like some of the Greek priestesses, but of their own free will in their ardent yearning for wisdom. Eager to have her for their life mate they have spurned the pleasures of the body and desire no mortal offspring but those immortal children which only the soul that is dear to God can bring to the birth unaided
+<note n="9.155.a">The thought may be “without needing the midwife’s skill” (τέχνη μαιευτική) So at least in a very similar passage, <hi rend="italic">De Mig.</hi> 142.</note>
+  because the Father has sown in her spiritual rays enabling her to behold the verities of wisdom.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="69"><p><milestone unit="para"/><milestone unit="altchapter" n="9"/> The order of
+
+
+reclining is so apportioned that the men sit by themselves on the right and the women by themselves on the left. Perhaps it may be thought that couches though not costly still of a softer kind would have been provided for people of good birth and high character and trained practice in philosophy. Actually they are plank beds of the common kinds of wood, covered with quite cheap strewings of native papyrus, raised slightly at the arms to give something to lean on. For while they mitigate somewhat the harsh austerity of Sparta, they always and everywhere
+
+<pb n="157"/>
+practise a frugal contentment worthy of the free, and oppose with might and main the love-lures of pleasure.</p></div>
+
+<div type="textpart" subtype="section" n="70"><p> They do not have slaves to wait upon
+
+them as they consider that the ownership of servants is entirely against nature. For nature has borne all men to be free, but the wrongful and covetous acts of some who pursued that source of evil, inequality, have imposed their yoke and invested the stronger with power over the weaker.</p></div>
+
+<div type="textpart" subtype="section" n="71"><p> In this sacred banquet
+
+there is as I have said no slave, but the services are rendered by free men who perform their tasks as attendants not under compulsion nor yet waiting for orders, but with deliberate goodwill anticipating eagerly and zealously the demands that may be made.</p></div>
+
+<div type="textpart" subtype="section" n="72"><p> For it is not just any free men who are appointed
+
+for these offices but young members of the association chosen with all care for their special merit who as becomes their good character and nobility are pressing on to reach the summit of virtue. They give their services gladly and proudly like sons to their real fathers and mothers,
+<note n="9.157.a">On this use of γνήσιος see <hi rend="italic">Quod Omn. Prob.</hi> 87.</note>
+  judging them to be the parents of them all in common, in a closer affinity than that of blood, since to the right minded there is no closer tie than noble living. And they come in to do their office ungirt and with tunics hanging down, that in their appearance there may be no shadow of anything to suggest the slave.</p></div>
+
+<div type="textpart" subtype="section" n="73"><p>  In this
+
+
+banquet—I know that some will laugh at this, but only those whose actions call for tears and lamentation—no wine is brought during those days
+<note n="9.157.b">Not to be taken as implying that the wine would be used on other occasions, which is negatived by νηφάλια βιοῦν, but in contrast to the feasts of other people.</note>
+  but only water of the brightest and clearest, cold for most
+
+<pb n="159"/>
+of the guests but warm for such of the older men as live delicately. The table too is kept pure from the flesh of animals; the food laid on it is loaves of bread with salt as a seasoning, sometimes also flavoured with hyssop as a relish for the daintier appetites.</p></div>
+
+<div type="textpart" subtype="section" n="74"><p> Abstinence from wine is enjoined by right reason
+
+as for the priest when sacrificing, so to these for their lifetime.
+<note n="9.159.a">For the use of the neuter νηφάλια see note on <hi rend="italic">Spec. Leg.</hi> iv. 191 (vol. viii. p. 436).</note>
+  For wine acts like a drug producing folly, and costly dishes stir up that most insatiable of animals,
+<note n="9.159.b">The phrase goes back to Plato, <hi rend="italic">Timaeus</hi> 70 E. See <hi rend="italic">Spec. Leg.</hi> i. 148, iv. 94 and notes.</note>
+  desire.
+
+<milestone unit="para"/><milestone unit="altchapter" n="10"/> Such are the preliminaries.</p></div>
+
+<div type="textpart" subtype="section" n="75"><p>
+
+
+But when the guests have laid themselves down arranged in rows, as I have described, and the attendants have taken their stand with everything in order ready for their ministry, the President of the company, when a general silence is established—here it may be asked when is there no silence—well at this point there is silence even more than before so that no one ventures to make a sound or breathe with more force than usual—amid this silence, I say, he discusses some question arising in the Holy Scriptures or solves one that has been propounded by someone else. In doing this he has no thought of making a display, for he has no ambition to get a reputation for clever oratory but desires to gain a closer insight into some particular matters and having gained it not to withhold it selfishly from those who if not so clear-sighted as he have at least a similar desire to learn.</p></div>
+
+<div type="textpart" subtype="section" n="76"><p> His instruction proceeds in
+
+a leisurely manner; he lingers over it and spins it out with repetitions, thus permanently imprinting
+
+<pb n="161"/>
+the thoughts in the souls of the hearers, since if the speaker goes on descanting with breathless rapidity the mind of the hearers is unable to follow his language, loses ground and fails to arrive at apprehension of what is said.</p></div>
+
+<div type="textpart" subtype="section" n="77"><p> His audience listen with ears pricked
+
+up and eyes fixed on him always in exactly the same posture, signifying comprehension and understanding by nods and glances, praise of the speaker by the cheerful change of expression which steals over the face,
+<note n="9.161.a">σχέδην=“gradually” or “quietly.” Conybeare trans- lates “by cheerfulness and by slightly turning their faces about.”</note>
+  difficulty by a gentler movement of the head and by pointing with a finger-tip of the right hand. The young men standing by show no less attentiveness
+than the occupants of the couches.</p></div>
+
+<div type="textpart" subtype="section" n="78"><p> The exposition
+
+
+of the sacred scriptures treats the inner meaning conveyed in allegory. For to these people the whole law book seems to resemble a living creature with the literal ordinances for its body and for its soul the invisible mind
+<note n="9.161.b">It is difficult to say whether νοῦς here = “mind” or (as often) “meaning.” I suspect that Philo hardly distinguishes the two and that while “meaning” is predominant in νοῦς, “mind” is predominant in the relative ἐν ᾧ.</note>
+  laid up in its wording. It is in this mind especially that the rational soul begins to contemplate the things akin to itself and looking through the words as through a mirror beholds the marvellous beauties of the concepts, unfolds and removes the symbolic coverings and brings forth the thoughts and sets them bare to the light of day for those who need but a little reminding
+<note n="9.161.c">See App. p. 523.</note>
+  to enable them to discern the inward and hidden through the outward and visible.</p></div>
+
+<div type="textpart" subtype="section" n="79"><p>  When then the President
+
+
+thinks he has discoursed enough and both sides
+
+
+
+
+<pb n="163"/>
+
+feel sure that they have attained their object, the speaker in the effectiveness with which his discourse has carried out his aims, the audience in the substance of what they have heard,
+<note n="9.163.a">As I understand the sentence, it is more literally “when the discussion seems to him in accordance with his purpose to have met successfully the objects aimed at, and to them the listening seems to have turned out according to their purpose,” etc. That is to say δοκῇ κατὰ προαίρεσιν ἀπηντηκέναι is understood with τοῖς δὲ, but while with τῷ μὲν it is further explained by εὐσκόπως ταῖς ἐπιβολαῖς, with τοῖς δὲ this is not added, so that in the first case ἀπηντηκέναι=“to have met,” in the second= “to have turned out”; cf. κατὰ νοῦν ἀπαντῆσαι § 66. Conybeare takes ἐπιβολαῖς= “the points raised.” But the regular use of the word in Philo seems to be “aim” or mental effort of some kind. <hi rend="italic">Cf. e.g.</hi> τὰς . . . τῆς ψυχῆς ἐπιβολάς τε καὶ ὁρμάς <hi rend="italic">Mos.</hi> i. 26, κατὰ τὴν ἰδίαν ἐπιβολήν (“of his own motion”) <hi rend="italic">De Som.</hi> i. 1.</note>
+  universal applause arises showing a general pleasure in the prospect of what is still to follow.</p></div>
+
+<div type="textpart" subtype="section" n="80"><p> Then the President rises and
+
+sings a hymn composed as an address to God, either a new one of his own composition or an old one by poets of an earlier day who have left behind them hymns in many measures and melodies, hexameters
+<note n="9.163.b">For the use of ἔπη for hexameter verse in particular see examples in Stephanus, but it is no doubt permissible to take it = “verses,” simply in agreement with τριμέτρων..</note>
+  and iambics, lyrics suitable for processions or in libations and at the altars, or for the chorus whilst standing or dancing, with careful metrical arrangements to fit the various evolutions.
+<note n="9.163.c">Conybeare translates the last four words “deftly proportioned for turning and returning.” On these hymns in general see App. p. 524.</note>
+  After him all the others take their turn as they are arranged and in the proper order while all the rest listen in complete silence except when they have to chant the closing lines or refrains, for then they all lift up their voices, men and women alike.</p></div>
+
+<div type="textpart" subtype="section" n="81"><p> When everyone
+
+has finished his hymn the young men bring in the tables mentioned a little above on which is set the truly purified
+<note n="9.163.d">Conybeare “all-purest.” The epithet seems strange, since it is followed at once by the statement that the shew-bread in purity ranked above it. No one has suggested, and I only do it with hesitation, that the negative before παναγέστατον, as often, has fallen out.</note>
+  meal of leavened bread seasoned with
+
+<pb n="165"/>
+salt mixed with hyssop, out of reverence for the holy table enshrined in the sacred vestibule of the temple on which lie loaves and salt without condiments, the loaves unleavened and the salt unmixed.</p></div>
+
+<div type="textpart" subtype="section" n="82"><p>
+<note n="9.165.a">The LXX though not the Hebrew prescribes salt with the shewbread. See <hi rend="italic">Mos.</hi> ii. 104.</note>
+  For it was
+
+meet that the simplest and purest food should be assigned to the highest caste, namely the priests, as a reward for their ministry, and that the others while aspiring to similar privileges should abstain from seeking the same as they and allow their superiors to retain their precedence.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="83"><p><milestone unit="para"/><milestone unit="altchapter" n="11"/> After the supper they hold the sacred vigil
+
+which is conducted in the following way. They rise up all together and standing in the middle of the refectory form themselves first into two choirs, one of men and one of women, the leader and precentor chosen for each being the most honoured amongst them and also the most musical.</p></div>
+
+<div type="textpart" subtype="section" n="84"><p> Then they sing
+
+hymns to God composed of many measures and set to many melodies, sometimes chanting together, sometimes taking up the harmony antiphonally, hands and feet keeping time in accompaniment, and rapt with enthusiasm reproduce sometimes the lyrics of the procession, sometimes of the halt and of the wheeling and counter-wheeling of a choric dance.</p></div>
+
+<div type="textpart" subtype="section" n="85"><p> Then when each choir has separately
+
+
+done its own part in the feast, having drunk as in the Bacchic rites of the strong wine of God’s love they mix and both together become a single choir, a copy of the choir set up of old beside the Red Sea in honour of the wonders there wrought.
+
+<pb n="167"/>
+</p></div>
+
+<div type="textpart" subtype="section" n="86"><p>For at the command of God the sea became a source
+
+of salvation to one party and of perdition to the other. As it broke in twain and withdrew under the violence of the forces which swept it back there rose on either side, opposite to each other, the semblance of solid
+<note n="9.167.a">Or “congealed.”</note>
+  walls, while the space thus opened between them broadened into a highway smooth and dry throughout on which the people marched under guidance right on until they reached the higher ground on the opposite mainland. But when the sea came rushing in with the returning tide, and from either side passed over the ground where dry land had appeared the pursuing enemy were submerged and perished.</p></div>
+
+<div type="textpart" subtype="section" n="87"><p> This
+
+wonderful sight and experience, an act transcending word and thought and hope, so filled with ecstasy both men and women that forming a single choir they sang hymns of thanksgiving to God their Saviour, the men led by the prophet Moses and the women by the prophetess Miriam.
+</p></div>
+
+<div type="textpart" subtype="section" n="88"><p><milestone unit="para"/>It is on this model above all that the choir of the
+
+Therapeutae of either sex, note in response to note and voice to voice, the treble of the women blending with the bass of the men, create an harmonious concent, music in the truest sense. Lovely are the thoughts, lovely the words and worthy of reverence the choristers, and the end and aim of thoughts, words and choristers alike is piety.</p></div>
+
+<div type="textpart" subtype="section" n="89"><p> Thus they continue
+
+
+till dawn, drunk with this drunkenness in which there is no shame, then not with heavy heads or drowsy eyes but more alert and wakeful than when they came to the banquet, they stand with their faces and whole body turned to the east and when they see the sun rising they stretch their hands
+
+<pb n="169"/>
+up to heaven and pray for bright days and knowledge of the truth and the power of keen sighted thinking. And after the prayers they depart each to his private sanctuary once more to ply the trade and till the field of their wonted philosophy.
+</p></div>
+
+<div type="textpart" subtype="section" n="90"><p><milestone unit="para"/>So much then for the Therapeutae, who have taken
+
+to their hearts the contemplation of nature and what it has to teach,
+<note n="9.169.a">As the Therapeutae would naturally, like the Essenes (<hi rend="italic">cf. Quod Omn. Prob.</hi> 80), deal only with the theological side of physic, I think this must be what is referred to by τῶν ἐν αὐτῇ. Elsewhere the phrase seems to mean the contents of the natural world. I should like to omit τῶν and translate “lived in it and the soul alone.”</note>
+  and have lived in the soul alone, citizens of Heaven and the world, presented
+<note n="9.169.b">The conjunction with προυξένησεν shows clearly that συσταθέντες is here used in the quite common sense of “commended “rather than as Conybeare “established.”</note>
+  to the Father and Maker of all by their faithful sponsor Virtue, who has procured for them God’s friendship and added a gift going hand in hand with it, true excellence of life, a boon better than all good fortune and rising to the very summit of felicity.
+
+</p></div></div></body></text></TEI>
