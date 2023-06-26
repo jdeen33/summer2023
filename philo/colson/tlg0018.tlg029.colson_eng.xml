@@ -1,0 +1,1290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="grc">Περὶ ἀφθαρσἰας κοσμοῦ </title>
+<title>On the Eternity of the World</title>
+<author>Philo of Alexandria</author>
+<editor>Francis Henry Colson (1857-1943)</editor>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Gregory Crane</name>
+<name>Lisa Cerrato</name>
+
+</respStmt>
+<funder n="org:NEH">The National Endowment for the Humanities</funder>
+</titleStmt>
+<extent/>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+    <date type="release" when="2023-06-23">Perseus 5.0</date>
+    <idno type="filename">tlg0018.tlg021.perseus-grc3.xml</idno>
+    <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+    </availability>
+</publicationStmt>
+
+    <sourceDesc>
+        <listBibl>
+            <biblStruct>
+                <monogr>
+                    <author>Philo of Alexandria</author>
+                    <title>Philo Volume VII</title>
+                    <editor>Francis Henry Colson (1857-1943)</editor>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>William Heinemann Ltd.</publisher>
+                        <pubPlace>Cambridge, MA</pubPlace>
+                        <publisher>Harvard University Press</publisher>
+                        <date>1934</date>
+                    </imprint>
+                    <biblScope unit="volume">6</biblScope>
+                </monogr>
+                <ref target="https://ryanfb.github.io/loebolus-data/L320.pdf">Github</ref>
+            </biblStruct>
+        </listBibl>
+    </sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction method="silent">
+<p>optical character recognition</p>
+</correction>
+</editorialDecl>
+    <refsDecl n="CTS">
+        <cRefPattern matchPattern="(\w+)"
+            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+            <p>This pointer pattern extracts section.</p>
+        </cRefPattern>
+    </refsDecl>
+<!-- <refsDecl doctype="TEI.2">
+<state unit="section" n="chunk"/>å
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="edition" n="urn:cts:greekLit:tlg0018.tlg023.colson_eng" xml:lang="grc">
+<pb n="185"/>
+<head>On the Eternity of the World</head>
+<div type="textpart" subtype="section" n="1"><p><milestone unit="para"/><milestone unit="altchapter" n="1"/> In dealing with every obscure and weighty
+
+question it is well to call upon God, because He is good, because He is the Creator, and possessed as He is of absolutely exact knowledge of all things nothing is obscure to Him. But it is particularly necessary when the subject in question is the indestructibility of the world.
+<note n="9.185.a">Bernays gives several references to the practice of invoking God at the beginning of a discussion, and clearly Philo has in mind <hi rend="italic">Timaeus</hi>27 C,where Socrates calls on Timaeus to speak after invoking the Gods, and Timaeus replies that every sensible person does so when speaking on any matter great or small, and he will certainly do so when speaking about the universe, whether it is created or uncreated (ἦ γέγονεν ἢ καὶ ἀγενές ἐστιν).</note>
+  For nothing in the realm of the sensible is more complete in every way than the world, nothing in the intelligible realm more perfect than God, and intelligence always takes command of sense and the intelligible of the sensible. And those in whom the love of truth is implanted in greater measure observe the law that knowledge about the subjects must be sought from the Commander and Ruler.</p></div>
+
+<div type="textpart" subtype="section" n="2"><p> Now, if schooled in the doctrines
+
+of wisdom and temperance and every virtue we had scoured away the stains of the passions and soul-distempers,
+perhaps God would not have refused to impart the knowledge of things heavenly through dreams or oracles or signs or wonders to souls thoroughly purged and bright and radiant. But since we bear upon us deep ingrained the imprints
+
+<pb n="187"/>
+of injustice and folly and the other vices we must be content if through a study of probabilities and by our own efforts we may discover some semblance of the truth.
+</p></div>
+
+<div type="textpart" subtype="section" n="3"><p><milestone unit="para"/>Now the words “world” and “destruction” are
+
+both such as are used in many senses and therefore it will be well to open the discussion whether the world is indestructible by examining these terms in order to distinguish under what signification they stand in this case. Still we need not make a complete list of all the meanings they bear but only such as are instructive for our present purpose.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="4"><p><milestone unit="para"/><milestone unit="altchapter" n="2"/> In one sense, the world or Cosmos signifies the
+
+whole system of heaven and the stars including the earth and the plants and animals thereon; in another sense the heaven only. It was on heaven that Anaxagoras had been gazing, when in answer to the person who asked why he suffered discomfort by spending the whole night under the open sky said he did it in order to contemplate the Cosmos, meaning by Cosmos the choric movements and revolutions of the stars. The third sense, which is approved by the Stoics, is something existing continuously to and through the general conflagration,
+<note n="9.187.a">That ἄχρι is here used inclusively is, I think, shown by ἀδιακόσμητος, a condition which only exists during the ἐκπύρωσις (cf. Philo’s disquisition on the inclusive use of ἀπό in <hi rend="italic">De Som.</hi> ii. 257). I understand Bernays to say that the addition of ἢ ἀδιακ. is inaccurate (“ungenau”) according to Stoic doctrine. But Philo implies the same in § 9.</note>
+  a substance either
+
+<pb n="189"/>
+reduced or not reduced to order, and time, they say, is what measures its movement.
+<note n="9.189.a">For this accepted Stoic definition of time cf. Diog. Laert. vii. 141. It is repeated in this treatise, §§ 52 ff., <hi rend="italic">cf. De Op.</hi> 26, where it was translated “a measured space determined by the world’s movement,” which perhaps gives the idea of διάστημα (distance or interval) more exactly.</note>
+   Our
+present discussion is concerned with the world in the first sense, namely the world which consists of heaven and earth and the life on them.</p></div>
+
+<div type="textpart" subtype="section" n="5"><p>
+<note n="9.189.b">The stars are regarded as ζῷα.</note>
+  The word destruction
+
+in one sense means a change for the worse, in another complete removal from existence, and this we must pronounce to be a thing which cannot possibly be, for just as nothing comes into being out of the nonexistent, so nothing is destroyed into non-existence.
+<quote>
+<l>Nothing from what is not can come to be,</l>
+<l>Nor was it ever heard or brought to pass,</l>
+<l>That what exists should perish utterly.
+<note n="9.189.c">Stated to be a fragment from Empedocles.</note>
+ </l></quote>
+So too the tragic poet
+<quote>
+<l>Naught that is born can die;</l>
+<l>Hither and thither its parts disperse</l>
+<l>And take another form.
+<note n="9.189.d">See on § 30.</note>
+ </l>
+</quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="6"><p>Nothing in fact is so foolish as to raise the question
+
+whether the world is destroyed into non-existence. The point is whether it undergoes a transmutation from its ordered arrangement through the various forms of the elements and their combinations being either resolved into one and the self-same conformation or reduced into complete confusion as things are when broken or shattered.
+
+<pb n="191"/>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="7"><p><milestone unit="para"/><milestone unit="altchapter" n="3"/> Three views have been put forward on the
+
+question before us. Some assert that the world is eternal, uncreated and imperishable. Some on the contrary say that it is created and destructible. Others draw from both these. From the latter they take the idea of the created, from the former that of the indestructible and so have laid down a composite doctrine to the effect that the world is created and indestructible.</p></div>
+
+<div type="textpart" subtype="section" n="8"><p>  Democritus with Epicurus
+
+
+and the great mass of Stoic philosophers maintain the creation and destruction of the world but in different ways. The two first named postulate many worlds, the origin of which they ascribe to the mutual impacts and interlacings of atoms and its destruction to the counterblows and collisions sustained by the bodies so formed. The Stoics admit one world only; God is the cause of its creation but not of its destruction. This is due to the force of the ever-active fire which exists in things and in the course of long cycles of time resolves everything into itself and out of it is constructed a reborn world according to the design of its architect.</p></div>
+
+<div type="textpart" subtype="section" n="9"><p> According
+
+to these the world may be called from one point of view an eternal, from another a perishable world; thought of as a world reconstructed it is perishable, thought of as subject to the conflagration it is everlasting through the ceaseless rebirths and cycles which render it immortal.</p></div>
+
+<div type="textpart" subtype="section" n="10"><p>
+<note n="9.191.a">The meaning would be clearer if ἐκπύρ. and διακ. changed places. When we consider the former we see that a world has perished. When we see it followed by the latter we recognize that it did not really perish.</note>
+   But Aristotle
+
+
+surely showed a pious and religious spirit when in opposition to this view he said that the world was uncreated and indestructible and denounced the shocking atheism of those who stated the contrary
+
+<pb n="193"/>
+and held that there was no difference between handmade idols
+<note n="9.193.a">See Introd. p. 175 note <hi rend="italic">a.</hi></note>
+  and that great visible God who embraces the sun and moon and the pantheon as it may be truly called of the fixed and wandering stars.</p></div>
+
+<div type="textpart" subtype="section" n="11"><p> He
+
+is reported to have said in bitter mockery that in the past he had feared for his house lest it should be overthrown by violent winds or terrific storms or lapse of time or neglect of proper care. But now he lived under the fear of a greater menace from the theorists who would destroy the whole world.
+</p></div>
+
+<div type="textpart" subtype="section" n="12"><p><milestone unit="para"/>Some say that the author of this doctrine was not
+
+Aristotle but certain Pythagoreans, and I have read a work of Ocellus a Lucanian
+<note n="9.193.b">Ocellus was a Pythagorean of earlier times. The work attributed to him, which is still extant and which Philo alludes to here, belongs to the first or second century B.C. See further App. p. 525.</note>
+  entitled <hi rend="italic">On the Nature of the Universe,</hi> in which he not only stated but sought to establish by demonstrations that it was uncreated and indestructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="13"><p><milestone unit="para"/><milestone unit="altchapter" n="4"/> That it is created and indestructible is said to
+
+be shown by Plato in the <hi rend="italic">Timaeus</hi>
+<note n="9.193.c"><hi rend="italic">Tim.</hi> 41 a. For other ways of taking the opening words see App. p. 525.</note>
+  in his account of the great assembly of deities in which the younger gods are addressed thus by the eldest and chief.
+Gods sprung from gods, the works of which I am the Maker and Father are indissoluble unless I will otherwise. Now all that is bound can be loosed but only the bad would will to loose what is well put together and in good condition. So since you are created beings you are not immortal nor altogether indissoluble, yet you will not be dissolved nor will death be your fate, for in my will you have a greater and mightier bond than those by which you were
+
+<pb n="195"/>
+bound when you were created.”</p></div>
+
+<div type="textpart" subtype="section" n="14"><p> Some hold the
+
+notion that when Plato speaks of the world as created he does not mean that it began by being created but that if it had been created it would not have been formed in any other way than that which he describes, or else that he uses the word because the parts of the world are observed to come into being and to be changed.</p></div>
+
+<div type="textpart" subtype="section" n="15"><p>
+<note n="9.195.a">For the first of these explanations Bernays refers to Ar. <hi rend="italic">De Caelo</hi> i. 10, 279 b 34: “They (i.e. those who hold that it is indestructible but generated) claim that what they say is analogous to the diagrams drawn by mathematicians: their exposition does not mean that the world ever was generated, but is used for instructional purposes, since it makes things easier to understand, just as the diagram does for those who see it in process of construction” (Guthrie’s translation, who adds that the defence according to Simplicius is “that of Xenocrates and other Platonists”).</note>
+   But this subtlety of
+
+
+theirs is not so good or true an idea as the view before mentioned, not merely because throughout the whole treatise
+<note n="9.195.b">Though the reference is to the <hi rend="italic">Timaeus, passim,</hi> Bernays notes ἔργον = κόσμος 30 B, περίεχον 31 B, and ἔκγονα 50 B,. We have also μίμημα παραδείγματος 49 B, and ἐκμαγεῖον 50 B,</note>
+  he speaks of the great Framer of deities as the Father and Maker and Artificer and this world as His work and offspring, a sensible copy of the archetypal and intelligible model, embracing in itself as objects of sense all which that model contains as objects of intelligence, an impress
+<note n="9.195.c">Or perhaps rather “plastic substance” (for receiving imprints), which seems to be the meaning in 50 B,, in which case τελειοτάτου will agree with ἐκμαγείου understood rather than as Leisegang (in index) with παραδείγματος. The other is the regular meaning in Philo, but does not suit πρός so well. Bernays indeed translates “Abdruck,” but he reads νοῦ for νοῦν—i.e. “issuing from a most perfect mind.”</note>
+  for sense perception as absolutely perfect as that is for the mind.</p></div>
+
+<div type="textpart" subtype="section" n="16"><p> Another reason is that this view of Plato’s meaning
+
+has the testimony of Aristotle, who had too much respect for philosophy to falsify anything. A teacher can have no more trustworthy witness than a disciple and particularly one like Aristotle who did not treat culture as a by-work or with frivolous carelessness, but sought earnestly to transcend the truths discovered by the ancients and so struck out a new
+
+<pb n="197"/>
+path by discovering some very vital additions to every part of philosophy.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="17"><p><milestone unit="para"/><milestone unit="altchapter" n="5"/> Some think
+
+
+that the poet Hesiod is the father of this Platonic doctrine and suppose that he calls the world uncreated and indestructible, uncreated because he says
+<quote>
+<l>First Chaos was, and then broad-breasted earth</l>
+<l>Safe dwelling-place for all for evermore,
+<note n="9.197.a"><hi rend="italic">Theogony</hi> 116 f.</note>
+ </l>
+</quote>
+indestructible because he never declared that it will be dissolved or destroyed.</p></div>
+
+<div type="textpart" subtype="section" n="18"><p> Chaos in Aristotle’s
+
+opinion is a space because a body must have something there already to hold it,
+<note n="9.197.b">Ar. <hi rend="italic">Phys.</hi> iv. 1, 208 b 29. “Hesiod seems to have been right in putting Chaos first, where he says Chaos was first, then earth ὡς δέον πρῶτον ὑπάρξαι χώραν τοῖς οὖσι διὰ τὸ νομίζειν, ὥσπερ οἱ πολλοί, πάντα εἶναί που καὶ ἐν τόπῳ.”</note>
+  but some of the Stoics suppose that it is water and that the name is derived from its diffusion (χύσις).
+<note n="9.197.c">This opinion is attributed to Zeno himself, <hi rend="italic">S.V.F.</hi> i. 103, 104.</note>
+   </p></div>
+
+<div type="textpart" subtype="section" n="19"><p> But
+whichever of these is right Hesiod very clearly states the view that the world is created and long before
+
+Hesiod Moses the lawgiver of the Jews said in the Holy Books that it was created and imperishable. These books are five in number, to the first of which he gave the name of Genesis. In this he begins by saying “In the beginning God made the Heavens and the Earth and the Earth was invisible and without form.”
+<note n="9.197.d">This remarkable difference in the LXX of Gen. i. 2 from the Hebrew translated in the A.V. “without form and void” (R.V. “waste and void”) is compared with <hi rend="italic">Timaeus</hi> 51 LXX ἀνόρατον εἶδός τι καὶ ἄμορφον by Bernays, who thinks that the translators had it in mind. He notes also Wisdom xi. 17 κτίσασα τὸν κόσμον ἐξ ἀμόρφου ὕλης.</note>
+  Then again he goes on to say in the sequel that “days and nights and seasons and years and the sun and moon whose natural function is to
+
+<pb n="199"/>
+measure time are together with the whole heaven destined to immortality and continue indestructible.”
+<note n="9.199.a">The allusion is no doubt to Gen. viii. 22 E.V. “While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease.” The LXX text is confused and difficult to translate grammatically, but gives the same meaning that these will continue while the earth lasts, but not that the earth will last. In the words οἳ χρόνου κτλ. there is also an allusion to Gen. i. 14 “Let them be for signs, and for seasons, and for days, and years,” which again gives no proof of everlastingness.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="20"><p><milestone unit="para"/>Respect for that visible God requires that we
+
+should begin the discussion in the proper way by setting forth first the arguments which contend that it is uncreated and indestructible. All things which are liable to perish are subject to two fundamental sources of destruction, the external and the internal. Thus iron, brass and similar substances will be found to vanish of themselves when devoured by the rust which courses over them like a creeping sickness
+<note n="9.199.b">A familiar figure with Philo, applied to desire or vice, <hi rend="italic">Quod Det.</hi> 110, <hi rend="italic">Spec. Leg.</hi> iv. 83, <hi rend="italic">De Dec.</hi> 150 and to the spread of famine <hi rend="italic">De Ios.</hi> 160 (there called ἑρπήν). See also <hi rend="italic">De Prov.</hi> 30.</note>
+ ; and also through external agencies, when a house or city is burnt and they too are caught in the flames and dissolved through the violence of the rushing fire. Similarly, too, living creatures die of themselves through disease or through external causes, being slain with the sword or stoned or burnt or suffering the unclean death of hanging.</p></div>
+
+<div type="textpart" subtype="section" n="21"><p>
+<note n="9.199.c"><hi rend="italic">Cf. De Mut.</hi> 62 ἐπ᾿ ἀγχόνην ᾖξεν, ἵνα . . . μηδὲ καθαρῷ θανάτῳ τελευτήσῃ.</note>
+  Now if the world is
+
+destroyed it will necessarily be through either some force from without or some of those which it contains within itself, and both of these are impossible. For there is nothing outside the world since all things have been brought into contribution to fill it up, and
+
+<pb n="201"/>
+filled it must be if it is to be one and a total and unaging: one because if some things are left out another world would come into being like the one that now is; total because all that exists is used up to make it; proof against age and disease because the bodies which fall a prey to diseases and old age succumb to the powerful onsets from outside of heat and cold and all other opposite extremes,
+<note n="9.201.a">See App. p. 526.</note>
+  and none of these forces can escape from the world to surround and attack it, for they are all in their entirety confined within it and no part of them stays away from it. And if there is anything outside it will necessarily be a void, the impassive form of existence which cannot be acted on or act.</p></div>
+
+<div type="textpart" subtype="section" n="22"><p> Neither again will anything
+
+internal cause its dissolution. First because if it did the part would be greater and stronger than the whole, which is against all reason. For the world while exerting a force which nothing can surpass propels all its parts and is propelled by none. Secondly because as the sources of destruction are twofold, one external and one internal, things which can be subject to one of these two must certainly be susceptible to the other.</p></div>
+
+<div type="textpart" subtype="section" n="23"><p> As a proof of this we see
+
+that an ox or a horse or a man or other similar creatures since they are liable to be killed by an iron weapon are also liable to die through disease. For it is difficult or rather impossible to find anything which if susceptible to destruction through an external cause is entirely proof against an internal.</p></div>
+
+<div type="textpart" subtype="section" n="24"><p> Since then it has been shown that the world will not
+
+
+
+<pb n="203"/>
+be destroyed by anything external because nothing at all has been left outside, neither will anything within it cause its destruction as demonstrated by the argument stated above, namely that that which is liable to be destroyed by one of the causes must be susceptible to the other.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="25"><p><milestone unit="para"/><milestone unit="altchapter" n="6"/> In the
+
+
+<hi rend="italic">Timaeus,</hi> too, we have the following testimony to show that the world is proof against disease and destruction in the future.
+<note n="9.203.a"><hi rend="italic">Timaeus</hi> 32 C. The translation here and in § 38 mostly follows that of Archer-Hind.</note>
+  “Now the framing of the world took up the whole of each of these four elements, for out of all fire, of all water and air and earth did the framer fashion it, leaving no part nor power of any without.</p></div>
+
+<div type="textpart" subtype="section" n="26"><p> Therein he had this intent, first that it might be a creature, perfect to the utmost
+
+with all its parts perfect, next that it might be one, seeing that nothing was left over by which another of the kind should be formed: furthermore, that it might be free from age and sickness, for he reflected that when hot things and cold and all such as have strong powers gather round a composite body from without and fall unseasonably upon it they annoy it and bringing upon it sickness and age cause it to decay. With this motive and on such reasons God fashioned it as a whole, with each of its parts whole in itself so as to be perfect, and free from age and sickness.”</p></div>
+
+<div type="textpart" subtype="section" n="27"><p> We may take this as Plato’s testimony
+
+to the indestructibility of the world; that it is uncreated follows the natural law of consequences. Dissolution is consequential to the created, indestructibility to the uncreated. The author of the verse “All that is born is due to death”
+<note n="9.203.b">The source is unknown.</note>
+  seems to
+
+<pb n="205"/>
+have hit the truth and to have understood the causal connexion between birth and destruction.
+<milestone unit="para"/>The matter is put otherwise thus.</p></div>
+
+<div type="textpart" subtype="section" n="28"><p> All compound
+
+things which are destroyed are dissolved into what they were compounded from. Dissolution then is found to be nothing else than a return to the natural condition of each, and therefore conversely composition has forced the ingredients thus collected into an unnatural condition. And indeed the absolute truth of this appears as follows.</p></div>
+
+<div type="textpart" subtype="section" n="29"><p> We men are
+
+an amalgamation out of the four elements which in their totality are elements of the universe, namely earth, water, air and fire, out of which we have borrowed only small pieces. But the pieces thus amalgamated have lost their natural position. Heat the upward soaring is thrust down and the earthy and weighty substance is lightened and has taken instead the upper position which is occupied by the most earthy of our constituents, the head.</p></div>
+
+<div type="textpart" subtype="section" n="30"><p>
+<note n="9.205.a">i.e. the skull. Cumont’s reading (see note 5) gives a more natural sense. It is strange to find the head called our most earthy part.</note>
+  But the
+
+bond which violence has clinched is the most worthless of all bonds and lasts for but a little time. Quickly it is broken by the rebellious prisoners in their yearning for their natural free movement towards which they eagerly take their departure.
+
+<pb n="207"/>
+As the tragic poet says
+<quote>
+<l>What springs from earth goes back to earth,</l>
+<l>The ether-born to heaven’s vault returns;</l>
+<l>Naught that is born can die;</l>
+<l>Hither and thither its parts disperse</l>
+<l>And take their proper form.
+<note n="9.207.a">These seven lines, the last three of which are quoted also in §§ 5 and 144, are quoted in bits by several writers including Clement, who says that they come from the <hi rend="italic">Chrysippus</hi> of Euripides. Besides these seven there are seven others, given by Sextus Empiricus, which, we learn from the paraphrase given by Vitruvius of the whole fourteen, must have preceded our seven. In these Aether and Earth are addressed as the father and mother of all things living. Vitruvius’s paraphrase ends with “in eandem recidere, in qua fuerant, proprietatem,” which shows that he read ἰδίαν and not ἑτέραν. See Nauck on Fr. 839 of Euripides.</note>
+ </l></quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="31"><p>Now the law laid down to govern all things which
+
+are destroyed is this. When the assembled things are in the combined state of existence they have accepted conditions of disorder in exchange for their natural order and move away into positions opposite to the natural. So in a sense they seem to live like strangers in a foreign land. But when they are dissolved they return to the condition proper to their nature.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="32"><p><milestone unit="para"/><milestone unit="altchapter" n="7"/> But the world has
+
+
+nothing of the disorder which exists in the compounds of which we have been speaking. Observation will show that if it undergoes destruction its several parts must at present have been arranged in an unnatural position and such a supposition is irreverent. For all the parts of the world have been given the best possible situation and harmony of order, so that each is as it were in its beloved fatherland and does not seek any change for the better.</p></div>
+
+<div type="textpart" subtype="section" n="33"><p> And so the earth has been assigned the mid-most
+
+position to which all things of earth descend even if they are thrown up, a sign that this is their natural
+
+<pb n="209"/>
+position, for if anything stands at rest anywhere without being forced thither it is there that it has found its proper place. Water is spread over the surface of earth, and air and fire have made their way from the middle to the upper position, air having allotted to it the space between water and fire and fire the uppermost. And so even if you light a torch and make it descend to earth the flame will all the same force its way against you and speed upwards lightening itself to gain the motion natural to fire.</p></div>
+
+<div type="textpart" subtype="section" n="34"><p> In fact if we grant that in other creatures destruction
+
+is caused by their unnatural arrangement of their parts, while in the world each of the parts is arranged naturally and has its proper position apportioned to it, we are justified in saying that the world is indestructible.
+</p></div>
+
+<div type="textpart" subtype="section" n="35"><p><milestone unit="para"/>Another point which must be clear to everyone is
+
+this. Nature in each case strives to maintain and conserve the thing of which it is the nature and if it were possible to render it immortal.</p></div>
+
+<div type="textpart" subtype="section" n="36"><p> Tree nature acts so in trees, animal nature in each kind of animal, but the nature of any particular part is necessarily
+
+too. feeble to carry it into a perpetual existence. For privation or scorching or chilling or the vast multitude of other circumstances which ordinarily affect it descend to shake it violently and loosen and finally break the bond which holds it together, though if no such external force were lying ready to attack it, so far as itself was concerned, it would preserve all things small or great proof against age.</p></div>
+
+<div type="textpart" subtype="section" n="37"><p> The
+
+nature of the world then must necessarily desire the conservation of the All. For it is not inferior to
+
+<pb n="211"/>
+the nature of particular parts that it should take to its heels and leave its post and try to manufacture sickness rather than health, destruction rather than complete preservation, since
+<quote>
+<l>High o’er them all she rears her head and brows</l>
+<l>Easy to recognize though all are fair.
+<note n="9.211.a"><hi rend="italic">Od.</hi> vi. 107 f., said of Artemis and her nymphs.</note>
+ </l></quote>
+But if this is true the world will not be susceptible to destruction. Why so? Because the nature which holds it together fortified by its great fund of strength is invincible and prevails over everything which could injure it.</p></div>
+
+<div type="textpart" subtype="section" n="38"><p> And so Plato says well
+<note n="9.211.b"><hi rend="italic">Timaeus</hi> 33 C.</note>
+ : “For nothing
+
+went out from it nor entered it from anywhere. For there was nothing. For by design it was created to supply its own sustenance by its own wasting
+<note n="9.211.c">i.e. each part or element feeds upon another. Archer-Hind compares the saying of Heracleitus quoted in § 111.</note>
+  and have all its actions and passions in itself and by itself. For its framer deemed that were it self-sufficing it would be far better than if it required aught else.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="39"><p><milestone unit="para"/><milestone unit="altchapter" n="8"/> There is another highly logical line of proof
+
+which thousands, I know, hail with pride as very exact and absolutely irrefutable. They ask what motive will God have for destroying the world. It must be either to cease from world-making or to construct another.</p></div>
+
+<div type="textpart" subtype="section" n="40"><p>  Now the first of these is inconsistent
+
+
+with God’s nature, which demands that He should change disorder to order, not order to disorder. Secondly He will be allowing Himself to change His mind, and such change is an affection and distemper of the soul. For rightly He should either have made no world at all or judge His work to be befitting to Himself and rejoice in what has been made.</p></div>
+
+<div type="textpart" subtype="section" n="41"><p>  The second motive suggested
+
+
+
+<pb n="213"/>
+demands no little examination. If he should construct another world to take the place of that which now exists, the work thus made must be either a worse, or a like or a superior construction and each of these suppositions is unsatisfactory. For if it is worse its framer also is worse, but the works of God framed with the most consummate skill and knowledge are not liable to censure or condemnation or correction. As they say,
+<quote>
+<l>Not even a woman so far lacks good sense</l>
+<l>As when the better’s there to choose the worse.
+<note n="9.213.a">Source unknown.</note>
+ </l>
+</quote>
+And it befits God to give form to the formless and invest the ugliest things with marvellous beauties.
+</p></div>
+
+<div type="textpart" subtype="section" n="42"><p>If it is a similar world, the craftsman
+
+has wasted his toil and differs not a whit from quite senseless children who often when playing on the beach erect great mounds of sand and then undermine them with their hands and send them tumbling back to the ground.
+<note n="9.213.b"><hi rend="italic">Cf. Il.</hi> xv. 362 ff.: <quote> <l>ὡς ὅτε τις ψάμαθον παῖς ἄγχι θαλάσσης,</l> <l>ὅς τ᾿ ἐπεὶ οὖν ποιήσῃ ἀθύρματα νηπιέῃσιν,</l> <l>ἂψ αὖτις συνέχευε ποσὶν καὶ χερσὶν ἀθύρων.</l></quote></note>
+  Far better than constructing a similar world would it be neither to take away nor to add, neither to change for the better or for the worse but to leave where it is what was once originally created.</p></div>
+
+<div type="textpart" subtype="section" n="43"><p>  If the work is to be better, the
+
+
+workman also will then be better, consequently less perfect in skill and intelligence when he constructed the first world. And even to harbour such a thought is profane, for God is equal to Himself and like Himself; His power admits neither relaxation to make it worse, nor tension to make it better. Such
+
+<pb n="215"/>
+irregularities occur in the lives of men. It is their nature to change in both directions for good and for worse. To grow, to advance, to improve and their opposites are to them common events.</p></div>
+
+<div type="textpart" subtype="section" n="44"><p> Add to this
+
+that the works of us mortals will rightly be destructible, while those of Him the immortal may surely be expected to be indestructible. For it is reasonable to suppose that what the craftsmen have wrought should be assimilated to the nature of those who wrought them.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="45"><p><milestone unit="para"/><milestone unit="altchapter" n="9"/> Further, it is surely clear to everyone that if
+
+the earth is destroyed land animals too as a race must all perish: so, too, if water is destroyed, the aquatic, if air and fire, the traversers of the air and the fire-born.</p></div>
+
+<div type="textpart" subtype="section" n="46"><p>
+<note n="9.215.a"><hi rend="italic">Cf. De Gig.</hi> 7 and <hi rend="italic">De Plant.</hi> 12, where they are said to be seen particularly in Macedonia.</note>
+  On the same analogy, if heaven is
+
+destroyed, the sun and moon will be destroyed, so also the other planets, so also the fixed stars, that mighty host of visible gods whose blessedness from of old has been recognized. This would be the same as supposing that gods are destroyed, and that is on a par with supposing also that men are immortal.
+<note n="9.215.b">Bernays explains this as a Peripatetic hit at the Stoic readiness to believe that men become gods. He quotes among other references Cic. <hi rend="italic">De Nat. Deorum</hi> i. 39, where Chrysippus is declared to have included among the many things which he held to be divine “homines eos qui immortalitatem essent consecuti.” The Peripatetic then says here that a doctrine which involved the death of the heavenly beings is even worse than that which asserts the deification of men.</note>
+  Though if we compare one futility with another we shall find on examination that this is more reasonable than that. Through the grace of God a mortal may conceivably gain immortality, but that gods should
+
+<pb n="217"/>
+lose their indestructibility is impossible whatever the mischievous ravings of men’s philosophies may say.</p></div>
+
+<div type="textpart" subtype="section" n="47"><p> And indeed those who propound the doctrines of
+
+conflagration and rebirth hold and openly declare the god-head of the stars which they destroy in their theorizing without a blush. For they must either declare them to be lumps of red hot metal as do some of those who nonsensically talk of the whole heaven as if it were a prison,
+<note n="9.217.a">The meaning is to be judged from <hi rend="italic">De Som.</hi> i. 22 “Some people have declared them (the stars) to be . . . masses of fiery metal, for which they themselves deserve a prison and mill-house (i.e. a place for hard labour like Lat. “pistrinum”), in which such instruments are kept to punish impiety.” And both passages seem to be connected with the story that Anaxagoras was prosecuted for impiety because he said that the sun was a μύδρος διάπυρος. They seem to be the only passages which suggest that such a form of punishment was used in prisons. Was there perhaps a story that Anaxagoras when imprisoned, as according to one version he was, was subjected to this as an appropriate punishment?</note>
+  or regarding them as divine or superhuman beings also acknowledge that they have the indestructibility which befits gods. In fact they err so far from the true doctrine that they fail to observe that in their inconsistent philosophizing they are imposing destruction on providence also which is the soul of the world.</p></div>
+
+<div type="textpart" subtype="section" n="48"><p> So at least says the most
+
+esteemed among them, Chrysippus, who in his treatise on “increase” makes the following marvellous statement.
+<note n="9.217.b">On the meaning of the term ἰδίως ποιόν or ποιός and the argument of §§ 48–51 see App, p. 528.</note>
+  Starting from the premise that there cannot be two individuals qualifying the same substance he continues “as an illustration, suppose that one person has all his members and that another has only one foot and let us call the first Dion and the defective one Theon and then suppose that Dion has one of his feet cut off.” Now if we ask which of the two has suffered destruction, he thinks that Theon is the more correct answer. This savours
+
+<pb n="219"/>
+more of paradox than of truth.</p></div>
+
+<div type="textpart" subtype="section" n="49"><p> For how can one
+
+say that Theon the unmutilated has been made away with while Dion whose foot is amputated has suffered no destruction? “Quite rightly,” he replies, “for Dion who has had his foot amputated has passed over to the defective substance of Theon. Two individuals cannot qualify the same substratum and so Dion must remain and Theon has been destroyed.”
+<quote><l>Themselves, no others, winged the shaft which slew them,
+<note n="9.219.a">A fragment of the <hi rend="italic">Myrmidons</hi> of Aeschylus. The passage is often quoted with or without the preceding lines <quote> <l>ὧδ᾿ ἐστὶ μύθων τῶν Λιβυστικῶν κλέος,</l> <l>πληγέντ᾿ ἀτράκτῳ τοξικῷ τὸν αἰετὸν</l> <l>εἰπεῖν ἰδόντα μηχανὴν πτερώματος,</l> <l>τάδ᾿ οὐχ ὑπ᾿ ἄλλων ἀλλὰ τοῖς αὑτῶν πτεροῖς</l> <l>ἁλισκόμεσθα.</l></quote></note>
+ </l></quote>
+as says the tragic poet. For by reproducing this form of argument and applying it to the whole world one can very clearly show that providence itself is also destroyed. Consider it as follows.</p></div>
+
+<div type="textpart" subtype="section" n="50"><p> Postulate
+
+on the one hand the world which is complete like Dion and on the other the soul of the world as Theon, for the part is less than the whole. Then just as we take away Dion’s foot, take away from the world all its bodily part.</p></div>
+
+<div type="textpart" subtype="section" n="51"><p> Then we must say
+
+that the world which has lost its body has not been destroyed just as Dion whose foot was cut off was not destroyed. But the soul of the world has been destroyed just as Theon who suffered no injury was destroyed. The world has passed over into a lesser state of being since its bodily part has been taken from it and its soul has been destroyed because two individuals cannot qualify the same substratum.
+
+<pb n="221"/>
+Now to say that providence is destroyed is an atrocity but if providence is indestructible the world also is indestructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="52"><p><milestone unit="para"/><milestone unit="altchapter" n="10"/> Another very weighty proof to show its perpetuity
+
+is supplied by time. If time is uncreated, the world also necessarily must be uncreated. Why? Because as great Plato says time is indicated by days and nights and months and successions of years, and none of these can subsist without the movement of the sun and the revolution of the whole heaven.
+<note n="9.221.a"><hi rend="italic">Timaeus</hi> 37 E.</note>
+  Thus people who are accustomed to define things have correctly explained time as what measures the movement of the universe, and since this is sound, the world is coeval with time and its original source.</p></div>
+
+<div type="textpart" subtype="section" n="53"><p> But nothing can be so preposterous as to suppose that
+
+there was a time when the world was when time was not. Time by its nature has no beginning or end,
+<note n="9.221.a"><hi rend="italic">Timaeus</hi> 37 E.</note>
+  since these very terms “was, time when, when,” involve the idea of time. From this it follows that time also did not exist of itself when the world was not, for what does not subsist does not move either and time has been shown to be what measures the cosmic movement. It is necessary therefore that both should have subsisted from everlasting without having any beginning in which they came into being and things which are from everlasting are not susceptible of destruction.</p></div>
+
+<div type="textpart" subtype="section" n="54"><p> Possibly some argumentative
+
+Stoic quibbler will say that time is explained as the measurement of the movement not only of the world of the present cosmic order but of that postulated at the conflagration. The answer to this is,
+My friend. you are transferring your terms and give the sense of Cosmos to the negation of Cosmos, for if this world which we see is very fitly called
+
+<pb n="223"/>
+Cosmos in the proper sense of the word being ordered and disposed with consummate craftsmanship, which admits of no improvement, one may rightly describe its change into fire as the negation of Cosmos.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="55"><p><milestone unit="para"/><milestone unit="altchapter" n="11"/>
+<note n="9.223.a">Lived about the middle of the second century B.C. For some remarks on the part assigned to him in the argumentation which follows see Intr. p. 176.</note>
+ Critolaus, one of the votaries of the Muses,
+
+a lover of the Peripatetic philosophy, who assents to the doctrine of the perpetuity of the world, used the following arguments. If the world has been created, the earth must have been so too, and if the earth was created, so certainly must have been the human race, but man is uncreated and his race has existed from everlasting as will be shown, therefore the world also is everlasting.</p></div>
+
+<div type="textpart" subtype="section" n="56"><p> Now for the
+
+establishment of the point just left for discussion
+<note n="9.223.b">Or “assumed”; cf. § 125.</note>
+  if, indeed, facts so obvious need proof. But they do need it, because of the myth-makers who have infected our life with their falsehoods and chased away truth from its borders. They have forced not only cities and houses but also every single individual to lack that best of possessions and devised as a bait to trap them metres and rhythms and so expressed their views in an attractive form. With these they bewitch the ears of the foolish as uncomely and repulsive courtesans bewitch their eyes with their trappings and spurious adornment for lack of the genuine.</p></div>
+
+<div type="textpart" subtype="section" n="57"><p> These people say that the birth of mankind
+
+from mankind is a later work of nature and that the earlier and more original form was a generation from the earth, since the earth both is and is held to be the mother of all things and that the Sown men celebrated in Grecian lore sprang from
+
+<pb n="225"/>
+the earth as trees do now, full-grown and in armour.
+</p></div>
+
+<div type="textpart" subtype="section" n="58"><p>That this is a mythical fiction can be
+
+easily seen on many grounds; one is that the growth of the man first born must have followed periods of time determined by fixed measurements and numerical rules. For nature has created the stages of age as a sort of steps by which man may be said to go up and down, up while he is growing, down in the times of his decreasing. The limit of the upward steps is the culmination of youth. When he has reached this he no longer advances but like the runners of the double course who return along the self-same track he repays to feeble old age all that he received from lusty youth.</p></div>
+
+<div type="textpart" subtype="section" n="59"><p> But to think that any
+
+were born full-grown from the first shows an ignorance of those immutable statutes, the laws of nature. Our decisions and judgements reflect the discord which belongs to the mortal element, our yokefellow, and may be expected to admit of change and instability. But there is no swerving in the nature of the universe, for that nature is supreme above all and so steadfast are its decisions once taken that it keeps immutable the limits fixed from the beginning.</p></div>
+
+<div type="textpart" subtype="section" n="60"><p> If then nature had thought it fitting that they should
+
+be produced full-grown, mankind would even now be created in that condition, not as infants, nor boys nor youths, but in manhood straight away, and perhaps altogether proof against old age and death. What is not subject to increase is not subject to decrease either, for the process of the changes up to manhood is one of increase but from manhood to old age and death one of decrease, and it is reasonable that one who is exempt from the first set of
+
+<pb n="227"/>
+changes should not be subject to those which follow.</p></div>
+
+<div type="textpart" subtype="section" n="61"><p> And what is to prevent men from springing now as
+
+they are alleged to have sprung in former times? Has the earth too grown so old that it may be thought to have been sterilized by length of time? On the contrary it remains as it was ever young, because it is the fourth part of the All and is bound to remain undecayed in order to conserve the sum of things, just as also its sister elements, water, air and fire, continue to defy old age.</p></div>
+
+<div type="textpart" subtype="section" n="62"><p>  A clear proof
+
+
+that the earth retains its vigour continually and perpetually at its height is its vegetation, for purified either by the overflow of rivers, as they say is the case in Egypt, or by the annual rains, it takes a respite and relaxation from the weary toil of bearing fruit, and then after this interval of rest recuperates its native force till it reaches its full strength and then begins again to bear fruits like the old and supplies in abundance to each kind of living creature such food as they need.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="63"><p><milestone unit="para"/><milestone unit="altchapter" n="12"/> And therefore it seems
+
+to me that the poets did not do amiss in giving her the name of Pandora, because she gives all things that bring benefit and pleasurable enjoyment not to some only but to all creatures endowed with conscious ife. Suppose one soaring aloft on wings when spring has reached its height were to survey the uplands and the lowlands, he would see the lowlands verdant with herbage, producing pasturage and grass fodder and barley and wheat and numerous other forms of grain, some sown by the farmer, others provided self-grown by the season of the year. He would
+
+<pb n="229"/>
+see the uplands overshadowed with the branches and foliage which deck the trees and filled with a vast quantity of fruits, not merely those which serve for food, but also those which prove to be a cure for troubles. For the fruit of the olive heals the weariness of the body and that of the vine if drunk in moderation relaxes the violence of sorrow in the soul.</p></div>
+
+<div type="textpart" subtype="section" n="64"><p> Further he would perceive the sweet fragrance of
+
+the exhalations wafted from the flowers and the multitudinous varieties of their colours diversified by superhuman skill. Again looking away from the cultivated vegetation, he would survey poplars, cedars, pines, firs, tall towering oaks and the other deep, unbroken forests of wild trees which overshadow the vast expanse of the huge mountains
+<note n="9.229.a">Literally “the most and greatest of the mountains,” meaning perhaps “nearly all and even the highest.” In the next line τὴν πολλὴν may = “the greater part.”</note>
+  and the wide stretch of deep soil which lies at their feet.</p></div>
+
+<div type="textpart" subtype="section" n="65"><p> Seeing all this he will recognize that the ever-youthful earth still has the indomitable and unwearying
+
+vigour of its prime. And therefore the earth, which has suffered no diminution of its ancient strength, would, if she brought forth men before, be doing so still, and this for two most cogent reasons, part to avoid desertion of her proper post, particularly her duty of sowing and generating man, the best and chief of all the creatures who walk the land, and secondly to aid women, who in pregnancy labour with very grievous burdens for some ten months and when they are on the point of child-birth often actually die in the pains of travail.</p></div>
+
+<div type="textpart" subtype="section" n="66"><p> Indeed is it not
+
+terribly foolish to suppose that earth has in its bosom a womb for the sowing of men? For the place which generates life is the womb, the “workshop of
+
+<pb n="231"/>
+nature,”
+<note n="9.231.a">This phrase is used several times by Philo, <hi rend="italic">Mos.</hi> ii. 84, <hi rend="italic">Spec. Leg.</hi> iii. 33, 109 and <hi rend="italic">Legatio</hi> 56. This is the only place where he indicates that it is a definite quotation.</note>
+  as someone calls it, where alone the living are moulded into shape, and this is not a part of the earth but of a female creature framed for generation of other creatures. Folly indeed, since we should also have to say that the earth like a woman has the addition of breasts when she bore men, that the offspring when first brought to birth might have their proper sustenance. But no river or spring anywhere in the habitable earth is recorded as having ever run milk instead of water.</p></div>
+
+<div type="textpart" subtype="section" n="67"><p> Besides just as the
+
+newly born needs to be fed with milk, so too he needs to be sheltered by clothing to meet the harms brought upon the body by cold and heat, and therefore midwives and mothers necessarily feeling anxious to protect the offspring wrap the infants in swaddling clothes. Must not then earth-born creatures if left naked have been at once destroyed either by some refrigeration of the air or scorching of the sun, for the powers of cold and heat produce diseases and fatalities?</p></div>
+
+<div type="textpart" subtype="section" n="68"><p>  But the myth-makers
+
+
+having once begun to disregard truth also made out these Sown men to have been born armed, a marvel indeed, for what smith was there on earth or a Vulcan so powerful as to prepare full suits of armour straightaway? And what suitable connexion is there between the first generation of men and wearing arms? Man is the gentlest and kindliest of animals, because nature has given him the prerogative of reason, with which the savage passions are charmed away and tamed. Far better would it be for a reasonable being if instead of arms, the herald
+
+<pb n="233"/>
+staff, the symbol of treaties of agreement, should spring from the ground, so that it should proclaim peace instead of war to all men everywhere.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="69"><p><milestone unit="para"/><milestone unit="altchapter" n="13"/> So then since the foolish imaginations of those
+
+who fortify falsehood against truth have been satisfactorily refuted, we must be well assured that from everlasting men spring from men in successive generations. The man sows the seeds into a womb as into a field, the woman receives the seed for safekeeping; nature invisibly moulds and shapes each part of the body and soul and bestows upon the race as a whole what individually we were not able to receive, namely immortality. For the race remains for ever, though particular specimens perish, a marvel in very truth and the work of God.
+<note n="9.233.a">Perhaps a reminiscence of Plato, <hi rend="italic">Symp.</hi> 206 C ἔστι δὲ τοῦτο θεῖον τὸ πρᾶγμα, καὶ τοῦτο ἐν θνητῷ ὄντι τῷ ζῴῳ ἀθάνατον ἔνεστιν, ἡ κύησις καὶ ἡ γέννησις. See App. p. 521 (on <hi rend="italic">De Vit. Cont.</hi> 59).</note>
+  And if man, a small portion of the All, is everlasting, the world must surely be uncreated and therefore is indestructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="70"><p><milestone unit="para"/><milestone unit="altchapter" n="14"/> Critolaus in his contention used also this
+
+further kind of argument: That which causes itself to be healthy is free from disease, that which causes itself to be wakeful is wakeful, and if this is so, that which causes itself to exist is everlasting. But the world, since it causes all other things to exist, causes itself to exist, and therefore the world is everlasting.
+<milestone unit="para"/>This is not all.</p></div>
+
+<div type="textpart" subtype="section" n="72"><p> A further point worth consideration
+
+is that every created thing must in its beginning be quite imperfect and only as time advances grow to its full perfection. Consequently if the world has been created it was once, if I too
+<note n="9.233.b">Alluding perhaps to the use of κομιδῆ νήπιος in § 42. Philo here speaks in the person of Critolaus, forgetting that Critolaus would not know what arguments had been adduced in the earlier parts of the treatise. This goes to show that Critolaus is throughout these sections paraphrased rather than quoted.</note>
+  may borrow a
+
+<pb n="235"/>
+term from those applied to the stages of human life, a mere infant, and afterwards progressing through the revolutions of years and long stretches of time, was at long last and with difficulty brought to perfection. For the very long-lived is necessarily slow to reach its culmination.</p></div>
+
+<div type="textpart" subtype="section" n="72"><p> Now if anyone thinks that
+
+the world has passed through such changes, he had better recognize that he is under the sway of a fatal delusion. For clearly not only will the world’s bodily parts increase but its mind also will make advances, for those who preach its destruction also suppose that it is rational.</p></div>
+
+<div type="textpart" subtype="section" n="73"><p> So then like a man, when it originally
+
+comes into being it will be irrational, but at the age of culmination rational. Such things are impious not merely to speak but even to think. Surely this the all-perfect which embraces things visible wherein the several occupants included are gods, deserves to be held ever perfect both in body and soul, immune from the plagues inseparable from all that is created and destructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="74"><p><milestone unit="para"/><milestone unit="altchapter" n="15"/> In addition to all this Critolaus says
+<note n="9.235.a">The argument in this section is substantially the same as in §§ 20 ff., but it is expressed in a different way in many respects, particularly at the end.</note>
+  that
+
+apart from external causes of death to living creatures, there are three to which they are subject, disease, old age and privation, to none of which the world can fall a prey. For it is compacted from the whole of the elements, so that it cannot suffer violence from any part that has been left out and defies control.
+
+<pb n="237"/>
+It has dominion over the forces which produce infirmities, and the subservience of these forces keeps it from disease and decay of age. It is absolutely self-sufficient and independent of every need. It is lacking in nothing which can ensure permanence and has excluded the successive alternations between inanition and repletion, which living creatures experience through their gross avidity and thereby court not life but death, or to speak more cautiously, an existence more pitiful than extinction.
+<note n="9.237.a">This end of the section seems to be a not very happy adaptation of <hi rend="italic">Timaeus</hi> 73 A, where the bowels are said to have been formed so that the food should not pass too quickly, and so, producing ἀπληστία, make the whole race ἀφιλόσοφον καὶ ἄμουσον through gluttony (γαστριμαργία). Grammatically ἄμουσον might agree with γαστριμαργίαν or even with ἀπληστίαν, and so perhaps Philo (or Critolaus?) took it.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="75"><p><milestone unit="para"/>Again if there was no everlasting form of nature
+
+to be seen, those who propound the destruction of the world might seem to have a good excuse for their iniquity, since they had no example of perpetual existence before them. But since according to the best professors of natural philosophy, fate has no beginning or end, being a chain
+<note n="9.237.b">This is an allusion to the supposed connexion between εἱμαρμένη and εἱρμός, which would involve connexion with εἴρω also, <hi rend="italic">cf. De Mut.</hi> 135 ἡ εἱμαρμένη, ἀκολουθία καὶ ἀναλογία τῶν συμπάντων εἱρμὸν ἔχουσα ἀδιάλυτον. See note there (vol. v. p. 590), where reference is given to <hi rend="italic">S.V.F.</hi> ii. 918 ἡ εἱμαρμένη εἱρμός τις οὖσα αἰτιῶν ἀπαράβατος· οὕτω γὰρ αὐτὴν οἱ Στωικοὶ ὁρίζονται. It may be noted that here it appears in a non-Stoical argument.</note>
+  connecting the causes of each event in unfailing continuity without a gap or break, why should we not also declare that the nature of the world or cosmic system is age-long, since it is order of the disordered, adjustment of the unadjusted, concord of the discordant, unification of the discrepant, appearing as cohesion in wood and
+
+<pb n="239"/>
+stone, growth in crops and trees, conscious life in all animals, mind and reason in men and the perfection of virtue in the good?
+<note n="9.239.a">For the fourfold classification cf. particularly <hi rend="italic">Quod</hi> <hi rend="italic">Deus</hi> 35 ff. This too appears to be an exclusively Stoic theory (see Zeller, <hi rend="italic">Stoics,</hi> p. 196). The addition of the fifth quality “virtue in the good” I have not seen elsewhere.</note>
+  And if the nature of the world is uncreated and indestructible, clearly the world also is the same, held together as it is by the might of an eternal bond.
+</p></div>
+
+<div type="textpart" subtype="section" n="76"><p><milestone unit="para"/>Some conquered by truth and the arguments of
+
+their opponents have changed their views. For beauty has power to call us to it and truth is marvellously beautiful as falsehood is monstrously ugly. Thus Boethus of Sidon and Panaetius,
+<note n="9.239.b">Boethus, middle of third century B.C. Panaetius, second century.</note>
+  powerful supporters of the Stoic doctrines, did under divine inspiration abandon the conflagrations and regenerations and deserted to the more religious doctrine that the whole world was indestructible.</p></div>
+
+<div type="textpart" subtype="section" n="77"><p> It is said
+
+too that Diogenes
+<note n="9.239.c">Diogenes (the Babylonian), late third and early second century.</note>
+  in his youth subscribed to the doctrine of the conflagration but in later years felt doubts and suspended judgement, for it is not given to youth but to old age to discern things precious and worthy of reverence, particularly those which are judged, not by unreasoning and deceitful sense, but by mind when absolutely pure and unalloyed.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="78"><p><milestone unit="para"/><milestone unit="altchapter" n="16"/> The demonstrations given by the school of
+
+Boethus are very convincing and I will proceed to state them. If, they say, the world is created and destructible we shall have something created out of the non-existent and even the Stoics regard this as quite preposterous. Why so? Because it is impossible
+
+<pb n="241"/>
+to find any destructive cause either within or without to make away with the world. For there is nothing outside it except possibly a void, since the elements have been completely merged into it and within it there is no distemper such as to cause a dissolution of so great a deity. And if it is destroyed without a cause, clearly the origin of the destruction will arise from what does not exist and this the understanding will reject as not even thinkable.
+<note n="9.241.a">This again is to some extent the same argument as that of §§ 20 and 74. But to these dissident Storics the main point is that since there is nothing to cause destruction either within or without the world, the destruction, if it came, would come from the non-existent, which is unthinkable.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="79"><p><milestone unit="para"/>Further they say that the methods of destruction
+
+are of three kinds, namely, dismemberment, annihilation of the prevailing
+<note n="9.241.b">Or perhaps “inherent.” I have not found any examples of such a meaning nor het of “prevailing.” Bernays “umhaftenden,” Mangey “primariae.” Later we have simply ποιότης.</note>
+  quality and amalgamation.
+<note n="9.241.c"><hi rend="italic">Cf. De Conf.</hi> 183–187, where the use of the word throughout the treatise makes it necessary to translate “confusion,” but here it can be avoided. But I do not know of any word which suggests the φθορὰ τῶν ἐξ ἀρχῆς ποιοτήτων. Possibly “fusion” may be better than “amalgamation,” cf. the quotation from Chrysippus in <hi rend="italic">S.V.F.</hi> ii. 473, given in vol. iv. p. 558.</note>
+  Combinations of detached units, such as herds of goats or oxen, choirs and armies, or again bodies compacted of conjoined parts are disjoined by detachment and dismemberment. We find annihilation of the prevailing quality in wax when moulded into a new form or when smoothed out without taking any other different shape. We have amalgamation in the quadruple drug
+<note n="9.241.d">The same illustration is given in <hi rend="italic">De Conf.</hi> 187, where the drug is said to be a compound of wax, tallow, resin and pitch.</note>
+  used by physicians, for the properties of the substances collected vanish and the effect thus produced is one single value of a special kind.</p></div>
+
+<div type="textpart" subtype="section" n="80"><p> Which of these can we say is adequate for the destruction
+
+of the world? Dismemberment? The world is neither composed of detached units, so that its parts
+
+<pb n="243"/>
+can be dispersed, nor of conjoint parts which can be disjoined, nor is it a unity of the same kind as that of our bodies, for they are in themselves perishable, and under the sway of innumerable instruments of mischief, while the world’s strength is invincible and far more than sufficient to give it domination over all. What of a complete annihilation of its quality?</p></div>
+
+<div type="textpart" subtype="section" n="81"><p>
+
+This is impossible, for according to those who hold the opposite view, the quality of its original construction remains at the conflagration, though contracted, in a diminished substance, namely, Zeus.
+<note n="9.243.a">“The Stoics distinguished between God the creator and sovereign of the world and subordinate gods; in other words, between the universal divine power as a Unity working in the world and its individual parts and manifestations. The former they denoted by the term Zeus; to the latter they applied the names of the subordinate gods” (Zeller, <hi rend="italic">Stoics</hi> (Eng. trans.), p. 328). Thus at the ἐκπύρωσις, such Unity alone remained.</note>
+  What of amalgamation? </p></div>
+
+<div type="textpart" subtype="section" n="82"><p>Nonsense. For again we
+
+shall have to admit that destruction passes into nonexistence. Why? Because if each of the elements were severally destroyed each might be capable of changing into something else, but if all are annihilated in a body together by amalgamation we should be obliged to suppose something which is impossible.
+</p></div>
+
+<div type="textpart" subtype="section" n="83"><p><milestone unit="para"/>Moreover if all things are as they say consumed
+
+in the conflagration, what will God be doing during that time? Will He do nothing at all? That surely is the natural inference. For at present He surveys each thing, guardian of all as though He were indeed their father, guiding in very truth the chariot and steering the bark of the universe, the defender of the sun and moon and stars whether fixed or wandering, and also the air and the other parts of the world, co-
+
+<pb n="245"/>
+operating in all that is needful for the preservation of the whole and the faultless management of it which right reason demands.</p></div>
+
+<div type="textpart" subtype="section" n="84"><p> But if all things are
+
+annihilated inactivity and dire unemployment will render His life unworthy of the name and what could be more monstrous than this? I shrink from saying, for the very thought is a blasphemy, that quiescence will entail as a consequence the death of God, for if you annihilate the perpetual motion of the soul you will annihilate the soul itself also and, according to our opponents, God is the soul of the world.
+<note n="9.245.a">The thought of God as “the soul of the world” is mentioned by Philo, <hi rend="italic">Leg. All.</hi> i. 91, <hi rend="italic">De Mig.</hi> 179 and 181, in each case with a certain amount of disapproval (see note on <hi rend="italic">Leg. All.</hi> i. 91, vol. i. p. 478). The words κατὰ τοὺς ἀντι- δοξοῦντας quite suit Boethus, if we are still having his opinion. For he definitely rejected the common Stoic view that God was contained in the universe (Zeller, p. 152).</note>
+
+
+<milestone unit="para"/><milestone unit="altchapter" n="17"/> Another question worthy of examination is:</p></div>
+
+<div type="textpart" subtype="section" n="85"><p>
+
+How will the rebirth come about if all things are resolved into fire? For if the substance is consumed by fire, the fire too must be extinguished having nothing any longer to feed it. Now if the fire remains the seminal principle
+<note n="9.245.b">Or “Generative Reason” or “Seed Power” (Arnold). By the term “Generative Reason” must be understood the creative and forming forces in nature, which have collectively produced the universe, and particular exercises of which (στερματικοὶ λόγοι) produce individual things (Zeller).</note>
+  of the ordered construction would be preserved, but if the fire perishes that principle perishes with it, and it is an enormity, a twofold sacrilege, not only to predicate destruction of the world but to do away with the rebirth as though God rejoiced in disorder and inactivity and every kind of faultiness.</p></div>
+
+<div type="textpart" subtype="section" n="86"><p>  But we must examine
+
+it more carefully. Consider it from this point of view. Fire takes three forms: these are the live coal, the flame and the fire-light. Now live coal is fire embodied in an earthy substance, a sort of
+
+<pb n="247"/>
+permeating current
+<note n="9.247.a">Bernays “geistiger Zusammenhalt.” But see the definition of ἕξις in <hi rend="italic">Quod Deus</hi> 35 as πνεῦμα ἀναστρέφον ἐφ᾿ ἑαυτό, and note on <hi rend="italic">Quis Rerum</hi> 242 “the three terms πνεῦμα, ἕξις, τόνος for a permeating and binding force seem more or less convertible.” See <hi rend="italic">S.V.F.</hi> ii. 439–462.</note>
+  which has taken the fuel for its lair and lurks there extending through it from end to end. Flame is what rises up into the air from that which feeds it. Fire-light is what is sent out from the flame and co-operates with the eyes to give apprehension of things visible. The middle place between the light and the coal is held by flame, for when it is extinguished it dies away into coal, but when kindled into a blaze it has a radiance which flashes from it, though destitute of combustive force.</p></div>
+
+<div type="textpart" subtype="section" n="87"><p> If we say that at the conflagration the world is dissolved
+
+there would be no coal there, because if there were the great quantity of earthy matter which is the substance in which fire is contained will be still remaining and it is one of their tenets that nothing else of other bodies then subsists and that earth, water and air are resolved into fire pure and simple.</p></div>
+
+<div type="textpart" subtype="section" n="88"><p> Further there is no flame either, for flame is linked
+
+on to
+<note n="9.247.b">Or “kindled by.” The word ἅμμα is common enough for a knot or fastening, but there is no example = “the thing fastened,” though such a meaning might easily have been developed. Nor is there any example = “the thing kindled,” though there is ἄναμμα in this sense. Perhaps we should read ἄναμμα.</note>
+  the fuel and when nothing is left it will be extinguished for lack of sustenance. It follows also that the light is not produced. For it has no existence of itself but issues from the first two, the coal and the flame, in a smaller stream from the coal but a great outflow from the flame, for it is diffused to a very great distance. But since the other two, as has been shown, do not exist at the conflagration, there will be no light either. For when the sun takes its course under the earth, the daylight, great and far-reaching as it is, is immediately hidden from our sight by the night, especially if it is moonless.
+
+<pb n="249"/>
+Therefore the world is not consumed by conflagration but is indestructible, and if it should be so consumed another world could not come into existence.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="89"><p><milestone unit="para"/><milestone unit="altchapter" n="18"/> This has induced some of the Stoic school,
+
+whose keener sight discerned from a distance the oncoming refutation, to assist their cardinal doctrine when lying as it were at the point of death, but without avail. They said that since fire is the cause of motion and motion the origin of generation, without which it is impossible that anything should be generated, after the conflagration when the new world has to be created all the fire in it is not extinguished but a part of it of some amount remains. For they were filled with great alarm lest, if the whole mass was extinguished, the universe would remain at a standstill and not be reconstructed, since there was no longer anything to cause motion.</p></div>
+
+<div type="textpart" subtype="section" n="90"><p> But
+
+these are the fictions of ingenious quibblers who are scheming to overthrow truth. Why so? Because the world when consumed by fire cannot become like live coal, as has been shown, since a lot of earthy matter would be left in which the fire will be bound to lurk encamped, and in that case perhaps we may say that the conflagration has still to establish its power, since the heaviest and most resistant of the elements, namely, earth, remains undissolved. It must therefore either change into fire as Cleanthes or light as Chrysippus thought.</p></div>
+
+<div type="textpart" subtype="section" n="91"><p> But if it becomes
+
+flame, once it starts being extinguished it will not be extinguished partially but altogether.
+<note n="9.249.a">Or “totally and simultaneously,” and so below, § 92.</note>
+  For its existence is bound up with its feeder and therefore if that feeder is plentiful it increases and diffuses
+
+<pb n="251"/>
+itself, but if that shrinks it diminishes. We can judge the result from our own experience. A lamp as long as we feed it with oil gives a very brilliant light, but if we cease to do so after using up what little of the feeder remains, it goes out at once as it has no reserve of flame to fall back upon.</p></div>
+
+<div type="textpart" subtype="section" n="92"><p> Alternatively
+
+if it becomes light, again the change is total. Why? Because it has no definite existence of its own but is generated from flame, and if the flame is wholly and absolutely extinguished the light must also perish not partially but totally. For what the flame is to the feeder that the light is to the flame. </p></div>
+
+<div type="textpart" subtype="section" n="93"><p>Therefore, just as the flame perishes with its feeder, the light perishes with the flame. Therefore it is impossible
+
+that the world should have a rebirth, as no embers of the seminal principle are alive within it, but all have been exhausted, the rest by the fire, the seminal principle by lack of sustenance. These facts show clearly that it continues uncreated and indestructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="94"><p><milestone unit="para"/><milestone unit="altchapter" n="19"/> Now suppose that as Chrysippus says the
+
+fire which has resolved the world as constructed into itself is the seed of the world which will result and that there is no fallacy in his theories on the subject, primarily that its generation comes from seed and its resolution passes into seed; secondly that natural philosophy shows the world to be also a rational being, having not only life but mind, and further a wise mind,
+<note n="9.251.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 142 ζῷον ὁ κόσμος καὶ λογικὸν καὶ ἔμψυχον καὶ νοερόν. The argument that follows does not depend upon these higher qualities, but they make it still more impossible that its qualities should be below even those of a plant.</note>
+  still these establish nothing of what he wishes to prove but its opposite, namely that it will never be destroyed.</p></div>
+
+<div type="textpart" subtype="section" n="95"><p> The proofs of this lie ready
+
+at hand for those who do not shrink from examining
+
+<pb n="253"/>
+them. The world has evidently either plant-life or animal-life, but whether it has one or the other, if it is destroyed at the conflagration it will never become seed to itself. Take the testimony of the plants and animals in our experience; none of them lesser or greater ever when destroyed pass into the condition of producing seed.</p></div>
+
+<div type="textpart" subtype="section" n="96"><p> We see how many types of
+
+cultivated trees and of uncultivated also are spread over every part of the earth. Each of these trees so long as the stem is sound produces with its fruit the germ of impregnation also. But when it withers away by length of time, or is destroyed in some other way with its roots as well it is never anywhere capable of being resolved into seed.</p></div>
+
+<div type="textpart" subtype="section" n="97"><p> In the same
+
+way also the different kinds of animals so numerous that it would be difficult even to give their names, while they survive and are vigorous, emit generating seed, but when they are dead they never anywhere become seed. For it is foolish to suppose that a man when alive uses the eighth part
+<note n="9.253.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 110. The eight parts are the five senses, speech, the rational faculty and the generative. Philo has given the same classification in <hi rend="italic">De Op.</hi> 117, though there the point is that the irrational soul has seven parts. So too <hi rend="italic">De Ayr.</hi> 30, <hi rend="italic">Quod Det.</hi> 168, <hi rend="italic">Quis Rerum</hi> 232.</note>
+  of his life principle, called the generative, to produce his like, but when dead uses his whole self. For death is not more efficacious than life.</p></div>
+
+<div type="textpart" subtype="section" n="98"><p> Besides nothing that exists is made
+
+completely out of seed alone without its proper sustenance. Seed is analogous to beginning and the beginning by itself does not generate fullness. For neither must you suppose that the ear of wheat grows only from the seed laid down in the field by the husbandmen. The double sustenance from the earth, moist and dry is a very great factor in its growth and the embryos moulded in the womb cannot
+
+<pb n="255"/>
+be brought to life merely from the seed, but need
+also the fostering sustenance from outside which the
+pregnant mother administers.</p></div>
+
+<div type="textpart" subtype="section" n="99"><p> What is the purpose
+
+
+of these remarks? It is to show that at the conflagration seed alone will remain and nothing will
+exist to nourish it, as all things that would give
+nourishment are resolved into fire, and lame and
+imperfect therefore will be the genesis of the world
+brought about at the rebirth, since that which could
+best co-operate in its consummation, which the
+originating seed takes as a staff for its support, has
+been destroyed. The absurdity of this is self-evident
+and needs no further refutation.</p></div>
+
+<div type="textpart" subtype="section" n="100"><p> Again all things
+
+
+which originate from seed are greater in bulk than
+that which made them and visibly occupy a greater
+space. Thus trees which soar to heaven often spring
+from a very small grain, and animals of great corpulence and stature come from the emission of a
+little moisture. Also there is the fact mentioned a
+little above
+<note n="9.255.a">i.e. § 71.</note>
+  that during the time following closely
+on the birth the things generated are smaller but
+afterwards increase in size till they reach their full
+consummation.</p></div>
+
+<div type="textpart" subtype="section" n="101"><p> But in the universe the opposite
+
+
+will take place. The seed will both be greater and
+will occupy more space, but the result produced will
+be smaller, and will be seen to take up less space,
+and the Cosmos which forms itself from the seed will
+not gradually advance in growth but on the contrary
+will be reduced from a greater bulk to a lesser.
+The truth of this statement can be easily seen.</p></div>
+
+<div type="textpart" subtype="section" n="102"><p>
+
+
+Every body which is resolved into fire is diffused as
+
+<pb n="257"/>
+well as resolved, but when the flame in it is being
+quenched, it is contracted and drawn in. Facts so
+clear as these need no proofs to testify to them as
+though they were matters of uncertainty. Assuredly
+the world when consumed by fire will become greater
+because its whole substance is resolved into very
+fine ether. This the Stoics seem to me to have
+foreseen and therefore left room in their theory for
+an infinite void outside the Cosmos,
+<note n="9.257.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 140 ἔξωθεν δ᾿ αὐτοῦ περικεχυμένον εἶναι τὸ κένον ἄπειρον, ὅπερ ἀσώματον εἶναι.</note>
+  so that when it
+had to accept a sort of infinite diffusion, it might
+not lack a place to receive the overflow.</p></div>
+
+<div type="textpart" subtype="section" n="103"><p> So then
+
+
+when it has advanced and grown to such an extent
+that, under the infinite magnitude of the pressure
+forcing it, it extends its course almost to the illimitable existence of the void, even this ranks as seed,
+but when at the rebirth it is brought to its consummation in a diminished condition it ranks as a
+whole substance,
+<note n="9.257.b">The text as printed gives “when at the rebirth it . . . of the whole substance . . .”, i.e. we must supply some verb as συνίσταται = “consisting of” to complete the protasis, and then something more = “it will take up less room.” This does not give any real antithesis to σπέρματος. Cumont’s suggestion (see note 2) was not accepted by Cohn, but seems to me very probable, and as it avoids the lacuna I have translated it.</note>
+  though the fire at its extinction
+is contracted into the thickness of air and the air
+is contracted and subsides into water and the water
+condenses still more as it changes into the most
+compressed of the elements, earth. These conclusions are contrary to the accepted principles
+<note n="9.257.c">“Common notions,” otherwise translated as “primary conceptions.” According to Zeller, <hi rend="italic">Stoics,</hi> pp. 79 f., they are not innate ideas, but “those conceptions which from the nature of thought can be equally formed by all men out of experience.”</note>
+  of
+those who are capable of judging the sequence of
+events aright.
+
+<pb n="259"/>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="104"><p><milestone unit="para"/><milestone unit="altchapter" n="20"/> Besides those already mentioned, there is
+
+
+another argument which may be used to prove the
+point, and this, too, will win the assent of those who
+prefer not to carry their contentiousness to an
+immoderate extent. In couples of opposites, it is
+impossible that one member should exist and the
+other not. If there is white there must be black
+also, if there is great there must be small, and so
+with odd and even, bitter and sweet, night and day,
+and the like. But when the conflagration has taken
+place we shall have an impossibility. For one of the
+opposites in couples will exist and the other will not.
+Consider the following facts.</p></div>
+
+<div type="textpart" subtype="section" n="105"><p> When all things are
+
+
+resolved into fire, there will be something light, rare
+and hot, since these qualities belong to fire, but
+nothing of their opposites, heavy, dense and cold.
+How could we better express the disorder woven
+by the conflagration theory than by showing that
+things naturally coexistent are disjoined from the
+coupling which holds them, and so far does this
+dissociation extend that we have to predicate
+perpetuity of the one set and non-existence of
+the other.
+</p></div>
+
+<div type="textpart" subtype="section" n="106"><p><milestone unit="para"/>Still further, a good point I think is made by the
+
+
+investigators of truth when they say that if the
+world is destroyed, it will be destroyed either by
+some other cause or by God. Nothing else at all
+will cause it to undergo dissolution. For there is
+nothing which it does not encompass and what is
+encompassed and dominated is surely weaker than
+what encompasses and therefore also dominates it
+On the other hand, to say that it is destroyed by
+God is the worst of profanities. For those who hold
+the true creed acknowledge Him to be the cause,
+
+<pb n="261"/>
+not of disorder, disharmony and destruction, but of
+order and harmony and life and all that is most
+excellent.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="107"><p><milestone unit="para"/><milestone unit="altchapter" n="21"/> The people whose talk is for ever of conflagration
+
+
+and rebirth may well excite our wonder,
+not only for the aforesaid reasons which prove the
+falsity of their creed, but particularly on the following
+grounds. As there are four elements, earth, water,
+air and fire, of which the world is composed, why
+out of all these do they pick out fire and assert that
+it will be resolved into that alone? Surely it may
+be said that it is just as right that it should be
+resolved into earth or water or air, for, all these
+have transcendent powers, and yet no one has declared that the world is converted into any of the
+three, and therefore the natural conclusion is that
+it is not turned into fire either.
+</p></div>
+
+<div type="textpart" subtype="section" n="108"><p><milestone unit="para"/>Indeed also observation of the equality inherent in
+
+
+the world should make them afraid or ashamed to
+affirm the death of so great a deity. For there is a
+vast reciprocation between the four powers and they
+regulate their interchanges according to the standards
+of equality and the bounds laid down by justice.
+</p></div>
+
+<div type="textpart" subtype="section" n="109"><p>For just as the annual seasons circle round and round,
+
+
+each making room for its successor as the years ceaselessly revolve, so, too, the elements of the world in
+their mutual interchanges seem to die, yet, strangest
+of contradictions, are made immortal as they ever
+run their race backwards and forwards and continually pass along the same road up and down. The 110
+uphill journey begins from earth.
+<note n="9.261.a">The idea of the “uphill” and “downhill” journey comes from Heracleitus, see Diog. Laert. ix. 9, where they are called ἡ ἐπὶ τὸ ἄνω and ἡ ἐπὶ τὸ κάτω ὁδός.</note>
+  Earth is transformed
+
+<pb n="263"/>
+by melting into water, water by evaporation
+into air, air by rarefaction into fire. The downhill path leads from the top, the fire as it is extinguished subsides into air; air as it is compressed
+subsides into water, while water is condensed as it
+changes into earth.</p></div>
+
+<div type="textpart" subtype="section" n="111"><p> Well, too, spoke Heracleitus
+
+
+when he says, “death for souls is to become water,
+death for water to become earth,” for conceiving
+that soul
+<note n="9.263.a">Philo is apparently mistaken here, and Heracleitus by “soul” meant fire, not air, which he did not consider to be one of the fundamental elements. See Zeller, <hi rend="italic">Presocratics,</hi> vol. ii. p. 50.</note>
+  is breath he indicates that the final end of
+air is to become water and again of water to become
+earth, while by the term death he does not mean
+complete annihilation but transmutation into another
+element.</p></div>
+
+<div type="textpart" subtype="section" n="112"><p> That this self-determined equality should
+
+
+be maintained for ever inviolate and constant is not
+only natural but necessary. And, therefore, since
+inequality is unjust and injustice is the child of
+wickedness, and wickedness is banished from the
+dwelling-place of immortality, while the world is
+divine in its vastness and has been shown to be the
+dwelling-place of visible deities, the assertion that
+it is destroyed shows inability to descry the chain
+of nature and the unbroken sequence of events.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="113"><p><milestone unit="para"/><milestone unit="altchapter" n="22"/> Some of those who consider that the world
+
+
+is everlasting carry their ingenuity still farther and
+
+<pb n="265"/>
+employ an argument of the following kind to establish their view. We find, they say, four principal ways in which destruction occurs, addition, subtraction, transposition, transmutation.
+<note n="9.265.a">“The four ways of destruction are Peripatetic and Atomistic as contrasted with the three of the Stoics given in § 79” (Bernays).</note>
+  Thus two is destroyed and becomes three by the addition of one and similarly four by subtraction of one becomes three. The letter <emph>I</emph> becomes <emph>H</emph> by transposition when the horizontal parallels rise vertically and the line which joined them vertically has been turned sideways to connect the lines on either side of it. By transmutation wine perishes and becomes vinegar.</p></div>
+
+<div type="textpart" subtype="section" n="114"><p> But none of the ways enumerated affects
+
+the world at all. For can we say that anything can be added to the world to destroy it? No, there is nothing outside it, nothing which is not a part of itself, that is of the whole, since each thing is encompassed and dominated by it. What of subtraction? In the first place anything subtracted will in its turn be a world only smaller than the present world. Secondly, it is impossible that any body should be detached from its fellow substance and dispersed outside the whole.</p></div>
+
+<div type="textpart" subtype="section" n="115"><p> Can its parts be
+
+transposed? No, they will remain as they are and do not change their relative positions. For earth will never anywhere stand mounted on water, nor water on air, nor air on fire. But the naturally heavy elements, earth and water, will occupy the central position, with earth forming the support like a foundation and water floating on its surface, while the naturally light air and fire occupy the upper position though with a difference, for air is the vehicle on which fire rests and that which rests on a
+
+<pb n="267"/>
+vehicle is necessarily carried above it.</p></div>
+
+<div type="textpart" subtype="section" n="116"><p> Once more
+
+we must not suppose that the world is destroyed by transmutation, for there is a balance of powers in the interchange of the elements and such a balance produces unswerving stability and unshaken permanence, since it neither encroaches nor is encroached on. And thus the reciprocation, the giving and taking of values, equalized according to the standards of proportion creates sound health and perpetual security. These things show the world to be everlasting.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="117"><p><milestone unit="para"/><milestone unit="altchapter" n="23"/> Further, Theophrastus says that those who
+
+maintain the creation and future destruction of the world
+<note n="9.267.a">Or more exactly “those who affirm of the world that it is subject to γένεσις and φθορά,” with the suggestion perhaps that such an idea is depreciatory (κατηγοροῦντας).</note>
+  are misled by four main considerations, the unevenness of the earth’s surface, the withdrawal of the sea, the dissolution of each several part of the universe, and the perishing of whole species of land animals.</p></div>
+
+<div type="textpart" subtype="section" n="118"><p> The proof which they base on the first
+
+of these is according to him the following.
+<note n="9.267.b">Bernays retains the indicative κατασκευάζει, which is I think quite defensible. In either case the statement is loosely worded. The “first part” may be either that the surface of the world is uneven, or that they are deceived by this unevenness. Taking the infinitive, they prove neither of these, but that the unevenness shows that the world is everlasting. Taking the indicative, Theophrastus states their reason for holding this opinion, but the proof that it is misleading is deferred till § 143.</note>
+  If the earth had no beginning in which it came into being, no part of it would still be seen to be elevated above the rest. The mountains would now all be quite low, the hills all on a level with the plain, for with the great rains pouring down from everlasting each year, objects elevated to a height would naturally in some cases have been broken off by winter storms, in others would have subsided into a loose condition and would all of them have been completely planed
+
+<pb n="269"/>
+down.</p></div>
+
+<div type="textpart" subtype="section" n="119"><p> As it is, the constant unevennesses and the
+
+great multitude of mountains with their vast heights soaring to heaven are indications that the earth is not from everlasting. For in the course of infinite time it would long ago as I have said
+<note n="9.269.a">Note the first person singular, an illustration of Philo’s tendency to identify himself with the argument he is stating, even though he disagrees with it. See on <hi rend="italic">Quod Omn. Prob.</hi> 6 ff. It can hardly be that he is verbally reproducing Theophrastus, for this is not what Theophrastus says but what he says the Stoics say.</note>
+  have under the rain-pour become an open, level road from end to end. For it is a natural characteristic of water that sometimes, particularly when it dashes down from a great height, it drives everything out before it by its force, sometimes by constant dripping it scoops out and hollows and so completely undermines the hardest and stoniest ground quite as much as a digger would.
+<milestone unit="para"/>Again, they say, the sea is already diminished.</p></div>
+
+<div type="textpart" subtype="section" n="120"><p>
+
+Witness the most famous of the islands, Rhodes and Delos. For these in old times had disappeared, sunk and submerged below the sea, but in the course of time as the sea was slowly diminishing they gradually emerged and became conspicuous, as we read in the narratives written about them.</p></div>
+
+<div type="textpart" subtype="section" n="121"><p> Men
+
+also gave the name of Anaphe to Delos,
+<note n="9.269.b">Apparently a mistake. Delos and Anaphe are different islands.</note>
+  using both names to vouch for the fact here stated, because
+<note n="9.269.c">The anacoluthic ἐπειδὴ γὰρ is read by all three editors (though γὰρ is omitted by some MSS.). <hi rend="italic">Cf.</hi> § 75.</note>
+  it became apparent and visible, while in the past it was unapparent and invisible, and so Pindar says of Delos.
+
+<pb n="271"/>
+<quote>
+<l>Hail, island built by gods,</l>
+<l>Thou scion best beloved by those</l>
+<l>Whom lustrous-haired Latona bore,</l>
+<l>Daughter of Ocean, marvel of broad earth,</l>
+<l>Whose base no power can shake.</l>
+<l>Delos we mortals name thee, but on high,</l>
+<l>Where dwell the blessed ones, they call thee Star</l>
+<l>Seen in the distance of the azure earth.
+<note n="9.271.a">The idea is supposed to be that earth seems dark-blue to the gods, as heaven seems to us, and that Delos shines like a star in it. See Sandys’s note on Pindar, fr. 87 (Loeb translation). Asteria was another name of Delos.</note>
+ </l></quote>
+By calling Delos the daughter of the sea he suggests what has been said above.</p></div>
+
+<div type="textpart" subtype="section" n="122"><p> In addition to this they
+
+point out that belonging to great tracts of sea there are deep and great bays which have dried up and turned into mainland and become a part of the adjoining country, by no means barren but sown and planted, yet have left in them some signs that they once were sea—pebbles and shells and all things of the same sort which are so often thrown up upon the seashore.</p></div>
+
+<div type="textpart" subtype="section" n="123"><p> Now if the sea diminishes
+
+the earth will diminish also and after many a long cycle of years both elements will be utterly exhausted. So, too, will the whole air be gradually lessened and waste away and all things will be drafted off into one single substance, namely, fire.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="124"><p><milestone unit="para"/><milestone unit="altchapter" n="24"/> To establish their third point they employ
+
+an argument of this sort. Anything, the parts of which are all perishable, necessarily perishes itself. All the parts of the world are perishable, therefore, the world itself is perishable.</p></div>
+
+<div type="textpart" subtype="section" n="125"><p>
+<note n="9.271.b">This argument is stated by Diog. Laert. vii. 141 in almost the same words as here, but the reason given there for believing that the parts are perishable is that they change into each other.</note>
+  This point which we
+
+reserved for future argument
+<note n="9.271.c">Or simply “assumed in this syllogism,” cf. § 56.</note>
+  must now be examined.
+
+<pb n="273"/>
+To begin with earth. What part of it, great or small, is there which is not dissolved by the action of time? Do not the strongest stones become dank and decay through the weakness of their cohesiveness, that current of spirit force,
+<note n="9.273.a">See on § 86.</note>
+  that bond which is not unbreakable but merely difficult to loose? They break in pieces and first disintegrate into a stream of fine dust and afterwards waste away till there is nothing left of them. Again if water is not whipped by the wind but left unmoved, does it not become like a dead thing through its inactivity? It certainly changes and becomes very malodorous like an animal bereft of its vital force.</p></div>
+
+<div type="textpart" subtype="section" n="126"><p> As for the air, its destruction
+
+is evident to everybody, for sickness and decay and what may be called death is natural to it. How, indeed, could anyone, who aimed at truth rather than elegance of language, describe a pestilence save as a death of the air which diffuses its own distemper to destroy all things to which the life force has been given?</p></div>
+
+<div type="textpart" subtype="section" n="127"><p> We need not spend many words on fire, for
+
+when it has lost its sustenance it is extinguished at once, in itself lame as the poets say.
+<note n="9.273.b">The lameness of Hephaestus (<hi rend="italic">cf. Il.</hi> xviii. 397) was interpreted by the allegorists as the inability of the earthly fire (in contrast to the heavenly) to go on without the support of fuel. See App. p. 529.</note>
+  While with a support it stands erect because the kindled fuel is still there; when that is used up it is seen no more.</p></div>
+
+<div type="textpart" subtype="section" n="128"><p> Much the same is said to happen with the snakes in
+
+India.
+<note n="9.273.c">This story, which is found also in Pliny and Aelian, seems very inappropriate. The fire consumes the fuel and then perishes. The snakes suck the blood and then perish also; but not because they can get no blood, though Philo seems to suggest this by μηκέτ᾿ ἔχοντες τροφήν, but because the fallen elephants stifle them. We may suppose that the story interested him so much that he brought it in without considering whether it really illustrated his point. Cumont aptly quotes the account in <hi rend="italic">De Ebr.</hi> 174 of the elk, which camouflages its colours to illustrate the different impressions which an object makes on different people, and the same may be said of the polypus and chameleon in the same context.</note>
+  They creep up to those hugest of animals,
+
+<pb n="275"/>
+the elephants, and wind themselves round their backs and the whole of their belly. Then making an incision in a vein, as chance directs, they imbibe the blood, sucking it in greedily with violent inhalations and continuous hissing. For a time the elephants hold out, leaping about in their helplessness, and beating their sides with the trunk to try and reach the snakes, then as their life-power is continually being drained, they can leap no more but stand still quivering. Soon afterwards when their legs have lost all strength they drop down through lack of blood and expire. But in their fall they involve the authors of their death in the same fate.</p></div>
+
+<div type="textpart" subtype="section" n="129"><p> The way of it is as follows: the snakes no longer getting their
+
+nourishment try to loosen the bond which they have drawn round their victims, as they now desire release, but being squeezed and pressed down by the weight of the elephants, most especially when the ground happens to be hard and stony, they wriggle about and do everything they can to free themselves but are fettered by the force of the weight upon them. In their helpless straits, their manifold exertions only exhaust them, and like people stoned to death or caught by the sudden fall of a wall, unable even to free their heads
+<note n="9.275.a">See App. p. 530.</note>
+  they are stifled and die. Now if each part of the world suffers destruction, clearly the world compacted from them will not be indestructible.
+</p></div>
+
+<div type="textpart" subtype="section" n="130"><p><milestone unit="para"/>The fourth and last proposition must, they tell us,
+
+be argued out as follows. If the world was everlasting, the animals in it would be everlasting also, and most especially the human race inasmuch as it is superior to the rest. But man also is seen to be of late origin by those who wish to search into the
+
+<pb n="277"/>
+facts of nature. For it is probable or rather necessary that the existence of the arts should coincide with that of man, that they are in fact coeval, not only because system and method are natural to a rational being but also because it is impossible to live without them.</p></div>
+
+<div type="textpart" subtype="section" n="131"><p> Let us observe then the dates
+
+of each of the arts, disregarding the myths palmed off on the gods by the play-wrights.
+<note n="9.277.a">Presumably some words followed showing that the arts were invented by particular men who lived at one particular time and not by the gods, as Hermes is said to have invented the lyre and Hephaestus and Pallas artistic work (<hi rend="italic">cf. Od.</hi> vi. 233). Bernays’ suggestion that no such passage ever appeared in this treatise and that though it was in his source the author left it because the details were too much for him, depreciates the “Compilator,” as he calls him, far too much.</note>
+  . . . But if man is not from everlasting, so neither is any other living creature, therefore neither the regions which have given them a habitat, earth and water and air. This shows clearly that the world is destructible.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="132"><p><milestone unit="para"/><milestone unit="altchapter" n="25"/> All this special pleading must be encountered
+
+lest any of the less proficient should yield to its authority. And the refutation must begin with that with which the sophistical speakers also opened their delusive argument. “The unevennesses of the earth would no longer exist if the world was from everlasting.” Why so, my dear sirs? For others will come forward to say that trees and mountains differ not in nature. The trees shed their leaves at some seasons and then bloom again at others. And so there is truth in the poet’s lines which tell us that
+<quote>
+<l>Driven by the wind the leaves pour down to earth,</l>
+<l>But others come when spring returns and brings</l>
+<l>Fresh life into the forest.</l>
+<note n="9.277.b"><hi rend="italic">Il.</hi> vi. 147 f.</note>
+ </quote>
+<milestone unit="para"/>In the same way the mountains, too, have parts broken off but others come as accretions.</p></div>
+
+<div type="textpart" subtype="section" n="133"><p> But the
+
+accretions take long periods of time to become recognizable,
+
+<pb n="279"/>
+because as the process of growth in trees is more rapid their advance is apprehended more quickly, while in mountains that process is slower, and, therefore, their after-growths become just perceptible only after a long time.</p></div>
+
+<div type="textpart" subtype="section" n="134"><p> These people seem
+
+to have no knowledge of the way in which mountains come to be, otherwise they would probably have held their tongues for shame. But we shall not grudge giving them instruction, for the tale is nothing new, nor are the words ours, but old-time sayings of wise men, who left nothing uninvestigated that was necessary for knowledge.</p></div>
+
+<div type="textpart" subtype="section" n="135"><p> When the fiery element
+
+enclosed in the earth is driven upward by the natural force of fire, it travels towards its proper place, and if it gets a little breathing space, it pulls up with it a large quantity of earthy stuff, as much as it can, but with this outside and on it it moves more slowly. This earthy substance forced to travel with it for a long distance, rises to a great height and contracts and tapers, and passes finally into a pointed peak with the shape of fire for its pattern.</p></div>
+
+<div type="textpart" subtype="section" n="136"><p> For there is
+
+necessarily then a conflict when the natural antagonists, the heaviest and the lightest, clash. Each presses on to its proper location and resists the force applied by the other. The fire which is dragging the earth with it is necessarily weighted by the counter-pull which the earth exerts upon it, while the earth though gravitating ever downwards lightened by the upward tendency of the fire rises aloft, and, compelled at last to yield to the stronger power which
+
+<pb n="281"/>
+buoys it up, is pushed up into the seat of fire and takes its stand there.</p></div>
+
+<div type="textpart" subtype="section" n="137"><p> Why should we wonder then
+
+that the mountains are not destroyed by the onrush of the rain,
+<note n="9.281.a">Bernays calls attention to the difference between the theory here stated to account for the permanence of mountains from that in § 132. Philo might reply that the two reasons though different are not inconsistent. The fire prevents them from being destroyed just as the trunk stands when the leaves go, but does not prevent the breaking-off of pieces, which are replaced by new accretions.</note>
+  since the power which holds them together, which also makes them rise as they do, embraces them so firmly and stoutly? For if the bond which held them together were loosened, they might naturally be dissolved and dispersed by the water. As it is, kept tight by the force of fire they hold their own and show themselves weather-proof in face of the onrush of the rains.
+
+<milestone unit="para"/><milestone unit="altchapter" n="26"/> This is what we have to say to show that the unevennesses of the earth are no proof that the world is created and will be destroyed.
+</p></div>
+
+<div type="textpart" subtype="section" n="138"><p><milestone unit="para"/>To the proof which they attempt to draw from
+
+the diminution of the sea, the following answer may justly be given. Do not perpetually fix your eyes merely on the islands which have emerged or any segments which were submerged long ago and in the course of time have been rejoined to the mainland. For contentiousness is a foe to the nature study which holds the investigation of truth to be profoundly desirable. Busy yourselves also with the converse of this, namely, all the parts of the mainland, not only on the sea-coast but in the centre, which have been swallowed up, and all the dry land which has been turned into sea and is the sailing ground of ships of considerable tonnage.</p></div>
+
+<div type="textpart" subtype="section" n="139"><p> Do you
+
+not know the celebrated story of the sacred Sicilian
+
+<pb n="283"/>
+straits? In old days Sicily joined on to the mainland of Italy but under the assault on either side of great seas driven by violent winds from opposite directions, the land between them was inundated and broken up and at its side a city was founded, whose name of Rhegium records what happened to it. The result was the opposite of what one would have expected. The seas which were hitherto divided joined together through their confluence, while the land once united was divided by the intervening straits, by which Sicily, which had been mainland, was forced to become an island.</p></div>
+
+<div type="textpart" subtype="section" n="140"><p>
+<note n="9.283.a">This belief including the derivation of the name Rhegium is mentioned by Diodorus, Strabo, Seneca and Pliny. Strabo’s notice, vi. 6, shows that it was also mentioned by Aeschylus, from whom he quotes the line ἀφ᾿ οὗ δὴ Ῥήγιον κικλήσκεται.</note>
+  Many other cities also are stated
+
+to have been swallowed up and to have disappeared overwhelmed by the sea. And so too in Peloponnese they say that the three,
+<quote>
+<l>Aegira, Bura, lofty Heliceia,</l>
+<l>Whose walls would soon be clad with thick sea-moss,</l>
+<note n="9.283.b">The source of these lines is unknown. In themselves they do not imply the submersion of any except Heliceia, and nothing is said elsewhere of that of Aegira. Bura (Buris) and Heliceia (Helice) are mentioned as submerged by later writers, including Seneca (<hi rend="italic">Nat. Quaest.</hi> vi. 23. 4 and vii. 5. 3), where he gives Callisthenes as his authority, as well as an unknown treatise of Aristotle.</note>
+ </quote>
+<milestone unit="para"/>which were most flourishing in old times were inundated by a great inroad of the sea.</p></div>
+
+<div type="textpart" subtype="section" n="141"><p> And the
+
+island of Atlantis “greater than Libya and Asia put together,” as Plato says in the <hi rend="italic">Timaeus,</hi> “in a single day and night through extraordinary earthquakes and floods sank below the sea and suddenly disappeared,” turning into a sea which was not navigable but full
+
+<pb n="285"/>
+of abysses.</p></div>
+
+<div type="textpart" subtype="section" n="142"><p>
+<note n="9.285.a">Taken partly verbatim from <hi rend="italic">Timaeus</hi> 24 E and 25 E The meaning of βαραθρώδης is doubtful. Philo is paraphrasing Plato’s ἄπορον καὶ ἀδιερεύνητον . . . πηλοῦ κάρτα βραχέος (<hi rend="italic">v.l.</hi> βαθέος) ἐμποδὼν ὄντος, ὃν ἡ νῆσος ἱζομένη παρέσχετο. L. &amp; S. (revised) give (for this passage) “dangerous.” Bernays has “mit Untiefen besäete Wasserfläche.” Dr. Rouse suggests that he may mean hidden reefs, which he thinks of as sunken ravines. Stephanus quoting this passage says “fortasse coenosus,” and cites <hi rend="italic">De Agr.</hi> 144 θολερῷ δὲ καὶ βαραθρώδει βίῳ. There Mangey’s correction to βορβορώδει has been generally accepted. Is it possible that the same correction should be made here?</note>
+  So then the fiction which they propound
+
+that the sea is diminished contributes nothing to show that the world is destroyed, for it is clear that the sea withdraws from some places and inundates others. And judgement should not be given on observation of one of the phenomena but of both together, just as also in the disputes of ordinary life the law-abiding judge will not declare his decision until he has heard both litigants.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="143"><p><milestone unit="para"/><milestone unit="altchapter" n="27"/> Further, their third argument stands self-convicted
+
+as an unsound proposition
+<note n="9.285.b">This use of ἐρωτάω = “to state a proposition or syllogism not in the form of a question,” is described as a late usage by L. &amp; S. (revised), who cite Galen v. 327. Stephanus speaks of it as a known usage, but after giving some examples of συνερωτάω, gives one example of the simple verb, Sext. Emp. <hi rend="italic">Pyrrh.</hi> iii. 13 οἱ κατὰ τῆς ἀποδείξεως ἠρωτημένοι λόγοι. Our passage seems to be a clear example, and <hi rend="italic">cf. Quod Omn. Prob.</hi> 53, though that may only apply to the question asked by Zeno. See also App. p. 530.</note>
+  from the very terms of the enunciation with which it begins. For the truth surely is not that a thing is destructible if all its parts are destroyed, but if all its parts are destroyed together and simultaneously, just as one who has had the tip of his finger cut away is not prevented from living, but if the whole system of his parts and limbs is cut away, he will die at once.</p></div>
+
+<div type="textpart" subtype="section" n="144"><p> In the same way, if the elements one and all were
+
+put out of existence at one and the same time, it would be necessary to admit that the world is liable to destruction. But if each of them separately is
+
+<pb n="287"/>
+changed into the nature of its neighbour, it is not destroyed but rather rendered immortal, as says the tragic poet philosophizing
+<quote>
+<l>Nothing that is born can die,</l>
+<l>Hither and thither its parts disperse</l>
+<l>And take another form.</l>
+<note n="9.287.a">See on § 30. The citation of these three lines for the third time must be regarded as a piece of careless composition.</note>
+ </quote>
+</p></div>
+
+<div type="textpart" subtype="section" n="145"><p><milestone unit="para"/>Finally it is the height of folly to take the arts as
+
+the standard of measurement for mankind.
+<note n="9.287.b">With this sentence begins the answer to the fourth argument. It is abruptly introduced and very imperfectly carried through. The fourth argument was (1) that aw men could not exist without the arts and the arts are known to have been invented by definite persons at definite times, man could not have existed from everlasting and therefore (2) neither the inferior animals, (3) nor their habitats. The answer to the first point is given at length and it might be said that, with the refutation of this, that of the second and third follows at once, but we should have expected Philo to indicate it.</note>
+  Anyone who follows this topsy-turvey line of reasoning will make out that the world is quite new, framed hardly a thousand years ago, since those who tradition tells us were the inventors of the sciences do not go back farther than that number of years.</p></div>
+
+<div type="textpart" subtype="section" n="146"><p> And if they must
+
+say that the arts are coeval with the human race, they must do so not carelessly and perfunctorily but with the aid of natural history.
+<note n="9.287.c"><hi rend="italic">Cf.</hi> Plato, <hi rend="italic">Phaedo</hi> 96 A σοφίαν, ἣν δὴ καλοῦσι περὶ φύσεως ἱστορίαν. The phrase covers both the research as here and the result obtained as in the next sentence.</note>
+  And what does natural history tell us?
+<note n="9.287.d">The substance of the next four sections is drawn from Plato, <hi rend="italic">Laws</hi> iii. 676, 677, and <hi rend="italic">Timaeus</hi> 22 A f. In the former we have the periodical destruction of mankind by deluge and other causes, and the consequent extinction of the arts, and also the remark that the traditional discoveries of the arts as we have them go back at most to a thousand or two thousand years. In the <hi rend="italic">Timaeus</hi> nothing is said about the arts (though it is noted that the records and traditions of a nation perish in the destruction), but we have a more specific account of the destruction by fire and deluge, and the different ways in which the two affect the inhabitants of the highlands and the lowlands. See also App. p. 530.</note>
+  Destructions of things on earth, destructions not of all at once but of a very large number, are attributed by it to two principal causes, to tremendous onslaughts of fire and water. These two visitations, we are told, descend in turns after very long cycles of years.</p></div>
+
+<div type="textpart" subtype="section" n="147"><p> When the agent is
+
+
+
+<pb n="289"/>
+the conflagration, a stream of heaven-sent fire pours out from above and spreads over many places and over-runs great regions of the inhabited earth. When it is the deluge, it sweeps along in every form which water takes. The rivers, either spring fed or winter torrents, not only flow with a full volume but exceed the usual level to which they rise and either break down their banks by force or over-leap them mounting to a very great height. Then streaming over they are diffused into the adjoining lowland, which is at first divided into great lakes as the water always subsides into the deeper hollows, then again as it flows on and submerges the intervening isthmuses which divide the lakes, making many into one, is converted into a great expanse of boundless sea.</p></div>
+
+<div type="textpart" subtype="section" n="148"><p> Through these contending powers the inhabitants of
+
+contrasted regions have perished alternately. Fire is fatal to the dwellers in the mountains and hills and places ill-supplied with water, as they do not possess the abundance of water which is the natural instrument of defence against fire. Water, on the other hand, destroys those who live near rivers, or lakes, or the sea, for it is a way that evils have, that those who live close to them are the first if not the only ones to feel their power.</p></div>
+
+<div type="textpart" subtype="section" n="149"><p> Since the chief part
+
+of mankind perish in the way here mentioned apart from numberless minor ways
+<note n="9.289.a">So <hi rend="italic">Timaeus</hi> 22 C φθοραὶ . . . πυρὶ μὲν καὶ ὕδατι μέγισται, μυρίοις δὲ ἄλλοις ἕτεραι βραχύτεραι</note>
+  the arts, too, necessarily fail. Science in itself is lost to sight, without someone to put it in practice. But when the epidemics of evil have abated and from those who have not fallen victims to their overwhelming terrors a new race begins to bloom again and grow, the arts
+
+<pb n="291"/>
+also, which are not then born for the first time but have sunk into insignificance through the diminution of persons possessing them, establish themselves once more.
+</p></div>
+
+<div type="textpart" subtype="section" n="150"><p><milestone unit="para"/>We have described to the best of our abilities the
+
+arguments transmitted to us to maintain the indestructibility of the world. In what follows we have to expound the answers given in opposition to each point.
+<note n="9.291.a">See Introduction, D. 177 note <hi rend="italic">a</hi>.</note>
+
+
+</p></div></div></body></text></TEI>
