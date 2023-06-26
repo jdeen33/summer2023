@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="grc">Εἰς Φλάκκον </title>
+<title>Flaccus</title>
+<author>Philo of Alexandria</author>
+<editor>Francis Henry Colson (1857-1943)</editor>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Gregory Crane</name>
+<name>Lisa Cerrato</name>
+
+</respStmt>
+<funder n="org:NEH">The National Endowment for the Humanities</funder>
+</titleStmt>
+<extent/>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+    <date type="release" when="2023-06-23">Perseus 5.0</date>
+    <idno type="filename">tlg0018.tlg021.perseus-grc3.xml</idno>
+    <availability>
+        <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+    </availability>
+</publicationStmt>
+
+    <sourceDesc>
+        <listBibl>
+            <biblStruct>
+                <monogr>
+                    <author>Philo of Alexandria</author>
+                    <title>Philo Volume VII</title>
+                    <editor>Francis Henry Colson (1857-1943)</editor>
+                    <imprint>
+                        <pubPlace>London</pubPlace>
+                        <publisher>William Heinemann Ltd.</publisher>
+                        <pubPlace>Cambridge, MA</pubPlace>
+                        <publisher>Harvard University Press</publisher>
+                        <date>1934</date>
+                    </imprint>
+                    <biblScope unit="volume">6</biblScope>
+                </monogr>
+                <ref target="https://ryanfb.github.io/loebolus-data/L320.pdf">Github</ref>
+            </biblStruct>
+        </listBibl>
+    </sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction method="silent">
+<p>optical character recognition</p>
+</correction>
+</editorialDecl>
+    <refsDecl n="CTS">
+        <cRefPattern matchPattern="(\w+)"
+            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+            <p>This pointer pattern extracts section.</p>
+        </cRefPattern>
+    </refsDecl>
+<!-- <refsDecl doctype="TEI.2">
+<state unit="section" n="chunk"/>å
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="edition" n="urn:cts:greekLit:tlg0018.tlg023.colson_eng" xml:lang="grc">
+<pb n="3"/>
+<head>On the Embassy to Gaius</head>
+<head>(the first part of the treatise on virtues)</head>
+<div type="textpart" subtype="section" n="1"><p><milestone unit="para"/><milestone unit="altchapter" n="1"/> How long shall we the aged continue to be
+
+children grown grey in our bodies through length of years, but infants in our souls through want of sense, holding fortune, the most unstable of things, to be the most unchangeable, nature, the most constant, to be the most insecure? For we change our actions about from place to place as on a draught board, and fortune’s gifts seem to us more permanent than nature’s, nature’s more insecure than fortune’s.</p></div>
+
+<div type="textpart" subtype="section" n="2"><p> The reason is that, having no forethought for the
+
+future, we are ruled
+<note n="10.3.a">This use of βραβεύειν is doubtful, since when transitive it is usually applied to contests, suits and the like. If θεραπεύειν is read ἔχοντας is of course the subject.</note>
+  by the present, following erratic sense-perception rather than unerring intelligence. For the eyes of the body discern what is manifest and close at hand, but reason reaches to the unseen and the future. Reason’s vision, which is keener than the vision of the bodily eyes, we bedim and confuse, some with strong drink and surfeiting, others with that worst of evils, ignorance.</p></div>
+
+<div type="textpart" subtype="section" n="3"><p> | And yet
+
+the present time and the many important questions decided in it are strong enough to carry conviction even if some have come to disbelieve that the Deity
+
+
+<pb n="5"/>
+
+takes thought for men, and particularly for the suppliants’ race which the Father and King of the Universe and the Source of all things has taken for his portion.</p></div>
+
+<div type="textpart" subtype="section" n="4"><p> Now this race is called in the Hebrew
+
+tongue Israel, but, expressed in our tongue, the word is “he that sees God” and to see Him seems to me of all possessions, public or private, the most precious.</p></div>
+
+<div type="textpart" subtype="section" n="5"><p> For if the sight of seniors or instructors or
+
+rulers or parents stirs the beholders to respect for them and decent behaviour and the desire to live a life of self-control, how firmly based is the virtue and nobility of conduct which we may expect to find in souls whose vision has soared above all created things and schooled itself to behold the uncreated and divine, the primal good, the excellent, the happy, the blessed, which may truly be called better than the good, more excellent than the excellent, more blessed than blessedness, more happy than happiness itself, and any perfection there may be greater than these.</p></div>
+
+<div type="textpart" subtype="section" n="6"><p> For reason
+<note n="10.5.a">i.e. those who infer the existence of God and His Powers from His created works have an apprehension inferior to the higher intuition of the Israel-soul. <hi rend="italic">Cf. De Praem.</hi> 40–46 and <hi rend="italic">Leg. All.</hi> iii. 97–99. Mangey understands λόγος as language (<hi rend="italic">sermo</hi>), which is perhaps more in accordance with the words that follow, but not so Philonic in thought.</note>
+  cannot attain to
+
+ascend to God, who nowhere can be touched or handled, but subsides and ebbs away unable to find the proper words by which it may approach to expound, I do not say the God who is, for if the whole Heaven should become an articulate voice, it would lack the apt and appropriate terms needed for this, but even for God’s attendant powers. Such are the creative, the kingly, the providential, and of the others all that are both beneficial and punitive,
+
+
+<pb n="7"/>
+</p></div>
+
+<div type="textpart" subtype="section" n="7"><p>
+assuming that
+<note n="10.7.a"><hi rend="italic">Cf Conf.</hi> 171 δυνάμεις ἀρωγοὺς καὶ σωτηρίους τοῦ γενομένου πάσας, αἷς ἐμφέρονται καὶ αἱ κολαστήριοι· ἔστι δὲ καὶ ἡ κόλασις οὐκ ἐπιζήμιον, ἁμαρτημάτων οὖσα κώλυσις καὶ ἐπανόρθωσις.</note>
+  the punitive are to be classed among
+
+the beneficial, not only on the ground that they are a part of laws and statutes, since no law can be complete unless it includes two provisions—honours for things good and punishment for things evil, but because the punishment of others often admonishes offenders and calls them to wisdom, or, certainly at any rate, their neighbours. For penalties are good for the morals of the multitude, who fear to suffer the like.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="8"><p><milestone unit="para"/><milestone unit="altchapter" n="2"/> For who that saw Gaius when after the death
+
+of Tiberius he succeeded to the sovereignty of the whole earth and sea, gained not by faction but established by law, with all parts, east, west, south, north, harmoniously adjusted, the Greek in full agreement with the barbarian, the civil with the military, to enjoy and participate in peace—who I say was not filled with admiration and astonishment at his prodigious and indescribable prosperity?</p></div>
+
+<div type="textpart" subtype="section" n="9"><p> He found
+
+ready in hand a mass of accumulated goods, gold and silver, which he had inherited, some in bullion, some in specie, some as ornaments in the form of drinking-cups and other things which craftmanship produces for display; vast forces of infantry, cavalry, ships, revenues supplied like a perennial stream flowing from a fountain;</p></div>
+
+<div type="textpart" subtype="section" n="10"><p> a dominion not confined to the
+
+
+
+<pb n="9"/>
+
+really vital parts which make up most
+<note n="10.9.a">Lit. “the most and most necessary.” For this frequent coupling of πλεῖστα with another superlative see note on <hi rend="italic">Flaccus</hi> 46 (vol. ix. p. 326).</note>
+  of the inhabited world, and indeed may properly bear that name, the world, that is, which is bounded by the two rivers, the Euphrates and the Rhine, the one dissevering us from the Germans and all the more brutish nations, the Euphrates from the Parthians and from the Sarmatians and Scythians, races which are no less savage than the Germans, but a dominion extending, as I said above, from the rising to the setting sun both within the ocean and beyond it.</p></div>
+
+<div type="textpart" subtype="section" n="11"><p> All these things were a joy to the Roman people and all Italy and the nations of Europe and Asia; not so much had they all exulted over any of his imperial
+
+predecessors. It was not now a matter of hoping that they would have the possession and use of good things public and private; they considered that they had already the plenitude as it were of good fortune with happiness waiting in its train.</p></div>
+
+<div type="textpart" subtype="section" n="12"><p> Thus nothing was to be seen throughout the
+
+cities but altars, oblations, sacrifices, men in white robes and crowned with garlands, bright and smart, their cheery faces beaming with goodwill, feasts, assemblages, musical contests, horse races, revels, nightlong frolics with harp and flutes, jollification, unrestraint, holiday-keeping, every kind of pleasure ministered by every sense.</p></div>
+
+<div type="textpart" subtype="section" n="13"><p> In these days the rich
+
+had no precedence over the poor, nor the distinguished over the obscure, creditors were not above debtors, nor masters above slaves, the times giving equality before the law. Indeed, the life under Saturn, pictured by the poets, no longer appeared to be a fabled story, so great was the prosperity and well-being, the freedom from grief and fear, the joy which pervaded households and people,
+
+<pb n="11"/>
+
+night and day, and lasted continuously without a break through the first seven months.
+</p></div>
+
+<div type="textpart" subtype="section" n="14"><p><milestone unit="para"/>But in the eighth month Gaius was struck down by
+
+severe sickness. He had exchanged the recent more homely and, therefore, healthier way of life which he had followed while Tiberius was alive, for one of extravagance. Hard drinking, luxurious feeding and appetites still unsatisfied when the cavities were stuffed full, hot baths, ill-timed, and acting as emetics, followed at once by renewed toping and gormandizing in its train, lasciviousness venting itself on boys and women, and everything else that can destroy soul and body and the bonds in both which keep them together, joined in the assault. Self-restraint is rewarded by strength and health, incontinence by infirmity and sickness bordering on death.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="15"><p><milestone unit="para"/><milestone unit="altchapter" n="3"/> The news of Gaius’s illness travelled every-where,
+
+since the time still made navigation possible. For it was the beginning of autumn, the close of the sailing season when the mariners return from then-trading ports everywhere to their own harbours and roadsteads, particularly those who take care not to winter in a foreign country. So people abandoned their luxurious life and became dismal. Every household and city was filled with anxiety and dejection, their recent joy being counter-balanced by a grief no less intense.</p></div>
+
+<div type="textpart" subtype="section" n="16"><p> For every part of the habitable world
+
+shared his sickness, and theirs was a sickness more grievous than that which overcame him. His was of the body only, theirs was felt by all and everywhere, affecting the well-being of the soul, their peace, their hopes and participation and enjoyment of every good thing.</p></div>
+
+<div type="textpart" subtype="section" n="17"><p> Thoughts of the many great evils which
+
+
+
+<pb n="13"/>
+
+spring from anarchy occupied their mind: famine, war, ravaging, devastation of estates, loss of property, abductions, fears of enslavement and death, so deadly that no physician could cure them and the only remedy lay in the recovery of Gaius.</p></div>
+
+<div type="textpart" subtype="section" n="18"><p> | So when the
+
+sickness began to abate, in quite a short time it was known even to the inhabitants of the ends of the world, for nothing is more speedy than rumour, and every city was on edge, ever craving for a better report until the good news of his complete recovery was announced by the travellers who arrived. At this every continent, every island, returned once more to its former happiness, for they felt that they personally shared in his preservation.</p></div>
+
+<div type="textpart" subtype="section" n="19"><p> For no one
+
+remembers any single country or single nation feeling as much delight at the accession or preservation of a ruler, as was felt by the whole world in the case of Gaius, both when he succeeded to the sovereignty and when he recovered from his malady.</p></div>
+
+<div type="textpart" subtype="section" n="20"><p> They felt
+
+as if they were beginning for the first time to change a nomadic and brutish for a social and gregarious life, or were passing from desolate life in pens and huts on a mountain side to be settled in a walled city, or from an existence unprotected by a guardian, to take their place under a guardian, a shepherd of the civilized flock. Such was their joy but they did not know the truth.</p></div>
+
+<div type="textpart" subtype="section" n="21"><p> The human mind in its blindness
+
+does not perceive its real interest and all it can do is to take conjecture and guesswork for its guide instead of knowledge.
+
+<milestone unit="para"/><milestone unit="altchapter" n="4"/> So it was with Gaius.</p></div>
+
+<div type="textpart" subtype="section" n="22"><p> He who had been
+
+recently regarded as a saviour and benefactor, who would pour new streams of blessings on Asia and Europe, giving happiness indestructible to each singly
+
+<pb n="15"/>
+
+and all in common, at once “ran amuck” as they say,
+<note n="10.15.a">Lit. “began from the sacred line.” This line ir the last line of a chessboard, and the actions of anyone who went beyond it would naturally be all” at sea.”</note>
+  changing to savagery, or rather revealing the brutality which he used to disguise under the mask of hypocrisy.</p></div>
+
+<div type="textpart" subtype="section" n="23"><p> His cousin, who had been left to share the
+
+sovereignty and was more entitled by kinship to the succession, since Gaius was the grandson of Tiberius by adoption while the other was by blood, he put to death on the pretext of conspiracy, though his age in itself precluded such an accusation. For the poor youth was just emerging from boyhood into adolescence.</p></div>
+
+<div type="textpart" subtype="section" n="24"><p> And according to some, if Tiberius had
+
+survived a little longer, Gaius would have been put out of the way, lying as he did under fatally damaging suspicions, and his real grandson would have been appointed sole ruler and heir to his grandfather’s sovereignty.</p></div>
+
+<div type="textpart" subtype="section" n="25"><p> But Tiberius was snatched away by
+
+fate before he had consummated his plans, while Gaius thought that by strategy he would escape the odium which dereliction in his duty to his partner would excite.</p></div>
+
+<div type="textpart" subtype="section" n="26"><p> | He employed the following
+
+artifice. Having summoned the chief officials he said,” In accordance with the will of the deceased Tiberius I wish the imperial authority to be shared by him who is my cousin by birth but my brother by affection, though you see yourselves that he is still a mere child and needs guardians and teachers and tutors.</p></div>
+
+<div type="textpart" subtype="section" n="27"><p> For what greater boon could there be than
+
+that a single soul or body should cease to be laden with the heavy burden of sovereignty and should have one who would be able to relieve and lighten them? And I,” he continued, “will be more than a guardian, a tutor and a teacher. I will appoint
+
+
+<pb n="17"/>
+
+myself to be his father and him to be my son.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="28"><p><milestone unit="para"/><milestone unit="altchapter" n="5"/> With these words he deceived both
+
+the audience and the lad. The adoption was a snare to assure not the sovereignty which he expected, but the loss of that which he held already. And Gaius proceeded to plot against his fellow-heir and true partner with full security and disregard of all opposition, for the Roman laws assign absolute power over the son to the father, not to mention his irresponsible authority as emperor, since no one had either the courage or the power to call him to account for his actions of any kind.</p></div>
+
+<div type="textpart" subtype="section" n="29"><p> As the victor in the arena throws to the
+
+ground the one remaining champion, so dealt he, without pity for their fellowship in breeding, their kinship or his youth, with this unhappy lad, and sent to an early grave his co-regent, his co-heir who had been expected to be sole emperor as most nearly related to Tiberius, for grandsons when their fathers are dead hold the rank of sons in the eyes of their grandparents.</p></div>
+
+<div type="textpart" subtype="section" n="30"><p> | It is said, too, that the
+
+boy was ordered to kill himself with his own hands under the superintendence of a centurion and a chiliarch, who had been instructed to take no hand in the sacrilege on the grounds that it was unlawful that the descendants of emperors should be slain by others. For amid his lawless and unsanctified deeds Gaius remembered law and sanctity, a travesty of their true nature. But the lad lacked skill to do the deed, for he had never seen anyone else killed and had not yet been practised in the martial exercises which in view of the imminent prospect of war are used to give preliminary training to those who are being brought up to rule. So at first he stretched out his neck to the emissaries present and bade them
+
+<pb n="19"/>
+
+dispatch him, </p></div>
+
+<div type="textpart" subtype="section" n="31"><p>
+and when they could not bring themselves
+
+to do it, he took the sword himself and in his ignorance and inexperience asked them what was the most vital spot so that by a well-aimed blow he might break the thread of his miserable life. And they playing the part of preceptors in misery gave their instructions and showed him the part to which he should apply the sword, and having received this first and last lesson he was forced to become his own murderer, poor boy!
+
+</p></div>
+
+<div type="textpart" subtype="section" n="32"><p><milestone unit="para"/><milestone unit="altchapter" n="6"/>
+<note n="10.19.a">§§ 32–65. For a very short account of Macro’s services to Gaius and his subsequent fall see <hi rend="italic">Flaccus</hi> 12–15.</note>
+ When Gaius had won this first and principal
+
+bout and no partner in his sovereignty was still left to divert the allegiance of ill-wishers and suspects, he at once prepared for a second effort, this time against Macro, who had been throughout his ally in establishing his power, not only after he was appointed emperor (for flattery never fails to pay court to success) but also earlier in helping him to get the sovereignty.</p></div>
+
+<div type="textpart" subtype="section" n="33"><p> For Tiberius, who always acted with
+
+profound prudence and was clever above all his contemporaries in divining a man’s secret wishes, and as much distinguished for shrewdness as for good fortune, often looked on Gaius with disfavour as being ill-disposed to the whole Claudian house and attached only
+<note n="10.19.b">As Gaius could claim through his mother, who was the daughter of Julia the daughter of Augustus, descent by birth from Augustus, this might be supposed to weigh with him more than his descent by adoption through his Claudian father Germanicus.</note>
+  to his mother’s family, and he feared for his grandson that if he was left alone when young he might be made away with.</p></div>
+
+<div type="textpart" subtype="section" n="34"><p> Moreover he
+
+doubted his fitness for an office of such magnitude, both because of his unsociable and unfriendly nature and also because of his erratic temperament, for he showed abnormal and crazy tendencies and maintained
+
+
+<pb n="21"/>
+
+no consistency in word or deed.</p></div>
+
+<div type="textpart" subtype="section" n="35"><p> These faults
+
+Macro strove with all his might to remedy as opportunity offered and also to eradicate the suspicions of Tiberius on the subject which owing to his ceaseless fear for his grandson seemed to fester most in his mind.</p></div>
+
+<div type="textpart" subtype="section" n="36"><p> Macro represented him as well-disposed and
+
+docile and so exceedingly devoted to the service of his cousin that family affection would make him willing to retire and leave him sole emperor. Modesty, he said, in many cases was a disadvantage, and it was his modesty which caused the simple-minded Gaius to be considered cunning.</p></div>
+
+<div type="textpart" subtype="section" n="37"><p> And when
+
+the plausibility of his arguments failed to convince Tiberius he would pledge his credit for their truth. “I guarantee it,” he said, “I have earned the right to be believed. I have given sufficient proof that I am in a special sense a friend of Caesar, a friend of Tiberius, when the task of attacking and destroying Sejanus was placed in my hand.”</p></div>
+
+<div type="textpart" subtype="section" n="38"><p> And in general
+
+he was successful with his eulogies of Gaius, if eulogies is a suitable name for the defences directed to meet the vague charges and accusations based on suspicion. For in general the terms in which one might speak in commendation of brothers or sons in the full sense were used in equal or even greater measure of Gaius by Macro, when pleading his cause to Tiberius.</p></div>
+
+<div type="textpart" subtype="section" n="39"><p> | This was due, according to what most
+
+people said, not merely to the fact that Gaius in return courted the favour of Macro as possessing a predominant and, indeed, all-powerful influence in the government, but to Macro’s wife, though the charge against her was not mentioned. She every day incited and worked upon her husband not to abate his zeal and assistance of the young Gaius.
+<note n="10.21.a">According to Dio lviii. 28 and Tac. <hi rend="italic">Ann.</hi> vi. 45, Macro connived at her seduction.</note>
+
+
+<pb n="23"/>
+
+A wife has great power to paralyse and seduce her husband
+<note n="10.23.a">δεῖνον . . . παραλῦσαι read like part of an hexameter.</note>
+  and particularly if she is a wanton, for her guilty conscience increases her wheedling.</p></div>
+
+<div type="textpart" subtype="section" n="40"><p> The
+
+husband, unaware of the corruption of his marriage and household, and thinking that her wheedling is benevolence pure and simple, is deceived and little knows that her artifices are leading him to take his worst enemies to be his dearest friends.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="41"><p><milestone unit="para"/><milestone unit="altchapter" n="7"/> Knowing then that he had saved Gaius over
+
+and over again when within an ace of destruction, he gave his admonitions frankly and without disguise, for like a good builder he wished his handiwork to remain proof against destruction or dissolution either by himself or another.</p></div>
+
+<div type="textpart" subtype="section" n="42"><p> So whenever he saw Gaius
+
+asleep at a banquet he would wake him up with the double object of preserving propriety and his personal safety, since a sleeping man is an easy target for conspiracy. Or if he saw him frantic with excitement at the sight of dancers and sometimes joining in the dance, or greeting a mime of scandalous scenes and broad jesting with a loud youngster’s guffaw, instead of a subdued or sedate smile, or fascinated by the music of harpers or choric singers and occasionally accompanying them, he would sit or lean back at his side and nudge him and try to restrain him.</p></div>
+
+<div type="textpart" subtype="section" n="43"><p> Often,
+
+too, bending down to his ear so that no one else should listen, he would admonish him gently and quietly. “As a spectator,” he would say, “or listener, or using any other of your senses, you ought not to be like those around you or anyone else at all. In every side of life you ought to be as far above these as you have surpassed them in your good
+
+
+<pb n="25"/>
+
+fortune.</p></div>
+
+<div type="textpart" subtype="section" n="44"><p> For it is not to be thought of that the
+
+sovereign of earth and sea should be overcome by a song or dancing or ribald jesting or anything of the kind, instead of always and everywhere remembering his sovereignty, that he is as a shepherd and master of a flock, and extracting for himself whatever may tend to betterment from everything whatever that is said or done.”</p></div>
+
+<div type="textpart" subtype="section" n="45"><p> Then he would continue, “When
+
+you are attending theatrical or gymnastic competitions or those of the chariot race, do not pay regard to what the performers actually do, but to the moral achievement
+<note n="10.25.a">I understand κατόρθωσις as used in the Stoic sense of the moral state which produces κατορθώματα, i.e. τὰ κατ᾿ ἀρετὴν ἐνεργήματα. The virtue in this case is ἀνδρεία, and it is only in so far as the performers showed this that their performance was worth looking at. <hi rend="italic">Cf.</hi> Zeller, <hi rend="italic">Stoics</hi> (Eng. trans.), p. 248.</note>
+  shown in their doings, and reason thus with yourself.</p></div>
+
+<div type="textpart" subtype="section" n="46"><p> If there are those who so labour on
+
+things which do not profit human life but merely provide pleasure and enjoyment to the spectator, so that they win praise and admiration and rewards and honours and crowns announced by proclamations, what should he do who has learnt the highest and greatest art?</p></div>
+
+<div type="textpart" subtype="section" n="47"><p> And the best and greatest art is the art of
+
+government which causes the good deep soil in lowlands and highlands to be tilled, and all the seas to be safely navigated by merchantships laden with cargoes to effect the exchange of goods which the countries in desire for fellowship render to each other, receiving those which they lack and sending in return those of which they carry a surplus.</p></div>
+
+<div type="textpart" subtype="section" n="48"><p> For envy has
+
+never gained the mastery over the habitable world, nor even of the great sections of it, the whole of Europe or the whole of Asia. But like a venomous reptile it creeps into tiny hiding-places, into a single man or a single house or, if the force of its blast be
+
+
+<pb n="27"/>
+
+overstrong, into a single city. But to the wider circuit of a nation or country it has no entry, particularly since your family, the truly Augustan, began to hold sway over all and everywhere.</p></div>
+
+<div type="textpart" subtype="section" n="49"><p> For
+
+all the mischiefs which used to prosper and occupy a central place have been driven by your house into exile and into the utmost corners and recesses of Tartarus, and things beneficial and profitable which lay as though in banishment it has brought back from the ends of the earth and sea into the world of our habitation. The governance of all these has been entrusted to your single hand.</p></div>
+
+<div type="textpart" subtype="section" n="50"><p> Accordingly
+
+having under Nature’s escort risen to the highest post in the stern, and the tiller placed in your hand, steer in security the common ship of mankind, rejoicing and delighting in nothing so much as in benefiting your subjects.</p></div>
+
+<div type="textpart" subtype="section" n="51"><p> For various are the contributions
+
+which private citizens throughout the cities render under compulsion, but the fittest contribution for a ruler is to put forth good proposals for the benefit of his subjects and to execute these proposals in the best way possible and to bring forth good gifts with a bountiful hand and will, reserving nothing save what in provision for the uncertainty of the future may fitly be stored in safe-keeping.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="52"><p><milestone unit="para"/><milestone unit="altchapter" n="8"/> With such talk the unfortunate man tried to
+
+charm Gaius into better ways. But quarrelsome and contentious as he was, he let his inclination turn to the opposite direction as though it was that to which Macro urged him.</p></div>
+
+<div type="textpart" subtype="section" n="53"><p> And he grew bold enough to flout his monitor outright, and sometimes when he saw him coming a little way off he would discourse thus to the bystanders, “Here comes the teacher of
+
+one who no longer needs to learn, the tutor of one who
+
+<pb n="29"/>
+
+is no longer in tutelage, the censor of his superior in wisdom, who holds that an emperor should obey his subjects, who rates himself as versed in the art of government and an instructor therein, though in what school he has learnt its principles I do not know.</p></div>
+
+<div type="textpart" subtype="section" n="54"><p> For I from the cradle have had a host of
+
+teachers, father, brothers, uncles, cousins, grandparents, ancestors, right up to the founders of the House, all my kinsmen by blood on both the maternal and paternal sides, who attained to offices of independent authority, apart from the fact that in the original seeds of their begetting kinglike potentialities for government were contained.</p></div>
+
+<div type="textpart" subtype="section" n="55"><p> For just as
+
+the seminal forces
+<note n="10.29.a">Or “principles.” See note on <hi rend="italic">De Aet.</hi> 85, and on <hi rend="italic">De</hi> <hi rend="italic">Op.</hi> 43 (vol. i. p. 475), where reference is given to <hi rend="italic">S.V.F.</hi> index p. 93 <hi rend="italic">a</hi>.</note>
+  preserve similarities of the body in form and carriage and gait, and of the soul in projects and actions, so we may suppose that to the governing faculty they contain a resemblance in outline.</p></div>
+
+<div type="textpart" subtype="section" n="56"><p> And
+
+then does anyone dare to teach me, who even while in the womb, that workshop of nature,
+<note n="10.29.b">This phrase for the womb has been used several times, see note on <hi rend="italic">De Aet.</hi> 66.</note>
+  was modelled as an emperor, ignorance dare to instruct knowledge? How can they who were but now common citizens have a right to peer into the counsels of an imperial soul?</p></div>
+
+<div type="textpart" subtype="section" n="57"><p> yet in their shameless effrontery they who would hardly be admitted to rank as learners dare to act as masters who initiate others into the mysteries of government.“Step by step he began to practise
+
+alienating himself from Macro and also to fabricate charges against him, which though false were specious and readily accepted. For quick and highly gifted natures are clever at producing plausible arguments.
+
+<pb n="31"/>
+</p></div>
+
+<div type="textpart" subtype="section" n="58"><p>This was the sort of allegation which he
+
+made, “Macro says,
+<note n="10.31.a">It is strange not to find some words to the effect that Marco had been heard to say this For since what follows simply repeats what Philo declares to have been the truth, the falsity could only lie in that he had actually made the boast.</note>
+  ‘It is I Macro who made Gaius, I am his begetter more or not less than his parents. Not once only but thrice, when Tiberius wished to kill him he would have been violently removed, had it not been for me and my exhortations.</p></div>
+
+<div type="textpart" subtype="section" n="59"><p> Even when Tiberius was dead, as I had the military forces under my control, I at once brought them over into his camp by teaching them that one man was needed and so his sovereignty remains perfect and complete.’” | Some people accepted these charges as
+
+veracious, not knowing the deceptive and cunning character of the speaker, for his artificial and cunning disposition was not yet manifest. However a few days later the unhappy man together with his wife was got rid of and paid the extreme penalty in return for his excessive zeal.</p></div>
+
+<div type="textpart" subtype="section" n="60"><p> This is the gratitude
+
+gained by benefits bestowed on the ungrateful. They return the benefits they have received by inflicting the severest penalties on their benefactors. Such were, for example, the rewards which Macro reaped after having busied himself throughout in all sincerity with the most intense zeal and ardour, first to save Gaius’s life and secondly to secure his sole accession to the sovereignty.</p></div>
+
+<div type="textpart" subtype="section" n="61"><p> For it is said that the unhappy
+
+man was forced to slay himself with his own hand and that his wife submitted to the same fate, though she was supposed to have been at one time Gaius’s mistress. But love as they say is a fickle passion, and therefore none of its endearments are stable.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="62"><p><milestone unit="para"/><milestone unit="altchapter" n="9"/> When Macro, too, with his whole house had
+
+
+
+<pb n="33"/>
+
+been slaughtered Gaius armed himself to deal a third
+<note n="10.33.a">Possibly second, <hi rend="italic">i.e</hi> before that of Macro, which is mentioned by Dio and Suetonius at a later point in their narratives. The death of both Tiberius Gemellus and Silanus is fixed as before 24th May 38, by the records of the Arval Brothers, which note the appointment of their successors at that date. See Balsdon, <hi rend="italic">Gaius,</hi> pp. 37, 38.</note>
+  blow of still more grievous treachery. He had for his father-in-law M. Silanus, a man with plenty of fine spirit and of distinguished family. His daughter died early but he continued to pay the same attentions to Gaius and showed him an affection suited not so much to a father-in-law as to an actual father, thinking that by thus converting his son-in-law into a son he would have it reciprocated by the rule of equality. But he little knew how false and deceptive was his expectation.</p></div>
+
+<div type="textpart" subtype="section" n="63"><p> In all his discourse he talked as a
+
+guardian, concealing nothing which might tend to improve and benefit Gaius’s character, conduct and government. He had, indeed, strong inducements to speak freely in his pre-eminently noble lineage and his close connexion by marriage. For his daughter had died only a short time before; the rights of her kinsfolk had grown faint but had all but ceased to struggle for breath although some last remnants of their vitality still existed enclosed in their body.</p></div>
+
+<div type="textpart" subtype="section" n="64"><p> But Gaius took his admonitions as an insult since he
+
+thought himself the wisest and most temperate of men and also the bravest and justest and hated his instructors more than his avowed enemies.</p></div>
+
+<div type="textpart" subtype="section" n="65"><p> He considered,
+
+too, that Silanus was a nuisance, who would obstruct the torrent of his lusts, and, dismissing all thought of his dead wife’s ghostly avengers, should he make away with her father, afterwards his own by marriage, he treacherously murdered him.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="66"><p><milestone unit="para"/><milestone unit="altchapter" n="10"/> The matter at once gained notoriety by following
+
+
+
+<pb n="35"/>
+
+on the successive murders of the foremost men. And so in every mouth there was common talk about these inexpiable abominations, though quietly and in undertones, since fear prevented open discussion.</p></div>
+
+<div type="textpart" subtype="section" n="67"><p> Then there was a reaction, for a multitude is unstable
+
+in everything, intentions, words and deeds. They could not believe that Gaius, who but now had been thought kind and humane, showing fairness and fellowship to all, had undergone at once so complete a change. They began to look for arguments of defence and by close search found them. Of his own cousin and fellow-heir they would talk thus.</p></div>
+
+<div type="textpart" subtype="section" n="68"><p> “Sovereignty cannot be shared, that is an immutable
+
+law of nature. He being the stronger promptly did to the weaker what the weaker would have done to him. This is defence, not murder. Perhaps, too, it was providential and for the benefit of all mankind, that the lad was put out of the way, since some would have been partisans of him and others of Gaius, and it is such things that create disturbances and wars both civil and foreign. And what is better than peace? But peace springs from right government. The only right government is that which is free from disputes and factions which also causes everything else to be carried on aright.”</p></div>
+
+<div type="textpart" subtype="section" n="69"><p> | Of Macro they said, “His pride extended beyond
+
+reasonable limits, he did not read well the Delphic motto ‘Know thyself.’ It is a common saying that knowledge is the source of happiness and ignorance of unhappiness. What reason had he for reversing his part and transferring the subject to the rank of ruler, and Gaius, the emperor, to the place of a subject? To command, which is what he did, befits best the sovereign, and to obey, which is what
+
+<pb n="37"/>
+
+he deemed Gaius should submit to, befits the subject.”</p></div>
+
+<div type="textpart" subtype="section" n="70"><p> For in their thoughtlessness they gave the
+
+name of commanding to exhortation and of the ruler to the counsellor, whether they misunderstood the matter through stupidity, or in flattery recast the words and the things signified by them away from their natural use.</p></div>
+
+<div type="textpart" subtype="section" n="71"><p> | Of Silanus, “He was
+
+under a ridiculous delusion in thinking that a father-in-law had the same influence over a son-in-law as a real father has over his son, though, indeed, in private life fathers whose sons have obtained high offices and posts of authority waive their claims and are content to take the second place. But this silly man even though he had ceased to be a father-in-law extended his activities beyond his sphere and did not understand that the death of his daughter carried with it the death of the matrimonial affinity.</p></div>
+
+<div type="textpart" subtype="section" n="72"><p> For inter-marriage
+
+is a lien between unconnected households bringing the status of stranger into one of affinity, and if this be broken the community of interests is broken also, particularly if the break is caused by an irretrievable event, the death of her whose admission to a house not her own rested on her marriage.”</p></div>
+
+<div type="textpart" subtype="section" n="73"><p> Such were the ideas on which they dwelt in all their
+
+talks, and what principally weighed with them was their wish to think that the emperor was not cruel. For as they had hoped that kindness and humanity were established in his soul in a greater degree than in any of his predecessors they thought it very incredible that he had undergone all at once so complete a change to the reverse.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="74"><p><milestone unit="para"/><milestone unit="altchapter" n="11"/> Gaius had thus won the three contests de-scribed
+
+above in three vitally important departments. Two of these, the Senate and the Equestrian Order,
+
+<pb n="39"/>
+
+concerned his relations to his Capital; the third was his family life.</p></div>
+
+<div type="textpart" subtype="section" n="75"><p> So supposing that by his victory over the strongest and most powerful personages he had inspired all the rest with abject fear, the senators by the murder of Silanus who was
+
+second to none of the members of that body, the knights by the death of Macro who had become like the leader of a chorus and stood first in honours and reputation among them, and all his blood relations by the death of his cousin and fellow-heir, he no longer considered it worthy of him to abide within the bounds of human nature but overstepped them in his eagerness to be thought a god.</p></div>
+
+<div type="textpart" subtype="section" n="76"><p> | In the
+
+first stage of this infatuation he is said to have taken this line of argument. “Those who have charge of the herds of other animals, ox herds, goat herds, shepherds, are not themselves oxen, nor goats nor lambs, but men to whom is given a higher destiny and constitution, and in the same way I who am in charge of the best of herds, mankind, must be considered to be different from them and not of human nature but to have a greater and diviner destiny.”</p></div>
+
+<div type="textpart" subtype="section" n="77"><p> | This conception he had firmly sealed
+
+in his mind and carried about with him, poor fool, a mythical fiction as if it was an indisputable truth. And when once he had gained courage and was emboldened to publish to the multitude his most godless assumption of godship he tried to make his actions correspond and harmonize with it and gradually as if on stepping-stones advanced to the top.</p></div>
+
+<div type="textpart" subtype="section" n="78"><p> | For he began first of all to
+
+liken himself to the so-called demigods, Dionysus and Heracles and the Dioscuri, treating Trophonius and Amphiaraus and Amphilochus and their like and their
+
+<pb n="41"/>
+
+oracles and celebrations as laughing-stocks compared with his own power.</p></div>
+
+<div type="textpart" subtype="section" n="79"><p> Then, as in a theatre, he assumed
+
+different costumes at different times, sometimes the lion skin and club, both overlaid with gold, to adorn himself as Heracles, sometimes caps on his head when he made himself up as the Dioscuri, or again as Dionysus with ivy, thyrsus and fawn’s skin.</p></div>
+
+<div type="textpart" subtype="section" n="80"><p>
+<note n="10.41.a">According to Dio lix. 26, he also impersonated goddesses: Hera, Aphrodite and Artemis.</note>
+  | And he thought it fit to differ from these in that
+
+while each of them held to his own honours and did not lay claim to those which were shared by others, he, filled with envy and covetousness, took possession wholesale of the honours of them all, or rather of the deities themselves. He did not convert himself into a triple-bodied Geryon to bewilder the spectators by the multiplication, but performed a feat which could be least expected by remodelling and recasting what was nothing but a single body into manifold forms, like the Egyptian Proteus whom Homer represented as admitting every kind of transfiguration both into the elements and into the animals and plants of which they are the components.
+<note n="10.41.b">See <hi rend="italic">Od.</hi> iv. 454 ff. <hi rend="italic">Cf. Ebr.</hi> 36.</note>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="81"><p><milestone unit="para"/>And yet what business had you, Gaius, to take the
+
+insignia commonly used to adorn the images of the said deities? For you should have emulated their virtues. Heracles purged the earth and the sea, undergoing trials of endurance most necessary and profitable for all mankind in order to destroy things which are mischievous and baneful to either form of life.</p></div>
+
+<div type="textpart" subtype="section" n="82"><p> | Dionysus cultivated the wild vine and
+
+drew pouring from it a drink most delicious and at the same time profitable to souls and bodies. The soul he brings into a state of cheerfulness, creating oblivion
+
+
+<pb n="43"/>
+
+of evils and hopes of good, while he renders the body healthier and stronger and more agile.</p></div>
+
+<div type="textpart" subtype="section" n="83"><p> In private life
+
+he improves each person and converts large households and families from a squalid and toilsome existence to a free and gay mode of living, and for all cities Greek and barbarian he provides a constant succession of banquets, merrymakings, galas, festivals. For all these owe their existence to Dionysus.</p></div>
+
+<div type="textpart" subtype="section" n="84"><p> | Again,
+
+the Dioscuri
+<note n="10.43.a">Philo has alluded to the story of the Dioscuri, <hi rend="italic">De Som.</hi> i. 150 and <hi rend="italic">De Dec.</hi> 56. Here he takes the version of the legend in which Castor the mortal was actually killed and then Pollux renounced half his immortality to him.</note>
+  are said to have shared the immortality between them, for since one of them was mortal and the other immortal he who had been judged worthy of the higher destiny did not think it fit to gratify his selfish instinct instead of showing affection to his brother.</p></div>
+
+<div type="textpart" subtype="section" n="85"><p> For having before his eyes the endless ages
+
+and reflecting that while he lived for ever his brother would be dead for ever and his mourning for him would be as everlasting as his own existence, he achieved a great and marvellous reciprocation in that he mingled mortality with his own lot and indestructibility with his brother’s, and thus made inequality, the source of injustice, vanish in equality, which is the fountain of justice.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="86"><p><milestone unit="para"/><milestone unit="altchapter" n="12"/> All these, Gaius, received and still receive
+
+admiration for the benefits for which we are beholden to them
+<note n="10.43.b">i.e. benefits in which they took the initiative and not in return for anything which we had done. For this use of ὑπάρχω see Lexicon.</note>
+  and were judged worthy of worship and the highest honours. Tell me yourself what deeds like these have you to make you so boastful and puffed with pride. To begin with the Dioscuri.</p></div>
+
+<div type="textpart" subtype="section" n="87"><p> Did you
+
+imitate them in brotherly love? Your brother and
+
+
+
+<pb n="45"/>
+
+fellow-heir you, iron-hearted and utterly ruthless, cruelly slew in the flower of his prime. Your sisters you afterwards sent into exile.
+<note n="10.45.a">For an account of the banishment by Gaius of his sisters Agrippina and Livilla to the Pontian islands on the charge of adultery and conspiracy see Suet. <hi rend="italic">Gaius</hi> 24 and Dio lix. 22. 8.</note>
+  Did they too give you cause to fear that they might rob you of your throne? | Did you imitate Dionysus?</p></div>
+
+<div type="textpart" subtype="section" n="88"><p>
+
+Have you become an inventor of new bounties as he was? Did you fill the inhabited world with joyfulness? Are the gifts bestowed by you more than Asia and Europe can contain?</p></div>
+
+<div type="textpart" subtype="section" n="89"><p> Rather the novel
+
+arts and sciences, which you as the author of general ruin and destruction discovered, were such that with them you changed what gave pleasure and joy into discomfort and grief and a life which all men everywhere find unworthy of the name. And so insatiable and quenchless were your lusts that you stole all that was good and valuable whether from the east or the west or from all other regions of the world southwards or northwards, and in return you gave and sent them the fruits of your own bitterness and all things mischievous and hurtful that abominable and venomous souls are wont to generate. Was it these which revealed you to us as the new Dionysus?</p></div>
+
+<div type="textpart" subtype="section" n="90"><p> | Or did you also emulate Heracles in your unwearied
+
+labours, your tireless feats of courage? Did you fill continents and islands with legality and justice, with fertility and prosperity and a lavish supply of the other boons which peace deep-founded creates?—you the utterly ignoble, brimful of cowardice, who stripped the cities of all that tends to well-being and happiness and turned them into hotbeds of what makes for confusion and tumults and the height of misery.</p></div>
+
+<div type="textpart" subtype="section" n="91"><p> Is it because of the great harvests of your
+
+
+
+<pb n="47"/>
+
+raising, Gaius, whose fruit is destruction, that you seek to partake of immortality so that you may produce calamities not short-lived nor ephemeral but everlasting? I think that on the contrary even if it appeared that you were one of the gods your evil practices would have caused you to change into the mortal kind of existence, for if virtues give immortality, vices certainly bring destruction.</p></div>
+
+<div type="textpart" subtype="section" n="92"><p> So then
+
+you must not rank with the Dioscuri, those best of brothers, you who dealt murder and perdition to your brother, nor share the honour of Heracles or Dionysus who benefited the life of man, you who wrought havoc and corruption in what they had achieved.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="93"><p><milestone unit="para"/><milestone unit="altchapter" n="13"/> So great a frenzy possessed him, so wild and
+
+delirious an insanity that leaving the demigods below he proceeded to advance upwards and armed himself to attack the honours paid by their worshippers to the deities held to be greater and divine on both sides,
+<note n="10.47.a">Heracles, Dionysus and the Dioscuri all had mortal mothers. See note on ἀμφιθαλής <hi rend="italic">Quod Omn. Prob.</hi> 20 (vol. ix. p. 510).</note>
+  Hermes, Apollo and Ares.</p></div>
+
+<div type="textpart" subtype="section" n="94"><p> To take Hermes first,
+
+he arrayed himself with herald’s staffs, sandals and mantles, a grotesque exhibition of order in disorder, consistency in confusion, reason in derangement.</p></div>
+
+<div type="textpart" subtype="section" n="95"><p> | Then when it pleased him he
+
+would strip them off and change his figure and dress into Apollo’s, his head encircled with garlands of the sun-rays, wielding a bow and arrows in his left hand and holding out Graces
+<note n="10.47.b"><hi rend="italic">Cf.</hi> Pausanias ix. 35. 3 Ἀγγελίων τε καὶ Τεκταῖος οἵ γε Διονύσου τὸν Ἀπόλλωνα ἐργαζόμενοι τοῖς Δηλίοις τρεῖς ἐποίησαν</note>
+  in his right to signify
+
+
+<pb n="49"/>
+
+that it was fitting for him to extend good things readily and that these should hold the superior position on the right, while punishment should be kept in the background and allotted the inferior place on the left.</p></div>
+
+<div type="textpart" subtype="section" n="96"><p> And at once at his side singing paeans to
+
+him stood drilled choirs of those who but now were calling him Bacchus or Evius or Lyaeus and honouring him with hymns when he was assuming the garb of Dionysus.</p></div>
+
+<div type="textpart" subtype="section" n="97"><p> | Often too he would don a
+
+breastplate and proceed sword in hand, with helmet and shield, hailed as Ares, and on either side went a procession of the worshippers of the new Ares composed of homicides and official cut-throats to render their base service to a master avid for slaughter and thirsting for human blood.</p></div>
+
+<div type="textpart" subtype="section" n="98"><p> | Then those
+
+who saw these things were struck with amazement at the strange contradiction, marvelling how one, whose actions were the opposite of those whose honours he purposed to share as their equal, did not think fit to practise their virtues and yet at the same time invested himself with their insignia each in turn. Yet surely these trappings and ornaments are set as accessories on images and statues as symbolically indicating the benefits which those thus honoured provide for the human race.</p></div>
+
+<div type="textpart" subtype="section" n="99"><p> Hermes is shod with sandals like out-stretched
+
+wings, why? Is it not because it befits the interpreter (ἑρμηνεύς) and spokesman of things divine, whence also he gets his name of Hermes, that when he is the harbinger of good, since not even a wise man, much less a god, makes himself the announcer of evil, he should be very swift-footed, travelling with Well-nigh the speed of wings in the zeal which brooks no delay. The news of things profitable should be carried quickly, bad news slowly if it is not permitted to
+
+<pb n="51"/>
+
+leave it untold.</p></div>
+
+<div type="textpart" subtype="section" n="100"><p> Again Hermes assumes the herald’s
+
+staff as an emblem of covenants of reconciliation, for wars come to be suspended or ended through heralds establishing peace; wars where no heralds are admitted
+<note n="10.51.a">He is alluding to the way in which ἀκήρυκτος comes to be applied to any truceless or exceptionally bitter conflict, with no thought whether heralds can enter it or not. <hi rend="italic">Cf.</hi></note>
+  create endless calamities both for the assailants and the defenders.</p></div>
+
+<div type="textpart" subtype="section" n="101"><p> But for what useful
+
+purpose did Gaius assume the sandals? Was it that everything of ill report and evil name, instead of being buried in silence, as it should be, might be noised abroad with impetuous speed and resound on every side? And yet what need was there for this activity in locomotion? Standing where he was, he rained miseries untold one after the other as from perennial fountains on every part of the inhabited world.</p></div>
+
+<div type="textpart" subtype="section" n="102"><p> And what need of the herald-staff had he
+
+whose every word and deed was not for peace but filled every house and city throughout Greece and the outside world with intestine wars! No, let him shed Hermes, let him purge himself of his lying claim to a title so ill-fitting, the impostor!
+
+</p></div>
+
+<div type="textpart" subtype="section" n="103"><p><milestone unit="para"/><milestone unit="altchapter" n="14"/> As
+
+for the appurtenances of Apollo, what is there like them in Gaius? Apollo wears a crown adorned with rays, for the craftsman has managed to make a good copy of the rays of the sun, but was the sun or light in any form welcome to Gaius and not rather night and darkness or anything more rayless than darkness for disposing his lawless actions, since things noble and beautiful need the full brightness of noonday to show them forth, but the base and ugly need as they say deepest Tartarus into which they should be thrown to lie in the concealment which they deserve?</p></div>
+
+<div type="textpart" subtype="section" n="104"><p> Let him also transpose what he holds in either hand
+
+
+
+<pb n="53"/>
+
+and not falsify the arrangement; let him carry the bow and arrows in his right hand, for he knows how to use them both with a true aim against men and women, against whole families, against populous cities to bring them to utter perdition.</p></div>
+
+<div type="textpart" subtype="section" n="105"><p> But the
+
+Graces he should either cast quickly away or carry them shaded in his left hand. For he put their beauty to shame when he fixed his greedy eyes and gaping mouth on great estates to work the unjust robberies which were crowned with the slaughter of their owners, whose prosperity was the cause of their miserable end.</p></div>
+
+<div type="textpart" subtype="section" n="106"><p> | He also managed to make
+
+a fine recasting of Apollo’s art of medicine. For Apollo became the inventor of salutary remedies promoting the health of mankind, deigning also to heal himself the maladies engendered by the actions of others in virtue of the supreme kindliness which nature and practice gave him.</p></div>
+
+<div type="textpart" subtype="section" n="107"><p> Gaius on the other
+
+hand brought disease to the healthy, crippling to the sound of limb and in general death to the living, death in cruel forms, the work of men anticipating that of fate. Every instrument of destruction he had provided with unstinted liberality whereby, had not his death at the hands of justice forestalled his use of them, all the most highly reputed part of the community in every city would already have perished.</p></div>
+
+<div type="textpart" subtype="section" n="108"><p> For he had all his arrangements ready to deal with
+
+the magnates and the rich, particularly those in Rome and the rest of Italy, in whose possession there lay treasured such a great amount of gold and silver that if all contained in all the rest of the inhabited world from its very boundaries was gathered together it would be found to fall far short of it. And therefore
+<note n="10.53.a">Lit. “he began from the sacred line.” See § 22, pp. 12–15.</note>
+  with utter recklessness, he proceeded to cast
+
+<pb n="55"/>
+
+away the seeds of peace from his homeland, city-hater, people-devourer, scourge and baleful pest.</p></div>
+
+<div type="textpart" subtype="section" n="109"><p> | Apollo is said to be not only a physician
+
+but a good prophet, foretelling by his oracles the future for the benefit of men, lest any of them too beclouded to discern its uncertainties should, with no more foresight than the blind, expect high profit from what prove to be things he little welcomes when he races to them only to stumble and fall upon them,
+<note n="10.55.a">ἐπεμπίπτειν may mean to fall upon (and seize). But that they “come a cropper” is suggested by the conclusion</note>
+  but with foreknowledge of the future as though it were now present and seeing it with his mind as clearly as he sees what lies before him with the eyes of his body, protect and secure himself against any fatal disaster.</p></div>
+
+<div type="textpart" subtype="section" n="110"><p> Can we rightly
+
+place beside these those ominous pronouncements of Gaius by which the coming poverty, disfranchisement, exile, death were announced to the highly-placed and powerful everywhere? What fellowship then with Apollo has he whose conduct never showed any affinity or kinship? Falsely does he call himself Paean, let him cease once for all to mimic the true Paean, for a divine form cannot be counterfeited as a coin can be.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="111"><p><milestone unit="para"/><milestone unit="altchapter" n="15"/> And
+
+surely the last thing one would expect is that such a body and soul as his, both of them feeble and nerveless, could ever be assimilated to the prowess of Ares in both. Yet like an actor wearing in turn many kinds of masks he beguiled the spectators with the deceptive appearances he assumed.</p></div>
+
+<div type="textpart" subtype="section" n="112"><p> Well, one need
+
+not examine his characteristics of body and soul, since his every posture and movement showed the
+
+
+<pb n="57"/>
+
+difference which divided him from the deity in question. Surely we know the power of Ares, not the Ares of mythology, but the Ares of the realm of reason whom courage has taken for its own.
+<note n="10.57.a">i.e. the Ares which belongs to the order of things which is governed not by μῦθος but by λόγος, and is the deity whose special province among the virtues is ἀνδρεία. How Mangey</note>
+  That power is a defence from evil, the helper and champion of the wronged as its very name declares.</p></div>
+
+<div type="textpart" subtype="section" n="113"><p> For
+
+under the name of Ares I think is disguised ἀρήγω, that is “help” That Ares is the destroyer of wars, the creator of peace. This other
+<note n="10.57.b">The imperfect shows that the “other” is Gaius rather than the Ares of mythology, though Philo may perhaps mean to equate the two in their vices.</note>
+  was the foe of peace, the friend of wars, the converter of stability into turmoil and faction.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="114"><p><milestone unit="para"/><milestone unit="altchapter" n="16"/> Need we more than these proofs to teach us
+
+that Gaius has no right to be likened to any of the gods or demigods either, for his nature, his substance, his purpose in life, is different from theirs? But passion we see to be a blind thing, particularly when it is reinforced by vanity and ambition, combined with possession of the supreme dominion which made havoc of our former prosperity.</p></div>
+
+<div type="textpart" subtype="section" n="115"><p> For he looked with
+
+disfavour on the Jews alone because they alone opposed him on principle, trained as they were we may say even from the cradle, by parents and tutors and instructors and by the far higher authority
+<note n="10.57.c">So rather than “long before.” For probable examples of this meaning of the phrase see note on <hi rend="italic">Flaccus</hi> 10.</note>
+  of the sacred laws and also the unwritten customs, to acknowledge one God who is the Father and Maker of the world.</p></div>
+
+<div type="textpart" subtype="section" n="116"><p> For all others, men, women, cities, nations,
+
+countries, regions of the earth, I might almost say
+
+
+
+
+<pb n="59"/>
+
+the whole inhabited world, groaning though they were at what was happening, flattered him all the same and magnified him out of all proportion and augmented his vanity. Some too even introduced into Italy the barbarian practice of prostrating themselves,
+<note n="10.59.a"><hi rend="italic">Cf.</hi> Ar. <hi rend="italic">Rhet.</hi> i. 5. 9 τὰ βαρβαρικά, οἷον προσκυνήσεις, where Jebb translates “salaams.” See Sandys’s note, which is to the effect that properly speaking προσκ. signifies kissing the hand to another rather than prostration or salaam, though</note>
+  a degradation of the high tradition of Roman freedom.</p></div>
+
+<div type="textpart" subtype="section" n="117"><p> One nation only standing apart,
+
+the nation of the Jews, was suspected of intending opposition, since it was accustomed to accept death as willingly as if it were immortality, to save them from submitting to the destruction of any of their ancestral traditions, even the smallest, because as with buildings if a single piece is taken from the base, the parts that up to then seemed firm are loosened and slip away and collapse into the void thus made.</p></div>
+
+<div type="textpart" subtype="section" n="118"><p> But that displacement was of nothing
+
+petty, but of the greatest of all that exists, when the created and corruptible nature of man was made to appear uncreated and incorruptible by a deification which our nation judged to be the most grievous impiety, since sooner could God change into a man than a man into God. Apart from that it included the supremely evil vices of infidelity and ingratitude to the Benefactor of the whole world who through His power bestows blessings poured in unstinted abundance on every part of the All.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="119"><p><milestone unit="para"/><milestone unit="altchapter" n="17"/> So then a vast and truceless war was prepared
+
+against the nation. For what greater curse can a slave have than a hostile master? Subjects are slaves of the absolute emperor, and if this is not true
+
+
+<pb n="61"/>
+
+of any of his predecessors since they ruled with moderation and observance of the law, it was indeed true of Gaius who had exscinded all kindness from his soul and zealously practised lawlessness. For considering that he himself was a law, he abrogated those laid down by legislators in the several states, treating them as empty talk. And we were ranked not only as slaves but as the most degraded slaves when the ruler changed into a despotic master.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="120"><p><milestone unit="para"/><milestone unit="altchapter" n="18"/> The promiscuous and unstable rabble of the
+
+Alexandrians perceived this, and thinking that a very suitable opportunity had occurred, attacked us and brought to light the hatred which had long been smouldering, reducing everything to chaos and confusion.</p></div>
+
+<div type="textpart" subtype="section" n="121"><p> For treating us as persons given over by the
+
+emperor to suffer the extremity of calamity undisguised or as overpowered in war, they worked our ruin with insane and most brutal rage. They overran our houses, expelling the owners with their wives and children, and left them uninhabited.</p></div>
+
+<div type="textpart" subtype="section" n="122"><p> Then they stole
+
+the furniture and cherished valuables and, not needing now like robbers through fear of capture to watch for night and darkness, they carried them out openly in daylight and exhibited them to those whom they met as if they had inherited them or bought them from the owners. And if several agreed together to share the pillaging they divided the spoil in mid-market, often before the eyes of the owners, jeering and reviling them the while.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="123"><p>
+These things are horrible  in themselves, how could it be otherwise?—when the rich became poor, the well-to-do destitute, suddenly through no fault of their own rendered hearthless and homeless, outcasts and exiles from their own
+
+
+
+<pb n="63"/>
+
+houses, to dwell night and day under the open sky, and sent to their death by the burning heat of the sun or the freezing cold of the night.</p></div>
+
+<div type="textpart" subtype="section" n="124"><p> But all this is
+
+light compared with what is still to be told. After driving all these many myriads of men, women, and children like herds of cattle out of the whole city into a very small portion as into a pen, they expected in a few days to find heaps of dead massed together, perished either by famine through lack of necessaries, since having had no prophetic inkling of the sudden disasters they had not provided what was needed, or else through overcrowding and stifling heat.</p></div>
+
+<div type="textpart" subtype="section" n="125"><p> For no
+
+sufficiency of room was obtainable, and the air was vitiated and lost all its life-giving properties through the respirations or, to give them their true name, the gasps of expiring men. Inflamed by these and heavily labouring under something like an attack of fever it injected hot and noisome breath through the mouth and nostrils, adding fire to fire, to use the proverbial phrase.</p></div>
+
+<div type="textpart" subtype="section" n="126"><p> For our internal parts as
+
+constituted by nature work
+<note n="10.63.a">δύναμις in this usage seems to imply function as well as nature.</note>
+  at a very great heat, and when the outside airs which ventilate them are fairly cool, the favourable combination keeps the organs of respiration in good order, but when the atmosphere changes to a higher temperature and one stream of fire is added to another these organs are bound to get out of order.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="127"><p><milestone unit="para"/><milestone unit="altchapter" n="19"/> So
+
+the Jews, unable to endure any longer the painful want of space, poured out into deserted spots and beaches and tombs, eager to get a breath of pure and innocuous air. And if any were caught in the other parts of the city before they could escape or
+
+
+<pb n="65"/>
+
+if they came up from the country in ignorance of the disasters which had fallen upon us they experienced manifold misfortunes, being stoned or wounded by tiles or branches of ilex or oak in the most vital parts of the body and particularly in the head, the fracture of which proved fatal. |
+</p></div>
+
+<div type="textpart" subtype="section" n="128"><p>Some of the habitual idlers and loungers would
+
+make a circle round the Jews who, as I have said, had been driven and thrust together into a small part of the extremity of the city, and sit there watching them as though they were in a besieged fortress lest anyone should escape unseen. It was of course certain that several in lack of necessities would, regardless of their own safety, sally out through fear of their whole household being starved to death. A close watch was kept for these attempts to slip through and when any were caught they were at once dispatched by their enemies with every possible maltreatment.</p></div>
+
+<div type="textpart" subtype="section" n="129"><p> There was another
+
+company who lay in waiting at the harbours of the river to rob the Jews who put in there and seize the goods which they were bringing for trade. They boarded the vessels and carried out the cargo before the eyes of the owners, whom they pinioned and burnt, using for fuel rudders, tillers, poles and the planks on the decks.</p></div>
+
+<div type="textpart" subtype="section" n="130"><p> | Most pitiable was
+
+
+the fate of those who were burnt to death in the middle of the city. For sometimes through lack of proper wood they collected brushwood and after setting it on fire threw it upon the unhappy victims, who perished half burnt more through the smoke than by the fire. For brushwood produces a feeble and smoky flame which is at once extinguished since its slightness prevents it from burning steadily like
+
+<pb n="67"/>
+
+coal.</p></div>
+
+<div type="textpart" subtype="section" n="131"><p> Many too, while still alive, they tied with
+
+thongs and nooses and, binding fast their ankles, dragged them through the middle of the market, leaping on them and not even sparing their dead bodies. For, more brutal and savage than fierce wild beasts, they severed them limb from limb and piece from piece and trampling on them destroyed every lineament, so that not even the least remnant was left which could receive burial.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="132"><p><milestone unit="para"/><milestone unit="altchapter" n="20"/> When the governor of the country, who, if he
+
+wished, could have by himself suppressed in a single hour the tyranny of the mob, pretended not to see what he saw and not to hear what he heard but allowed them to wage war unrestrainedly and so wrecked the peace, they became still more excited and pressed forward to carry out shameless designs of a bolder kind. They collected great bodies of men to attack the meeting-houses, of which there are many in each section of the city. Some they ravaged, others they demolished with the foundations as well, others they set fire to and burnt regardless in their frenzy and insane fury of the fate of the neighbouring houses, for nothing runs faster than fire when it gets hold of something to feed it.</p></div>
+
+<div type="textpart" subtype="section" n="133"><p> I say nothing of the
+
+tributes to the emperors which were pulled down or burnt at the same time, the shields and gilded crowns and the slabs and inscriptions, consideration for which should have made them spare the rest. But they were emboldened by having no fear of the vengeance of Gaius. They knew well that he had an indescribable hatred of the Jews, and so they surmised that nothing anyone could do would gratify him more than the infliction on the nation of every kind of ill-treatment.</p></div>
+
+<div type="textpart" subtype="section" n="134"><p> And as they wished to ingratiate
+
+
+
+<pb n="69"/>
+
+themselves with him by further novelties in flattering and so secure complete immunity for their maltreatment of us, what do you suppose they did? The meeting-houses which they could not raze or burn out of existence, because so many Jews live massed together in the neighbourhood, they outraged in another way, thereby overthrowing our laws and customs. For they set up images of Gaius in them all and in the largest and most notable a bronze statue of a man mounted on a chariot and four.</p></div>
+
+<div type="textpart" subtype="section" n="135"><p> And
+
+so speedy and impetuous were they in their eagerness, that not having a new chariot of the kind at hand they fetched a very old one out of the gymnasium, a mass of rust with the ears, tails, feet and many other parts mutilated, and as some say dedicated to the honour of a woman, the original Cleopatra, great-grand-mother of the last queen of that name.</p></div>
+
+<div type="textpart" subtype="section" n="136"><p> What a serious charge this in itself
+
+entailed upon the dedicators is obvious to everyone. What does it matter if it was the new chariot of a woman? What if it was an old chariot of a man?
+<note n="10.69.a">The meaning as I understand it is that while the fact that the statue was an old one, or that that the figure represented by it was a female, would each of them separately have disqualified the statue, it is unnecessary to press them as the mere fact that it had been dedicated to someon else was enough to show its impropriety.</note>
+  As long as the general fact remains that it had been dedicated to someone else? Might not the authors of an offering of this kind in honour of the emperor reasonably feel alarm lest some information should be laid before one who always particularly insisted on his personal glorification?</p></div>
+
+<div type="textpart" subtype="section" n="137"><p> No doubt they had
+
+extravagant
+<note n="10.69.b">For the common phrase ἐκ πολλοῦ τοῦ περιόντος see note on <hi rend="italic">De Vit Cont.</hi> 63, where among its uses intensification of an action or creation of a superlative are given. So here.</note>
+  hopes of getting praise and reaping greater and more splendid benefits for turning our meeting-houses into new and additional precincts consecrated to him, though their motive was not
+
+
+<pb n="71"/>
+
+to honour him but to take their fill in every way of the miseries of our nation.</p></div>
+
+<div type="textpart" subtype="section" n="138"><p> | We can
+
+
+find clear proofs of this. Take first the kings of Egypt. In three hundred years there was a succession of some ten or more of these, and none of them had any images or statues set up for them in our meeting-houses by the Alexandrians, although they were of the same race and kin as the people and were acknowledged, written and spoken of by them as gods.</p></div>
+
+<div type="textpart" subtype="section" n="139"><p> It was only natural that they who at any rate
+
+were men should be so regarded by those who deified dogs and wolves and lions and crocodiles and many other wild animals on the land, in the water and the air, for whom altars and temples and shrines and sacred precincts have been established through the whole of Egypt.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="140"><p><milestone unit="para"/><milestone unit="altchapter" n="21"/> Perhaps they will
+
+
+now say what they would not have said then, since it is their way to pay more court to the good fortunes of rulers than to the rulers themselves, that the emperors are superior to the Ptolemies in prestige and fortune and deserve to receive superior honours.</p></div>
+
+<div type="textpart" subtype="section" n="141"><p> Tell me, you of all men most foolish, for I do not wish
+
+to be forced into abusive language, what of Gaius’s predecessor Tiberius from whom he derived his sovereignty, who for twenty-three years was invested with dominion over sea and land and did not let the smallest spark of war smoulder in Greece or the world outside Greece, and to the very end of his life provided peace and the blessings of peace with a rich and unstinting hand and heart? Did you not deem him worthy of like honour?</p></div>
+
+<div type="textpart" subtype="section" n="142"><p> Was he inferior
+
+in birth? No, his birth was of the highest on both sides of his parentage. In culture? who was a greater master of thought or of language among
+
+<pb n="73"/>
+
+those who were in the prime of life in his time? In length of days? and which of the kings or emperors reached a longer and happier old age, not but what while still in his youth he was called the old man out of respect for his shrewdness? Such and so great was he who was overlooked and brushed aside by you.
+</p></div>
+
+<div type="textpart" subtype="section" n="143"><p><milestone unit="para"/>Again, consider him who in all the virtues transcended
+
+human nature, who on account of the vastness of his imperial sovereignty as well as nobility of character was the first to bear the name of the August or Venerable, a title received not through lineal succession as a portion of its heritage but because he himself became the source of the veneration which was received also by those who followed him; who from the moment that he had charge of the common weal took in hand the troubled and chaotic condition of affairs.</p></div>
+
+<div type="textpart" subtype="section" n="144"><p> For islands were engaged with continents
+
+in fierce rivalry for primacy, and continents with islands, all having for their leaders and champions those of the Romans in great positions who stood foremost in repute. And again the great regions which divide the habitable world, Europe and Asia, were contending with each other for sovereign power with the nations of both brought up from the uttermost parts of the earth waging grievous war all over sea and land, battling on either element, so that the whole human race exhausted by mutual slaughter was on the verge of utter destruction, had it not been for one man and leader Augustus whom men fitly call the averter of evil.</p></div>
+
+<div type="textpart" subtype="section" n="145"><p> This is the Caesar
+
+who calmed the torrential storms on every side, who healed the pestilences common to Greeks and barbarians, pestilences which descending from the
+
+<pb n="75"/>
+
+south and the east coursed to the west and north sowing the seeds of calamity over the places and waters which lay between.</p></div>
+
+<div type="textpart" subtype="section" n="146"><p> This is he who not only
+
+loosed but broke the chains which had shackled and pressed so hard on the habitable world. This is he who exterminated wars both of the open kind and the covert which are brought about by the raids of brigands. This is he who cleared the sea of pirate ships and filled it with merchant vessels.</p></div>
+
+<div type="textpart" subtype="section" n="147"><p> This is
+
+he who reclaimed every state to liberty,
+<note n="10.75.a">On the technical law term ἐξελέσθαι εἰς ἐλευθερίαν see <hi rend="italic">Dict. of Ant. s.v.</hi> ἐξαιρέσεως δίκη “If a reputed slave wished</note>
+  who led disorder into order and brought gentle manners and harmony to all unsociable and brutish nations, who enlarged Hellas by many a new Hellas and hellenized the outside world in its most important regions, the guardian of the peace, who dispensed their dues to each and all, who did not hoard his favours but gave them to be common property, who kept nothing good and excellent hidden throughout his life.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="148"><p><milestone unit="para"/><milestone unit="altchapter" n="22"/> This
+
+great benefactor they ignored during the forty-three years in which he was sovereign of Egypt, and set up nothing in our meeting-houses in his honour, neither image, nor bust, nor painting.</p></div>
+
+<div type="textpart" subtype="section" n="149"><p> And yet if it was
+
+right to decree new and exceptional honours to anyone, he was the proper person to receive them. He was what we may call the source and fountain-head of the Augustan stock in general. He was also the first and the greatest and the common benefactor in that he displaced the rule of many and committed the ship of the commonwealth to be steered by a single pilot, that is himself, a marvellous master of the science of government. For there is justice in the
+
+
+<pb n="77"/>
+
+saying “It is not well that many lords should rule,”
+<note n="10.77.a"><hi rend="italic">Il.</hi> ii. 204. The passage is quoted more fully in <hi rend="italic">De Conf.</hi> 170.</note>
+
+since multiplicity of suffrages
+<note n="10.77.b">The other place where this word is known is Thuc. iii. 10. 5, where the Mitylenaeans say that the members of the</note>
+  produces multiform evils. But besides all these the whole habitable world voted him no less than celestial honours.</p></div>
+
+<div type="textpart" subtype="section" n="150"><p> These are so well attested by temples, gateways,
+
+vestibules, porticoes, that every city which contains magnificent works new and old is surpassed in these by the beauty and magnitude of those appropriated to Caesar and particularly in our own Alexandria.
+</p></div>
+
+<div type="textpart" subtype="section" n="151"><p>For there is elsewhere no precinct like
+
+that which is called the Sebasteum, a temple to Caesar on shipboard,
+<note n="10.77.c">i.e. commemorating the voyage of Augustus which led to the surrender of Alexandria on 1st Aug. 30 B.C. Dr. Cook compares coins found in Alexandria bearing the image of a ship with the inscription σεβαστόφορος.</note>
+  situated on an eminence facing the harbours famed for their excellent moorage, huge and conspicuous, fitted on a scale not found elsewhere with dedicated offerings, around it a girdle of pictures and statues in silver and gold, forming a precinct of vast breadth, embellished with porticoes, libraries, chambers, groves, gateways and wide open courts and everything which lavish expenditure could produce to beautify it—the whole a hope of safety to the voyager either going into or out of the harbour.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="152"><p><milestone unit="para"/><milestone unit="altchapter" n="23"/> Though they had such
+
+
+
+grounds for action and could command the approval of all men everywhere they brought no violence to bear upon the meeting-houses and observed the law in every respect. Or did they neglect any mark of the reverence that was due to Caesar? No one in his senses would say that they did. Why
+
+
+
+<pb n="79"/>
+
+then did they withhold this from him? I will answer that question without any reserve.</p></div>
+
+<div type="textpart" subtype="section" n="153"><p> They
+
+knew his carefulness and that he showed it in maintaining firmly the native customs of each particular nation no less than of the Romans, and that he received his honours not for destroying the institutions of some nations in vain self-exaltation
+<note n="10.79.a">So, I think, rather than as L. &amp; S. revised, citing this passage, “deceiving himself.”</note>
+  but in accordance with the magnitude of so mighty a sovereignty whose prestige was bound to be enhanced by such tributes.</p></div>
+
+<div type="textpart" subtype="section" n="154"><p> That he was never elated or puffed
+
+up by the vast honours given to him is clearly shown by the fact that he never wished anyone to address him as a god but was annoyed if anyone used the word, and also by his approval of the Jews, who he knew full well regarded all such things with horror.
+| How then did he show his approval?</p></div>
+
+<div type="textpart" subtype="section" n="155"><p>
+
+He was aware that the great section of Rome on the other side of the Tiber is occupied and inhabited by Jews, most of whom were Roman citizens emancipated. For having been brought as captives to Italy they were liberated by their owners and were not forced to violate any of their native institutions.</p></div>
+
+<div type="textpart" subtype="section" n="156"><p> He knew therefore that they have houses of prayer
+
+and meet together in them, particularly on the sacred sabbaths when they receive as a body a training in their ancestral philosophy. He knew too that they collect money for sacred purposes from their first-fruits and send them to Jerusalem by persons who
+
+
+
+
+<pb n="81"/>
+
+would offer the sacrifices.</p></div>
+
+<div type="textpart" subtype="section" n="157"><p> Yet nevertheless he
+
+neither ejected them from Rome nor deprived them of their Roman citizenship because they were careful to preserve their Jewish citizenship also, nor took any violent measures against the houses of prayer, nor prevented them from meeting to receive instructions in the laws, nor opposed their offerings of the first-fruits. Indeed so religiously did he respect our interests that supported by wellnigh his whole household he adorned our temple through the costliness of his dedications, and ordered that for all time continuous sacrifices of whole burnt offerings should be carried out every day at his own expense as a tribute to the most high God. And these sacrifices are maintained to the present day and will be maintained for ever to tell the story of a character truly imperial.</p></div>
+
+<div type="textpart" subtype="section" n="158"><p> Yet more, in the monthly doles in his own city when
+
+all the people each in turn receive money or corn, he never put the Jews at a disadvantage in sharing the bounty, but even if the distributions happened to come during the sabbath when no one is permitted to receive or give anything or to transact any part of the business of ordinary life, particularly of a lucrative kind, he ordered the dispensers to reserve for the Jews till the morrow the charity which fell to all.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="159"><p><milestone unit="para"/><milestone unit="altchapter" n="24"/> Therefore everyone everywhere, even if he
+
+was not naturally well disposed to the Jews, was afraid to engage in destroying any of our institutions, and indeed it was the same under Tiberius though matters in Italy became troublesome when Sejanus was organizing his onslaughts.</p></div>
+
+<div type="textpart" subtype="section" n="160"><p> For Tiberius knew the
+
+truth, he knew at once after Sejanus’s death that
+
+
+
+<pb n="83"/>
+
+the accusations made against the Jewish inhabitants of Rome were false slanders, invented by him because he wished to make away with the nation, knowing that it would take the sole or the principal part in opposing his unholy plots and actions, and would defend the emperor when in danger of becoming the victim of treachery.</p></div>
+
+<div type="textpart" subtype="section" n="161"><p> And he charged
+
+his procurators in every place to which they were appointed to speak comfortably to the members of our nation in the different cities, assuring them that the penal measures did not extend to all but only to the guilty, who were few, and to disturb none of the established customs but even to regard them as a trust committed to their care, the people as naturally peaceable, and the institutions as an influence promoting orderly conduct.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="162"><p><milestone unit="para"/><milestone unit="altchapter" n="25"/> But Gaius grew beside himself with vanity,
+
+not only saying but thinking that he was God. He then found among the Greeks or the outside world no people fitted better than the Alexandrians to confirm the unmeasured passion which craves for more than is natural to mankind. For the Alexandrians are adepts at flattery and imposture and hypocrisy, ready enough with fawning words but causing universal disaster with their loose and unbridled lips.</p></div>
+
+<div type="textpart" subtype="section" n="163"><p> How much reverence is paid by them to the title of
+
+God is shown by their having allowed it to be shared by the indigenous ibises and venomous snakes and many other ferocious wild beasts. It naturally followed that by this unrestricted use of names appertaining to God, while they deceived the little-wits who do not see through Egyptian godlessness, they stand condemned by those who understand their great folly or rather impiety.</p></div>
+
+<div type="textpart" subtype="section" n="164"><p> Failing to
+
+
+
+<pb n="85"/>
+
+understand this Gaius supposed that he was really regarded by the Alexandrians as a god, since they incessantly used plainly and without any indirection terms which other people commonly employ when speaking of God.</p></div>
+
+<div type="textpart" subtype="section" n="165"><p> Then again he thought that the
+
+violent proceedings against the meeting-houses had sprung from a clear conscience and from a sincere desire to do him honour. This impression was due partly to the attention he paid to the periodical notifications which were sent at the instance of some persons in Alexandria and made very pleasing reading for him, so much so that in comparison with their charm the works of others either in prose or poetry seemed to him very distasteful. Partly also it was caused by some of his domestics who joined him in perpetual scoffing and mockery.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="166"><p><milestone unit="para"/><milestone unit="altchapter" n="26"/> The majority of these were Egyptians, a
+
+seed bed of evil in whose souls both the venom and the temper of the native crocodiles and asps were reproduced. The one who played the part of chorus-leader to the whole Egyptian troupe was Helicon, an abominable execrable slave, who had been foisted for ill into the imperial household. For he had received a smattering of a liberal education
+<note n="10.85.a">Or “in the regular curriculum of the schools.”</note>
+  through the ambition
+<note n="10.85.b">Or simply “zeal” as in § 60. In any case the meaning seems to be that his master wished to give an acceptable</note>
+  of his former master, who made a present of him to Tiberius Caesar.</p></div>
+
+<div type="textpart" subtype="section" n="167"><p> In his time indeed he got
+
+no high position as Tiberius thoroughly hated all juvenile pleasantries, since from his earliest years he was inclined to solemnity and austerity.</p></div>
+
+<div type="textpart" subtype="section" n="168"><p> But when
+
+he died and Gaius succeeded to his sovereignty,
+
+
+<pb n="87"/>
+
+Helicon, attaching himself to his new master who was relaxing into dissipation and voluptuous enjoyment of every sense, said to himself, “Now is your hour, Helicon! rouse yourself; you have an unrivalled auditor and spectator of your exhibitions; you are naturally quick of apprehension, you can scoff and jest more than other people, you now how to amuse and to play the fool with drolleries and quips and cranks. Your education has been quite as much in subjects unrecognized in the schools
+<note n="10.87.a">Or perhaps more strongly “base and vicious.” Philo may be thinking of Plato, <hi rend="italic">Laws</hi> 654 A, where ὁ ἀχόρευτος is said to be ἀπαίδευτος, and the πεπαιδευμένος is the ἱκανῶς κεχορευκώς, which is afterwards defined as including not merely dancing and singing well, but showing in them a love for τὰ καλά, and hatred for τὰ αἰσχρά. If this is right, πεπαίδευσαι τὰ ἀχόρευτα is an intentional oxymoron.</note>
+  as in those of the regular course; also your gift of the gab is not without its charm.</p></div>
+
+<div type="textpart" subtype="section" n="169"><p> If you also mix with your jestings
+
+the sting of a touch of malice so that you stir not only laughter but bitterness born of suspicion, you have your master a complete captive. For he is happily disposed by nature to listen to accusations mixed with derision. His ears as you know are wide open and pricked up to listen to those who have studied to combine abuse with sycophancy.</p></div>
+
+<div type="textpart" subtype="section" n="170"><p> And do
+
+not seek for needless abundance of material. You have the obloquy cast upon the Jews and their customs; in this you were reared; right from the cradle you were taught it not by one person only but by the noisiest element in the city of the Alexandrians. Display your learning.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="171"><p><milestone unit="para"/><milestone unit="altchapter" n="27"/> Having
+
+
+stimulated and worked himself up with these perverse and execrable reflections he got a hold of Gaius and paid much court to him. Neither by day nor by night
+
+
+<pb n="89"/>
+
+did he leave him but was everywhere in his company, so that he might make full use of his hours of solitude and leisure to press the charges against our nation. An utter villain, he worked upon the pleasure which malicious jesting gives to add a sting to slanders. For he neither owned that he was bringing a direct accusation nor could he have done so, but by his indirect and crafty methods he was a more difficult and formidable enemy than those who straightforwardly ranged themselves among their enemies.</p></div>
+
+<div type="textpart" subtype="section" n="172"><p> It is said also that the envoys of the
+
+Alexandrians knew this well and had secretly bribed him with big fees not only in money but also with hopes of honours which they covertly suggested they would procure for him soon when Gaius should come to Alexandria.</p></div>
+
+<div type="textpart" subtype="section" n="173"><p> Elated with visions of that occasion
+
+when in the presence of his master and of almost the whole habitable world, since undoubtedly all the men of light and leading
+<note n="10.89.a">The “eye of the city” is those through whom it sees what it needs, cf. the phrase ὀφθαλμὸς βασίλεως. Or perhaps simply “the choicest part (so also ὀφθαλμός); cf. ὡς ὄψιν ἐν σώματι <hi rend="italic">Spec. Leg. iv.</hi> 157.</note>
+  in the cities would journey from the furthermost parts to join in homage to Gaius, he would be honoured by the greatest and most illustrious city of them all, he promised everything.
+</p></div>
+
+<div type="textpart" subtype="section" n="174"><p>For some time, knowing nothing of the
+
+foe who was lurking within, we took precautions against foes outside only, but when we perceived the truth we began to search about and scan every path in the hope that we might be able to appease and soften the heart of a man who in every way and from every place was aiming his javelins and arrows at us so effectively.</p></div>
+
+<div type="textpart" subtype="section" n="175"><p> For he played ball with
+
+
+
+<pb n="91"/>
+
+Gaius, practised gymnastics with him, bathed with him, dined with him and was with him when he was going to bed, as he held the post of chamberlain and Captain of the Guard in the house, a post greater than any that was given to anyone else, so that he alone had convenient and leisurely audiences of the emperor, where he could listen released from outside disturbances to what was most to his heart.</p></div>
+
+<div type="textpart" subtype="section" n="176"><p> Satire
+
+was blended with accusations so that while he gave rise to pleasure he did us a maximum of harm, for what seemed the leading feature, the satire, was with him secondary and what appeared secondary, the accusations, were his sole and primary task.</p></div>
+
+<div type="textpart" subtype="section" n="177"><p> So
+
+letting out every reef like sailors with a fair wind at the stern, he was carried along at full sail racing before the breeze, while he assembled a string of indictments one after the other. And the impression made on Gaius’s mind grew firmer so that his memory of the charges was ineffaceable.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="178"><p><milestone unit="para"/><milestone unit="altchapter" n="28"/> In these straits and difficulties, since
+
+while leaving no stone unturned to propitiate Helicon we found no way open, as no one dared to address or approach him because of the arrogance and harshness he showed to all, and also we did not know whether in always inciting and working up his master against the nation he was influenced by a personal dislike of the Jewish race, we ceased to exert ourselves in this direction and confined our efforts to the more pressing side. We determined to give Gaius a document presenting in a summarized form the story of our sufferings and our claims.</p></div>
+
+<div type="textpart" subtype="section" n="179"><p> This document was practically
+
+an epitome of a longer supplication which we had sent to him a short time before through the hands
+
+<pb n="93"/>
+
+of King Agrippa.
+<note n="10.93.a">This document of course was quite different from the complimentary address mentioned in <hi rend="italic">Flaccus</hi> 103 as sent in duplicate through Agrippa. The statement made here seems to me to raise considerable difficulty. The natural meaning is that it was handed to Agrippa at his visit to Alexandria in the spring of 38. That the Jews might have given him a petition setting forth their rights, i.e. their claims to citizenship, is possible enough, and as circumstances had not changed this, this petition might have been adequate later. But it also is said to have set forth their sufferings, i.e. the persecutions and the desecration of the synagogues, and these could not have been described in a document handed to Agrippa during this visit, for it is impossible to suppose that he remained at Alexandria through the pogrom which culminated at the end of August. The only intelligible</note>
+  For he had chanced to pay a visit to the city when he was about to sail to Syria to take up the kingdom which had been given to him.</p></div>
+
+<div type="textpart" subtype="section" n="180"><p> . . .
+<note n="10.93.b">Reiter gives no reason for supplying a lacuna here beyond the words “lacunam statuit Cohn.” But Cohn’s article in <hi rend="italic">Philologus</hi> says nothing bearing on it, though he observes that as the ambassadors are suddenly introduced in ch. xxvii., some account of the reasons for the embassy may have been originally given there. I expect that his idea of a lacuna at this point in ch. xxvhi. is a later modification. I see no reasons for supposing lacunas on any such grounds. See Introd. pp. xxii. But it is true that a few words to the effect that Agrippa’s visit had led to intimacy with him might have cleared up the difficulty mentioned in the preceding note.</note>
+  But we proved to have been unwittingly
+
+deceiving ourselves, not for the first time. For it was the same earlier, when we first started on our voyage thinking that we should meet a judge and get our rights. | Actually he was our
+mortal foe, beguiling us with the seeming geniality with which he eyed us and the increased cheeriness of his address.</p></div>
+
+<div type="textpart" subtype="section" n="181"><p> After first greeting us in the
+
+plain by the Tiber, as he issued from the gardens left him by his mother, he repeated his salutation and waved his right hand signifying goodwill and sent the official who managed the admission of ambassadors named Homilus with the message: “I will hear your statement of the case myself when I get a good opportunity.” Consequently everyone around us rejoiced with us as though we had already won the case, and those of our party who were misled
+
+For Agrippa’s life and personality see vol. ix. p. 532.
+
+
+<pb n="95"/>
+
+by short-sighted fancies felt the same.</p></div>
+
+<div type="textpart" subtype="section" n="182"><p> But as
+
+I believe myself in virtue of my age and my good education otherwise to possess a greater amount of good sense, what gave joy to the others rather alarmed me. Bestirring my thinking powers I said, “Why when so many envoys were present from almost the whole earth did he say that he would hear us only? What was his object? For he must have known that we were Jews who would be contented if they were not treated worse than others.</p></div>
+
+<div type="textpart" subtype="section" n="183"><p> To suppose that we shall take precedence with a
+
+despot of an alien race, a young man possessing absolute power, surely borders on madness; it looks as if he is attaching himself to the party of the other Alexandrians and it was to them that he gave precedence and promised to give judgement quickly, if indeed he has not discarded the idea of giving a fair and impartial hearing and instead of a judge become their advocate and our opponent.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="184"><p><milestone unit="para"/><milestone unit="altchapter" n="29"/> Thus thinking I was deeply disturbed and
+
+had no rest by day or night. But while in my despondency I kept my affliction concealed since it was not safe to let it appear, another very heavy calamity was suddenly and unexpectedly launched upon us, which endangered not one part only of the Jewish race but the whole body of the nation. We 185 had travelled from Rome to Puteoli following Gaius, who had come down to the sea side and was spending some time round the bay passing from one to another of the numerous and expensively furnished country houses which he owned.</p></div>
+
+<div type="textpart" subtype="section" n="186"><p> While we were anxiously
+
+considering the statement of our case, since we were always expecting to be summoned, there came to us one with a troubled look in his bloodshot eyes and
+
+<pb n="97"/>
+
+gasping convulsively. He drew us a little way apart since there were some people standing near and said, “Have you heard the new tidings? “and when he was going to report it he was brought up short, as a flood of tears streamed from his eyes.</p></div>
+
+<div type="textpart" subtype="section" n="187"><p> He began
+
+again and the second time stopped short and so too a third time. When we saw this we were all in a flutter and bade him tell us the matter which he said had brought him there. “For,” we said, “you have not come just to have your weeping witnessed. If the facts are worth tears do not be the only one to feel sorrow. We have become inured to misfortunes by now.</p></div>
+
+<div type="textpart" subtype="section" n="188"><p> “He managed with difficulty while sobbing
+
+and breathing spasmodically to say, “Our temple is lost, Gaius has ordered a colossal statue to be set up within the inner sanctuary dedicated to himself under the name of Zeus.”</p></div>
+
+<div type="textpart" subtype="section" n="189"><p> As we marvelled at his
+
+words and, petrified by consternation, could not get any further, since we stood there speechless and powerless in a state of collapse with our hearts turned to water, others appeared bringing the same woeful tale.</p></div>
+
+<div type="textpart" subtype="section" n="190"><p> Then gathered altogether in seclusion
+
+we bewailed the disaster personal to each and common to all and such thoughts as the mind suggested we discussed at length. For nothing is more ready of tongue than a man in misfortune. “Let us struggle,” we said, “to save us from delivering ourselves altogether to fatal acts of lawlessness.
+<note n="10.97.a">If this punctuation is right the meaning is “don’t let us be led into making illegal resistance, or perhaps into action</note>
+  We sailed in
+
+
+<pb n="99"/>
+
+midst of the stormy winter, not knowing how great a storm was awaiting us, a land storm far more dangerous than that of the sea. For that is the work of nature who divides the annual seasons, and nature is a preserver. But the other is the work of a man whose thoughts are not those of a man, a youth with the recklessness of youth, invested with irresponsible dominion over all. And youth coupled with absolute authority is subject to unrestrainable impulses, a formidable power for evil.</p></div>
+
+<div type="textpart" subtype="section" n="191"><p>
+<note n="10.99.a">The six sections which follow become intelligible if we recognize that ἰδίου in § 193 refers to the particular interests of the Alexandrain Jews, especially their claims to citizenship, as opposed to the interests of the nation as a whole, and not to the personal safety of the ambassadors. Philo and his colleagues had three courses of action before them. First they might proceed with their suit, perhaps by sending the document mentioned in § 178 if that had not been sent already. This was impracticable as far as the synagogue question was concerned and might probably cost them their lives (§ 191). Such a death was, indeed, honourable but under the circumstances a mere waste (§ 192). As to the other question, the</note>
+ Shall we be allowed to
+
+come near him and open our mouths in defence of the houses of prayer to the destroyer of the all-holy place? for clearly to houses less conspicuous and held in lower esteem no regard would be paid by one who insults that most notable and illustrious shrine whose beams like the sun’s reach every whither, beheld with awe both by east and west.</p></div>
+
+<div type="textpart" subtype="section" n="192"><p> And even if we were allowed to approach him unmolested,
+
+
+what have we to expect but death against which there is no appeal? Well so be it, we will die and be no more, for the truly glorious death, met in defence of laws, might be called life. But if our decease brings no advantage, is it not madness to let ourselves perish as well, particularly as we are supposed to act as ambassadors, so that the disaster
+
+
+<pb n="101"/>
+
+would fall more on those who sent us than on the actual sufferers?</p></div>
+
+<div type="textpart" subtype="section" n="193"><p> Indeed those among our fellow
+
+nationals who most detest wickedness will accuse us of impiety in selfishly pleading for something which concerns us in particular, when the existence of all is tottering in extreme danger. For small things must needs give way to big and particular to general interests, the loss of which means the perdition of the body politic.</p></div>
+
+<div type="textpart" subtype="section" n="194"><p> For what religion or righteousness
+
+is to be found in vainly striving to show that we are Alexandrians, when we are menaced by the danger which threatens a more universal interest, the corporate body of the Jews? For it is to be feared that the overthrow of the temple will be accompanied by an order for the annihilation of our common name and nation from the man who deals in revolution on so great a scale.</p></div>
+
+<div type="textpart" subtype="section" n="195"><p> | If then both the
+
+
+causes
+<note n="10.101.a">See Introd. pp. xxvi f.</note>
+  which we were sent to plead are lost, someone perhaps will say,’ Well what then? did they not know how to manage their safe return?’ To such a one I would say, ‘Either you have not the genuine feelings of the nobly born or you were not reared or trained in the sacred writings.’ The truly noble are always hopeful and the laws create good hopes for those who take more than a mere sip of their study.</p></div>
+
+<div type="textpart" subtype="section" n="196"><p> Perhaps these things are sent to try the
+
+present generation, to test the state of their virtue and whether they are schooled to bear dire misfortunes with a resolution which is fortified by reason and does not collapse at once. So then what man can do is gone, and let it go. But let out souls retain indestructible the hope in God our Saviour who has often saved the nation when in helpless straits.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="197"><p><milestone unit="para"/><milestone unit="altchapter" n="30"/> Thus we talked on, at once lamenting
+
+
+
+<pb n="103"/>
+
+our unexpected misfortunes and comforting ourselves with a hope of a change to serener conditions. Then pausing for a little we said to those who had brought the news, “Why do you sit here silently merely implanting in our ears the sparks to light the fire by which we are consumed, instead of proceeding to tell us the causes which have moved Gaius to do this?” </p></div>
+
+<div type="textpart" subtype="section" n="198"><p>They replied, “You know the chief and
+
+primary cause which all men also know. He wishes to be thought a god and has supposed that the only dissentients will be the Jews on whom he could inflict no greater injury than the ruin of the sanctity of their temple. He has been instructed that of all the temples anywhere it is the most beautiful, ever from endless ages embellished by ceaseless and unsparing expenditure. Quarrelsome and contentious as he is, he proposes to appropriate it for his own use.</p></div>
+
+<div type="textpart" subtype="section" n="199"><p> | But now his eagerness has become
+
+
+keener than ever before owing to a letter sent to him by Capito. Capito is the tax-collector for Judaea and cherishes a spite against the population. When he came there he was a poor man but by his rapacity and peculation he has amassed much wealth in various forms. Then fearing that some accusation might be brought against him he devised a scheme to elude the charges by slandering those whom he had wronged.</p></div>
+
+<div type="textpart" subtype="section" n="200"><p> It chanced that an opportunity for obtaining
+
+his object was given by the following incident. Jamneia, one of the most populous cities of Judaea, is inhabited by a mixture of people, the majority being Jews with some others of alien races, intruders for mischief from the dwellers in adjacent countries. These people being new settlers have made themselves a pest and a nuisance to those who are in a
+
+<pb n="105"/>
+
+sense indigenous by perpetually subverting some part of the institutions of the Jews.</p></div>
+
+<div type="textpart" subtype="section" n="201"><p> Hearing from travellers
+
+visiting them how earnestly Gaius was pressing his deification and the extreme hostility which he felt towards the whole Jewish race, they thought that a fit opportunity of attacking them had fallen in their way. Accordingly they erected an extemporized altar of the commonest material with the clay moulded into bricks, merely as a plan to injure their neighbours, for they knew that they would not allow their customs to be subverted, as indeed it turned out.</p></div>
+
+<div type="textpart" subtype="section" n="202"><p> For, when they saw it and felt it intolerable
+
+that the sanctity which truly belongs to the Holy Land should be destroyed, they met together and pulled it down. The others at once went off to Capito, who was the author of the whole episode, and he, thinking that he had found a piece of luck which he had long been seeking, wrote to Gaius a highly exaggerated account of the facts.</p></div>
+
+<div type="textpart" subtype="section" n="203"><p> | Gaius
+
+
+after reading it gave orders that in place of the altar of bricks erected in wanton spite in Jamneia something richer and more magnificent, namely a colossal statue coated with gold, should be set up in the temple of the mother city. In this he followed the advice of those excellent and sapient advisers, that member of the aristocracy Helicon, slave, scrap retailer, piece of riff-raff, and one Apelles
+<note n="10.105.a"><hi rend="italic">Cf.</hi> Suet. <hi rend="italic">Gaius</hi> 33 and Dio lix. 5.</note>
+  a tragic actor, who, they say, in the flower of his prime had trafficked his youthful charms, but when the bloom was passed went on to the stage.</p></div>
+
+<div type="textpart" subtype="section" n="204"><p> Of course performers on the stage
+
+whose trade is with theatres and theatre-goers are lovers of modesty and sobriety, not of shamelessness and extreme indecency. The reason why Apelles
+
+
+<pb n="107"/>
+
+was advanced to the post of councillor was that Gaius might take advice on the right method of jesting from one and of chanting from the other, having set aside all consideration for the general welfare by which peace and tranquillity of every thing in every place might be maintained.</p></div>
+
+<div type="textpart" subtype="section" n="205"><p> So then Helicon, scorpion
+
+in form of a slave, vented his Egyptian venom on the Jews and so too Apelles with the venom of Ascalon. For that was the place he came from, and the Ascalonites have a truceless and irreconcilable hostility to the Jewish inhabitants of the Holy Land on whose borders they live.”</p></div>
+
+<div type="textpart" subtype="section" n="206"><p> As we heard this every single
+
+word was a wound to our souls. But shortly afterwards these admirable advisers of admirable actions received the reward of their impiety. Apelles for other reasons was thrown by Gaius into chains of iron and tortured by the rack and the wheel in turns
+<note n="10.107.a">Or “periodically” (rack and wheel being regarded as a single process), which suits the figure of recurrent fevers better.</note>
+  like people suffering from recurring fevers. Helicon was put to death by Claudius Germanicus Caesar for the other wrongs which the madman had committed. But these events belong to a later time.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="207"><p><milestone unit="para"/><milestone unit="altchapter" n="31"/> Gaius’s letter enjoining the dedication of
+
+the statue was written not in simple terms but with all circumspection possible to ensure safety. He ordered his viceroy for the whole of Syria, Petronius, to whom the letter was addressed, to bring for the conduct of the statue to Judaea half the army quartered on the Euphrates to guard the passage against the kings and nations of the east. This was done not to add dignity to the dedication but to effect the immediate destruction of anyone who tried to prevent it.
+
+<pb n="109"/>
+What mean you by this, my lord and master?</p></div>
+
+<div type="textpart" subtype="section" n="208"><p> is it
+
+an act of war based on the foreknowledge that they would not submit but would take up arms to defend the laws and die for their national institutions? For surely it was not done in ignorance of the probable results of any attempt to violate the temple. No, you foresaw what would take place as clearly as if it were already present and the future events as though they were already in hand, and so you ordered the army to be brought in that the first sacrifice with which the image was consecrated might be polluted with the massacre of unhappy men and women alike.</p></div>
+
+<div type="textpart" subtype="section" n="209"><p> | Petronius having
+
+
+read the instructions was in great difficulties. Fear made it impossible for him to oppose the order, for he knew that Gaius crushed irresistibly not only those who did not carry out his command but also those who did not do so at once. Neither could he lightly undertake it, for he knew that the Jews would willingly endure to die not once but a thousand times, if it were possible, rather than allow any of the prohibited actions to be committed.</p></div>
+
+<div type="textpart" subtype="section" n="210"><p> For all men guard their own customs, but this is
+
+especially true of the Jewish nation. Holding that the laws are oracles vouchsafed by God and having been trained in this doctrine from their earliest years, they carry the likenesses of the commandments enshrined in their souls.</p></div>
+
+<div type="textpart" subtype="section" n="211"><p> Then as they contemplate
+
+their forms thus clearly represented they always think of them with awe. And those of other races who pay homage to them they welcome no less than their own countrymen, while those who either break them down or mock at them they hate as their bitterest foes. And such dread is inspired by each of the pronouncements
+
+<pb n="111"/>
+
+that they would never purchase what men deem good fortune or happiness, whichever name is right, by transgressing even in the slightest matters.</p></div>
+
+<div type="textpart" subtype="section" n="212"><p> Still more abounding and peculiar is the
+
+zeal of them all for the temple, and the strongest proof of this is that death without appeal is the sentence against those of other races who penetrate into its inner confines. For the outer are open to everyone wherever they come from.
+</p></div>
+
+<div type="textpart" subtype="section" n="213"><p><milestone unit="para"/>Having these things before his eyes Petronius was
+
+slow to set to work. He saw the audacity of so vast an enterprise, and having mustered all the reasoning faculties of his soul, as though in a council, he looked to see what verdict they gave, and found it unanimous against destroying anything which was held sacred from the beginning, primarily from a feeling of natural justice and piety, secondly from the danger threatened not only from God but from the victims of the outrage.</p></div>
+
+<div type="textpart" subtype="section" n="214"><p> | He bethought him of the
+
+
+vast number of people comprised in the nation, which needed to contain it not like every other the circumference of a single country allotted to itself alone, but, one might almost say, the whole habitable world. For it is spread abroad over all the continents and islands so that it seems to be not much less than the indigenous inhabitants.</p></div>
+
+<div type="textpart" subtype="section" n="215"><p> To draw all these myriads
+
+into war against him was surely very dangerous. Heaven forbid indeed that the Jews in every quarter should come by common agreement to the defence. The result would be something too stupendous to be combated.
+<note n="10.111.a">χρῆμα is used in the idiomatic sense of something big, of which ὑὸς χρῆμα μέγα is the stock example.</note>
+  But without this the inhabitants of Judea are unlimited in number. Their bodies are
+
+
+<pb n="113"/>
+
+of the finest quality and their souls of the highest courage, preferring to die in defence of their national institutions, moved by a high spirit not as some of their slanderers would say barbaric but in very truth worthy of the free and nobly born.</p></div>
+
+<div type="textpart" subtype="section" n="216"><p> He was frightened
+
+also by the forces beyond the Euphrates, since that Babylon and many other satrapies were occupied by Jews was known to him not only by report but by experience. For every year envoys were dispatched for the sacred purpose of conveying to the temple a great quantity of gold and silver amassed from the firstfruits, and these envoys travel over the pathless, trackless, endless routes which seem to them good highroads because they feel that they lead them to piety.</p></div>
+
+<div type="textpart" subtype="section" n="217"><p> So he was naturally much alarmed lest hearing
+
+of this unprecedented dedication the Jews of those parts might suddenly take to raiding, and coming from different quarters might encircle his troops and joining hands attack them now isolated in their midst with terrible effect. While following this line of reasoning he shrank from action. |
+</p></div>
+
+<div type="textpart" subtype="section" n="218"><p>Then again he was drawn in the opposite direction
+
+by counter-arguments. “The order,” he said, “is given by a master who is young and judges that whatever he wishes is beneficial and that what he has once decreed is as good as accomplished, be it ever so unprofitable and charged with contentiousness and arrogance. For he has soared above man’s estate and already ranks himself as among the gods. My life is in imminent danger whether I oppose or give way, but while if I give way the danger is the prospect of war the result of which is doubtful, and there is no certainty that it will happen at all, if I oppose, its source is Gaius and it admits of no appeal and no
+
+<pb n="115"/>
+
+denial.”</p></div>
+
+<div type="textpart" subtype="section" n="219"><p> This latter view was supported by many
+
+Romans who shared his administration of Syria, since they knew that the wrath and vengeance of Gaius would reach them first as accomplices in making his orders of none effect.</p></div>
+
+<div type="textpart" subtype="section" n="220"><p> An opportunity for a respite
+
+to take a closer consideration was afforded by the constructing of the statue. For Gaius had not had one sent from Rome, in my opinion through the providence of God, who unseen by us stretched out his hand to protect the wronged, nor did he command Petronius to select from the statues in Syria the one approved of as best and send it to Jerusalem. For speed in the execution of his unlawful purpose would have led to a speedy outburst of war.</p></div>
+
+<div type="textpart" subtype="section" n="221"><p> So Petronius
+
+having got an opportunity for consideration of the best course to adopt, since great and sudden emergencies when they fall with concentrated force crush the reasoning faculty, ordered the construction to be carried out in some one of the adjacent countries
+</p></div>
+
+<div type="textpart" subtype="section" n="222"><p>
+and accordingly sent for the most clever craftsmen
+
+to be found in Phoenicia and gave them the material which they worked up in Sidon. | He also
+sent for the magnates of the Jews, priests and magistrates, partly to explain Gaius’s intentions and partly to advise them to accept the orders of their lord and master and keep before their eyes the dire consequences of doing otherwise. For, as he told them, the more efficient part of the armed forces in Syria
+
+
+
+<pb n="117"/>
+
+were ready at hand and would strew the land with the dead.</p></div>
+
+<div type="textpart" subtype="section" n="223"><p> For he thought that if he could start by
+
+appeasing them he could use them to instruct all the rest of the population to abstain from opposition. But he failed as might be expected to effect his intention.</p></div>
+
+<div type="textpart" subtype="section" n="224"><p> Smitten by his first words, we are told, as soon as they heard the story of the abnormal calamity they stood riveted to the ground, incapable of speech, and then while a flood of tears poured from their eyes as from fountains they plucked the hair from their beards and heads and finally uttered such words as these, “Did we too fortunate
+
+pay so much to purchase a long and happy life,
+<note n="10.117.a">If the translation is right it seems to mean that their fortunes and actions had been such that they expected to end their days happily. But the phrasing is odd. Mangey translates “en quo minus beati pervenimus,” which I cannot fit into the Greek at all.</note>
+  only to behold what none of our forefathers saw in the past? How can our eyes bear it? they shall be torn out and with them the miseries of life, the anguish of our existence, before they look on such a calamity—a sight unfit for them to see, unlawful for the ears to hear, or the mind to imagine.”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="225"><p><milestone unit="para"/><milestone unit="altchapter" n="32"/> While they were thus lamenting, the
+
+inhabitants of the holy city and the rest of the country hearing what was afoot marshalled themselves as if at a single signal, the signal which their common situation gave them, and issued forth in a body leaving cities, villages and houses empty and in one onrush sped to Phoenicia where Petronius chanced to be.</p></div>
+
+<div type="textpart" subtype="section" n="226"><p> Some of his people seeing a vast
+
+crowd moving along ran to his aid and made their report in order that he might take precautions
+
+
+<pb n="119"/>
+
+against the war which they expected. They had not finished their story and Petronius still remained unguarded, when the multitude of the Jews suddenly descended like a cloud and occupied the whole of Phoenicia to the profound astonishment of those who did not know how populous the nation was.</p></div>
+
+<div type="textpart" subtype="section" n="227"><p> The first thing to be observed was the great shouting
+
+which arose mingled with weeping and smiting of breasts, so great that it was more than the ears of those present could contain. For even when they paused there was no pausing in the sound but it still echoed even amid their silence. The next step was to approach Petronius and make such supplications as the occasion suggested, for great misfortunes themselves teach men what their situation is. They were divided into six companies, old men, young men, boys, and again in their turn old women, grown women, maidens.</p></div>
+
+<div type="textpart" subtype="section" n="228"><p> When Petronius
+
+first appeared in the distance all the companies as though at a word of command fell before him to the ground uttering a dirge-like wail with cries of supplication. When he encouraged them to rise and come nearer, they rose with some reluctance and with dust poured all over them, their eyes streaming with tears and both hands set behind them as though they were pinioned, they approached him.</p></div>
+
+<div type="textpart" subtype="section" n="229"><p> Then the body
+
+of elders stood and spoke as follows, “We are unarmed as you see, though some accuse us of having come as enemies in war, yet the parts which nature has assigned to each of us for defence, our hands, we have put away where they can do nothing and present our bodies as an easy target for the missiles of those who wish to kill us.</p></div>
+
+<div type="textpart" subtype="section" n="230"><p> We have brought our
+
+
+
+<pb n="121"/>
+
+wives, our children and our families
+<note n="10.121.a">Philo sometimes uses γενεά= “family,” cf. § 308. But</note>
+  to you, leaving none at home, and have prostrated outselves before Gaius in doing so to you, that you and he may either save us all from ruin or send us all to perish in utter destruction. O Petronius, both by our nature and our principles we are peaceable, and the diligence which parents devote to rearing their children has trained us in this practice from the very first.</p></div>
+
+<div type="textpart" subtype="section" n="231"><p> When
+
+Gaius succeeded to the sovereignty we were the first of all the inhabitants of Syria to show our joy, for Vitellius your predecessor as governor was staying in the city, and it was to him that the letter telling the news was sent and it was from our city that rumour to carry the good tidings sped to the others.</p></div>
+
+<div type="textpart" subtype="section" n="232"><p> Was our temple the first to accept sacrifices in behalf
+
+of Gaius’s reign only that it should be the first or even the only one to be robbed of its ancestral tradition of worship? We are evacuating our cities, withdrawing from our houses and lands; our furniture and money and cherished possessions and all the other spoil we will willingly make over. We should think ourselves gainers thereby, not givers. One thing only we ask in return for all, that no violent changes should be made in this temple and that it be kept as we received it from our grandparents and ancestors.</p></div>
+
+<div type="textpart" subtype="section" n="233"><p> But if we cannot persuade you, we give up ourselves
+
+for destruction that we may not live to see a calamity worse than death. We hear that forces of cavalry and infantry have been prepared against us if we
+
+
+<pb n="123"/>
+
+oppose the installation. No one is so mad as to oppose a master when he is a slave. We gladly put our throats at your disposal. Let them slaughter, butcher, carve our flesh without a blow struck or blood drawn by us and do all the deeds that conquerors commit. But what need of an army!</p></div>
+
+<div type="textpart" subtype="section" n="234"><p> our
+
+selves will conduct the sacrifices, priests of a noble order
+<note n="10.123.a">Or “fine priests indeed”—a strange travesty of priest-</note>
+ : wives will be brought to the altar by wife-slayers, brothers and sisters by fratricides, boys and girls in the innocence of their years by child-murderers. For the tragedian’s vocabulary is needed for those who endure tragical misfortunes.</p></div>
+
+<div type="textpart" subtype="section" n="235"><p> Then
+
+standing in the midst of our kinsfolk after bathing ourselves in their blood, the right bathing for those who would go to Hades clean, we will mingle our blood with theirs by the crowning slaughter of ourselves.</p></div>
+
+<div type="textpart" subtype="section" n="236"><p> When we are dead let the prescript be
+
+carried out; not God himself could blame us who had a twofold motive, respectful fear of the emperor and loyalty to the consecrated laws. And this aim will be accomplished if we take our departure in contempt of the life which is no life.</p></div>
+
+<div type="textpart" subtype="section" n="237"><p> We have
+
+heard a very ancient story handed down by the common consent of learned men of Greece, that the Gorgon’s head had such great power that those who looked upon it were turned at once into rocks and stones. The story is no doubt a mythical figment but great and disastrous and irreparable circumstances do bring with them the truth which it conveys. A despot’s angry passions do work death or something like death.</p></div>
+
+<div type="textpart" subtype="section" n="238"><p> Think you that if, which
+
+Heaven forbid, any of our people should see the
+
+
+<pb n="125"/>
+
+statue being carried in procession to the temple, they would not be transformed to stone, their joints stiffened and their eyes likewise so that they could not even move, and their whole body in each part of its system changed from its natural motions?</p></div>
+
+<div type="textpart" subtype="section" n="239"><p> Our final prayer, the justest of all, Petronius, will
+
+be this. We do not say that you are not bound to do as you are bidden but we add to our supplications a request for a respite so that we may choose a body of envoys and send them to seek an interview with our lord.</p></div>
+
+<div type="textpart" subtype="section" n="240"><p> It may be that by this
+
+mission we shall persuade him, pleading in full either the honour due to God or the preservation of our laws undestroyed, or our right to be no worse treated than all the nations, even those in the uttermost regions, who have had their ancestral institutions maintained, or the decisions of his grandfather and great-grandfather in which they ratified our customs with all respect for them.</p></div>
+
+<div type="textpart" subtype="section" n="241"><p> Perhaps
+
+when he hears this he will be softened. The judgements of the great do not remain unchanged; if they have been made in anger they soonest lose their strength. We have been slandered, permit us to purge the slanders; it is a grievous thing to be condemned untried.</p></div>
+
+<div type="textpart" subtype="section" n="242"><p> But if we fail to persuade him
+
+what remains to hinder you from carrying out your present intention? Wait till we have sent our embassy before you cut away their hopes for better things from all these myriads whose zeal is for their religion and not for gain. And yet we err when we say this, for what more profitable gain can men have than holiness?”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="243"><p><milestone unit="para"/><milestone unit="altchapter" n="33"/> This appeal was made in great agitation
+
+and intense emotion accompanied with much gasping
+
+<pb n="127"/>
+
+and spasmodic breathing, the sweat streaming over every limb amid a flood of ceaseless tears, so that by now their hearers shared their sorrow, and Petronius who was naturally kindly was quite carried away both by what he heard and what he saw. For he felt that what they said was very just and that the emotion displayed in what he saw was worthy of pity.</p></div>
+
+<div type="textpart" subtype="section" n="244"><p> He rose and retiring deliberated with his
+
+fellow-councillors on the course to be taken. He saw that those who had just before been entirely opposed to the Jews were wavering, and that the doubters had thrown most of their weight into the scale of mercy. This pleased him though he knew the nature of his chief and how implacable was his anger.</p></div>
+
+<div type="textpart" subtype="section" n="245"><p> Indeed
+
+it appears that he himself had some rudiments of Jewish philosophy and religion acquired either in early lessons in the past through his zeal for culture or after his appointment as governor in the countries where the Jews are very numerous in every city, Asia and Syria, or else because his soul was so disposed, being drawn to things worthy of serious effort by a nature which listened to no voice nor dictation nor teaching but its own. But we find that to good men God whispers
+<note n="10.127.a">Or “suggests.” For Philo’s frequent use of ὑπηχεῖν, generally carrying with it the idea of a voice heard in-</note>
+  good decisions by which they will give and receive benefits, and this was true in his case. What then were his decisions?</p></div>
+
+<div type="textpart" subtype="section" n="246"><p> He would not press
+
+the craftsmen but would urge them to perfect the statue with good artistry and aim as far as possible to take a long time to reach the standard of the widely known exemplars, since work, if perfunctory, is generally
+
+
+<pb n="129"/>
+
+short-lived and to have it executed with pains and knowledge requires a long time.</p></div>
+
+<div type="textpart" subtype="section" n="247"><p> He would
+
+not grant their request for an embassy. It was not safe. He would not oppose those who wished to lay the matter before the ruler and master of them all, but to the general multitude he would express neither assent nor denial, as both were dangerous.</p></div>
+
+<div type="textpart" subtype="section" n="248"><p> He would send to Gaius a letter in
+
+which, without accusing the Jews or giving a candid account of their prayers and entreaties, he would charge the delay in the installation partly to the work requiring a definite allowance of time for the construction, partly to the season, which gave strong grounds for delay, the reasonableness of which Gaius himself not only might but necessarily must admit.</p></div>
+
+<div type="textpart" subtype="section" n="249"><p> For the wheat crop was just ripe and
+
+so were the other cereals, and he feared that the Jews in despair for their ancestral rites and in scorn of life might lay waste the arable land or set fire to the cornlands on the hills and the plain. He needed a guard to insure more vigilance in gathering the fruits not only of the cornfields but also those provided by the orchards.</p></div>
+
+<div type="textpart" subtype="section" n="250"><p> For Gaius had determined,
+
+they were told, to sail to Alexandria by Egypt, but so great a potentate would not think it right to go by the open sea because of the dangers and the numbers of ships required for a convoy, and also the need of providing for his bodily comfort, all which ends are easily obtained by taking the circuitous route along Asia and Syria.</p></div>
+
+<div type="textpart" subtype="section" n="251"><p> For he would be able every
+
+day to combine the voyage with landing, particularly as most of the vessels which he would take would be not merchant ships but warships for which coasting is more feasible, just as an open sea voyage is for
+
+<pb n="131"/>
+
+cargo boats.</p></div>
+
+<div type="textpart" subtype="section" n="252"><p> It would be necessary therefore to have
+
+fodder for the beasts and a vast stock of food got ready in all the cities of Syria, particularly on the coast. For a huge crowd would come both by sea and by land, drawn not only from Rome itself and Italy, but also from the successive provinces right up to Syria, a crowd composed partly of persons of high rank, partly of soldiers, infantry and cavalry and marines, while the multitude of servants would be not less than the military.</p></div>
+
+<div type="textpart" subtype="section" n="253"><p> Supplies were needed
+
+calculated not merely for absolute necessities but for the excessive expenditure which Gaius demanded. If he reads this letter, thought Petronius, he will probably not merely refrain from anger but approve our forethought, recognizing that the postponement which we have made is not due to favouritism to the Jews but in order to insure the carrying of the harvest.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="254"><p><milestone unit="para"/><milestone unit="altchapter" n="34"/> As his fellow-councillors approved of his
+
+policy he ordered the letters to be written, and appointed to carry them persons who were active travellers and also knew how to make short cuts in their journey. When they arrived they delivered the letter, but Gaius while he was still reading was fuming and was filled with wrath as he noted each point.</p></div>
+
+<div type="textpart" subtype="section" n="255"><p> When he stopped reading he smote his hands together
+
+and said, “Good, Petronius, you have not learnt to hearken to an emperor; your successive offices have puffed you with pride. Up to this time you seem to have no knowledge of Gaius even by report; you will soon know him by actual experience.</p></div>
+
+<div type="textpart" subtype="section" n="256"><p> You concern
+
+yourself with the institutions of the Jews, the nation which is my worst enemy; you disregard the imperial commands of your sovereign. You feared their great numbers. Then had you not with you the military
+
+<pb n="133"/>
+
+forces which are feared by the nations of the east and their rulers the Parthians?</p></div>
+
+<div type="textpart" subtype="section" n="257"><p> Oh but you had
+
+compassion! Then did pity weigh more than Gaius with you? Go on, plead the harvest as your pretext; the harvest for which no pretext will avail will soon be visited on your own head. Yes, lay the blame on the ingathering of the fruits and the preparations needed for our journey. Why, even if complete barrenness reigned in Judaea were not the neighbouring countries so many and so prosperous capable of providing the necessaries and compensating the deficiency in one?</p></div>
+
+<div type="textpart" subtype="section" n="258"><p> But why should I not sit still till
+
+my hands get to work? why should any people know my intentions beforehand? he who is to reap the reward, let him know of it before others through personal experience.</p></div>
+
+<div type="textpart" subtype="section" n="259"><p> I stop speaking, but I shall not stop thinking.’’ | After waiting a short
+
+time he gave one of his secretaries instructions about answering Petronius. In these he seemingly praised him for his forethought and his careful exploration of future requirements. For he greatly feared the holders of governorships, he saw that they had resources ready for an uprising, particularly those who had large provinces and commanded large armies of the size of those in Syria on the Euphrates.</p></div>
+
+<div type="textpart" subtype="section" n="260"><p> So his
+
+language and letters were ingratiating, and though furiously angry he disguised his rancour waiting for an opportunity. Then he concluded his letter by bidding him interest himself in nothing so much as in hastening the installation of the statue, since the harvest which he alleged as an excuse, whether truly or plausibly, could already have been carried.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="261"><p><milestone unit="para"/><milestone unit="altchapter" n="35"/> Not long afterwards King Agrippa appeared
+
+to pay his wonted respects to Gaius. Now he
+
+<pb n="135"/>
+
+knew absolutely nothing about the contents of the letter sent by Petronius or of those written earlier and later by Gaius. He judged however by his irregular movements and the disturbance shown in his eyes that anger was smouldering beneath, and he examined and searched himself in every way, setting his reason to work in every direction and on every possibility small or great, to see whether he had done or said something which he should not.</p></div>
+
+<div type="textpart" subtype="section" n="262"><p> But when he could
+
+find nothing at all he conjectured naturally enough that Gaius was exasperated by some other persons, but again when he saw him frowning and that his eyes had been fixed on no one else in the company but himself alone, he was frightened and though he was often minded to question him he forbore, reasoning thus:</p></div>
+
+<div type="textpart" subtype="section" n="263"><p> “Perhaps I shall draw upon myself the menace directed to others and have officiousness, rashness and effrontery imputed to me.“Gaius, who
+
+was skilled in discerning a man’s secret wishes and feelings from his open countenance, observed his agitation and perplexity and said, “You are perplexed, Agrippa, I will release you from your perplexity.</p></div>
+
+<div type="textpart" subtype="section" n="264"><p> Have you sojourned with me all this time and
+
+not learnt that I speak not only with my voice but quite as much with my eyes in every intimation that I make?</p></div>
+
+<div type="textpart" subtype="section" n="265"><p> Your excellent and worthy fellow-citizens,
+
+who alone of every race of men do not acknowledge Gaius as a god, appear to be courting even death by their recalcitrance. When I ordered a statue of Zeus to be set up in the temple they marshalled their whole population and issued forth from the city and country nominally to make a petition but actually to counteract my orders.”</p></div>
+
+<div type="textpart" subtype="section" n="266"><p> He was about to add
+
+further charges when Agrippa in deep distress turned
+
+<pb n="137"/>
+
+to every kind of colour, blood-red, dead pale and livid all in a moment.</p></div>
+
+<div type="textpart" subtype="section" n="267"><p> And by now from the crown of his
+
+head to his feet he was mastered by a fit of shuddering, every part and every limb convulsed with trembling and palpitation. With his nervous system relaxed and unbraced he was in a state of utter collapse, and finally thus paralysed was on the point of falling. But some of the bystanders caught him and, when ordered to bring him home, took him thither on a stretcher, quite unconscious in his coma of the mass of troubles which had fallen upon him.</p></div>
+
+<div type="textpart" subtype="section" n="268"><p> | Gaius indeed was still more exasperated
+
+and pushed his hatred of the nation still further. “If Agrippa,” he said, “who is my dearest and most familiar friend and bound to me by so many benefactions, is so under the dominion of its customs that he cannot even bear to hear a word against them and is prostrated almost to the point of death, what must we expect of the others who are not under the influence of any counter-acting force?” </p></div>
+
+<div type="textpart" subtype="section" n="269"><p>On the other hand Agrippa for the first
+
+day and the greater part of the next lay sunk in profound coma and knew nothing of what went on. But about the late afternoon he lifted his head slightly and just managed to open his eyes a little, weary as they were, and with their dim and misty vision cast a half look on those around him, unable as yet to distinguish clearly their several forms.</p></div>
+
+<div type="textpart" subtype="section" n="270"><p> Then again
+
+he dropped off into sleep and rested quietly in a healthier condition than before, as far as could be judged from his revival and the state of his body.</p></div>
+
+<div type="textpart" subtype="section" n="271"><p> Afterwards he woke up and asked, “Where am I
+
+now? At Gaius’s? is my lord also present?” They replied, “Cheer up, you are staying in your
+
+<pb n="139"/>
+
+own house; Gaius is not here;</p></div>
+
+<div type="textpart" subtype="section" n="272"><p> you got a good rest
+
+when you fell asleep; now turn round, lift yourself up, lean upon your elbow and recognize the company present.</p></div>
+
+<div type="textpart" subtype="section" n="273"><p> They are all your own people, those of your friends and freedmen and servants who most value you and are valued by you.“He was beginning
+
+to come to his sober senses and observed the sympathy shown by all, and when the physicians told most of them to leave the room so that they might restore their patient
+<note n="10.139.a">For the medical use of σωμάτιον for a sick man’s body under treatment see examples in L. &amp; S. revised.</note>
+  with unguents and suitable nourishment he said, </p></div>
+
+<div type="textpart" subtype="section" n="274"><p>“The idea of troubling yourselves
+
+to give me a more elaborate diet!
+<note n="10.139.b">πάνυ may be regarded as introducing a question, or an</note>
+  Isn’t it enough for me, ill-fated wretch that I am, to assuage hunger merely with the use of bare necessities carefully calculated to maintain economy?—and even these I would not have accepted save to insure the last remaining help which it is the dream of my heart to give to the unhappy nation.”</p></div>
+
+<div type="textpart" subtype="section" n="275"><p> Tearfully he
+
+forced himself to swallow some food without anything to season it, and even refused the offer of a mixed drink, and merely took a taste of water instead. “The belly,” he said, “poor creature, has been paid in full the debt which it claimed. What should I now do but make my petition to Gaius about the present situation?”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="276"><p><milestone unit="para"/><milestone unit="altchapter" n="36"/> He took a tablet and wrote to him as
+
+follows: “My opportunity, my master, of interceding with you face to face has been lost through fear and reverend shame, fear which could not confront the menace, reverence which struck me dumb before the greatness of your dignity. But
+
+
+<pb n="141"/>
+
+my handwriting will declare to you the petition which I put forward instead of the suppliant’s olive branch.</p></div>
+
+<div type="textpart" subtype="section" n="277"><p> All men, my emperor, have planted in
+
+them a passionate love of their native land and a high esteem for their own laws; and on this there is no need to instruct you, who love your native city as ardently as you honour your own customs. Every people is convinced of the excellence of its own institutions, even if they are not really excellent, for they judge them not so much by their reasoning as by the affection which they feel for them.</p></div>
+
+<div type="textpart" subtype="section" n="278"><p> I as you know am by birth a Jew, and my
+
+native city is Jerusalem in which is situated the sacred shrine of the most high God. It fell to me to have for my grandparents and ancestors kings, most of whom had the title of high priest, who considered their kingship inferior to the priesthood, holding that the office of high priest is as superior in excellence to that of king as God surpasses men. For the office of one is to worship God, of the other to have charge of men.</p></div>
+
+<div type="textpart" subtype="section" n="279"><p> As my lot is
+
+cast in such a nation, city and temple I beseech you for them all. For the nation, that it may not get a reputation the reverse of the truth, when from the very first it has been so piously and religiously disposed to all your house.</p></div>
+
+<div type="textpart" subtype="section" n="280"><p> For in all
+
+matters in which piety is enjoined and permitted under the laws it stood not a whit behind any other either in Asia or in Europe, in its prayers, its erection of votive offerings, its number of sacrifices, not only of those offered at general national feasts but in the perpetual and daily rites through which is declared their piety, not so much with mouth and tongue as in intentions formed in the secrecy of the soul by those
+
+<pb n="143"/>
+
+who do not tell you that they love their Caesar but love him in very truth.</p></div>
+
+<div type="textpart" subtype="section" n="281"><p> | As for the holy
+
+city, I must say what befits me to say. While she, as I have said, is my native city she is also the mother city not of one country Judaea but of most of the others in virtue of the colonies sent out at divers times to the neighbouring lands Egypt, Phoenicia, the part of Syria called the Hollow and the rest as well and the lands lying far apart, Pamphylia, Cilicia, most of Asia up to Bithynia and the corners of Pontus, similarly also into Europe, Thessaly, Boeotia, Macedonia, Aetolia, Attica, Argos, Corinth and most of the best parts of Peloponnese.</p></div>
+
+<div type="textpart" subtype="section" n="282"><p> And not only are
+
+the mainlands full of Jewish colonies but also the most highly esteemed of the islands Euboea, Cyprus, Crete. I say nothing of the countries beyond the Euphrates, for except for a small part they all, Babylon and of the other satrapies those where the land within their confines
+<note n="10.143.a">Or “the land round them,” the satrapy being identified with its capital.</note>
+  is highly fertile, have Jewish inhabitants.</p></div>
+
+<div type="textpart" subtype="section" n="283"><p> So that if my own home-city
+
+is granted a share of your goodwill the benefit extends not to one city but to myriads of the others situated in every region of the inhabited world whether in Europe or in Asia or in Libya, whether in the mainlands or on the islands, whether it be seaboard or inland.</p></div>
+
+<div type="textpart" subtype="section" n="284"><p> It well befits the magnitude of
+
+your great good fortune that by benefiting one city you should benefit myriads of others also so that through every part of the world your glory should be celebrated and your praises mingled with thanksgiving resound.</p></div>
+
+<div type="textpart" subtype="section" n="285"><p> Some of your friends have had their
+
+homelands as a whole deemed worthy by you of
+
+
+<pb n="143"/>
+
+who do not tell you that they love their Caesar but love him in very truth.</p></div>
+
+<div type="textpart" subtype="section" n="281"><p> | As for the holy
+
+city, I must say what befits me to say. While she, as I have said, is my native city she is also the mother city not of one country Judaea but of most of the others in virtue of the colonies sent out at divers times to the neighbouring lands Egypt, Phoenicia, the part of Syria called the Hollow and the rest as well and the lands lying far apart, Pamphylia, Cilicia, most of Asia up to Bithynia and the corners of Pontus, similarly also into Europe, Thessaly, Boeotia, Macedonia, Aetolia, Attica, Argos, Corinth and most of the best parts of Peloponnese.</p></div>
+
+<div type="textpart" subtype="section" n="282"><p> And not only are
+
+the mainlands full of Jewish colonies but also the most highly esteemed of the islands Euboea, Cyprus, Crete. I say nothing of the countries beyond the Euphrates, for except for a small part they all, Babylon and of the other satrapies those where the land within their confines
+<note n="10.145.a">Or “the land round them,” the satrapy being identified with its capital.</note>
+  is highly fertile, have Jewish inhabitants.</p></div>
+
+<div type="textpart" subtype="section" n="283"><p> So that if my own home-city
+
+is granted a share of your goodwill the benefit extends not to one city but to myriads of the others situated in every region of the inhabited world whether in Europe or in Asia or in Libya, whether in the mainlands or on the islands, whether it be seaboard or inland.</p></div>
+
+<div type="textpart" subtype="section" n="284"><p> It well befits the magnitude of
+
+your great good fortune that by benefiting one city you should benefit myriads of others also so that through every part of the world your glory should be celebrated and your praises mingled with thanksgiving resound.</p></div>
+
+<div type="textpart" subtype="section" n="285"><p> Some of your friends have had their
+
+homelands as a whole deemed worthy by you of
+
+
+<pb n="147"/>
+
+men’s hands, because it is the sanctuary of the true God. For the works of painters and modellers are representations of gods perceived by sense but to paint or mould a likeness of the invisible was held by our ancestors to be against their religion.</p></div>
+
+<div type="textpart" subtype="section" n="291"><p> Your
+
+grandfather Agrippa visited and paid honour to the temple, and so did Augustus by the letters in which he ordered the first fruits to be sent from every quarter and by instituting the perpetual sacrifice.</p></div>
+
+<div type="textpart" subtype="section" n="292"><p> Your great-grandmother too . . . Thus no one, Greek or
+
+non-Greek, no satrap, no king, no mortal enemy, no faction, no war, no storming or sacking of the city, nor any existing thing ever brought about so great a violation of the temple as the setting up in it of an image or statue or any hand-wrought object for worship.</p></div>
+
+<div type="textpart" subtype="section" n="293"><p> For even if they were ill-disposed and
+
+hostile to the inhabitants of the land yet an instinct of reverence or fear warned them against breaking down any of the customs observed from the first in honour of the Maker and Father of all, for they knew that it was from these and like actions that the irreparable calamities of divine visitations spring. Therefore they took good care not to sow the seed of impiety, lest they should be compelled to reap its fruits which bring utter destruction.
+
+<pb n="149"/>
+
+</p></div>
+
+<div type="textpart" subtype="section" n="294"><p><milestone unit="para"/><milestone unit="altchapter" n="37"/> “But why should I cite the testimony of
+
+strangers when I can set before you that of many of your closest kinsmen? For instance your maternal grandfather M. Agrippa, being in Judaea when Herod my grandfather was king of the country, saw fit to come up from the coast to the capital situated in the centre of the land.</p></div>
+
+<div type="textpart" subtype="section" n="295"><p> But when he surveyed the temple
+
+and the rich array of the priests and the worship paid by the native population he was filled with wonder thinking that he had seen something to be profoundly reverenced, something greater than words could describe. His discourse to those of his friends who were there with him consisted of nothing else but praise of the sanctuary and all that pertained to it.</p></div>
+
+<div type="textpart" subtype="section" n="296"><p> Thus throughout the days which he spent in the
+
+city out of courtesy to Herod he resorted to the precinct, delighting himself with the spectacle both of the ornate structure and of the sacrifices and the ritual observed in the services and the majestic aspect of the high priest when arrayed in the sacred vestments and conducting the holy rites.</p></div>
+
+<div type="textpart" subtype="section" n="297"><p> After decking
+
+the temple with all the dedicatory gifts which the law made permissible and benefiting the inhabitants by granting every favour which he could without causing mischief
+<note n="10.149.a">Meaning perhaps such as would not be offensive to Herod or be felt to be encroaching on his authority.</note>
+  and paying many compliments to Herod and receiving a host of the same from him, he was escorted to the harbours not by one city only but by the whole population of the country amid showers of posies which expressed their admiration of his piety.</p></div>
+
+<div type="textpart" subtype="section" n="298"><p> | What of your other grandfather
+
+Tiberius Caesar? Did he not evidently adopt the same policy? At any rate in the twenty-three years during which he was emperor he maintained the tradition observed in the temple from distant ages and
+
+<pb n="151"/>
+
+destroyed or disturbed no part of it.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="299"><p><milestone unit="para"/><milestone unit="altchapter" n="38"/> I
+
+can quote in addition one act showing a fine spirit.
+<note n="10.151.a">Or perhaps “showing his public spirit,” as φιλοτιμία is sometimes used of the munificence of rulers (see Lexicon). L. &amp; S. revised strangely cite this passage in the sense of “an</note>
+  For though I experienced many ills when he was alive, truth is dear, and is held in honour by you.
+<note n="10.151.b">Or perhaps “reflects honour on you.”</note>
+  One of his lieutenants was Pilate, who was appointed to govern Judaea. He, not so much to honour Tiberius as to annoy the multitude, dedicated in Herod’s palace in the holy city some shields coated with gold. They had no image work traced on them nor anything else forbidden by the law apart from the barest inscription stating two facts, the name of the person who made the dedication and of him in whose honour it was made.</p></div>
+
+<div type="textpart" subtype="section" n="300"><p> But when the multitude understood
+
+the matter which had by now become a subject of common talk, having put at their head the king’s four sons,
+<note n="10.151.c">For the account in Josephus <hi rend="italic">cf. Bell. Jud.</hi> ii. 169 ff., vol. ii. p. 389 L.C.L.</note>
+  who in dignity and good fortune were not inferior to a king, and his other descendants and the persons of authority in their own body, they appealed to Pilate to redress the infringement of their traditions caused by the shields and not to disturb the customs which throughout all the preceding ages had been safeguarded without disturbance by kings and by emperors.</p></div>
+
+<div type="textpart" subtype="section" n="301"><p> When he, naturally inflexible, a blend
+
+of self-will and relentlessness, stubbornly refused they clamoured, ‘Do not arouse sedition, do not make war, do not destroy the peace; you do not honour the emperor by dishonouring ancient laws. Do not take Tiberius as your pretext for outraging the nation; he does not wish any of our customs to be overthrown. If you say that he does, produce yourself an order or a letter or something of the kind so
+
+
+
+
+<pb n="153"/>
+
+that we may cease to pester you and having chosen our envoys may petition our lord.’ </p></div>
+
+<div type="textpart" subtype="section" n="302"><p>It was this final
+
+
+point which particularly exasperated him, for he feared that if they actually sent an embassy they would also expose the rest of his conduct as governor by stating in full the briberies, the insults, the robberies, the outrages and wanton injuries, the executions without trial constantly repeated, the ceaseless and supremely grievous cruelty.</p></div>
+
+<div type="textpart" subtype="section" n="303"><p> So with all his vindictiveness
+
+and furious temper, he was in a difficult position. He had not the courage to take down what had been dedicated nor did he wish to do anything which would please his subjects. At the same time he knew full well the constant policy of Tiberius in these matters. The magnates saw this and understanding that he had repented of his action but did not wish to appear penitent sent letters of very earnest supplication to Tiberius.</p></div>
+
+<div type="textpart" subtype="section" n="304"><p> When he had read
+
+them through what language he used about Pilate, what threats he made! The violence of his anger, though he was not easily roused to anger, it is needless to describe since the facts speak for themselves.</p></div>
+
+<div type="textpart" subtype="section" n="305"><p> For at once without even postponing it to
+
+the morrow he wrote to Pilate with a host of reproaches and rebukes for his audacious violation of precedent and bade him at once take down the shields and have them transferred from the capital to Caesarea on the coast surnamed Augusta
+<note n="10.153.a">So in Jos. <hi rend="italic">Ant.</hi> xvi. 136, though the epithet Σεβαστή does not appear elsewhere. It is usually distinguished from</note>
+  after your great-grandfather, to be set up in the temple of Augustus, and so they were. So both objects were safeguarded, the honour paid to the emperor and the policy observed from of old in dealing
+
+
+<pb n="155"/>
+
+with the city.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="306"><p><milestone unit="para"/><milestone unit="altchapter" n="39"/> Now at that time it was
+
+shields on which no likeness had been painted; now it is a colossal statue. Then too the installation was in the house of the governors; now they say it is to be in the inmost part of the temple in the special sanctuary itself, into which the Grand Priest enters once a year only on the Fast as it is called, to offer incense and to pray according to ancestral practice for a full supply of blessings and prosperity and peace for all mankind.</p></div>
+
+<div type="textpart" subtype="section" n="307"><p> And if any priest, to
+
+say nothing of the other Jews, and not merely one of the lowest priests but of those who are ranked directly below the chief, goes in either by himself or with the High Priest, and further even if the High Priest enters on two days in the year or thrice or four times on the same day death without appeal is his doom.</p></div>
+
+<div type="textpart" subtype="section" n="308"><p> So greatly careful was the law-giver to guard
+
+the inmost sanctuary, the one and only place which he wished to keep preserved untrodden and untouched. How many deaths think you would those who have been trained to holiness in these matters willingly endure if they should see the statue imported thither? I believe that they would slaughter their whole families, women and children alike, and finally immolate themselves upon the corpses of their kin. This Tiberius knew.</p></div>
+
+<div type="textpart" subtype="section" n="309"><p> | But what of
+
+your greatgrandfather the best of the emperors that ever were to this day, he who first received the title of Augustus for his virtue and good fortune, who disseminated peace everywhere over sea and land to the ends of the world?</p></div>
+
+<div type="textpart" subtype="section" n="310"><p> Did he not, hearing
+
+by report the story of the temple and that it had no work of man’s hands, a visible effigy of an invisible being, erected in it, marvel and pay it honour?
+
+<pb n="157"/>
+For he had not taken a mere sip of philosophy but had feasted on it liberally and continued so to feast almost every day, partly by the memories of the lessons which his mind had conned from its earlier instruction in philosophy, partly by intercourse with the learned who from time to time were in his company. For in the gatherings at his table most of the time was assigned to listening to men of culture
+<note n="10.157.a">This might mean “subjects of culture,” but cf. in <hi rend="italic">De Mut.</hi> 33 and <hi rend="italic">Quod Omn. Prob.</hi> 125, where we have οἱ ἀπὸ παιδείας.</note>
+  so that not only the body but also the soul might be nourished by the food proper to each.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="311"><p><milestone unit="para"/><milestone unit="altchapter" n="40"/> While I have
+
+a great abundance of evidence to show the wishes of your great-grandfather Augustus I will content myself with two examples. The first is a letter which he sent to the governors of the provinces in Asia, as he had learnt that the sacred first-fruits were treated with disrespect. He ordered that the Jews alone should be permitted by them to assemble in synagogues.</p></div>
+
+<div type="textpart" subtype="section" n="312"><p> These gatherings, he said, were not
+
+based on drunkenness and carousing to promote conspiracy and so to do grave injury to the cause of peace, but were schools of temperance and justice where men while practising virtue subscribed the annual first-fruits to pay for the sacrifices which they offer and commissioned sacred envoys to take them to the temple in Jerusalem.</p></div>
+
+<div type="textpart" subtype="section" n="313"><p> Then he commanded that no
+
+one should hinder the Jews from meeting or subscribing or sending envoys to Jerusalem according to their ancestral practice. For these were certainly the substance if not the actual words of his instructions.</p></div>
+
+<div type="textpart" subtype="section" n="314"><p> But
+
+there is one letter which I subjoin here to convince you, my lord and master, sent by Gaius Norbanus Flaccus
+
+
+<pb n="159"/>
+
+declaring what Caesar had written to him. Here is a transcript of this letter.</p></div>
+
+<div type="textpart" subtype="section" n="315"><p> ‘Gaius Norbanus Flaccus proconsul
+
+to the magistrates of the Ephesians, greeting. Caesar has written to me that the Jews, wherever they may be, regularly according to their old peculiar custom, make a rule of meeting together and subscribing money which they send to Jerusalem. He does not wish them to be hindered from doing this.</p></div>
+
+<div type="textpart" subtype="section" n="316"><p> I therefore write to you to let you know that this is what he orders to be done.’ Is not this a clear proof, my
+
+emperor, of the principles which he followed as to the honour due to our temple? He did not think that the form generally adopted about meetings should be applied to do away with the assemblages of the Jews to which they resort for collection of the first-fruits and their other religious observances.</p></div>
+
+<div type="textpart" subtype="section" n="317"><p> Another
+
+example no less cogent than this shows very clearly the will of Augustus. He gave orders for a continuation of whole burnt offerings every day to the Most High God to be charged to his own purse. These are carried out to this day. Two lambs and a bull are the victims with which he added lustre to the altar, knowing well that there is no image there openly or secretly set up.</p></div>
+
+<div type="textpart" subtype="section" n="318"><p> Indeed this great ruler, this philosopher
+
+second to none, reasoned in his mind that within the precincts of earth there must needs be a special place assigned as sacred to the invisible God which would contain no visible image, a place to give us participation in good hopes and enjoyment of perfect blessings.</p></div>
+
+<div type="textpart" subtype="section" n="319"><p> | Under such an instructor in
+
+piety your great-grandmother Julia Augusta adorned the temple with golden vials and libation bowls and a multitude of other sumptuous offerings. What made
+
+
+
+<pb n="161"/>
+
+her too do this, as there was no image there? For the judgements of women as a rule are weaker and do not apprehend any mental conception apart from what their senses perceive.</p></div>
+
+<div type="textpart" subtype="section" n="320"><p> But she excelled all her
+
+sex in this as in everything else, for the purity of the training she received supplementing nature and practice
+<note n="10.161.a">The exact meaning, as well as the reading, see note 1, is uncertain. The one thing certain is that we have an allusion to the Educational Trinity, Nature, Instruction and Practice, which occurs so frequently in Philo, particularly in its spiritual application. See particularly Introd. to vol. vi. pp. x f. and vol. viii. p. 453. Mangey’s translation “ex eruditione pura quam natura et studio comparaverat,” is, I think, impossible.</note>
+  gave virility to her reasoning power, which gained such clearness of vision that it apprehended the things of mind better than the things of sense and held the latter to be shadows of the former.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="321"><p><milestone unit="para"/><milestone unit="altchapter" n="41"/> “So then, my lord, having such patterns of
+
+the gentler line of treatment, patterns so closely connected by kinship to yourself, the seed-bed from which you sprang
+<note n="10.161.b">Or perhaps “most closely akin to those from whom you sprang,” τούτων being omitted before ἀφ᾿ ὧν. <hi rend="italic">Cf. Quod Omn. Prob.</hi> 104 and 123.</note>
+  and grew up and rose to such greatness, maintain what each of them also maintained.</p></div>
+
+<div type="textpart" subtype="section" n="322"><p> The cause of the laws is pleaded by emperors to
+
+emperor, by Augusti to an Augustus, by grandparents and ancestors to their descendant, by several to one, and you may almost hear them say,’ Do not destroy the institutions which under the shelter of our wills were safeguarded to this day, for even if no sinister result were encountered through their
+
+
+
+<pb n="163"/>
+
+overthrow, still the uncertainty of the future cannot entirely fail to strike fear into the most courageous unless he holds things divine in contempt.’
+</p></div>
+
+<div type="textpart" subtype="section" n="323"><p>If I should
+
+recount the benefits conferred on myself by you, the day will be too short, and besides it is not suitable to treat a primary task as an appendage to another subject. And indeed even if I hold my peace the facts themselves break into speech and cry aloud.</p></div>
+
+<div type="textpart" subtype="section" n="324"><p> You released me bound fast in iron fetters, who does
+
+not know it? but do not clamp me, my emperor, with still more grievous fetters, for those which were then unbound encompassed but a part of my body, those which I see before me are of the soul and must press hard on every part of its whole being.</p></div>
+
+<div type="textpart" subtype="section" n="325"><p> You thrust
+
+away the ever imminent terror of death, you kindled fresh life in me when dead with fear, you awakened me as though I were born anew. Maintain your bounty, my emperor, that your Agrippa may not bid farewell to life, for it will seem as though my release was not given to save me but that a victim to heavier misfortunes I should come to a more notorious end.</p></div>
+
+<div type="textpart" subtype="section" n="326"><p> The greatest gift of fortune that man can possess
+
+you granted to me, a kingdom, in the past of one country, later of another and a greater when you added Trachonitis as it is called and Galilee. Do not after granting me favours in super-abundance take from me bare necessities, and after restoring me to light of fullest radiance cast me anew into deepest darkness.</p></div>
+
+<div type="textpart" subtype="section" n="327"><p> I renounce all that brilliance, I do not
+
+beg to keep my shortlived good fortune.
+<note n="10.163.a">Or “I do not deprecate my recent (ill) fortune.” So Mangey. This is certainly more in accordance with the</note>
+  I exchange all for one thing only, that the ancestral institutions
+
+
+<pb n="165"/>
+
+be not disturbed. For what would be my reputation among either my compatriots or all other men? Either I must seem a traitor to my people or no longer be counted your friend as I have been; there is no other alternative, and what greater ill could befall me than these?</p></div>
+
+<div type="textpart" subtype="section" n="328"><p> For if I still keep my place
+
+in the list of your companions I shall lie under an imputation of treachery, unless my homeland is guarded unscathed from every kind of mischief and the temple is untouched. For you great potentates safeguard the interests of your companions and those who take refuge with you by manifestations of your absolute power.</p></div>
+
+<div type="textpart" subtype="section" n="329"><p>
+<note n="10.165.a">Or “take shelter under the manifestations.”</note>
+  But if your mind harbour any
+
+hostility to me, do not imprison me as Tiberius did, rather do away with any idea of future imprisonment and at the same time bid me take myself out of the way forthwith. For of what value would life be to me whose one hope of salvation lay in your goodwill?”
+
+</p></div>
+
+<div type="textpart" subtype="section" n="330"><p><milestone unit="para"/><milestone unit="altchapter" n="42"/> Having written and sealed this letter he
+
+sent it to Gaius and shut himself up in his house where he remained greatly agitated and distraught, particularly by anxiety about the turn events might take. For the danger which had fallen upon him was no trifle but one which involved the expulsion, enslavement, and wholesale spoliation of the Jews who dwelt not only in the Holy Land but everywhere through the habitable world.</p></div>
+
+<div type="textpart" subtype="section" n="331"><p> Gaius received the
+
+letter and, as he read it, its every sentiment filled him with resentment at the ill-success of his project, yet at the same time he began to bend under the claims for justice coupled with supplication. And from one point of view he praised Agrippa and blamed him from another.</p></div>
+
+<div type="textpart" subtype="section" n="332"><p> He charged him with over-complaisance
+
+
+
+<pb n="167"/>
+
+to his compatriots, who stood alone among mankind in their recalcitrance and refusal to accept his deification. He praised him for disguising and concealing nothing of his real self and this he said proved that he had the characteristics of the truly free and noble.</p></div>
+
+<div type="textpart" subtype="section" n="333"><p> Thus to all appearance mollified he
+
+thought good to give kindly answers to Agrippa’s request, granting him the chief and principal thing, that the installation should not now take place, and he ordered letters to be sent to Publius Petronius, governor of Syria, that he should forbear to take further steps to violate the tradition of the temple of the Jews.
+</p></div>
+
+<div type="textpart" subtype="section" n="334"><p><milestone unit="para"/>Nevertheless the concession thus granted by him
+
+was not unmixed but had blended with it a very grave cause for alarm. For he added an injunction that if any persons in neighbouring regions outside the capital who wished to set up altars or temples or any images and statues in honour of him or his were prevented from so doing, Petronius was to punish the obstructors at once or send them up to him.</p></div>
+
+<div type="textpart" subtype="section" n="335"><p> Now this was nothing else than a starting point
+
+for seditions and civil conflicts and an indirect cancelling of what appeared to be a straightforward gift on his part. For it was to be expected that one party, through hostility to the Jews rather than reverence for Gaius, would fill the whole country with such installations, and the others seeing with their own eyes their ancestral institutions overthrown would not hold their hands even if they were the mildest of men. Then Gaius while awarding the severest punishment to those who had been provoked to violence would again order the statue to be set up in the temple.</p></div>
+
+<div type="textpart" subtype="section" n="336"><p> But by a dispensation
+
+
+
+<pb n="169"/>
+
+of the providence and watchful care of God, who surveys and presides over all things with justice, not a single person among the neighbours gave any provocation to violence, so that no occasion arose which would entail a calamity passing beyond a moderate censure and against which no prayers would avail. But what was the use of this?</p></div>
+
+<div type="textpart" subtype="section" n="337"><p> one might
+
+say, for if they remained quiet, Gaius did not. He was already repenting of his concession and resuscitating his recent desire. He ordered another bronze statue of colossal size coated with gold to be constructed in Rome. The one in Sidon he forbore from moving, for he did not wish to perturb the multitude by moving it, but intended when they were tranquil and freed from suspicion to have the other conveyed very quietly and secretly on shipboard and suddenly erected unobserved by the mass of the population.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="338"><p><milestone unit="para"/><milestone unit="altchapter" n="43"/> This he intended to
+
+do while coasting along on his voyage to Egypt. For he was possessed by an extraordinary and passionate love for Alexandria. His heart was entirely set upon visiting it and on his arrival staying there for a very considerable time. For he thought this city was unique in that it had both given birth to and would foster the idea of godship which occupied his dreams, and that its vast size and the world-wide value of its admirable situation
+<note n="10.169.a">More literally, “admirably situated for commanding or serving the habitable world.” So rather than “in the finest situation in the world” (as Mangey), which would need καλλίστῳ. Thus Stephanus quotes from Lucian (Πλοῖον 15) ἡ οἰκία ἐν καλῷ τῆς πόλεως οἰκοδομηθεῖσα, but more parallel to the use here is Xen. <hi rend="italic">Hell.</hi> ix. 2. 9 κεῖσθαι τὴν Κερκύραν ἐν καλῷ μὲν τοῦ Κορινθιακοῦ κόλπου καὶ τῶν πόλεων αἳ ἐπὶ τοῦτον καθήκουσι, ἐν καλῷ δὲ τοῦ τὴν Λακωνικὴν χώραν βλάπτειν, ἐν</note>
+  had made it a pattern to other cities of the worship due to him, since it is true both of individual men and of whole populations that the inferior try to emulate the qualities of the great men and cities respectively.
+
+<pb n="171"/>
+</p></div>
+
+<div type="textpart" subtype="section" n="339"><p><milestone unit="para"/>|
+<note n="10.171.a">Here the description of Gaius’s conduct, interrupted by the parenthetical section on Alexandria, is resumed. The arrangement by which a new chapter is begun at § 338 is unfortunate.</note>
+ In fact in all other matters he was
+
+naturally untrustworthy, so that if he did commit any kind action he immediately repented of it and sought some means of cancelling it, thus causing increased affliction and injury.</p></div>
+
+<div type="textpart" subtype="section" n="340"><p> Here is an instance of this
+
+sort of thing. He released some prisoners for no reason, and then by imprisoning them again imposed on them a suffering heavier than the former through the bitter disappointment.</p></div>
+
+<div type="textpart" subtype="section" n="341"><p> Again he sentenced
+
+others to banishment when they expected death, not because their conscience told them that their action deserved death or even any minor penalty at all, but because in view of the supreme cruelty of their judge they did not expect to get off unpunished. To these banishment was a godsend as good as repatriation, since they felt that they had escaped from the extremity of danger which threatened their lives.</p></div>
+
+<div type="textpart" subtype="section" n="342"><p> But no long time had elapsed when, though no fresh
+
+occasion had been given, he sent some of his soldiers on duty to deal with them, and when these men of high excellence and nobility were leading their lives on the islands as though they were their native homes and bearing their misfortunes with the spirit of the favourites of fortune, he proceeded to slaughter them in a body, a blow which brought misery as heartrending as it was unexpected into the households of the great in Rome.</p></div>
+
+<div type="textpart" subtype="section" n="343"><p> So too if he gave a present of money
+
+to some he did not treat it as a loan and exact interest and compound interest, but as stolen property entailing very heavy loss for those who took it. For it was not enough for the poor wretches to repay the sums given to them, but they had to contribute as well their whole properties which they inherited from their parents or their relations and friends or
+
+<pb n="173"/>
+
+by choosing a business career acquired through their own efforts.</p></div>
+
+<div type="textpart" subtype="section" n="344"><p> Dignitaries who considered themselves
+
+particularly distinguished suffered in another way which served his pleasure under the guise of friendship. His visits to them made without discretion, or order, or warning, cost them huge sums as did also the entertainments which they gave him. For they used to spend their whole substance on providing a single dinner and so run into debt. So vast was the lavish expenditure.</p></div>
+
+<div type="textpart" subtype="section" n="345"><p> And so some came to the point
+
+of deprecating the favours bestowed by him, thinking that they were no benefit but a snare to trap them into losses more than they could bear.</p></div>
+
+<div type="textpart" subtype="section" n="346"><p> This great
+
+inconstancy of conduct affected all, but particularly the Jewish race. Having conceived a violent enmity to them he took possession of the synagogues in the other cities after beginning with those of Alexandria, by filling them with images and statues of himself in bodily form. For by permitting others to instal them he virtually did it himself. The temple in the Holy City, which alone was left untouched being judged to have all rights of sanctuary, he was proceeding to convert and transmogrify into a temple of his own to bear the name of Gaius, “the new Zeus made manifest.”</p></div>
+
+<div type="textpart" subtype="section" n="347"><p>
+<note n="10.173.a">i.e. now seen in bodily form. So coins of Antiochus Epiphanes bear the inscription Ἀντιόχου θεοῦ ἐπιφανοῦς. Mangey’s suggestion that ἐπιφανής in these cases carries the</note>
+  | What is this that
+
+you say? do you a mere man seek to annex also ether and heaven, not satisfied with the sum of so many mainlands, islands, nations, regions, over which you assumed sovereignty, and do you deem God worthy of nothing in our world here below, no country, no city, but even this tiny area hallowed for Him and sanctified by oracles and divine messages you propose
+
+
+<pb n="175"/>
+
+to take away, so that in the circumference of this great earth no trace or reminder should be left of the reverence and honour due to the truly existing veritable God?</p></div>
+
+<div type="textpart" subtype="section" n="348"><p> Fine hopes are these which you
+
+picture for the human race. Know you not that you are opening the springs of a flood of evil, in these strange and monstrous actions which it is unlawful either to do or conceive?
+
+</p></div>
+
+<div type="textpart" subtype="section" n="349"><p><milestone unit="para"/><milestone unit="altchapter" n="44"/> It is right that I should record also both what
+
+we saw and what we heard when we were summoned to take a part in the contention about our citizenship.
+<note n="10.175.a">For Josephus’s account of this interview see <hi rend="italic">Ant.</hi> xviii. 8. 1.</note>
+  The moment we entered we knew from his look and movements that we had come into the presence not of a judge but of an accuser more hostile than those arrayed against us.</p></div>
+
+<div type="textpart" subtype="section" n="350"><p> For this is what a judge would
+
+do: he would sit with assessors selected for their high merit, as the case under examination was of the greatest importance, since nothing had been heard of it for four centuries and it was now for the first time brought up against the many myriads of the Alexandrian Jews
+<note n="10.175.b">See Introd. pp. xxvi ff.</note>
+ : the opposing parties would stand on either side of him with the advocates who would speak for them, and he would listen in turn to the accusation and the defence for the space of water-time allowed! then he would rise and consult with his assessors as to the verdict which in full accordance with justice they would publicly declare. The actual proceedings showed a ruthless tyrant with a menacing frown on his despotic brow.</p></div>
+
+<div type="textpart" subtype="section" n="351"><p> Instead
+
+of doing anything that I have just mentioned he sent for the stewards of the two gardens belonging to Maecenas and Lamia near to each other and the
+
+
+<pb n="177"/>
+
+city, in which gardens he had been spending three or four days. For this was the stage where the tragedy which was aimed against our whole nation was to be performed with us who were present as the immediate victims. He ordered them to leave all the villas completely open as he wished to make a careful survey of each of them.</p></div>
+
+<div type="textpart" subtype="section" n="352"><p> When we were
+
+brought into his presence the moment we saw him we bowed our heads to the ground with all respect and timidity and saluted him addressing him as Emperor Augustus. The mildness and kindness with which he replied to our greeting was such that we gave up not only our case but our lives for lost!</p></div>
+
+<div type="textpart" subtype="section" n="353"><p> In a sneering, snarling way he said, “Are you
+
+the god-haters who do not believe me to be a god, a god acknowledged among all the other nations but not to be named by you?” And stretching out his hands towards heaven he gave utterance to an invocatory address which it was a sin even to listen to, much more to reproduce in the actual words.</p></div>
+
+<div type="textpart" subtype="section" n="354"><p> How
+
+vast was the delight which at once filled the envoys on the other side! They thought that Gaius’s first utterance had secured the success of their mission. They gesticulated, they danced about and invoked blessings on him under the names of all the gods.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="355"><p><milestone unit="para"/><milestone unit="altchapter" n="45"/> Seeing that he was delighted at being addressed
+
+as of more than human nature the virulent sycophant Isidorus said, “My lord, you will hate still more these people here present, and those of whose nation they are, if you understand their malevolence and impiety towards you. For when all men were offering sacrifices of thanksgiving for your preservation they alone could not bear the thought of sacrificing. And when I say ‘they’ I include also
+
+<pb n="179"/>
+
+the other Jews.”</p></div>
+
+<div type="textpart" subtype="section" n="356"><p> We cried out with one accord,
+
+“Lord Gaius, we are slandered;</p></div>
+
+<div type="textpart" subtype="section" n="357"><p> we did sacrifice and sacrifice hecatombs too, and we did not just pour the blood upon the altar and then take the flesh home to feast and regale ourselves with it as some do, but we gave the victims to the sacred fire to be entirely consumed, and we have done this not once but thrice already, the first time at your accession to the sovereignty, the second when you escaped the severe sickness which all the habitable world suffered with you, the third as a prayer of hope for victory in Germany”
+<note n="10.179.a">As sacrifices could only be offered in Jerusalem, they must mean by “we” the Jewish nation, or else (less probably) that the contribution of money which they sent there were</note>
+  “All right,” he replied, “that is true,
+
+you have sacrificed, but to another, even if it was for me; what good is it then? For you have not sacrificed to me.” When we heard these words following on his first remark we were seized by a profound terror which spread till it became visible in the countenance.</p></div>
+
+<div type="textpart" subtype="section" n="358"><p> While he was saying this he was going on with his
+
+survey of the houses, the different chambers, men’s or women’s, the ground floors, the upper floors, all of them, and some he censured as defective in structure, and for others he made his own plans and gave orders that they should be more magnificent.</p></div>
+
+<div type="textpart" subtype="section" n="359"><p> Then driven
+
+along we followed him up and down mocked and reviled by our adversaries, as they do in the mimes at the theatres. For indeed the business was a sort of mime; the judge had taken on the role of accuser, the accusers the rôle of a bad judge who had eyes only for his enmity and not for the actual truth.</p></div>
+
+<div type="textpart" subtype="section" n="360"><p> But
+
+when the person on trial is accused by a judge and
+
+
+<pb n="181"/>
+
+that one of such eminence, he must needs hold his peace. For silence too may in a way serve as a defence, particularly to us
+<note n="10.181.a">The imperfects ἐπεζήτει and ἐπεπόθει show that we have here a sudden transition from the general to the particular. We have had an exact parallel in <hi rend="italic">Flaccus</hi> 118.</note>
+  who could not answer any of the points which he was investigating and wished to press, because our customs and laws muzzled the tongue and closed and stitched up the mouth.</p></div>
+
+<div type="textpart" subtype="section" n="361"><p> But
+
+after giving some of his orders about the buildings he put to us this grave and momentous question, “Why do you refuse to eat pork?” The question was greeted by another outburst of laughter from some of our opponents because they were delighted, while with others it was a studied attempt to flatter him, intended to make the remark seem witty and sprightly. The laughter was so great that some of the servants following him were annoyed at it as showing disrespect for the emperor, with whom even a tempered smile is unsafe except for quite intimate friends.</p></div>
+
+<div type="textpart" subtype="section" n="362"><p> We answered, “Different people have different
+
+customs and the use of some things is forbidden to us as others are to our opponents.” Then someone said, “Yes, just as many don’t eat lamb which is so easily obtainable,” whereupon Gaius laughed and said, “Quite right too, for it’s not nice.” Under such befooling and reviling we were helpless.</p></div>
+
+<div type="textpart" subtype="section" n="363"><p>
+
+Then tardily going on a different tack
+<note n="10.181.b">Or “with a sarcastic air.”</note>
+  he said, “We want to hear what claims you make about your citizenship.”</p></div>
+
+<div type="textpart" subtype="section" n="364"><p> We started to speak and give him the
+
+information, but when he had had a taste of our pleading and recognized that it was by no means contemptible, he cut short our earlier points before we could bring in the stronger ones, and dashed at high speed into the large room of the house, and walked round it and ordered the windows all round
+
+
+<pb n="183"/>
+
+to be restored with transparent stones, which in the same way as white glass do not obstruct the light but keep off the wind and the scorching sun.</p></div>
+
+<div type="textpart" subtype="section" n="365"><p> Then
+
+he advanced in a leisurely way and said in a more moderate tone, “What is it that you say?” and when we began on the points which came next in the thread of our argument he ran again into another room and ordered original pictures to be put up there.</p></div>
+
+<div type="textpart" subtype="section" n="366"><p> So with the statement of our case thus mangled and
+
+disjointed, one may almost say cut short and crushed to pieces, we gave up, for there was no strength left in us, and since we all the time expected nothing else but death, in our deep distress our souls had passed from within us and went forth to supplicate the true God that he should restrain the wrath of the pretender to that name.</p></div>
+
+<div type="textpart" subtype="section" n="367"><p> And God taking compassion on
+
+us turned his spirit to mercy; he relaxed into a softer mood and said just this, “They seem to me to be people unfortunate rather than wicked and to be foolish in refusing to believe that I have got the nature of a god,” and saying this he went off bidding us be gone also.
+
+</p></div>
+
+<div type="textpart" subtype="section" n="368"><p><milestone unit="para"/><milestone unit="altchapter" n="46"/> Such was this combination of a theatre
+
+and a prison in place of a tribunal, theatre-like in the cackling of their hisses, their mockery and unbounded jeering, prison-like in the strokes inflicted on our flesh, the torture, the racking of the whole soul through the blasphemies against God and menaces launched upon us by this mighty despot, who resented the affront not to another, since then he might easily have changed his mind, but to himself and his desire of the deification to which he supposed the Jews alone did not assent and could not pledge themselves to subscribe.</p></div>
+
+<div type="textpart" subtype="section" n="369"><p> From this prison we had
+
+
+
+<pb n="185"/>
+
+escaped and were just able to breathe again, not because we clung to life and cringed from death, which we would gladly have chosen as being immortality, if thereby we were going to get restoration of our institutions, but because we knew that we should prove to have thrown ourselves away for no useful purpose
+<note n="10.185.a">See <hi rend="italic">Flacc.</hi> 12 and note.</note>
+  and to our great discredit. For whatever ambassadors suffer recoils upon those who sent them.</p></div>
+
+<div type="textpart" subtype="section" n="370"><p> For the above reasons we were able to
+
+lift our heads above water to some extent but the other circumstances alarmed us in our trepidation and suspense as to what he would decide, what verdict he would declare, on what grounds the judgement would be given. For had a hearing been given to our case by him who heard some points only to misunderstand?
+<note n="10.185.b">Balsdon, who translates (p. 161) “for he heard our case though he paid no attention to some of the facts,” whence he infers that Philo is compelled to admit that Gaius gave a hearing to the Jewish arguments, is, I think, certainly wrong. The question mark appended both by Mangey and Reiter is necessitated by ὅς, which cannot bear the sense which Balsdon gives it.</note>
+  Surely it was a cruel situation that the fate of all the Jews everywhere should rest precariously on us five envoys.</p></div>
+
+<div type="textpart" subtype="section" n="371"><p> For if he should
+
+decide in favour of our enemies, what other city will keep tranquil or refrain from attacking its fellow inhabitants, what house of prayer will be left unscathed, what kind of civic rights will not be upset for those whose lot is cast under the ancient institutions of the Jews? First upset, then shipwrecked, then sunk to the very bottom will be both their peculiar laws and the rights which they enjoy in common in every city.</p></div>
+
+<div type="textpart" subtype="section" n="372"><p> Waterlogged by such considerations
+
+we were dragged down and submerged in the depths, for those who hitherto seemed to be acting with us gave up. At least when we were summoned
+<note n="10.185.c">Or perhaps “when we called upon them,” which gives better sense, though with poorer grammar, cf. note on § 221.</note>
+  they did not stay in and hold their ground but slunk away in fear, knowing full well
+
+
+<pb n="187"/>
+
+the longing which he cherished for being acknowledged as a god.
+</p></div>
+
+<div type="textpart" subtype="section" n="373"><p><milestone unit="para"/>So now I have told in a summary way the cause
+
+of the enmity which Gaius had for the whole nation of the Jews, but I must also describe the palinode.
+<note n="10.187.a">“Counter-story” or “reversal.” Presumably this gave an account of Gaius’s death and probably also the change of policy adopted by Claudius, as shown in the two edicts recorded by Josephus, <hi rend="italic">Ant.</hi> xix. 5. If, that is, it was ever written, for it is curious that Eusebius in his brief notice of the <hi rend="italic">Legatio,</hi> see Introd. pp. xvii, shows no knowledge of it. But the word is an odd one, for though Philo uses παλινῳδεῖν=“repeat” in <hi rend="italic">De Mut.</hi> 53, the noun itself is only cited in the sense of recantation. <hi rend="italic">Cf.</hi> in Philo himself <hi rend="italic">De Post.</hi> 179, <hi rend="italic">De Som.</hi> ii. 232. The only sense in which the story of these events would be a recantation would be that it would force the doubters of providence to recant. I think παλινοδία, said by Suidas to=ἐναντία ὁδός, would be a more natural word.</note>
+
+
+</p></div></div></body></text></TEI>
